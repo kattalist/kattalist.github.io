@@ -1,7 +1,7 @@
 ﻿<html>
 <head>
   <title>Stirrings in Goldport</title>
-  <link rel="icon" type="image/x-icon" href="/sets/sgp-files/icon.png">
+  <link rel="icon" type="image/x-icon" href="/sets/SGP-files/icon.png">
   <link rel="stylesheet" href="/resources/mana.css">
   <link rel="stylesheet" href="/resources/header.css">
   <link rel="stylesheet" href="/resources/card-text.css">
@@ -301,8 +301,8 @@
 	<div class="banner">
 		<div class="banner-container">
 			<div class="set-banner" id="set-banner">
-				<img class="set-logo" src="/sets/sgp-files/icon.png">
-				<div class="set-title">Stirrings in Goldport</div><div class="dot"> • </div><a href="/sets/sgp-files/sgp-draft.txt" download>Draft</a>
+				<img class="set-logo" src="/sets/SGP-files/icon.png">
+				<div class="set-title">Stirrings in Goldport</div><div class="dot"> • </div><a href="/sets/SGP-files/SGP-draft.txt" download>Draft</a>
 		<div class="dot"> • </div><a onclick="packOnePickOne()">P1P1</a>
 		</div>
 
@@ -359,7 +359,7 @@
 				card_list_arrayified = card_list.cards;
 
 
-			await fetch('/sets/sgp-files/sgp-draft.txt')
+			await fetch('/sets/SGP-files/SGP-draft.txt')
 				.then(response => response.text())
 				.then(text => {
 					draft_file = text.replace(/},\n\t]/g, '}\n\t]');
@@ -369,7 +369,7 @@
       
 			for (let i = 0; i < card_list_arrayified.length; i++)
 			{
-				if (card_list_arrayified[i].set == "sgp")
+				if (card_list_arrayified[i].set == "SGP")
 				{
 					set_list_arrayified.push(card_list_arrayified[i]);
 				}
