@@ -162,7 +162,7 @@
         "set": "sgp"
     },
     {
-        "card_name": "CB06",
+        "card_name": "CB06 Lamplight Stalker",
         "number": 47,
         "shape": "normal",
         "set": "sgp"
@@ -559,25 +559,25 @@
         "set": "sgp"
     },
     {
-        "card_name": "UZ02",
+        "card_name": "UZ02 Afflict Thought",
         "number": 97,
         "shape": "normal",
         "set": "sgp"
     },
     {
-        "card_name": "UZ03",
+        "card_name": "UZ03 Obsessive Ritualist",
         "number": 98,
         "shape": "normal",
         "set": "sgp"
     },
     {
-        "card_name": "UZ04",
+        "card_name": "UZ04 Restless Summoners",
         "number": 99,
         "shape": "normal",
         "set": "sgp"
     },
     {
-        "card_name": "UZ05",
+        "card_name": "UZ05 Oathbound Stalwart",
         "number": 100,
         "shape": "normal",
         "set": "sgp"
@@ -598,32 +598,32 @@
         "card_name": "er"
     },
     {
-        "card_name": "UZ06",
+        "card_name": "UZ06 Paid Off",
         "number": 101,
         "shape": "normal",
         "set": "sgp"
     },
     {
-        "card_name": "UZ07",
+        "card_name": "UZ07 Admired Aeronaut",
+        "number": 105,
+        "shape": "normal",
+        "set": "sgp"
+    },
+    {
+        "card_name": "UZ08 Sludge Trawler",
         "number": 102,
         "shape": "normal",
         "set": "sgp"
     },
     {
-        "card_name": "UZ08",
+        "card_name": "UZ09 Stormqueller Galleon",
         "number": 103,
         "shape": "normal",
         "set": "sgp"
     },
     {
-        "card_name": "UZ09",
+        "card_name": "UZ10 Lantha, Task Force Sergeant",
         "number": 104,
-        "shape": "normal",
-        "set": "sgp"
-    },
-    {
-        "card_name": "UZ10",
-        "number": 105,
         "shape": "normal",
         "set": "sgp"
     },
@@ -762,6 +762,24 @@
         "number": 116,
         "shape": "normal",
         "set": "sgp"
+    },
+    {
+        "card_name": "SL06 Wastes",
+        "number": 117,
+        "shape": "normal",
+        "set": "sgp"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"

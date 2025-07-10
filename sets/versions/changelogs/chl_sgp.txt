@@ -1,4 +1,84 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+CB06 Lamplight Stalker added.
+UZ02 Afflict Thought added.
+UZ03 Obsessive Ritualist added.
+UZ04 Restless Summoners added.
+UZ05 Oathbound Stalwart added.
+UZ06 Paid Off added.
+UZ09 Stormqueller Galleon added.
+UZ08 Sludge Trawler added.
+UZ07 Admired Aeronaut added.
+UZ10 Lantha, Task Force Sergeant added.
+
+CB06 removed.
+UZ02 removed.
+UZ03 removed.
+UZ04 removed.
+UZ05 removed.
+UZ06 removed.
+UZ07 removed.
+UZ08 removed.
+UZ09 removed.
+UZ10 removed.
+
+CW03 Startouched Devout
+rules_text: When Startouched Devout enters the battlefield, put a +1/+1 counter on target creature.
+{1}{C}, {T}: Fragment Startouched Devout. [i](Create a token that's a copy of it, then put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => When Startouched Devout enters the battlefield, put a +1/+1 counter on target creature.
+{1}{C}, {T}: Fragment Startouched Devout. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+
+CU06 Startouched Analyst
+rules_text: When Startouched Analyst enters the battlefield, draw a card.
+{1}{C}, {T}: Fragment Startouched Analyst. [i](Create a token that's a copy of it, then put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => When Startouched Analyst enters the battlefield, draw a card.
+{1}{C}, {T}: Fragment Startouched Analyst. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+
+CU10 Eldritch Command
+rules_text: Choose one —
+• Counter target spell unless its controller pays {2}.
+• Fragment target creature. [i](Create a token that's a copy of it, then put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => Choose one —
+• Counter target spell unless its controller pays {2}.
+• Fragment target creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+
+CB10 Startouched Assassin
+rules_text: When Startouched Assassin enters the battlefield, each opponent loses 3 life and you gain 3 life.
+{1}{C}, {T}: Fragment Startouched Assassin. [i](Create a token that's a copy of it, then put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => When Startouched Assassin enters the battlefield, each opponent loses 3 life and you gain 3 life.
+{1}{C}, {T}: Fragment Startouched Assassin. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+
+CR07 Startouched Blitzer
+rules_text: When Startouched Blitzer enters the battlefield, it deals damage to any target equal to its power.
+{1}{C}, {T}: Fragment Startouched Blitzer. [i](Create a token that's a copy of it, then put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => When Startouched Blitzer enters the battlefield, it deals damage to any target equal to its power.
+{1}{C}, {T}: Fragment Startouched Blitzer. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+
+CG03 Startouched Arborist
+rules_text: When Startouched Arborist enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{1}{C}, {T}: Fragment Startouched Arborist. [i](Create a token that's a copy of it, then put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => When Startouched Arborist enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{1}{C}, {T}: Fragment Startouched Arborist. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+
+CG07 World Whisperer
+rules_text: When World Whisperer dies, put a deathtouch counter on target creature with power and toughness 1.
+{5}{C}, {T}: Fragment target creature. [i](Create a token that's a copy of it, then put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => When World Whisperer dies, put a deathtouch counter on target creature with power and toughness 1.
+{5}{C}, {T}: Fragment target creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+
+CG14
+rules_text: Fragment target creature with flying or reach. [i](Create a token that's a copy of it, then put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => Fragment target creature with flying or reach. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+
+CG16 Donnybrook
+
+CA04 Unmake
+rules_text: Fragment target creature. [i](Create a token that's a copy of it, then put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => Fragment target creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+
+UZ01 Splintering Edict
+rules_text: Choose one. If {C} was paid to cast this spell, choose two —
+• You draw two cards and gain 2 life.
+• Fragment up to two target creatures with total mana value 6 or less.
+• Counter target spell. => Choose one. If {C}{C} was paid to cast this spell, instead choose two —
+• You draw two cards and gain 2 life.
+• Fragment up to two target creatures with total mana value 6 or less.
+• Counter target spell.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

@@ -468,13 +468,13 @@
 			}
 		},
 		{
-			"name": "CB06",
+			"name": "CB06 Lamplight Stalker",
 			"rarity": "common",
 			"mana_cost": "{1}{B}{B}",
-			"type": "Creature",
+			"type": "Creature — Nightmare Horror",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/sgp-files/img/47_CB06.png"
+				"en": "https://kattalist.github.io/sets/sgp-files/img/47_CB06 Lamplight Stalker.png"
 			}
 		},
 		{
@@ -1098,93 +1098,103 @@
 			}
 		},
 		{
-			"name": "UZ02",
+			"name": "UZ02 Afflict Thought",
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
-			"type": "",
+			"type": "Sorcery",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/sgp-files/img/97_UZ02.png"
+				"en": "https://kattalist.github.io/sets/sgp-files/img/97_UZ02 Afflict Thought.png"
 			}
 		},
 		{
-			"name": "UZ03",
+			"name": "UZ03 Obsessive Ritualist",
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
-			"type": "Creature",
+			"type": "Creature — Human Cultist",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/sgp-files/img/98_UZ03.png"
+				"en": "https://kattalist.github.io/sets/sgp-files/img/98_UZ03 Obsessive Ritualist.png"
 			}
 		},
 		{
-			"name": "UZ04",
+			"name": "UZ04 Restless Summoners",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}{G}",
-			"type": "Creature",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Zombie Cultist",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/sgp-files/img/99_UZ04.png"
+				"en": "https://kattalist.github.io/sets/sgp-files/img/99_UZ04 Restless Summoners.png"
 			}
 		},
 		{
-			"name": "UZ05",
+			"name": "UZ05 Oathbound Stalwart",
 			"rarity": "uncommon",
-			"mana_cost": "{G}{W}",
-			"type": "Creature",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Soldier",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/sgp-files/img/100_UZ05.png"
+				"en": "https://kattalist.github.io/sets/sgp-files/img/100_UZ05 Oathbound Stalwart.png"
 			}
 		},
 		{
-			"name": "UZ06",
+			"name": "UZ06 Paid Off",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
-			"type": "",
+			"type": "Enchantment — Aura",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/sgp-files/img/101_UZ06.png"
+				"en": "https://kattalist.github.io/sets/sgp-files/img/101_UZ06 Paid Off.png"
 			}
 		},
 		{
-			"name": "UZ07",
+			"name": "UZ09 Stormqueller Galleon",
 			"rarity": "uncommon",
-			"mana_cost": "{U}{R}",
+			"mana_cost": "{1}{R}{W}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "102",
-			"image_uris": {
-				"en": "https://kattalist.github.io/sets/sgp-files/img/102_UZ07.png"
-			}
-		},
-		{
-			"name": "UZ08",
-			"rarity": "uncommon",
-			"mana_cost": "{B}{G}",
-			"type": "",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/sgp-files/img/103_UZ08.png"
+				"en": "https://kattalist.github.io/sets/sgp-files/img/103_UZ09 Stormqueller Galleon.png"
 			}
 		},
 		{
-			"name": "UZ09",
+			"name": "UZ08 Sludge Trawler",
 			"rarity": "uncommon",
-			"mana_cost": "{R}{W}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "104",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Eldrazi Horror",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/sgp-files/img/104_UZ09.png"
+				"en": "https://kattalist.github.io/sets/sgp-files/img/102_UZ08 Sludge Trawler.png"
 			}
 		},
 		{
-			"name": "UZ10",
+			"name": "UZ07 Admired Aeronaut",
 			"rarity": "uncommon",
-			"mana_cost": "{G}{U}",
-			"type": "",
+			"mana_cost": "{U/R}",
+			"type": "Creature — Human Pilot",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/sgp-files/img/105_UZ10.png"
+				"en": "https://kattalist.github.io/sets/sgp-files/img/105_UZ07 Admired Aeronaut.png"
+			}
+		},
+		{
+			"name": "UZ10 Lantha, Task Force Sergeant",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Human Detective",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/sgp-files/img/104_UZ10 Lantha, Task Force Sergeant.png"
+			}
+		},
+		{
+			"name": "SL06 Wastes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/sgp-files/img/117_SL06 Wastes.png"
 			}
 		}
 	]
@@ -1192,15 +1202,15 @@
 [rare(1)]
 [uncommon(3)]
 	4 UZ01 Splintering Edict
-	4 UZ02
-	4 UZ03
-	4 UZ04
-	4 UZ05
-	4 UZ06
-	4 UZ07
-	4 UZ08
-	4 UZ09
-	4 UZ10
+	4 UZ02 Afflict Thought
+	4 UZ03 Obsessive Ritualist
+	4 UZ04 Restless Summoners
+	4 UZ05 Oathbound Stalwart
+	4 UZ06 Paid Off
+	4 UZ09 Stormqueller Galleon
+	4 UZ08 Sludge Trawler
+	4 UZ07 Admired Aeronaut
+	4 UZ10 Lantha, Task Force Sergeant
 [common(7)]
 	8 CW01 Volunteer Firewatch
 	8 CW02
@@ -1243,7 +1253,7 @@
 	8 CB03
 	8 CB04
 	8 CB05
-	8 CB06
+	8 CB06 Lamplight Stalker
 	8 CB07
 	8 CB08
 	8 CB09
@@ -1345,7 +1355,7 @@
 	12 CB03
 	12 CB04
 	12 CB05
-	12 CB06
+	12 CB06 Lamplight Stalker
 	12 CB07
 	12 CB08
 	12 CB09
@@ -1406,15 +1416,15 @@
 	12 CA10 Corrupted Hedron
 	12 CA11
 	6 UZ01 Splintering Edict
-	6 UZ02
-	6 UZ03
-	6 UZ04
-	6 UZ05
-	6 UZ06
-	6 UZ07
-	6 UZ08
-	6 UZ09
-	6 UZ10
+	6 UZ02 Afflict Thought
+	6 UZ03 Obsessive Ritualist
+	6 UZ04 Restless Summoners
+	6 UZ05 Oathbound Stalwart
+	6 UZ06 Paid Off
+	6 UZ09 Stormqueller Galleon
+	6 UZ08 Sludge Trawler
+	6 UZ07 Admired Aeronaut
+	6 UZ10 Lantha, Task Force Sergeant
 [wildcard(1)]
 	6 CW01 Volunteer Firewatch
 	6 CW02
@@ -1457,7 +1467,7 @@
 	6 CB03
 	6 CB04
 	6 CB05
-	6 CB06
+	6 CB06 Lamplight Stalker
 	6 CB07
 	6 CB08
 	6 CB09
@@ -1518,12 +1528,12 @@
 	6 CA10 Corrupted Hedron
 	6 CA11
 	15 UZ01 Splintering Edict
-	15 UZ02
-	15 UZ03
-	15 UZ04
-	15 UZ05
-	15 UZ06
-	15 UZ07
-	15 UZ08
-	15 UZ09
-	15 UZ10
+	15 UZ02 Afflict Thought
+	15 UZ03 Obsessive Ritualist
+	15 UZ04 Restless Summoners
+	15 UZ05 Oathbound Stalwart
+	15 UZ06 Paid Off
+	15 UZ09 Stormqueller Galleon
+	15 UZ08 Sludge Trawler
+	15 UZ07 Admired Aeronaut
+	15 UZ10 Lantha, Task Force Sergeant
