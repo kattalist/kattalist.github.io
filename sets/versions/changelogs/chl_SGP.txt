@@ -1,4 +1,268 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+99CW Steelsuit Adept added.
+CW02 Startouched Devout added.
+CW03 Tireless Iterator added.
+CW04 Pedigree Collector added.
+99CW Port Constable added.
+CW06 East District Brute added.
+CW07 Aerial Enforcer added.
+CW08 Mournful Matriarch added.
+CW09 Zaila's Willbender added.
+CW10 Opalwing Cavalry added.
+CW05 Upgrade the Force added.
+CW11 Sundering Strike added.
+CW12 Take to the Skies added.
+CW13 Bring Malfunction added.
+99CW Magistrate's Censure added.
+99CW added.
+CW14 Oligarch's Supercar added.
+99CU added.
+99CU added.
+CU05 Startouched Analyst added.
+CU06 added.
+99CU Occult Crackdown added.
+CU09 Eldritch Command added.
+CU08 Pass Unscathed added.
+99CU added.
+CU11 Impart Knowledge added.
+CU10 added.
+99CU added.
+CU14 Zephyr Piercer added.
+CB02 Luxuries Merchant added.
+99CB added.
+CB05 Lamplight Stalker added.
+CB06 Paradigm Enforcer added.
+CB07 Vault Bandits added.
+CB08 Brethren Trio added.
+CB09 Startouched Assassin added.
+99CB Too Quiet added.
+CB10 added.
+CB12 Learn From Loss added.
+CB13 added.
+99CB added.
+99CB added.
+CB14 Nightgrasp added.
+CA08 Arcwhip Emitter added.
+Cultist added.
+
+CW02 removed.
+CW03 Startouched Devout removed.
+CW04 removed.
+CW05 removed.
+CW06 removed.
+CW07 removed.
+CW08 removed.
+CW09 removed.
+CW10 removed.
+CW11 Opalwing Cavalry removed.
+CW12 Upgrade the Force removed.
+CW13 removed.
+CW14 removed.
+CW15 removed.
+CW16 Magistrate's Censure removed.
+CW17 removed.
+CW18 removed.
+CU05 removed.
+CU06 Startouched Analyst removed.
+CU08 removed.
+CU09 removed.
+CU10 Eldritch Command removed.
+CU11 Pass Unscathed removed.
+CU14 removed.
+CU15 removed.
+CU16 removed.
+CU17 removed.
+CU18 Zephyr Piercer removed.
+CB02 removed.
+CB05 removed.
+CB06 Lamplight Stalker removed.
+CB07 removed.
+CB08 removed.
+CB09 removed.
+CB10 Startouched Assassin removed.
+CB13 Too Quiet removed.
+CB12 removed.
+CB14 removed.
+CB15 removed.
+CB16 removed.
+CB17 removed.
+CB18 Nightgrasp removed.
+CA08 removed.
+
+CW01 Volunteer Firewatch
+
+CU01
+rules_text: Flash
+When CU01 enters, target player mills the top card of their library. => Whenever CU01 crews a Vehicle, scry 2.
+{3}{U}: Untap CU01.
+pt: 1/2 => 1/1
+
+CU02
+rules_text: Whenever CU02 crews a Vehicle, scry 2.
+{3}{U}: Untap CU02. => Whenever you cast a colorless spell for the first time each turn, you may draw a card. If you do, discard a card.
+pt: 2/1 => 1/2
+
+CU03
+cost: {1}{U} => {2}{U}
+rules_text: Whenever you cast a spell, if that spell had {C} in its mana cost, you may draw a card. If you do, discard a card. => Flying, hexproof
+{2}{U}, {T}: Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+pt: 1/2 => 2/1
+
+CU07
+cost: {3}{U}{U} => {5}{U}
+rules_text: When CU07 enters, tap target creature and put a stun counter on it. If you paid {C} to cast this spell, put two stun counters on it instead. => When the void calls, transform CU07. [i](The void calls when the third card enters exile and/or your graveyard each turn.)[/i]
+pt: 3/3 => 3/8
+
+CU12
+type: Instant => Enchantment — Aura
+cost: {3}{U} => {1}{U}
+rules_text: Exile up to two target creatures or artifacts you control, then return them to the battlefield under their owner's control.
+Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => Enchant creature
+Enchanted creature is a colorless Clue artifact with “{2}, Sacrifice this artifact: Draw a card.” It loses all other card types, creature types, and abilities.
+
+CU13
+type: Sorcery => Artifact — Vehicle
+rules_text: Draw two cards. Untap up to one target artifact. => Flash
+Creatures that crewed CU13 this turn have hexproof.
+Crew 1
+pt:  => 4/4
+
+CB01
+
+CB03
+
+CB04
+
+CB11 Succumb
+
+Eldrazi Scion
+
+CR01
+
+CR02 Hotwire Prodigy
+
+CR03
+
+CR04
+
+CR05
+rules_text: When CR05 enters, create a tapped Treasure token.
+Whenever you expend 4, target creature gets +2/+1 and gains menace until end of turn. [i](You expend 4 as you spend your fourth total mana to cast spells during a turn.)[/i] => When CR05 enters, create a tapped Treasure token.
+CR05 gets +2/+1 and has menace if you've cast a spell with mana value 4 or greater this turn.
+pt: 2/2 => 2/1
+
+CR06
+
+CR07 Startouched Blitzer
+type: Creature — Horror => Creature — Human Horror
+
+CR08
+
+CR09
+
+CR11 Rend in Flame
+
+CR12
+
+CR10 Rev
+
+CR13
+
+CR14
+
+CR15
+
+CR16 Mark of the Eye
+
+CR17
+
+CR18 Task Force Hotrod
+rules_text: Autopilot {1}{R} [i](You may pay a Vehicle's autopilot cost instead of crewing it.)[/i]
+Task Force Hotrod gets +1/+1 and has menace if it wasn't crewed this turn.
+Crew 1 => Autopilot {1}{R} [i](You may pay a Vehicle's autopilot cost instead of crewing it.)[/i]
+Task Force Hotrod gets +2/+2 and has menace if it wasn't crewed this turn.
+Crew 1
+
+CG01
+
+CG02
+
+CG03 Startouched Arborist
+
+CG04
+
+CG05
+
+CG06
+
+CG07 World Whisperer
+
+CG08
+
+CG09
+
+CG10
+
+CG11
+
+CG12 A Rumble In The Deep
+
+CG13
+
+CG15
+
+CG14
+
+CG16 Donnybrook
+
+CG17
+
+CG18
+
+CA04 Unmake
+rules_text: Fragment target creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => Fragment target creature. [i](Its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+
+CA06
+
+CA07
+
+CA09
+
+CA10 Corrupted Hedron
+
+CA11
+
+UZ01 Splintering Edict
+
+UZ02 Afflict Thought
+
+UZ03 Obsessive Ritualist
+
+UZ04 Restless Summoners
+rules_text: {T}: Add one mana of any type. Until end of turn, when you expend 4, untap Restless Summoners. [i](The types of mana are {C}, {W}, {U}, {B}, {R}, and {G}.)[/i] => {T}: Add one mana of any type. When you next cast a spell with mana value 4 or greater this turn, untap Restless Summoners. [i](The types of mana are {C}, {W}, {U}, {B}, {R}, and {G}.)[/i]
+
+UZ05 Oathbound Stalwart
+
+UZ06 Paid Off
+
+UZ09 Stormqueller Galleon
+
+UZ08 Sludge Trawler
+
+UZ07 Admired Aeronaut
+
+UZ10 Lantha, Task Force Sergeant
+
+CU04
+cost: {1}{U} => {2}{U}
+rules_text: {T}: Add {C}. Spend this mana only to cast Vehicle spells or activate abilities of Vehicles. => Vigilance
+{1}{U}, {T}, Sacrifice this creature and another colorless nonland permanent: Counter target spell.
+pt: 1/2 => 1/1
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
