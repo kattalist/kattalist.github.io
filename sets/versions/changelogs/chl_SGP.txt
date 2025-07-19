@@ -1,4 +1,262 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+CU01 Intrepid Aviator added.
+CU02 Diviner of Relics added.
+CU03 Task Force Operatives added.
+CU06 Winterfell Walker added.
+CU07 Mastbreaker added.
+CU10 Taken By The Storm added.
+CU12 Hedron Imprisonment added.
+CU13 Duchy Flagship added.
+CB01 Herald of the End added.
+CB03 Bloodsworn Subjugator added.
+CB04 Sanguine Suppressor added.
+CB05 Lantern Stalker added.
+CB13 Succumb added.
+CB10 Harrowing Transformation added.
+CB11 Learn From Loss added.
+CB12 Compelled to Die added.
+CR02 Eyekissed Invoker added.
+CR01 Hotwire Prodigy added.
+99CR added.
+CR03 Steelsuit Consultant added.
+CR04 Colossus Showman added.
+CR05 Magma Scribe added.
+CR06 Startouched Blitzer added.
+CR08 Spire Defender added.
+CR09 Crag Prowler added.
+CR07 Igneous Uprising added.
+99CR added.
+CR10 In Eldritch Flame added.
+CR11 Commune with Silence added.
+CR12 Pyre added.
+99CR added.
+99CR Mark of the Eye added.
+CR13 Incendiary Charger added.
+CR14 Task Force Hotrod added.
+CG01 Wreckage Inquisitors added.
+99CG added.
+CG05 Startouched Arborist added.
+CG03 Deathrite Mystic added.
+CG04 First Responders added.
+CG08 Streetway Incursion added.
+CG06 World Whisperer added.
+CG07 Hirehand Gunner added.
+CG02 Verge Drifter added.
+CG09 Starbreaker Juvenile added.
+CG10 Barksplitter Colossus added.
+99CG Ancient Stirrings added.
+CG11 A Hole in the Sky added.
+CG13 Blooming Overgrowth added.
+99CG added.
+CG12 Donnybrook added.
+99CG added.
+CG14 Unethical Enhancements added.
+CA01 Chrysalis of Flesh added.
+CA02 Voices of the Severed added.
+CA03 Old Ones Envoy added.
+CA05 Thin the Veil added.
+CA06 Portmaster's Firearm added.
+CA07 Obsidian Reliquary added.
+CA09 Pine Blitzer added.
+CA11 Steelform Willshaper added.
+CU04 Ravenfolk Adept added.
+UZ11 Black Site Enhancer added.
+UZ12 Voidwing Kite added.
+UZ13 Soulsiphon Initiate added.
+UZ14 Voice of the Roaring Wind added.
+UZ15 In Strength Entwined added.
+UZ16 Karsten, the Spinner added.
+UZ17 Smuggler's Hovercar added.
+UZ18 Ravaged Eviscerator added.
+UZ19 Pulverizing Helix added.
+UZ20 Adaptive Agent added.
+99RZ added.
+
+CU01 removed.
+CU02 removed.
+CU03 removed.
+CU06 removed.
+CU07 removed.
+CU10 removed.
+CU12 removed.
+CU13 removed.
+CB01 removed.
+CB03 removed.
+CB04 removed.
+CB05 Lamplight Stalker removed.
+CB11 Succumb removed.
+CB10 removed.
+CB12 Learn From Loss removed.
+CB13 removed.
+CR01 removed.
+CR02 Hotwire Prodigy removed.
+CR03 removed.
+CR04 removed.
+CR05 removed.
+CR06 removed.
+CR07 Startouched Blitzer removed.
+CR08 removed.
+CR09 removed.
+CR11 Rend in Flame removed.
+CR12 removed.
+CR10 Rev removed.
+CR13 removed.
+CR14 removed.
+CR15 removed.
+CR16 Mark of the Eye removed.
+CR17 removed.
+CR18 Task Force Hotrod removed.
+CG01 removed.
+CG02 removed.
+CG03 Startouched Arborist removed.
+CG04 removed.
+CG05 removed.
+CG06 removed.
+CG07 World Whisperer removed.
+CG08 removed.
+CG09 removed.
+CG10 removed.
+CG11 removed.
+CG12 A Rumble In The Deep removed.
+CG13 removed.
+CG15 removed.
+CG14 removed.
+CG16 Donnybrook removed.
+CG17 removed.
+CG18 removed.
+CA01 removed.
+CA02 removed.
+CA03 removed.
+CA05 removed.
+CA06 removed.
+CA07 removed.
+CA09 removed.
+CA11 removed.
+CU04 removed.
+
+CW02 Startouched Devout
+rules_text: When Startouched Devout enters the battlefield, put a +1/+1 counter on target creature.
+{1}{C}, {T}: Fragment Startouched Devout. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => When Startouched Devout enters, put a +1/+1 counter on target creature.
+{1}{C}, {T}: Fragment Startouched Devout. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+
+CW03 Tireless Iterator
+rules_text: At the beginning of combat on your turn, up to one artifact or colorless creature you control gains lifelink until end of turn. => At the beginning of combat on your turn, up to one target artifact or colorless creature you control gains lifelink until end of turn.
+
+CW04 Pedigree Collector
+rules_text: When Pedigree Collector enters, create a 1/1 white Dog creature token.
+[i]United [/i]— Whenever this creature attacks with two or more tokens, you may give one of those tokens first strike until end of turn. => When Pedigree Collector enters, create a 1/1 white Dog creature token.
+[i]United [/i]— Whenever this creature attacks with two or more tokens, target attacking creature gains first strike until end of turn.
+
+CW06 East District Brute
+rules_text: Vigilance
+{1}{W}, {T}: Tap target creature. If {C} was used to pay this cost, put a stun counter on it. => Vigilance
+{3}{W}, {T}: Tap target creature. If {C} was paid, put a stun counter on it.
+
+CW07 Aerial Enforcer
+rules_text: Flying
+Whenever an opponent loses life for the first time each turn, if it's not your combat phase, Aerial Enforcer gets +1/+1 until end of turn. => Flying
+Whenever an opponent loses life for the first time each turn, Aerial Enforcer gets +1/+1 until end of turn.
+
+CW12 Take to the Skies
+rules_text: Untap target creature. It gets +1/+1 and gains flying until end of turn. If it's a Vehicle, it gets an additional +1/+1. => Untap target creature. It gets +2/+2 and gains flying until end of turn. If it's a Vehicle, it gets an additional +1/+1 until end of turn.
+
+CW14 Oligarch's Supercar
+
+99CU
+
+99CU
+
+CU05 Startouched Analyst
+rules_text: When Startouched Analyst enters the battlefield, draw a card.
+{1}{C}, {T}: Fragment Startouched Analyst. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => When Startouched Analyst enters, draw a card.
+{1}{C}, {T}: Fragment Startouched Analyst. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+pt: 2/3 => 3/2
+
+CU09 Eldritch Command
+rules_text: Choose one —
+• Counter target spell unless its controller pays {2}.
+• Fragment target creature. [i](Its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => Devoid [i](This card has no color.)[/i]
+Choose one —
+• Counter target spell unless its controller pays {2}.
+• Fragment target creature. [i](Its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+
+CU08 Pass Unscathed
+rules_text: Target creature gets +1/-1 and can't be blocked this turn.
+Draw a card. => Target creature gets +1/+0 until end of turn and can't be blocked this turn.
+Draw a card.
+
+99CU
+
+CU11 Impart Knowledge
+cost: {1}{U} => {2}{U}
+rules_text: Draw two cards, then discard a card unless you control a Clue. => Look at the top four cards of your library. Put two of them into your hand and the rest into your graveyard.
+
+99CU
+
+CB02 Luxuries Merchant
+rules_text: Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i] => Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+Exile this card from your graveyard: Target opponent loses 1 life and you gain 1 life.
+
+CB07 Vault Bandits
+
+CB08 Brethren Trio
+rules_text: When Brethren Trio enters, create two black 1/1 Cultist creature tokens with “When this creature is sacrificed, target player mills the top card of their library.” => When Brethren Trio enters, create two black 1/1 Cultist creature tokens with “Sacrifice this creature: Target player mills a card. Activate only as a sorcery.”
+
+CB14 Nightgrasp
+rules_text: Enchant creature
+Enchanted creature gets -2/-2.
+When the void calls, enchanted creature gets -4/-4 until end of turn. [i](The void calls when the third card enters exile and/or your graveyard each turn.)[/i] => Enchant creature
+Enchanted creature gets -2/-2. If the void called this turn, enchanted creature instead gets -6/-6.
+
+Eldrazi Scion
+
+The Void Calls
+rules_text: The void calls when the third card enters exile and/or your graveyard each turn. => Once on each of your turns, the void calls when a card enters your graveyard from your hand or library.
+
+CA08 Arcwhip Emitter
+
+CA10 Corrupted Hedron
+
+UZ01 Splintering Edict
+
+UZ02 Afflict Thought
+
+UZ03 Obsessive Ritualist
+rules_text: When Obsessive Ritualist enters, exile the top card of your library. Until end of turn, you may play that card.
+As long as the void called this turn, Obsessive Ritualist gets +1/+1 and has deathtouch and haste. => When Obsessive Ritualist enters, you may pay {1} and discard a card. If you do, draw a card.
+As long as the void called this turn, Obsessive Ritualist gets +1/+1 and has deathtouch and haste.
+
+UZ04 Restless Summoners
+
+UZ05 Oathbound Stalwart
+rules_text: Whenever a creature enters the battlefield under your control, if it's a token, put a +1/+1 counter on it.
+[i]United [/i]— Whenever this creature attacks with two or more tokens, create a 1/1 white Human Soldier creature token. => Vigilance
+[i]United [/i]— Whenever this creature enters or attacks with two or more tokens, create a 1/1 white Human Soldier creature token.
+pt: 2/2 => 3/2
+
+UZ06 Paid Off
+
+UZ09 Stormqueller Galleon
+
+UZ08 Sludge Trawler
+
+UZ07 Admired Aeronaut
+rules_text: Admired Aeronaut crews Vehicles as though its power were 2 greater.
+Whenever you cast a spell that targets a Vehicle crewed by Admired Aeronaut, you may pay {U}{R}. If you do, copy that spell. You may choose new targets for the copy. => Flying
+Whenever you cast a spell that targets a Vehicle attacking with or crewed by Admired Aeronaut, you may pay {U}{R}. If you do, copy that spell. You may choose new targets for the copy.
+
+UZ10 Lantha, Task Force Sergeant
+rules_text: Activated abilities of artifacts you control cost {1} less to activate. This effect can't reduce the amount of mana you pay to activate an ability to less than one mana.
+Whenever you draw your second card each turn, put a +1/+1 counter or a trample counter on target creature you control. => Activated abilities of artifacts you control cost {1} less to activate. This effect can't reduce the amount of mana you pay to activate an ability to less than one mana.
+{2}, {T}: Investigate.
+
+Cultist
+rules_text: When this creature is sacrificed, target player mills the top card of their library. => Sacrifice this creature: Target player mills a card. Activate only as a sorcery.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 99CW Steelsuit Adept added.
