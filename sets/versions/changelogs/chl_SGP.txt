@@ -1,4 +1,261 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+UB01 Shingle Trawler added.
+UB02 Karsten's Enforcer added.
+UB03 Festering Eyemass added.
+UB04 Flesh Shredder added.
+UB05 Corpse Inspectors added.
+UB06 Epitaph Lurkers added.
+UB07 Brethren Priestess added.
+UB14 Indoctrination added.
+UB08 Outlands Predator added.
+UB11 Acolyte's Torment added.
+UB13 Channel the Dark added.
+
+UB01 removed.
+UB02 removed.
+UB03 removed.
+UB04 removed.
+UB05 removed.
+UB06 removed.
+UB07 removed.
+UB14 removed.
+UB08 removed.
+UB11 removed.
+UB13 removed.
+
+CW01 Volunteer Firewatch
+
+CW02 Startouched Devout
+
+CW03 Tireless Iterator
+
+CW04 Pedigree Collector
+
+CW06 East District Brute
+
+CW07 Aerial Enforcer
+
+CW08 Mournful Matriarch
+
+CW09 Zaila's Willbender
+
+CW10 Opalwing Cavalry
+
+CW05 Upgrade the Force
+
+CW11 Sundering Strike
+
+CW12 Take to the Skies
+
+CW13 Bring Malfunction
+
+CW14 Oligarch's Supercar
+
+CU01 Intrepid Aviator
+
+CU02 Diviner of Relics
+
+CU03 Task Force Operatives
+
+CU05 Startouched Analyst
+
+CU06 Winterfell Walker
+
+CU07 Mastbreaker
+
+CU09 Eldritch Command
+
+CU08 Pass Unscathed
+
+CU11 Impart Knowledge
+
+CU10 Taken By The Storm
+
+CU12 Hedron Imprisonment
+
+CU13 Duchy Flagship
+
+CU14 Zephyr Piercer
+
+CB01 Herald of the End
+
+CB02 Luxuries Merchant
+
+CB03 Bloodsworn Subjugator
+
+CB04 Sanguine Suppressor
+
+CB05 Lantern Stalker
+
+CB06 Paradigm Enforcer
+
+CB07 Vault Bandits
+
+CB08 Brethren Trio
+
+CB09 Startouched Assassin
+
+CB13 Succumb
+
+CB10 Harrowing Transformation
+
+CB11 Learn From Loss
+
+CB12 Compelled to Die
+
+CB14 Nightgrasp
+
+CR02 Eyekissed Invoker
+
+CR01 Hotwire Prodigy
+
+CR03 Steelsuit Consultant
+
+CR04 Colossus Showman
+
+CR05 Magma Scribe
+
+CR06 Startouched Blitzer
+
+CR08 Spire Defender
+
+CR09 Crag Prowler
+
+CR07 Igneous Uprising
+
+CR10 In Eldritch Flame
+
+CR11 Commune with Silence
+
+CR12 Pyre
+
+CR13 Incendiary Charger
+
+CR14 Task Force Hotrod
+
+CU04 Ravenfolk Adept
+
+UW01 Sky Force Retiree
+
+UW02 Scape Surveyor
+
+UW03 Skyiron Shaper
+
+UW04 Thousand-Mind Cutthroat
+
+UW05 North District Prior
+
+UW06 Cabaret Seductress
+
+UW08 Triumphant Cavalier
+
+UW14 First-Class Skyship
+
+UW09 Forgotten Pontiff
+
+UW10 Leave No Trace
+
+UW11 Induced Catatonia
+
+UW12 Academic Excellence
+
+UW13 Strength of the Departed
+
+UU01 Watchman of the Deep
+
+UU02 Steelsuit Retrofitter
+
+UU03 Port Inspector
+
+UU04 Ego Devourer
+
+UU05 Dean of Science
+
+UU06 Void Empyrean
+
+UU09 In the Nick of Time
+
+UU08 Fade
+
+UU07 Mindbreak Shield
+
+UU13 Ancestral Voidstone
+
+UU11 Consult the Titans
+
+UU10 Forgotten Rites
+
+UU12 Wiped Clean
+
+UU14 Triumph, Taken by the Roil
+
+UR11
+
+UR12
+
+UR08
+type:  => Instant
+cost:  => {R}
+rules_text:  => UR08 deals 2 damage divided as you choose among up to two target creatures.
+
+UR09
+
+UB12 Quick and Painful
+
+UR13
+
+UR01
+type:  => Creature
+cost:  => {R}
+
+UR02
+type:  => Creature
+cost:  => {1}{R}
+rules_text:  => {T}: Add {R}.
+At the beginning of combat on your turn, put a +1/+1 counter on up to one target creature with mana value 4 or greater.
+
+UR03
+type:  => Creature
+cost:  => {1}{R}
+
+UR04
+type:  => Creature
+cost:  => {2}{R}
+
+UR05
+type:  => Creature
+cost:  => {2}{R}
+
+UR06
+type:  => Creature
+cost:  => {3}{R}
+
+UR07
+type:  => Creature
+cost:  => {3}{R}{R}
+
+UB09 Slay the Broken
+
+UR10
+
+UB10 Too Quiet
+
+UR14
+
+UW07 Trend Mastermind
+
+MZ01 Zaila, Her Will Be Done
+rules_text: 
+[i][/i] => ​
+[i][/i]
+special_text: 
+[i][/i] => ​
+[i][/i]
+
+
+VERSION 5 CHANGELOG
 ====================
 
 CA04 Rend added.

@@ -1,14 +1,20 @@
 ﻿{
+    "name": "Stirrings in Goldport",
+    "formats": "",
+    "trimmed": "n",
+    "image_type": "png",
+    "draft_structure": "play booster",
+    "unpreviewed": "card back",
     "cards": [
         {
             "card_name": "CW01 Volunteer Firewatch",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human",
+            "type": "Creature \u2014 Human",
             "number": 36,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Vigilance\n[i]United [/i]\u2013 Whenever this creature attacks with two or more tokens, put a +1/+1 counter on it.",
+            "rules_text": "Vigilance\n[i]United [/i]\u2014 Whenever this creature attacks with two or more tokens, put a +1/+1 counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -17,14 +23,13 @@
             "loyalty": "",
             "artist": "Chris Kintner",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CW02 Startouched Devout",
             "color": "W",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Construct Horror",
+            "type": "Artifact Creature \u2014 Construct Horror",
             "number": 37,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -37,14 +42,13 @@
             "loyalty": "",
             "artist": "Alexandre Reynaud",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CW03 Tireless Iterator",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Dwarf Artificer",
+            "type": "Creature \u2014 Dwarf Artificer",
             "number": 38,
             "color_identity": "W",
             "cost": "{C}{W}",
@@ -57,18 +61,17 @@
             "loyalty": "",
             "artist": "Andrew Lowry",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CW04 Pedigree Collector",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Noble",
+            "type": "Creature \u2014 Human Noble",
             "number": 39,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "When this creature enters, create a 1/1 white Dog creature token.\n[i]United [/i]\u2013 Whenever this creature attacks with two or more tokens, target attacking creature gains first strike until end of turn.",
+            "rules_text": "When this creature enters, create a 1/1 white Dog creature token.\n[i]United [/i]\u2014 Whenever this creature attacks with two or more tokens, target attacking creature gains first strike until end of turn.",
             "flavor_text": "[i]\u201cWhat kind of question is that? How am I [/i]ever[i] supposed to pick a favourite?\u201d[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -77,14 +80,13 @@
             "loyalty": "",
             "artist": "Luka Brico",
             "alias": "",
-            "notes": "15 Jul 2025: Combined first strike united effect with this card",
-            "image_type": "png"
+            "notes": "15 Jul 2025: Combined first strike united effect with this card"
         },
         {
             "card_name": "CW06 East District Brute",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 41,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -97,14 +99,13 @@
             "loyalty": "",
             "artist": "Clark Ocleasa",
             "alias": "",
-            "notes": "15 Jul 2025: Increased cost of tap ability from 1W to 3W",
-            "image_type": "png"
+            "notes": "15 Jul 2025: Increased cost of tap ability from 1W to 3W"
         },
         {
             "card_name": "CW07 Aerial Enforcer",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 42,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -117,18 +118,17 @@
             "loyalty": "",
             "artist": "Erlan Arya",
             "alias": "",
-            "notes": "15 Jul 2025: Removed \"if it's not your combat phase\" because it's a bit awkward\n\n20 Jul 2025: Switched from 2/3 to 3/2",
-            "image_type": "png"
+            "notes": "15 Jul 2025: Removed \"if it's not your combat phase\" because it's a bit awkward\n\n20 Jul 2025: Switched from 2/3 to 3/2"
         },
         {
             "card_name": "CW08 Mournful Matriarch",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Noble",
+            "type": "Creature \u2014 Human Noble",
             "number": 43,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "When this creature dies, choose one \u2013\n\u2022 Create a 1/1 white Spirit creature token. You gain 1 life.\n\u2022 Investigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this artifact: Draw a card.\u201d)[/i]",
+            "rules_text": "When this creature dies, choose one \u2014\n\u2022 Create a 1/1 white Spirit creature token. You gain 1 life.\n\u2022 Investigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this artifact: Draw a card.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -137,14 +137,13 @@
             "loyalty": "",
             "artist": "Mickie Camua",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CW09 Zaila's Willbender",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 44,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -157,14 +156,13 @@
             "loyalty": "",
             "artist": "Peter Zhou",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CW10 Opalwing Cavalry",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Griffin",
+            "type": "Creature \u2014 Griffin",
             "number": 45,
             "color_identity": "W",
             "cost": "{4}{W}",
@@ -177,8 +175,7 @@
             "loyalty": "",
             "artist": "Michele Montini",
             "alias": "",
-            "notes": "15 Jul 2025: Switched to anthem effect on attack",
-            "image_type": "png"
+            "notes": "15 Jul 2025: Switched to anthem effect on attack"
         },
         {
             "card_name": "CW05 Upgrade the Force",
@@ -197,8 +194,7 @@
             "loyalty": "",
             "artist": "Nicholas Maxson",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CW11 Sundering Strike",
@@ -217,8 +213,7 @@
             "loyalty": "",
             "artist": "Vassilios Bayiokos",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CW12 Take to the Skies",
@@ -237,8 +232,7 @@
             "loyalty": "",
             "artist": "Vassilios Bayiokos",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CW13 Bring Malfunction",
@@ -248,7 +242,7 @@
             "number": 48,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Choose one \u2013\n\u2022 Destroy target artifact or enchantment. Scry 1.\n\u2022 Fragment target creature with mana value 3 or less. [i](Its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]",
+            "rules_text": "Choose one \u2014\n\u2022 Destroy target artifact or enchantment. Scry 1.\n\u2022 Fragment target creature with mana value 3 or less. [i](Its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -257,14 +251,13 @@
             "loyalty": "",
             "artist": "Piotr Uzdowski",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CW14 Oligarch's Supercar",
             "color": "W",
             "rarity": "common",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 49,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -277,14 +270,13 @@
             "loyalty": "",
             "artist": "Andrea Carbone",
             "alias": "",
-            "notes": "15 Jul 2025: Buffed cycle to give +2/+2 instead of +1/+1",
-            "image_type": "png"
+            "notes": "15 Jul 2025: Buffed cycle to give +2/+2 instead of +1/+1"
         },
         {
             "card_name": "SL01 Plains",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Plains",
+            "type": "Basic Land \u2014 Plains",
             "number": 185,
             "color_identity": "W",
             "cost": "",
@@ -297,14 +289,13 @@
             "loyalty": "",
             "artist": "Philipp A Urlich",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "SL02 Island",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Island",
+            "type": "Basic Land \u2014 Island",
             "number": 186,
             "color_identity": "U",
             "cost": "",
@@ -317,14 +308,13 @@
             "loyalty": "",
             "artist": "Philipp A Urlich",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "SL03 Mountain",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Mountain",
+            "type": "Basic Land \u2014 Mountain",
             "number": 187,
             "color_identity": "R",
             "cost": "",
@@ -337,14 +327,13 @@
             "loyalty": "",
             "artist": "Philipp A Urlich",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "SL04 Swamp",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Swamp",
+            "type": "Basic Land \u2014 Swamp",
             "number": 188,
             "color_identity": "B",
             "cost": "",
@@ -357,14 +346,13 @@
             "loyalty": "",
             "artist": "Philipp A Urlich",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "SL05 Forest",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Forest",
+            "type": "Basic Land \u2014 Forest",
             "number": 189,
             "color_identity": "G",
             "cost": "",
@@ -377,14 +365,13 @@
             "loyalty": "",
             "artist": "Philipp A Urlich",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CU01 Intrepid Aviator",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Human Pilot",
+            "type": "Creature \u2014 Human Pilot",
             "number": 64,
             "color_identity": "U",
             "cost": "{U}",
@@ -397,14 +384,13 @@
             "loyalty": "",
             "artist": "Patrick Jensen",
             "alias": "",
-            "notes": "15 Jul 2025: Reduced scry from 2 to 1\n\nVoid count 1",
-            "image_type": "png"
+            "notes": "15 Jul 2025: Reduced scry from 2 to 1\n\nVoid count 1"
         },
         {
             "card_name": "CU02 Diviner of Relics",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Human Scholar",
+            "type": "Creature \u2014 Human Scholar",
             "number": 65,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -417,14 +403,13 @@
             "loyalty": "",
             "artist": "Kevin Ebel",
             "alias": "",
-            "notes": "14 Jul 2025: Switched ability to loot on first colorless spell each turn, not just ones with C in mana cost",
-            "image_type": "png"
+            "notes": "14 Jul 2025: Switched ability to loot on first colorless spell each turn, not just ones with C in mana cost"
         },
         {
             "card_name": "CU03 Task Force Operatives",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Human Detective",
+            "type": "Creature \u2014 Human Detective",
             "number": 66,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -437,14 +422,13 @@
             "loyalty": "",
             "artist": "Roman Kovryzhenko",
             "alias": "",
-            "notes": "15 Jul 2025: Raised to 2/2 from 2/1, and switched from flying and hexproof to vigilance",
-            "image_type": "png"
+            "notes": "15 Jul 2025: Raised to 2/2 from 2/1, and switched from flying and hexproof to vigilance"
         },
         {
             "card_name": "CU05 Startouched Analyst",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Zombie Scientist Horror",
+            "type": "Creature \u2014 Zombie Scientist Horror",
             "number": 68,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -457,14 +441,13 @@
             "loyalty": "",
             "artist": "Travis Anderson",
             "alias": "",
-            "notes": "16 Jul 2025: Switched from 2/3 to 3/2 to reduce p/t imbalance",
-            "image_type": "png"
+            "notes": "16 Jul 2025: Switched from 2/3 to 3/2 to reduce p/t imbalance"
         },
         {
             "card_name": "CU06 Winterfell Walker",
             "color": "U",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Construct",
+            "type": "Artifact Creature \u2014 Construct",
             "number": 69,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
@@ -477,14 +460,13 @@
             "loyalty": "",
             "artist": "Marcin Panasiuk",
             "alias": "",
-            "notes": "16 Jul 2025: Switched from tap effect to freeze (-6/-0) effect with possible flash",
-            "image_type": "png"
+            "notes": "16 Jul 2025: Switched from tap effect to freeze (-6/-0) effect with possible flash"
         },
         {
             "card_name": "CU07 Mastbreaker",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Kraken",
+            "type": "Creature \u2014 Kraken",
             "number": 70,
             "color_identity": "U",
             "cost": "{5}{U}",
@@ -497,8 +479,7 @@
             "loyalty": "",
             "artist": "Rutger van de Steeg",
             "alias": "",
-            "notes": "15 Jul 2025: Moved to 5U but made a 3/8 from 2/8\n16 Jul 2025: Totally reworked \u2014 removed transform, switched to 4/5, and made into a void enabler and payoff\n\nVoid count 3",
-            "image_type": "png"
+            "notes": "15 Jul 2025: Moved to 5U but made a 3/8 from 2/8\n16 Jul 2025: Totally reworked \u2014 removed transform, switched to 4/5, and made into a void enabler and payoff\n\nVoid count 3"
         },
         {
             "card_name": "CU09 Eldritch Command",
@@ -508,7 +489,7 @@
             "number": 72,
             "color_identity": "U",
             "cost": "{1}{C}{U}",
-            "rules_text": "Devoid [i](This card has no color.)[/i]\nChoose one \u2013\n\u2022 Counter target spell unless its controller pays {2}.\n\u2022 Fragment target creature. [i](Its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]",
+            "rules_text": "Devoid [i](This card has no color.)[/i]\nChoose one \u2014\n\u2022 Counter target spell unless its controller pays {2}.\n\u2022 Fragment target creature. [i](Its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -517,8 +498,7 @@
             "loyalty": "",
             "artist": "Ryan Van Dongen",
             "alias": "",
-            "notes": "Void count 1",
-            "image_type": "png"
+            "notes": "Void count 1"
         },
         {
             "card_name": "CU08 Pass Unscathed",
@@ -537,8 +517,7 @@
             "loyalty": "",
             "artist": "Anh Le",
             "alias": "",
-            "notes": "Void count 1",
-            "image_type": "png"
+            "notes": "Void count 1"
         },
         {
             "card_name": "CU11 Impart Knowledge",
@@ -557,8 +536,7 @@
             "loyalty": "",
             "artist": "Andy Aslamov",
             "alias": "",
-            "notes": "15 Jul 2025: Reduced cost, but added discard if you don't control a Clue\n16 Jul 2025: Broadened to controlling any artifact, then switched draw to impulse. To compensate, raised cost from 1U to 2U\n\nVoid count 3",
-            "image_type": "png"
+            "notes": "15 Jul 2025: Reduced cost, but added discard if you don't control a Clue\n16 Jul 2025: Broadened to controlling any artifact, then switched draw to impulse. To compensate, raised cost from 1U to 2U\n\nVoid count 3"
         },
         {
             "card_name": "CU10 Taken By The Storm",
@@ -577,14 +555,13 @@
             "loyalty": "",
             "artist": "Bastien Grivet",
             "alias": "",
-            "notes": "Void count 1",
-            "image_type": "png"
+            "notes": "Void count 1"
         },
         {
             "card_name": "CU12 Hedron Imprisonment",
             "color": "U",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 75,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -597,14 +574,13 @@
             "loyalty": "",
             "artist": "Imad Awan",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CU13 Duchy Flagship",
             "color": "U",
             "rarity": "common",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 76,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -617,14 +593,13 @@
             "loyalty": "",
             "artist": "Eric Elwell",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CU14 Zephyr Piercer",
             "color": "U",
             "rarity": "common",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 77,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -637,14 +612,13 @@
             "loyalty": "",
             "artist": "Milena Mlynarska",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CB01 Herald of the End",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Human Cultist",
+            "type": "Creature \u2014 Human Cultist",
             "number": 92,
             "color_identity": "B",
             "cost": "{B}",
@@ -657,14 +631,13 @@
             "loyalty": "",
             "artist": "Mert Genccinar",
             "alias": "",
-            "notes": "16 Jul 2025: Removed enabler, but allowed 1/1 counter option as well as deathtouch counter\n17 Jul 2025: Added haste",
-            "image_type": "png"
+            "notes": "16 Jul 2025: Removed enabler, but allowed 1/1 counter option as well as deathtouch counter\n17 Jul 2025: Added haste"
         },
         {
             "card_name": "CB02 Luxuries Merchant",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Human",
+            "type": "Creature \u2014 Human",
             "number": 93,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -677,14 +650,13 @@
             "loyalty": "",
             "artist": "Pete Amachree",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CB03 Bloodsworn Subjugator",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Human Cultist",
+            "type": "Creature \u2014 Human Cultist",
             "number": 94,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -697,14 +669,13 @@
             "loyalty": "",
             "artist": "Veli Nystrom",
             "alias": "",
-            "notes": "Void count 1\n17 Jul 2025: Pump effect now costs 2 mana instead of 1",
-            "image_type": "png"
+            "notes": "Void count 1\n17 Jul 2025: Pump effect now costs 2 mana instead of 1"
         },
         {
             "card_name": "CB04 Sanguine Suppressor",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Human Noble",
+            "type": "Creature \u2014 Human Noble",
             "number": 95,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -717,14 +688,13 @@
             "loyalty": "",
             "artist": "Christian Auer",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CB05 Lantern Stalker",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Nightmare Horror",
+            "type": "Creature \u2014 Nightmare Horror",
             "number": 96,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -737,14 +707,13 @@
             "loyalty": "",
             "artist": "Mateusz Lenart",
             "alias": "",
-            "notes": "16 Jul 2025: Buffed from 2/3 to 3/3\n17 Jul 2025: Added surveil on entering\n20 Jul 2025: Nerfed from 3/3 to 3/2",
-            "image_type": "png"
+            "notes": "16 Jul 2025: Buffed from 2/3 to 3/3\n17 Jul 2025: Added surveil on entering\n20 Jul 2025: Nerfed from 3/3 to 3/2"
         },
         {
             "card_name": "CB06 Paradigm Enforcer",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Human Noble",
+            "type": "Creature \u2014 Human Noble",
             "number": 97,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -757,14 +726,13 @@
             "loyalty": "",
             "artist": "Jakub Bazyluk",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CB07 Vault Bandits",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Human Rogue",
+            "type": "Creature \u2014 Human Rogue",
             "number": 98,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -777,14 +745,13 @@
             "loyalty": "",
             "artist": "Gintas Galvanauskas",
             "alias": "",
-            "notes": "Void count 1",
-            "image_type": "png"
+            "notes": "Void count 1"
         },
         {
             "card_name": "CB08 Brethren Trio",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Human Cultist",
+            "type": "Creature \u2014 Human Cultist",
             "number": 99,
             "color_identity": "B",
             "cost": "{4}{B}",
@@ -797,14 +764,13 @@
             "loyalty": "",
             "artist": "Bastien LeCouffe",
             "alias": "",
-            "notes": "Void count 2 (from the mill, not the sacrifice)",
-            "image_type": "png"
+            "notes": "Void count 2 (from the mill, not the sacrifice)"
         },
         {
             "card_name": "CB09 Startouched Assassin",
             "color": "B",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Construct Horror",
+            "type": "Artifact Creature \u2014 Construct Horror",
             "number": 100,
             "color_identity": "B",
             "cost": "{4}{B}",
@@ -817,8 +783,7 @@
             "loyalty": "",
             "artist": "Koh LJ",
             "alias": "",
-            "notes": "15 Jul 2025: Switched from 3BB to 4B, but weakened drain from 3 life to 2 life",
-            "image_type": "png"
+            "notes": "15 Jul 2025: Switched from 3BB to 4B, but weakened drain from 3 life to 2 life"
         },
         {
             "card_name": "CB13 Succumb",
@@ -837,8 +802,7 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
-            "notes": "Void count 1 (2 w/ new void)\n\n16 Jul 2025: Switched to sorcery and 1BB instead of 2BB\n17 Jul 2025: Switched from cost reduction on void to cost reduction on sacrifice",
-            "image_type": "png"
+            "notes": "Void count 1 (2 w/ new void)\n\n16 Jul 2025: Switched to sorcery and 1BB instead of 2BB\n17 Jul 2025: Switched from cost reduction on void to cost reduction on sacrifice"
         },
         {
             "card_name": "CB10 Harrowing Transformation",
@@ -857,8 +821,7 @@
             "loyalty": "",
             "artist": "Jakub Bazyluk",
             "alias": "",
-            "notes": "17 Jul 2025: Switched combat trick to deathtouch + indestructible + exile\n\nVoid count 2",
-            "image_type": "png"
+            "notes": "17 Jul 2025: Switched combat trick to deathtouch + indestructible + exile\n\nVoid count 2"
         },
         {
             "card_name": "CB11 Learn From Loss",
@@ -877,8 +840,7 @@
             "loyalty": "",
             "artist": "Dariusz Kieliszek",
             "alias": "",
-            "notes": "Void count 3",
-            "image_type": "png"
+            "notes": "Void count 3"
         },
         {
             "card_name": "CB12 Compelled to Die",
@@ -897,14 +859,13 @@
             "loyalty": "",
             "artist": "Gilles Ketting",
             "alias": "",
-            "notes": "16 Jul 2025: Added nontoken clause and raised life loss to 2\n\nVoid count 1",
-            "image_type": "png"
+            "notes": "16 Jul 2025: Added nontoken clause and raised life loss to 2\n\nVoid count 1"
         },
         {
             "card_name": "CB14 Nightgrasp",
             "color": "B",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 105,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -917,14 +878,13 @@
             "loyalty": "",
             "artist": "Erskine Designs",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Eldrazi Scion",
             "color": "",
             "rarity": "common",
-            "type": "Token Creature \u2013 Eldrazi Scion",
+            "type": "Token Creature \u2014 Eldrazi Scion",
             "number": 2,
             "color_identity": "C",
             "cost": "",
@@ -937,8 +897,7 @@
             "loyalty": "",
             "artist": "Rene Aigner",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "The Void Calls",
@@ -957,14 +916,13 @@
             "loyalty": "",
             "artist": "Erskine Designs",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CR02 Eyekissed Invoker",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Cultist",
+            "type": "Creature \u2014 Human Cultist",
             "number": 121,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -977,14 +935,13 @@
             "loyalty": "",
             "artist": "Mateusz Katzig",
             "alias": "",
-            "notes": "15 Jul 2025: Switched from haste to menace, rasied cost from R to 1R, and raised from 1/1 to 2/1\n17 Jul 2025: Does 2 dmg on sac, but requires void to activate and costs R",
-            "image_type": "png"
+            "notes": "15 Jul 2025: Switched from haste to menace, rasied cost from R to 1R, and raised from 1/1 to 2/1\n17 Jul 2025: Does 2 dmg on sac, but requires void to activate and costs R"
         },
         {
             "card_name": "CR01 Hotwire Prodigy",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Pilot",
+            "type": "Creature \u2014 Human Pilot",
             "number": 120,
             "color_identity": "R",
             "cost": "{R}",
@@ -997,14 +954,13 @@
             "loyalty": "",
             "artist": "Malin Falch",
             "alias": "",
-            "notes": "17 Jul 2025: Added haste",
-            "image_type": "png"
+            "notes": "17 Jul 2025: Added haste"
         },
         {
             "card_name": "CR03 Steelsuit Consultant",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Orc Artificer",
+            "type": "Creature \u2014 Orc Artificer",
             "number": 122,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -1017,14 +973,13 @@
             "loyalty": "",
             "artist": "Un Lee",
             "alias": "",
-            "notes": "15 Jul 2025: Broadened attack trigger from Vehicles to artifact creatures\n17 Jul 2025: Switched to deal 1 dmg to any target",
-            "image_type": "png"
+            "notes": "15 Jul 2025: Broadened attack trigger from Vehicles to artifact creatures\n17 Jul 2025: Switched to deal 1 dmg to any target"
         },
         {
             "card_name": "CR04 Colossus Showman",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Bard",
+            "type": "Creature \u2014 Human Bard",
             "number": 123,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -1037,14 +992,13 @@
             "loyalty": "",
             "artist": "Jules Darriulat",
             "alias": "",
-            "notes": "14 Jul 2025: Removed expend, downgraded to 2/1\n15 Jul 2025: Increased to 2R from 1R, and brought back to 2/2\n17 Jul 2025: Raised buff to +2/+2",
-            "image_type": "png"
+            "notes": "14 Jul 2025: Removed expend, downgraded to 2/1\n15 Jul 2025: Increased to 2R from 1R, and brought back to 2/2\n17 Jul 2025: Raised buff to +2/+2"
         },
         {
             "card_name": "CR05 Magma Scribe",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Elemental Cultist",
+            "type": "Creature \u2014 Elemental Cultist",
             "number": 124,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -1057,14 +1011,13 @@
             "loyalty": "",
             "artist": "Felipe Machado",
             "alias": "",
-            "notes": "17 Jul 2025: Raised ability cost to 2R from 1R",
-            "image_type": "png"
+            "notes": "17 Jul 2025: Raised ability cost to 2R from 1R"
         },
         {
             "card_name": "CR06 Startouched Blitzer",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Horror",
+            "type": "Creature \u2014 Human Horror",
             "number": 125,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -1077,14 +1030,13 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CR08 Spire Defender",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Pilot",
+            "type": "Creature \u2014 Human Pilot",
             "number": 127,
             "color_identity": "R",
             "cost": "{4}{R}",
@@ -1097,14 +1049,13 @@
             "loyalty": "",
             "artist": "Brendan Lancaster",
             "alias": "",
-            "notes": "15 Jul 2025: Went from 3R to 4R cost, but totally reworked effect (now reanimates artifact or Vehicle for one turn on entering)\n17 Jul 2025: Changed to tutor from library and added reach, but reduced to 3/4",
-            "image_type": "png"
+            "notes": "15 Jul 2025: Went from 3R to 4R cost, but totally reworked effect (now reanimates artifact or Vehicle for one turn on entering)\n17 Jul 2025: Changed to tutor from library and added reach, but reduced to 3/4"
         },
         {
             "card_name": "CR09 Crag Prowler",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Dragon",
+            "type": "Creature \u2014 Dragon",
             "number": 128,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
@@ -1117,8 +1068,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": "15 Jul 2025: 3RR \u2014> 4RR, 4/3 \u2014> 5/4",
-            "image_type": "png"
+            "notes": "15 Jul 2025: 3RR \u2014> 4RR, 4/3 \u2014> 5/4"
         },
         {
             "card_name": "CR07 Igneous Uprising",
@@ -1137,8 +1087,7 @@
             "loyalty": "",
             "artist": "Ryan Van Dongen",
             "alias": "",
-            "notes": "15 Jul 2025: Totally switched card to token producer + pump + void enabler",
-            "image_type": "png"
+            "notes": "15 Jul 2025: Totally switched card to token producer + pump + void enabler"
         },
         {
             "card_name": "CR10 In Eldritch Flame",
@@ -1157,8 +1106,7 @@
             "loyalty": "",
             "artist": "Vassilios Bayiokos",
             "alias": "",
-            "notes": "17 Jul 2025: Switched from haste to trample, and switched from vehicle enabler to aggro enabler with fragment",
-            "image_type": "png"
+            "notes": "17 Jul 2025: Switched from haste to trample, and switched from vehicle enabler to aggro enabler with fragment"
         },
         {
             "card_name": "CR11 Commune with Silence",
@@ -1177,8 +1125,7 @@
             "loyalty": "",
             "artist": "Adam Hawil",
             "alias": "",
-            "notes": "17 Jul 2025: Switched from impulse draw to rummage, reduced panic effect from 2 to 1 creature and made it conditional",
-            "image_type": "png"
+            "notes": "17 Jul 2025: Switched from impulse draw to rummage, reduced panic effect from 2 to 1 creature and made it conditional"
         },
         {
             "card_name": "CR12 Pyre",
@@ -1188,7 +1135,7 @@
             "number": 131,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Choose one \u2013\n\u2022 Destroy target artifact. Create a tapped Treasure token.\n\u2022 Pyre deals 4 damage to target creature. Create a 1/1 colorless Construct artifact creature token.",
+            "rules_text": "Choose one \u2014\n\u2022 Destroy target artifact. Create a tapped Treasure token.\n\u2022 Pyre deals 4 damage to target creature. Create a 1/1 colorless Construct artifact creature token.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1197,14 +1144,13 @@
             "loyalty": "",
             "artist": "Zoe Jourdy",
             "alias": "",
-            "notes": "15 Jul 2025: Switched to modal",
-            "image_type": "png"
+            "notes": "15 Jul 2025: Switched to modal"
         },
         {
             "card_name": "CR13 Incendiary Charger",
             "color": "R",
             "rarity": "common",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 132,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -1217,14 +1163,13 @@
             "loyalty": "",
             "artist": "Alaiaorax",
             "alias": "",
-            "notes": "15 Jul 2025: Switched to 6 dmg burn ability and crew 2 from crew 3, also switched cost from 2RR to 3R\n\n17 Jul 2025: Reduced cost for ability from 2R to 1R",
-            "image_type": "png"
+            "notes": "15 Jul 2025: Switched to 6 dmg burn ability and crew 2 from crew 3, also switched cost from 2RR to 3R\n\n17 Jul 2025: Reduced cost for ability from 2R to 1R"
         },
         {
             "card_name": "CR14 Task Force Hotrod",
             "color": "R",
             "rarity": "common",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 133,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -1237,14 +1182,13 @@
             "loyalty": "",
             "artist": "Nicholas Maxson",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CG01 Wreckage Inquisitors",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Detective",
+            "type": "Creature \u2014 Human Detective",
             "number": 142,
             "color_identity": "G",
             "cost": "{G}",
@@ -1257,14 +1201,13 @@
             "loyalty": "",
             "artist": "Zhuoxin Wang",
             "alias": "",
-            "notes": "18 Jul 2025: Made 1/2 by default (from 1/1)",
-            "image_type": "png"
+            "notes": "18 Jul 2025: Made 1/2 by default (from 1/1)"
         },
         {
             "card_name": "CG05 Startouched Arborist",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Elemental Horror",
+            "type": "Creature \u2014 Elemental Horror",
             "number": 146,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -1277,14 +1220,13 @@
             "loyalty": "",
             "artist": "Brian Valeza",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CG03 Deathrite Mystic",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Zombie Shaman",
+            "type": "Creature \u2014 Zombie Shaman",
             "number": 144,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -1297,14 +1239,13 @@
             "loyalty": "",
             "artist": "Ryan Van Dongen",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CG04 First Responders",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Detective",
+            "type": "Creature \u2014 Human Detective",
             "number": 145,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -1317,8 +1258,7 @@
             "loyalty": "",
             "artist": "Yari Lute",
             "alias": "",
-            "notes": "18 Jul 2025: Switched sac Clue to sac token\n20 Jul 2025: Buffed from 2/2 to 3/2",
-            "image_type": "png"
+            "notes": "18 Jul 2025: Switched sac Clue to sac token\n20 Jul 2025: Buffed from 2/2 to 3/2"
         },
         {
             "card_name": "CG08 Streetway Incursion",
@@ -1328,7 +1268,7 @@
             "number": 149,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Choose one \u2013\n\u2022 Create two 1/1 colorless Eldrazi Scion creature tokens with \u201cSacrifice this creature: Add {C}.\u201d\n\u2022 Put two +1/+1 counters on each creature you control.",
+            "rules_text": "Choose one \u2014\n\u2022 Create two 1/1 colorless Eldrazi Scion creature tokens with \u201cSacrifice this creature: Add {C}.\u201d\n\u2022 Put two +1/+1 counters on each creature you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1337,14 +1277,13 @@
             "loyalty": "",
             "artist": "Richard Wright",
             "alias": "",
-            "notes": "18 Jul 2025: Totally switched to token-generating instant (or pump spell)",
-            "image_type": "png"
+            "notes": "18 Jul 2025: Totally switched to token-generating instant (or pump spell)"
         },
         {
             "card_name": "CG06 World Whisperer",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Beast Horror",
+            "type": "Creature \u2014 Beast Horror",
             "number": 147,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -1357,14 +1296,13 @@
             "loyalty": "",
             "artist": "Erskine Designs",
             "alias": "",
-            "notes": "18 Jul 2025: Switched ability to scion on enter instead of fragment, then switched effect to activated ability that can give deathtouch to one small thing (out of combat only)",
-            "image_type": "png"
+            "notes": "18 Jul 2025: Switched ability to scion on enter instead of fragment, then switched effect to activated ability that can give deathtouch to one small thing (out of combat only)"
         },
         {
             "card_name": "CG07 Hirehand Gunner",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 148,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -1377,18 +1315,17 @@
             "loyalty": "",
             "artist": "Jakub Bazyluk",
             "alias": "",
-            "notes": "18 Jul 2025: Removed card reveal clause, and switched from trample to haste",
-            "image_type": "png"
+            "notes": "18 Jul 2025: Removed card reveal clause, and switched from trample to haste"
         },
         {
             "card_name": "CG02 Verge Drifter",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Spirit",
+            "type": "Creature \u2014 Spirit",
             "number": 143,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Haste\n[i]United \u2013 [/i]Whenever this creature attacks with two or more tokens, you gain 2 life.",
+            "rules_text": "Haste\n[i]United \u2014 [/i]Whenever this creature attacks with two or more tokens, you gain 2 life.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1397,14 +1334,13 @@
             "loyalty": "",
             "artist": "Julian Bauer",
             "alias": "",
-            "notes": "18 Jul 2025: Switched from 5 mana 4/4 to 2 mana 2/2 (bear w/ set mechanic)",
-            "image_type": "png"
+            "notes": "18 Jul 2025: Switched from 5 mana 4/4 to 2 mana 2/2 (bear w/ set mechanic)"
         },
         {
             "card_name": "CG09 Starbreaker Juvenile",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Beast Horror",
+            "type": "Creature \u2014 Beast Horror",
             "number": 150,
             "color_identity": "G",
             "cost": "{5}{G}",
@@ -1417,14 +1353,13 @@
             "loyalty": "",
             "artist": "Sam Larson",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CG10 Barksplitter Colossus",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Elemental",
+            "type": "Creature \u2014 Elemental",
             "number": 151,
             "color_identity": "G",
             "cost": "{6}{G}{G}",
@@ -1437,8 +1372,7 @@
             "loyalty": "",
             "artist": "Daniel Thiele",
             "alias": "",
-            "notes": "18 Jul 2025: Gave discard effect",
-            "image_type": "png"
+            "notes": "18 Jul 2025: Gave discard effect"
         },
         {
             "card_name": "CG11 A Hole in the Sky",
@@ -1457,8 +1391,7 @@
             "loyalty": "",
             "artist": "Andreas Rocha",
             "alias": "",
-            "notes": "15 Jul 2025: Switched from disenchant to bite\n18 Jul 2025: Switched back to disenchant with flyer removal, but raised cost from 1G to 2G",
-            "image_type": "png"
+            "notes": "15 Jul 2025: Switched from disenchant to bite\n18 Jul 2025: Switched back to disenchant with flyer removal, but raised cost from 1G to 2G"
         },
         {
             "card_name": "CG13 Blooming Overgrowth",
@@ -1477,8 +1410,7 @@
             "loyalty": "",
             "artist": "Philipp A Urlich",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CG12 Donnybrook",
@@ -1497,14 +1429,13 @@
             "loyalty": "",
             "artist": "Othon Nikolaidis",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CG14 Unethical Enhancements",
             "color": "G",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 155,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -1517,14 +1448,13 @@
             "loyalty": "",
             "artist": "Niklas Nibelsiek",
             "alias": "",
-            "notes": "18 Jul 2025: 1G \u2014> 3G, +1/+1 \u2014> +3/+3, changed ability to sac outlet to give reac",
-            "image_type": "png"
+            "notes": "18 Jul 2025: 1G \u2014> 3G, +1/+1 \u2014> +3/+3, changed ability to sac outlet to give reac"
         },
         {
             "card_name": "CA01 Chrysalis of Flesh",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Eldrazi Horror",
+            "type": "Creature \u2014 Eldrazi Horror",
             "number": 1,
             "color_identity": "C",
             "cost": "{1}{C}",
@@ -1537,14 +1467,13 @@
             "loyalty": "",
             "artist": "Fartuh Acer",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CA02 Voices of the Severed",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Eldrazi Horror",
+            "type": "Creature \u2014 Eldrazi Horror",
             "number": 2,
             "color_identity": "C",
             "cost": "{3}{C}",
@@ -1557,14 +1486,13 @@
             "loyalty": "",
             "artist": "Alexi Briclot",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CA03 Old Ones Envoy",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Eldrazi Horror",
+            "type": "Creature \u2014 Eldrazi Horror",
             "number": 3,
             "color_identity": "C",
             "cost": "{7}",
@@ -1577,8 +1505,7 @@
             "loyalty": "",
             "artist": "Alex Heath",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CA04 Rend",
@@ -1597,8 +1524,7 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CA05 Thin the Veil",
@@ -1617,18 +1543,17 @@
             "loyalty": "",
             "artist": "Erskine Designs",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CA06 Portmaster's Firearm",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 179,
             "color_identity": "C",
             "cost": "{1}",
-            "rules_text": "Equipped creature gets +1/+1.\n[i]United [/i]\u2013 Whenever equipped creature attacks with two or more tokens, those tokens get +1/+1 until end of turn.\nEquip {2}",
+            "rules_text": "Equipped creature gets +1/+1.\n[i]United [/i]\u2014 Whenever equipped creature attacks with two or more tokens, those tokens get +1/+1 until end of turn.\nEquip {2}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1637,8 +1562,7 @@
             "loyalty": "",
             "artist": "Pixoloid Studios",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CA07 Obsidian Reliquary",
@@ -1657,14 +1581,13 @@
             "loyalty": "",
             "artist": "Pete Amachree",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CA08 Arcwhip Emitter",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 181,
             "color_identity": "R",
             "cost": "{2}",
@@ -1677,14 +1600,13 @@
             "loyalty": "",
             "artist": "Janos Gardos",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CA09 Pine Blitzer",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 182,
             "color_identity": "C",
             "cost": "{3}",
@@ -1697,8 +1619,7 @@
             "loyalty": "",
             "artist": "Dmitry Bykov",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CA10 Corrupted Hedron",
@@ -1717,14 +1638,13 @@
             "loyalty": "",
             "artist": "Jakub Bazyluk",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CA11 Steelform Willshaper",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 184,
             "color_identity": "C",
             "cost": "{5}",
@@ -1737,8 +1657,7 @@
             "loyalty": "",
             "artist": "Sybren Westendorp",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UZ01 Splintering Edict",
@@ -1748,7 +1667,7 @@
             "number": 159,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
-            "rules_text": "Choose one. If {C} was paid to cast this spell, instead you may choose both \u2013\n\u2022 Fragment up to two target creatures with total mana value 6 or less. [i](To fragment a creature, its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]\n\u2022 Counter target spell.",
+            "rules_text": "Choose one. If {C} was paid to cast this spell, instead you may choose both \u2014\n\u2022 Fragment up to two target creatures with total mana value 6 or less. [i](To fragment a creature, its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]\n\u2022 Counter target spell.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1757,8 +1676,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": "20 Jul 2025: Removed \"draw 2 cards and gain 2 life option\", but reduced cost from 2WU to 1WU",
-            "image_type": "png"
+            "notes": "20 Jul 2025: Removed \"draw 2 cards and gain 2 life option\", but reduced cost from 2WU to 1WU"
         },
         {
             "card_name": "UZ02 Afflict Thought",
@@ -1777,14 +1695,13 @@
             "loyalty": "",
             "artist": "Erskine Designs",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UZ03 Obsessive Ritualist",
             "color": "BR",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Cultist",
+            "type": "Creature \u2014 Human Cultist",
             "number": 161,
             "color_identity": "BR",
             "cost": "{B}{R}",
@@ -1797,14 +1714,13 @@
             "loyalty": "",
             "artist": "Erskine Designs",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UZ04 Restless Summoners",
             "color": "RG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Zombie Cultist",
+            "type": "Creature \u2014 Zombie Cultist",
             "number": 162,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
@@ -1817,18 +1733,17 @@
             "loyalty": "",
             "artist": "Fabien Salvalaggio",
             "alias": "",
-            "notes": "14 Jul 2025: Removed expend",
-            "image_type": "png"
+            "notes": "14 Jul 2025: Removed expend"
         },
         {
             "card_name": "UZ05 Oathbound Stalwart",
             "color": "WG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 163,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
-            "rules_text": "Vigilance\nWhen this creature enters, create a 1/1 white Human Soldier creature token.\n[i]United [/i]\u2013 Whenever this creature attacks with two or more tokens, create a 1/1 white Human Soldier creature token.",
+            "rules_text": "Vigilance\nWhen this creature enters, create a 1/1 white Human Soldier creature token.\n[i]United [/i]\u2014 Whenever this creature attacks with two or more tokens, create a 1/1 white Human Soldier creature token.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -1837,14 +1752,13 @@
             "loyalty": "",
             "artist": "Jordan Taylor",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UZ06 Paid Off",
             "color": "WB",
             "rarity": "uncommon",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 164,
             "color_identity": "WB",
             "cost": "{W}{B}",
@@ -1857,14 +1771,13 @@
             "loyalty": "",
             "artist": "Cristian Gonzalez",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UZ09 Stormqueller Galleon",
             "color": "WR",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 166,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
@@ -1877,14 +1790,13 @@
             "loyalty": "",
             "artist": "Lorenzo Lanfranconi",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UZ08 Sludge Trawler",
             "color": "",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Eldrazi Horror",
+            "type": "Creature \u2014 Eldrazi Horror",
             "number": 165,
             "color_identity": "BG",
             "cost": "{1}{B}{G}",
@@ -1897,14 +1809,13 @@
             "loyalty": "",
             "artist": "Jeremy Fenske",
             "alias": "",
-            "notes": "20 Jul 2025: Buffed from 2/2 to 3/2",
-            "image_type": "png"
+            "notes": "20 Jul 2025: Buffed from 2/2 to 3/2"
         },
         {
             "card_name": "UZ07 Admired Aeronaut",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Pilot",
+            "type": "Creature \u2014 Human Pilot",
             "number": 178,
             "color_identity": "UR",
             "cost": "{UR}",
@@ -1917,14 +1828,13 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
-            "notes": "18 Jul 2025: Gave flying and removed crewing bonus, and switched spell trigger to crewed or attacking with",
-            "image_type": "png"
+            "notes": "18 Jul 2025: Gave flying and removed crewing bonus, and switched spell trigger to crewed or attacking with"
         },
         {
             "card_name": "UZ10 Lantha, Task Force Sergeant",
             "color": "UG",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2013 Human Detective",
+            "type": "Legendary Creature \u2014 Human Detective",
             "number": 167,
             "color_identity": "UG",
             "cost": "{G}{U}",
@@ -1937,8 +1847,7 @@
             "loyalty": "",
             "artist": "Marjorie Davis",
             "alias": "",
-            "notes": "18 Jul 2025: Removed other ability to split enabler and payoff effects",
-            "image_type": "png"
+            "notes": "18 Jul 2025: Removed other ability to split enabler and payoff effects"
         },
         {
             "card_name": "SL06 Wastes",
@@ -1957,14 +1866,13 @@
             "loyalty": "",
             "artist": "Kong_G",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Cultist",
             "color": "",
             "rarity": "common",
-            "type": "Token Creature \u2013 Cultist",
+            "type": "Token Creature \u2014 Cultist",
             "number": 1,
             "color_identity": "C",
             "cost": "",
@@ -1977,14 +1885,13 @@
             "loyalty": "",
             "artist": "Alvaro Fernandez",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CU04 Ravenfolk Adept",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Human Bird Wizard",
+            "type": "Creature \u2014 Human Bird Wizard",
             "number": 67,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -1997,14 +1904,13 @@
             "loyalty": "",
             "artist": "Stu Harrington",
             "alias": "",
-            "notes": "15 Jul 2025: Removed tap condition, and switched vigilance to flying\n16 Jul 2025: Removed colorless criteria (to make compatible with void control)\n17 Jul 2025: Reworked counterspell ability to apply on discard, and added surveil 1 in both modes\nVoid count 1 in creature mode, 2 in counterspell mode (3 with new void)",
-            "image_type": "png"
+            "notes": "15 Jul 2025: Removed tap condition, and switched vigilance to flying\n16 Jul 2025: Removed colorless criteria (to make compatible with void control)\n17 Jul 2025: Reworked counterspell ability to apply on discard, and added surveil 1 in both modes\nVoid count 1 in creature mode, 2 in counterspell mode (3 with new void)"
         },
         {
             "card_name": "UZ11 Black Site Enhancer",
             "color": "WU",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Scientist",
+            "type": "Creature \u2014 Human Scientist",
             "number": 168,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
@@ -2017,14 +1923,13 @@
             "loyalty": "",
             "artist": "Benjamin Giletti",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UZ12 Voidwing Kite",
             "color": "UB",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Eldrazi Bird Horror",
+            "type": "Creature \u2014 Eldrazi Bird Horror",
             "number": 169,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
@@ -2037,14 +1942,13 @@
             "loyalty": "",
             "artist": "Maxime Chiasson",
             "alias": "",
-            "notes": "19 Jul 2025: Raised cost from 1 life to 2 life for loot",
-            "image_type": "png"
+            "notes": "19 Jul 2025: Raised cost from 1 life to 2 life for loot"
         },
         {
             "card_name": "UZ13 Soulsiphon Initiate",
             "color": "BR",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Bird Cultist",
+            "type": "Creature \u2014 Human Bird Cultist",
             "number": 170,
             "color_identity": "BR",
             "cost": "{B}{R}",
@@ -2057,14 +1961,13 @@
             "loyalty": "",
             "artist": "Jason Nguyen",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UZ14 Voice of the Roaring Wind",
             "color": "RG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elemental Horror",
+            "type": "Creature \u2014 Elemental Horror",
             "number": 171,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
@@ -2077,8 +1980,7 @@
             "loyalty": "",
             "artist": "Ipan HF",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UZ15 In Strength Entwined",
@@ -2097,14 +1999,13 @@
             "loyalty": "",
             "artist": "Jason Scheier",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UZ16 Karsten, the Spinner",
             "color": "WB",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2013 Human Noble",
+            "type": "Legendary Creature \u2014 Human Noble",
             "number": 173,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
@@ -2117,14 +2018,13 @@
             "loyalty": "",
             "artist": "Jakub Bazyluk",
             "alias": "",
-            "notes": "19 Jul 2025: Moved from 1WB to 2WB, but raised from 2/3 to 3/3",
-            "image_type": "png"
+            "notes": "19 Jul 2025: Moved from 1WB to 2WB, but raised from 2/3 to 3/3"
         },
         {
             "card_name": "UZ17 Smuggler's Hovercar",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 174,
             "color_identity": "UR",
             "cost": "{U}{R}",
@@ -2137,14 +2037,13 @@
             "loyalty": "",
             "artist": "Atomhawk",
             "alias": "",
-            "notes": "18 Jul 2025: Removed haste on first turn on battlefield, but made a 3/2",
-            "image_type": "png"
+            "notes": "18 Jul 2025: Removed haste on first turn on battlefield, but made a 3/2"
         },
         {
             "card_name": "UZ18 Ravaged Eviscerator",
             "color": "",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Eldrazi Horror",
+            "type": "Creature \u2014 Eldrazi Horror",
             "number": 175,
             "color_identity": "BG",
             "cost": "{B}{G}",
@@ -2157,8 +2056,7 @@
             "loyalty": "",
             "artist": "Jakub Bazyluk",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UZ19 Pulverizing Helix",
@@ -2177,14 +2075,13 @@
             "loyalty": "",
             "artist": "Asur Misoa",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UZ20 Adaptive Agent",
             "color": "UG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Detective",
+            "type": "Creature \u2014 Human Detective",
             "number": 177,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
@@ -2197,14 +2094,13 @@
             "loyalty": "",
             "artist": "Romana Kendelic",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UW01 Sky Force Retiree",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 50,
             "color_identity": "W",
             "cost": "{W}",
@@ -2217,14 +2113,13 @@
             "loyalty": "",
             "artist": "Lamin Martin",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UW02 Scape Surveyor",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Pilot",
+            "type": "Creature \u2014 Human Pilot",
             "number": 51,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -2237,14 +2132,13 @@
             "loyalty": "",
             "artist": "Nina Wojcik",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UW03 Skyiron Shaper",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Pilot",
+            "type": "Creature \u2014 Human Pilot",
             "number": 52,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -2257,14 +2151,13 @@
             "loyalty": "",
             "artist": "Alex Albu",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UW04 Thousand-Mind Cutthroat",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Assassin Horror",
+            "type": "Creature \u2014 Human Assassin Horror",
             "number": 53,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -2277,14 +2170,13 @@
             "loyalty": "",
             "artist": "Matt Genccinar",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UW05 North District Prior",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Cleric",
+            "type": "Creature \u2014 Human Cleric",
             "number": 54,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -2297,14 +2189,13 @@
             "loyalty": "",
             "artist": "Misha Oplev",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UW06 Cabaret Seductress",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Bard",
+            "type": "Creature \u2014 Human Bard",
             "number": 55,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -2317,14 +2208,13 @@
             "loyalty": "",
             "artist": "Tim Razumovsky",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "RZ01 Paragon of Opulence",
             "color": "WB",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Noble",
+            "type": "Creature \u2014 Human Noble",
             "number": 158,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
@@ -2337,14 +2227,13 @@
             "loyalty": "",
             "artist": "Tim Razumovsky",
             "alias": "",
-            "notes": "move to rare methinks",
-            "image_type": "png"
+            "notes": "move to rare methinks"
         },
         {
             "card_name": "UW08 Triumphant Cavalier",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 57,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
@@ -2357,14 +2246,13 @@
             "loyalty": "",
             "artist": "Piotr Arendzikowski",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UW14 First-Class Skyship",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 63,
             "color_identity": "W",
             "cost": "{4}{W}",
@@ -2377,14 +2265,13 @@
             "loyalty": "",
             "artist": "Adam Burn",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UW09 Forgotten Pontiff",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Spirit Cleric Horror",
+            "type": "Creature \u2014 Spirit Cleric Horror",
             "number": 58,
             "color_identity": "W",
             "cost": "{5}{W}",
@@ -2397,8 +2284,7 @@
             "loyalty": "",
             "artist": "Thomas Ricci",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UW10 Leave No Trace",
@@ -2417,8 +2303,7 @@
             "loyalty": "",
             "artist": "Mahea Rodrigues",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UW11 Induced Catatonia",
@@ -2437,8 +2322,7 @@
             "loyalty": "",
             "artist": "Tim Razumovsky",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UW12 Academic Excellence",
@@ -2457,18 +2341,17 @@
             "loyalty": "",
             "artist": "Beni Butnar",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UW13 Strength of the Departed",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 62,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Enchant creature\nWhen this Aura enters, create two 1/1 white Spirit creature tokens with flying.\n[i]United \u2013[/i] Whenever enchanted creature attacks with two or more tokens, it gets +2/+2 until end of turn and you gain 2 life.",
+            "rules_text": "Enchant creature\nWhen this Aura enters, create two 1/1 white Spirit creature tokens with flying.\n[i]United \u2014[/i] Whenever enchanted creature attacks with two or more tokens, it gets +2/+2 until end of turn and you gain 2 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2477,14 +2360,13 @@
             "loyalty": "",
             "artist": "Irina Nordsol Kuzmina",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UU01 Watchman of the Deep",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 78,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -2497,14 +2379,13 @@
             "loyalty": "",
             "artist": "Andy Walsh",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UU02 Steelsuit Retrofitter",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Artificer",
+            "type": "Creature \u2014 Human Artificer",
             "number": 79,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -2517,14 +2398,13 @@
             "loyalty": "",
             "artist": "Viko Menezes",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UU03 Port Inspector",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Detective",
+            "type": "Creature \u2014 Human Detective",
             "number": 80,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -2537,14 +2417,13 @@
             "loyalty": "",
             "artist": "Sixmorevodka",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UU04 Ego Devourer",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Shapeshifter Horror",
+            "type": "Creature \u2014 Shapeshifter Horror",
             "number": 81,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
@@ -2557,14 +2436,13 @@
             "loyalty": "",
             "artist": "Eric Gonzales",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UU05 Dean of Science",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Scholar",
+            "type": "Creature \u2014 Human Scholar",
             "number": 82,
             "color_identity": "U",
             "cost": "{4}{U}",
@@ -2577,14 +2455,13 @@
             "loyalty": "",
             "artist": "Shringarayonii",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UU06 Void Empyrean",
             "color": "",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Eldrazi Horror",
+            "type": "Creature \u2014 Eldrazi Horror",
             "number": 83,
             "color_identity": "U",
             "cost": "{5}{U}{U}",
@@ -2597,8 +2474,7 @@
             "loyalty": "",
             "artist": "Erskine Designs",
             "alias": "",
-            "notes": "Worried about this \u2014 you can basically prevent your opponent from drawing any answer",
-            "image_type": "png"
+            "notes": "Worried about this \u2014 you can basically prevent your opponent from drawing any answer"
         },
         {
             "card_name": "UU09 In the Nick of Time",
@@ -2617,8 +2493,7 @@
             "loyalty": "",
             "artist": "Kristian Agerkvist",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UU08 Fade",
@@ -2637,8 +2512,7 @@
             "loyalty": "",
             "artist": "Kong_G",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UU07 Mindbreak Shield",
@@ -2657,8 +2531,7 @@
             "loyalty": "",
             "artist": "Rayven Studios",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UU13 Ancestral Voidstone",
@@ -2677,8 +2550,7 @@
             "loyalty": "",
             "artist": "Max Friberg",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UU11 Consult the Titans",
@@ -2697,8 +2569,7 @@
             "loyalty": "",
             "artist": "Erskine Designs",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UU10 Forgotten Rites",
@@ -2708,7 +2579,7 @@
             "number": 87,
             "color_identity": "U",
             "cost": "{X}{U}",
-            "rules_text": "Choose X. You may choose the same mode more than once \u2013\n\u2022 Create a 1/1 white Spirit creature token with flying.\n\u2022 Draw a card, then discard a card.\n\u2022 Investigate.",
+            "rules_text": "Choose X. You may choose the same mode more than once \u2014\n\u2022 Create a 1/1 white Spirit creature token with flying.\n\u2022 Draw a card, then discard a card.\n\u2022 Investigate.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2717,14 +2588,13 @@
             "loyalty": "",
             "artist": "Alex Petruk",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UU12 Wiped Clean",
             "color": "",
             "rarity": "uncommon",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 89,
             "color_identity": "U",
             "cost": "{C}{U}",
@@ -2737,14 +2607,13 @@
             "loyalty": "",
             "artist": "Artem Chebokha",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UU14 Triumph, Taken by the Roil",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Legendary Artifact \u2013 Vehicle",
+            "type": "Legendary Artifact \u2014 Vehicle",
             "number": 91,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
@@ -2757,14 +2626,13 @@
             "loyalty": "",
             "artist": "Vladimir Somov",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UB01 Shingle Trawler",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Bat Horror",
+            "type": "Creature \u2014 Bat Horror",
             "number": 106,
             "color_identity": "B",
             "cost": "{B}",
@@ -2777,8 +2645,7 @@
             "loyalty": "",
             "artist": "Brian Valeza",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UG02",
@@ -2797,8 +2664,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UG03",
@@ -2817,8 +2683,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UG04",
@@ -2837,8 +2702,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UG05",
@@ -2857,8 +2721,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UG06",
@@ -2877,8 +2740,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UG07",
@@ -2897,8 +2759,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UG08",
@@ -2917,8 +2778,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UG09",
@@ -2937,8 +2797,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UG10",
@@ -2957,8 +2816,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UR11",
@@ -2977,8 +2835,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UR12",
@@ -2997,8 +2854,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UG13",
@@ -3017,8 +2873,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UG14",
@@ -3037,8 +2892,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UG01",
@@ -3057,14 +2911,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UB02 Karsten's Enforcer",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Assassin",
+            "type": "Creature \u2014 Human Assassin",
             "number": 107,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -3077,14 +2930,13 @@
             "loyalty": "",
             "artist": "Kael Ngu",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UB03 Festering Eyemass",
             "color": "",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Eldrazi Horror",
+            "type": "Creature \u2014 Eldrazi Horror",
             "number": 108,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -3097,14 +2949,13 @@
             "loyalty": "",
             "artist": "Jakub Bazyluk",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UB04 Flesh Shredder",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Bird Horror",
+            "type": "Creature \u2014 Bird Horror",
             "number": 109,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -3117,18 +2968,17 @@
             "loyalty": "",
             "artist": "Darya Malabra",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UB05 Corpse Inspectors",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Bird Cleric",
+            "type": "Creature \u2014 Human Bird Cleric",
             "number": 110,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
-            "rules_text": "Menace\nAt the beginning of combat on your turn, choose up to one \u2013\n\u2022 Mill two cards. If you do, this creature gets +1/+1 until end of turn.\n\u2022 Discard a card. If you do, put a +1/+1 counter on this creature.",
+            "rules_text": "Menace\nAt the beginning of combat on your turn, choose up to one \u2014\n\u2022 Mill two cards. If you do, this creature gets +1/+1 until end of turn.\n\u2022 Discard a card. If you do, put a +1/+1 counter on this creature.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -3137,14 +2987,13 @@
             "loyalty": "",
             "artist": "Yawei Cao",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UB06 Epitaph Lurkers",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Bird Cultist",
+            "type": "Creature \u2014 Human Bird Cultist",
             "number": 111,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -3157,8 +3006,7 @@
             "loyalty": "",
             "artist": "Emanuel Dias",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UB07 Brethren Priestess",
@@ -3177,8 +3025,7 @@
             "loyalty": "",
             "artist": "Darius Kieliszek",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UR08",
@@ -3197,8 +3044,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UR09",
@@ -3217,8 +3063,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UB12 Quick and Painful",
@@ -3237,8 +3082,7 @@
             "loyalty": "",
             "artist": "Dariusz Kieliszek",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UG11 Ancient Stirrings",
@@ -3257,8 +3101,7 @@
             "loyalty": "",
             "artist": "Erskine Designs",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UG12",
@@ -3277,8 +3120,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UR13",
@@ -3297,8 +3139,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UB14 Indoctrination",
@@ -3317,8 +3158,7 @@
             "loyalty": "",
             "artist": "Leif Heanzo",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UR01",
@@ -3337,8 +3177,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UR02",
@@ -3357,8 +3196,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UR03",
@@ -3377,8 +3215,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UR04",
@@ -3397,8 +3234,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UR05",
@@ -3417,8 +3253,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UR06",
@@ -3437,8 +3272,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UR07",
@@ -3457,14 +3291,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UB08 Outlands Predator",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Bat Horror",
+            "type": "Creature \u2014 Bat Horror",
             "number": 113,
             "color_identity": "B",
             "cost": "{4}{B}",
@@ -3477,8 +3310,7 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UB09 Slay the Broken",
@@ -3497,8 +3329,7 @@
             "loyalty": "",
             "artist": "Nikolay Moskvin",
             "alias": "",
-            "notes": "Will this be format-warping? Uncertain at this time\nWorse Cut Down when hitting one target, but has flexibility to hit two 1/1s",
-            "image_type": "png"
+            "notes": "Will this be format-warping? Uncertain at this time\nWorse Cut Down when hitting one target, but has flexibility to hit two 1/1s"
         },
         {
             "card_name": "UR10",
@@ -3517,8 +3348,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UB10 Too Quiet",
@@ -3537,8 +3367,7 @@
             "loyalty": "",
             "artist": "Andy Walsh",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UB11 Acolyte's Torment",
@@ -3557,8 +3386,7 @@
             "loyalty": "",
             "artist": "Irina Nordsol Kuzmina",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UB13 Channel the Dark",
@@ -3577,8 +3405,7 @@
             "loyalty": "",
             "artist": "Erskine Designs",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UR14",
@@ -3597,8 +3424,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UA01",
@@ -3617,8 +3443,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UA02",
@@ -3637,8 +3462,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UA03",
@@ -3657,8 +3481,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UA04",
@@ -3677,8 +3500,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UA05",
@@ -3697,8 +3519,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UA06",
@@ -3717,8 +3538,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UA07",
@@ -3737,8 +3557,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UA08",
@@ -3757,8 +3576,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UA09",
@@ -3777,8 +3595,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UA10",
@@ -3797,14 +3614,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UW07 Trend Mastermind",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Scientist",
+            "type": "Creature \u2014 Human Scientist",
             "number": 56,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -3817,14 +3633,13 @@
             "loyalty": "",
             "artist": "Asce",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "MA01 Ulamog, the Earth Engulfed",
             "color": "",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Eldrazi",
+            "type": "Legendary Creature \u2014 Eldrazi",
             "number": 6,
             "color_identity": "C",
             "cost": "{11}",
@@ -3837,14 +3652,13 @@
             "loyalty": "",
             "artist": "Lorenzo Lanfranconi",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "MZ01 Zaila, Her Will Be Done",
             "color": "WU",
             "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2013 Zaila",
+            "type": "Legendary Planeswalker \u2014 Zaila",
             "number": 157,
             "color_identity": "WU",
             "cost": "{3}{W}{U}",
@@ -3857,8 +3671,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         }
     ]
 }
