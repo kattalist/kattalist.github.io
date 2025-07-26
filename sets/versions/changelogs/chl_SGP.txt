@@ -1,4 +1,509 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+CA04 Rend added.
+UW01 Sky Force Retiree added.
+UW02 Scape Surveyor added.
+UW03 Skyiron Shaper added.
+UW04 Thousand-Mind Cutthroat added.
+UW05 North District Prior added.
+UW06 Cabaret Seductress added.
+RZ01 Paragon of Opulence added.
+UW08 Triumphant Cavalier added.
+UW14 First-Class Skyship added.
+UW09 Forgotten Pontiff added.
+UW10 Leave No Trace added.
+UW11 Induced Catatonia added.
+UW12 Academic Excellence added.
+UW13 Strength of the Departed added.
+UU01 Watchman of the Deep added.
+UU02 Steelsuit Retrofitter added.
+UU03 Port Inspector added.
+UU04 Ego Devourer added.
+UU05 Dean of Science added.
+UU06 Void Empyrean added.
+UU09 In the Nick of Time added.
+UU08 Fade added.
+UU07 Mindbreak Shield added.
+UU13 Ancestral Voidstone added.
+UU11 Consult the Titans added.
+UU10 Forgotten Rites added.
+UU12 Wiped Clean added.
+UU14 Triumph, Taken by the Roil added.
+UB01 added.
+UG02 added.
+UG03 added.
+UG04 added.
+UG05 added.
+UG06 added.
+UG07 added.
+UG08 added.
+UG09 added.
+UG10 added.
+UR11 added.
+UR12 added.
+UG13 added.
+UG14 added.
+UG01 added.
+UB02 added.
+UB03 added.
+UB04 added.
+UB05 added.
+UB06 added.
+UB07 added.
+UR08 added.
+UR09 added.
+UB12 Quick and Painful added.
+UG11 Ancient Stirrings added.
+UG12 added.
+UR13 added.
+UB14 added.
+UR01 added.
+UR02 added.
+UR03 added.
+UR04 added.
+UR05 added.
+UR06 added.
+UR07 added.
+UB08 added.
+UB09 Slay the Broken added.
+UR10 added.
+UB10 Too Quiet added.
+UB11 added.
+UB13 added.
+UR14 added.
+UA01 added.
+UA02 added.
+UA03 added.
+UA04 added.
+UA05 added.
+UA06 added.
+UA07 added.
+UA08 added.
+UA09 added.
+UA10 added.
+UW07 Trend Mastermind added.
+MA01 Ulamog, the Earth Engulfed added.
+MZ01 Zaila, Her Will Be Done added.
+
+CA04 Unmake removed.
+
+CW01 Volunteer Firewatch
+
+CW02 Startouched Devout
+rules_text: When Startouched Devout enters, put a +1/+1 counter on target creature.
+{1}{C}, {T}: Fragment Startouched Devout. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => When this creature enters, put a +1/+1 counter on target creature.
+{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+
+CW03 Tireless Iterator
+
+CW04 Pedigree Collector
+rules_text: When Pedigree Collector enters, create a 1/1 white Dog creature token.
+[i]United [/i]— Whenever this creature attacks with two or more tokens, target attacking creature gains first strike until end of turn. => When this creature enters, create a 1/1 white Dog creature token.
+[i]United [/i]— Whenever this creature attacks with two or more tokens, target attacking creature gains first strike until end of turn.
+
+CW06 East District Brute
+
+CW07 Aerial Enforcer
+rules_text: Flying
+Whenever an opponent loses life for the first time each turn, Aerial Enforcer gets +1/+1 until end of turn. => Flying
+Whenever an opponent loses life for the first time each turn, this creature gets +1/+1 until end of turn.
+pt: 2/3 => 3/2
+
+CW08 Mournful Matriarch
+rules_text: When Mournful Matriarch dies, choose one —
+• Create a 1/1 white Spirit creature token. You gain 1 life.
+• Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => When this creature dies, choose one —
+• Create a 1/1 white Spirit creature token. You gain 1 life.
+• Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+
+CW09 Zaila's Willbender
+rules_text: Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+When Zaila's Willbender enters, exile target nonland permanent with mana value 2 or less until Zaila's Willbender leaves the battlefield. => Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+When this creature enters, exile target nonland permanent with mana value 2 or less until this creature leaves the battlefield.
+
+CW10 Opalwing Cavalry
+rules_text: Flying
+Whenever Opalwing Cavalry attacks with one or more Vehicles, attacking creatures get +1/+1 until end of turn. => Flying
+Whenever this creature attacks with one or more Vehicles, attacking creatures get +1/+1 until end of turn.
+
+CW05 Upgrade the Force
+
+CW11 Sundering Strike
+
+CW12 Take to the Skies
+
+CW13 Bring Malfunction
+
+CW14 Oligarch's Supercar
+rules_text: Autopilot {1}{W} [i](You may pay a Vehicle's autopilot cost instead of crewing it.)[/i]
+Oligarch's Supercar gets +2/+2 and has lifelink if it wasn't crewed this turn.
+Crew 1 => Autopilot {1}{W} [i]({1}{W}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+This Vehicle gets +2/+2 and has lifelink if it wasn't crewed this turn.
+Crew 1
+
+CU01 Intrepid Aviator
+rules_text: Flying
+Whenever Intrepid Aviator attacks with or crews a Vehicle, surveil 1.
+{3}{U}: Untap Intrepid Aviator. => Flying
+Whenever this creature attacks with or crews a Vehicle, surveil 1.
+{3}{U}: Untap this creature.
+
+CU02 Diviner of Relics
+
+CU03 Task Force Operatives
+
+CU05 Startouched Analyst
+rules_text: When Startouched Analyst enters, draw a card.
+{1}{C}, {T}: Fragment Startouched Analyst. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => When this creature enters, draw a card.
+{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+
+CU06 Winterfell Walker
+rules_text: You may cast this spell as though it had flash if {C} is spent to cast it.
+When Winterfell Walker enters, target creature gets -6/-0 until Winterfell Walker leaves the battlefield. => You may cast this spell as though it had flash if {C} is spent to cast it.
+When this creature enters, target creature gets -6/-0 until this creature leaves the battlefield.
+
+CU07 Mastbreaker
+rules_text: Mastbreaker can't be blocked and has ward {2} as long as the void called this turn. [i](Once on each of your turns, the void calls when a card enters your graveyard from your hand or library.)[/i]
+{1}{U}: Target player mills two cards. Activate only as a sorcery and only once each turn. => This creature can't be blocked and has ward {2} as long as the void called this turn. [i](Once on each of your turns, the void calls when a card enters your graveyard from your hand or library.)[/i]
+{1}{U}: Target player mills two cards. Activate only as a sorcery and only once each turn.
+
+CU09 Eldritch Command
+
+CU08 Pass Unscathed
+
+CU11 Impart Knowledge
+
+CU10 Taken By The Storm
+
+CU12 Hedron Imprisonment
+
+CU13 Duchy Flagship
+rules_text: Flash
+Creatures that crewed Duchy Flagship this turn have hexproof.
+Crew 1 => Flash
+Creatures that crewed this Vehicle this turn have hexproof.
+Crew 1
+
+CU14 Zephyr Piercer
+rules_text: Autopilot {1}{U} [i](You may pay a Vehicle's autopilot cost instead of crewing it.)[/i]
+Zephyr Piercer gets +2/+2 and has flying if it wasn't crewed this turn.
+Crew 1 => Autopilot {1}{U} [i]({1}{U}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+This Vehicle gets +2/+2 and has flying if it wasn't crewed this turn.
+Crew 1
+
+CB01 Herald of the End
+rules_text: Haste
+When the void calls, put a +1/+1 counter or a deathtouch counter on Herald of the End. [i](Once on each of your turns, the void calls when a card enters your graveyard from your hand or library.)[/i] => Haste
+When the void calls, put a +1/+1 counter or a deathtouch counter on this creature. [i](Once on each of your turns, the void calls when a card enters your graveyard from your hand or library.)[/i]
+
+CB02 Luxuries Merchant
+
+CB03 Bloodsworn Subjugator
+rules_text: When Bloodsworn Subjugator enters the battlefield, create a colorless 1/1 Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+{2}, Sacrifice a creature: Put a +1/+1 counter on Bloodsworn Subjugator. => When this creature enters, create a colorless 1/1 Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+{2}, Sacrifice a creature: Put a +1/+1 counter on this creature.
+
+CB04 Sanguine Suppressor
+rules_text: Whenever you gain life for the first time each turn, each opponent loses 1 life.
+{2}{B}: Sanguine Suppressor gains deathtouch and lifelink until end of turn. => Whenever you gain life for the first time each turn, each opponent loses 1 life.
+{2}{B}: This creature gains deathtouch and lifelink until end of turn.
+
+CB05 Lantern Stalker
+rules_text: When Lantern Stalker enters, surveil 1.
+When the void calls, Lantern Stalker gets +1/+0 and gains menace until end of turn. [i](Once on each of your turns, the void calls when a card enters your graveyard from your hand or library.)[/i] => When this creature enters, surveil 1.
+When the void calls, this creature gets +1/+0 and gains menace until end of turn. [i](Once on each of your turns, the void calls when a card enters your graveyard from your hand or library.)[/i]
+pt: 3/3 => 3/2
+
+CB06 Paradigm Enforcer
+
+CB07 Vault Bandits
+
+CB08 Brethren Trio
+rules_text: When Brethren Trio enters, create two black 1/1 Cultist creature tokens with “Sacrifice this creature: Target player mills a card. Activate only as a sorcery.” => When this creature enters, create two black 1/1 Cultist creature tokens with “Sacrifice this creature: Target player mills a card. Activate only as a sorcery.”
+
+CB09 Startouched Assassin
+rules_text: When Startouched Assassin enters the battlefield, each opponent loses 2 life and you gain 2 life.
+{1}{C}, {T}: Fragment Startouched Assassin. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => When this creature enters, each opponent loses 2 life and you gain 2 life.
+{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+
+CB13 Succumb
+
+CB10 Harrowing Transformation
+
+CB11 Learn From Loss
+
+CB12 Compelled to Die
+
+CB14 Nightgrasp
+
+CR02 Eyekissed Invoker
+rules_text: Menace
+{R}, Sacrifice Eyekissed Invoker: It deals 2 damage to target player. Activate only if the void called this turn. => Menace
+{R}, Sacrifice this creature: It deals 2 damage to target player. Activate only if the void called this turn.
+
+CR01 Hotwire Prodigy
+rules_text: Haste
+Whenever Hotwire Prodigy attacks with or crews a Vehicle, that vehicle gets +1/+0 until end of turn. => Haste
+Whenever this creature attacks with or crews a Vehicle, that vehicle gets +1/+0 until end of turn.
+
+CR03 Steelsuit Consultant
+rules_text: Haste
+Whenever one or more artifact creatures you control attack, Steelsuit Consultant deals 1 damage to any target. => Haste
+Whenever one or more artifact creatures you control attack, this creature deals 1 damage to any target.
+
+CR04 Colossus Showman
+rules_text: When Colossus Showman enters, create a tapped Treasure token.
+Colossus Showman gets +2/+2 and has menace as long as you've cast a spell with mana value 4 or greater this turn. => When this creature enters, create a tapped Treasure token.
+This creature gets +2/+2 and has menace as long as you've cast a spell with mana value 4 or greater this turn.
+
+CR05 Magma Scribe
+rules_text: {2}{R}: Discard a card, then draw a card.
+When the void calls, Magma Scribe gains first strike until end of turn. [i](Once on each of your turns, the void calls when a card enters your graveyard from your hand or library.)[/i] => {2}{R}: Discard a card, then draw a card.
+When the void calls, this creature gains first strike until end of turn. [i](Once on each of your turns, the void calls when a card enters your graveyard from your hand or library.)[/i]
+
+CR06 Startouched Blitzer
+rules_text: When Startouched Blitzer enters, it deals damage to any target equal to its power.
+{1}{C}, {T}: Fragment Startouched Blitzer. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => When this creature enters, it deals damage equal to its power to any target.
+{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+
+CR08 Spire Defender
+rules_text: Reach
+When Spire Defender enters, search your library for a Vehicle card with mana value 2 or less and put it onto the battlefield. It gains haste and becomes an artifact creature until end of turn. Sacrifice it at end of turn. => Reach
+When this creature enters, search your library for a Vehicle card with mana value 2 or less and put it onto the battlefield. It gains haste and becomes an artifact creature until end of turn. Sacrifice it at end of turn.
+
+CR09 Crag Prowler
+rules_text: Flying, haste
+Crag Prowler enters with a +1/+1 counter on it if you control another creature with mana value 4 or greater. => Flying, haste
+This creature enters with a +1/+1 counter on it if you control another creature with mana value 4 or greater.
+
+CR07 Igneous Uprising
+
+CR10 In Eldritch Flame
+
+CR11 Commune with Silence
+
+CR12 Pyre
+
+CR13 Incendiary Charger
+rules_text: Trample
+{1}{R}, Sacrifice Incendiary Charger: It deals 6 damage to target creature or planeswalker. Activate this ability only if Incendiary Charger is a creature.
+Crew 2 => Trample
+{1}{R}, Sacrifice this Vehicle: It deals 6 damage to target creature or planeswalker. Activate this ability only if this Vehicle is a creature.
+Crew 2
+
+CR14 Task Force Hotrod
+rules_text: Autopilot {1}{R} [i](You may pay a Vehicle's autopilot cost instead of crewing it.)[/i]
+Task Force Hotrod gets +2/+2 and has menace if it wasn't crewed this turn.
+Crew 1 => Autopilot {1}{R} [i]({1}{R}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+This Vehicle gets +2/+2 and has menace if it wasn't crewed this turn.
+Crew 1
+
+CG01 Wreckage Inquisitors
+rules_text: Wreckage Inquisitors gets +1/+1 as long as you control a token.
+{2}{G}: Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => This creature gets +1/+1 as long as you control a token.
+{2}{G}: Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+
+CG05 Startouched Arborist
+rules_text: When Startouched Arborist enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{1}{C}, {T}: Fragment Startouched Arborist. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => When this creature enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+
+CG03 Deathrite Mystic
+rules_text: Whenever you sacrifice one or more creatures, put a +1/+1 counter on Deathrite Mystic. => Whenever you sacrifice one or more creatures, put a +1/+1 counter on this creature.
+
+CG04 First Responders
+rules_text: When First Responders enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+{2}, Sacrifice a token: First Responders gets +2/+0 and gains trample until end of turn. => When this creature enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+{2}, Sacrifice a token: This creature gets +2/+0 and gains trample until end of turn.
+pt: 2/2 => 3/2
+
+CG08 Streetway Incursion
+
+CG06 World Whisperer
+rules_text: When World Whisperer enters, create a colorless 1/1 Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+{1}{G}: Target token creature you control gains deathtouch until end of turn. Activate only once each turn and only outside of combat. => When this creature enters, create a colorless 1/1 Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+{1}{G}: Target token creature you control gains deathtouch until end of turn. Activate only once each turn and only outside of combat.
+
+CG07 Hirehand Gunner
+rules_text: Whenever you investigate for the first time each turn, Hirehand Gunner gets +2/+2 and gains vigilance until end of turn. => Whenever you investigate for the first time each turn, this creature gets +2/+2 and gains vigilance until end of turn.
+
+CG02 Verge Drifter
+rules_text: Haste
+[i]United — [/i]Whenever Verge Drifter attacks with two or more tokens, you gain 2 life. => Haste
+[i]United — [/i]Whenever this creature attacks with two or more tokens, you gain 2 life.
+
+CG09 Starbreaker Juvenile
+rules_text: Vigilance, reach
+Whenever you cast a spell with mana value 4 or greater, if Starbreaker Juvenile has no counters on it, put two +1/+1 counters on it. => Vigilance, reach
+Whenever you cast a spell with mana value 4 or greater, if this creature has no counters on it, put two +1/+1 counters on it.
+
+CG10 Barksplitter Colossus
+rules_text: Trample
+When Barksplitter Colossus enters, create either one 3/3 green Treefolk creature token or three 1/1 green Saproling creature tokens.
+{1}{G}, Discard this card: Create a 1/1 green Saproling creature token. Surveil 1. => Trample
+When this creature enters, create either one 3/3 green Treefolk creature token or three 1/1 green Saproling creature tokens.
+{1}{G}, Discard this card: Create a 1/1 green Saproling creature token. Surveil 1.
+
+CG11 A Hole in the Sky
+
+CG13 Blooming Overgrowth
+
+CG12 Donnybrook
+
+CG14 Unethical Enhancements
+rules_text: Enchant creature
+When Unethical Enhancements enters the battlefield, if it's attached to a token, draw a card.
+Enchanted creature gets +2/+2 and has trample. => Enchant creature
+When this Aura enters the battlefield, if it's attached to a token, draw a card.
+Enchanted creature gets +2/+2 and has trample.
+
+CA01 Chrysalis of Flesh
+rules_text: Whenever Chrysalis of Flesh deals combat damage to a player, that player exiles that many cards from the top of their library.
+{3}: Chrysalis of Flesh gets +1/+1 until end of turn. => Whenever this creature deals combat damage to a player, that player exiles that many cards from the top of their library.
+{3}: This creature gets +1/+1 until end of turn.
+
+CA02 Voices of the Severed
+rules_text: Menace
+Whenever you fragment a creature, put a +1/+1 counter on Voices of the Severed. => Menace
+Whenever you fragment a creature, put a +1/+1 counter on this creature.
+
+CA05 Thin the Veil
+rules_text: Search your library for a basic land card, reveal it, put it into your hand, then shuffle. If a land named Wastes was revealed this way, each opponent loses 1 life and you gain 1 life. => Search your library for a basic land card, reveal it, put it into your hand, then shuffle. If a card named Wastes was revealed this way, each opponent loses 1 life and you gain 1 life.
+
+CA06 Portmaster's Firearm
+
+CA07 Obsidian Reliquary
+rules_text: When Obsidian Reliquary enters, investigate.
+{4}, {T}, Sacrifice Obsidian Reliquary: Destroy target creature. Activate only as a sorcery. => When this artifact enters, investigate.
+{4}, {T}, Sacrifice this artifact: Destroy target creature. Activate only as a sorcery.
+
+CA08 Arcwhip Emitter
+rules_text: Autopilot {R} [i](You may pay a Vehicle's autopilot cost instead of crewing it.)[/i]
+Whenever Arcwhip Emitter deals combat damage to a player, if it wasn't crewed this turn, it deals 1 damage to any target.
+Crew 1 => Autopilot {R} [i]({R}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Whenever this Vehicle deals combat damage to a player, if it wasn't crewed this turn, it deals 1 damage to any target.
+Crew 1
+
+CA09 Pine Blitzer
+rules_text: Autopilot {2} [i](You may pay a Vehicle's autopilot cost instead of crewing it.)[/i]
+Haste
+Crew 2 => Autopilot {2} [i]({2}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Haste
+Crew 2
+
+CA10 Corrupted Hedron
+rules_text: When Corrupted Hedron enters, investigate.
+{T}: Add {C}{C}. => When this artifact enters, investigate.
+{T}: Add {C}{C}.
+
+CA11 Steelform Willshaper
+
+UZ01 Splintering Edict
+cost: {2}{W}{U} => {1}{W}{U}
+rules_text: Choose one. If {C}{C} was paid to cast this spell, instead choose two —
+• You draw two cards and gain 2 life.
+• Fragment up to two target creatures with total mana value 6 or less.
+• Counter target spell. => Choose one. If {C} was paid to cast this spell, instead you may choose both —
+• Fragment up to two target creatures with total mana value 6 or less. [i](To fragment a creature, its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+• Counter target spell.
+
+UZ02 Afflict Thought
+rules_text: Target opponent reveals their hand. You choose a nonland card from it. Exile that card. Then if the void called this turn, that opponent discards a card. => Target opponent reveals their hand. You choose a nonland card from it. Exile that card. Then if the void called this turn, that opponent discards a card. [i](Once on each of your turns, the void calls when a card enters your graveyard from your hand or library.)[/i]
+
+UZ03 Obsessive Ritualist
+rules_text: When Obsessive Ritualist enters, you may pay {1} and discard a card. If you do, draw a card.
+As long as the void called this turn, Obsessive Ritualist gets +1/+1 and has deathtouch and haste. => When this creature enters, you may pay {1} and discard a card. If you do, draw a card.
+As long as the void called this turn, this creature gets +1/+1 and has deathtouch and haste. [i](Once on each of your turns, the void calls when a card enters your graveyard from your hand or library.)[/i]
+
+UZ04 Restless Summoners
+rules_text: {T}: Add one mana of any type. When you next cast a spell with mana value 4 or greater this turn, untap Restless Summoners. [i](The types of mana are {C}, {W}, {U}, {B}, {R}, and {G}.)[/i] => {T}: Add one mana of any type. When you next cast a spell with mana value 4 or greater this turn, untap this creature. [i](The types of mana are {C}, {W}, {U}, {B}, {R}, and {G}.)[/i]
+
+UZ05 Oathbound Stalwart
+rules_text: Vigilance
+[i]United [/i]— Whenever this creature enters or attacks with two or more tokens, create a 1/1 white Human Soldier creature token. => Vigilance
+When this creature enters, create a 1/1 white Human Soldier creature token.
+[i]United [/i]— Whenever this creature attacks with two or more tokens, create a 1/1 white Human Soldier creature token.
+
+UZ06 Paid Off
+rules_text: Extort
+Enchant creature
+Enchanted creature can't attack you, and can't block if its controller lost life this turn. => Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+Enchant creature
+Enchanted creature can't attack you, and can't block if its controller lost life this turn.
+
+UZ09 Stormqueller Galleon
+rules_text: Autopilot {2}{R}{W} [i](You may pay a Vehicle's autopilot cost instead of crewing it.)[/i]
+Whenever Stormqueller Galleon attacks, if it wasn't crewed this turn, put a +1/+1 counter on it. It gains first strike and menace until end of turn.
+Crew 2 => Autopilot {2}{R}{W} [i]({2}{R}{W}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Whenever this Vehicle attacks, if it wasn't crewed this turn, put a +1/+1 counter on it. It gains first strike and menace until end of turn.
+Crew 2
+
+UZ08 Sludge Trawler
+rules_text: Devoid [i](This card has no color.)[/i]
+Trample
+Whenever you sacrifice a creature you control to pay the cost of a spell or ability, put a +1/+1 counter on Sludge Trawler. => Devoid [i](This card has no color.)[/i]
+Trample
+Whenever you sacrifice a creature you control to pay the cost of a spell or ability, put a +1/+1 counter on this creature.
+pt: 2/2 => 3/2
+
+UZ07 Admired Aeronaut
+rules_text: Flying
+Whenever you cast a spell that targets a Vehicle attacking with or crewed by Admired Aeronaut, you may pay {U}{R}. If you do, copy that spell. You may choose new targets for the copy. => Flying
+Whenever you cast a spell that targets a Vehicle attacking with or crewed by this creature, you may pay {U}{R}. If you do, copy that spell. You may choose new targets for the copy.
+
+UZ10 Lantha, Task Force Sergeant
+rules_text: Activated abilities of artifacts you control cost {1} less to activate. This effect can't reduce the amount of mana you pay to activate an ability to less than one mana.
+{2}, {T}: Investigate. => Activated abilities of artifacts you control cost {1} less to activate. This effect can't reduce the amount of mana you pay to activate an ability to less than one mana.
+{2}, {T}: Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+
+CU04 Ravenfolk Adept
+rules_text: Flying
+When Ravenfolk Adept enters, surveil 1.
+{2}{U}, Discard this card: Counter target noncreature spell. Surveil 1. => Flying
+When this creature enters, surveil 1.
+{2}{U}, Discard this card: Counter target noncreature spell. Surveil 1.
+
+UZ11 Black Site Enhancer
+
+UZ12 Voidwing Kite
+
+UZ13 Soulsiphon Initiate
+rules_text: {B}{R}, Discard a card: Target creature gets -2/-2 until end of turn. When that creature dies this turn, put a +1/+1 counter on Soulsiphon Initiate.
+When Soulsiphon Initiate dies, it deals damage equal to its power to any target. => {B}{R}, Discard a card: Target creature gets -2/-2 until end of turn. When that creature dies this turn, put a +1/+1 counter on this creature.
+When this creature dies, it deals damage equal to its power to any target.
+
+UZ14 Voice of the Roaring Wind
+
+UZ15 In Strength Entwined
+
+UZ16 Karsten, the Spinner
+
+UZ17 Smuggler's Hovercar
+rules_text: Autopilot {1}{U}
+Smuggler's Hovercar is an artifact creature and has haste as long as it entered this turn.
+Whenever Smuggler's Hovercar attacks, draw a card, then discard a card unless it wasn't crewed this turn. It gains flying until end of turn.
+Crew 1 => Autopilot {1}{U} [i]({1}{U}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Whenever this Vehicle attacks, draw a card, then discard a card unless it wasn't crewed this turn. It gains flying until end of turn.
+Crew 1
+pt: 2/2 => 3/2
+
+UZ18 Ravaged Eviscerator
+rules_text: Devoid [i](This card has no color.)[/i]
+When Ravaged Eviscerator enters, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+{2}, Sacrifice a creature: Surveil 1, then draw a card. => Devoid [i](This card has no color.)[/i]
+When this creature enters, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+{2}, Sacrifice a creature: Surveil 1, then draw a card.
+
+UZ19 Pulverizing Helix
+
+UZ20 Adaptive Agent
+rules_text: Whenever you investigate or draw your second card each turn, put a +1/+1 counter or a trample counter on target creature you control.
+Adaptive Agent can't be blocked as long as its power is 5 or greater. => Whenever you investigate or draw your second card each turn, put a +1/+1 counter or a trample counter on target creature you control.
+This creature can't be blocked as long as its power is 5 or greater.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 
