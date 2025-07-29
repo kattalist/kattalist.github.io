@@ -1,4 +1,370 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+UG02 Elden Rite Shaman added.
+UG03 Forgotten Naturalist added.
+UG04 Yestergrove Relic added.
+UG05 Curio Broker added.
+UG06 Botanical Conference added.
+UG07 Violeteye Savage added.
+UG08 Unwavering Broodmother added.
+UG09 Willowvine Sentinel added.
+UG10 Bitten By the Void added.
+UR11 Occupation added.
+UR12 Blinding Immolation added.
+UG13 Rejuvenating Coda added.
+UG14 Confidential Science added.
+UG01 Gossip Tracker added.
+UR08 Flamerush added.
+UR10 Rage Beyond Reason added.
+UG12 Unfamiliar Vegetation added.
+UR13 For the Cause added.
+UR01 Ashen Ravager added.
+UR02 Mutation Investigator added.
+UR03 Preemption Engineer added.
+UR04 Sacrifice Archivist added.
+UR05 Wildfire Aven added.
+UR06 Forgotten Lane Busker added.
+UR07 Pinefell Terror added.
+UR09 Sweep of Agony added.
+UR14 Pyretic Dreadnought added.
+UA01 Forsaken Acolyte added.
+UA02 Three-Eye Scrier added.
+UA03 Endward Harbinger added.
+UA04 Mesa Devourer added.
+UA05 Eternity Takes added.
+UA06 Prismatic Splinter added.
+UA07 Fateblur Cloak added.
+UA08 Winterfell Locomotive added.
+UA09 Hall of Innovation added.
+UA10 Promising Vista added.
+RG01 Moonrise added.
+RZ02 Lantha Uncovers The Truth added.
+RA01 Bear Witness added.
+
+UG02 removed.
+UG03 removed.
+UG04 removed.
+UG05 removed.
+UG06 removed.
+UG07 removed.
+UG08 removed.
+UG09 removed.
+UG10 removed.
+UR11 removed.
+UR12 removed.
+UG13 removed.
+UG14 removed.
+UG01 removed.
+UR08 removed.
+UR09 removed.
+UG12 removed.
+UR13 removed.
+UR01 removed.
+UR02 removed.
+UR03 removed.
+UR04 removed.
+UR05 removed.
+UR06 removed.
+UR07 removed.
+UR10 removed.
+UR14 removed.
+UA01 removed.
+UA02 removed.
+UA03 removed.
+UA04 removed.
+UA05 removed.
+UA06 removed.
+UA07 removed.
+UA08 removed.
+UA09 removed.
+UA10 removed.
+
+CW01 Volunteer Firewatch
+
+CW02 Startouched Devout
+
+CW03 Tireless Iterator
+
+CW04 Pedigree Collector
+
+CW06 East District Brute
+
+CW07 Aerial Enforcer
+
+CW08 Mournful Matriarch
+
+CW09 Zaila's Willbender
+
+CW10 Opalwing Cavalry
+
+CW05 Upgrade the Force
+
+CW11 Sundering Strike
+
+CW12 Take to the Skies
+
+CW13 Bring Malfunction
+
+CW14 Oligarch's Supercar
+
+CU01 Intrepid Aviator
+
+CU02 Diviner of Relics
+
+CU03 Task Force Operatives
+
+CU05 Startouched Analyst
+
+CU06 Winterfell Walker
+
+CU07 Mastbreaker
+
+CU09 Eldritch Command
+
+CU08 Pass Unscathed
+
+CU11 Impart Knowledge
+
+CU10 Taken By The Storm
+
+CU12 Hedron Imprisonment
+
+CU13 Duchy Flagship
+
+CU14 Zephyr Piercer
+
+CB01 Herald of the End
+
+CB02 Luxuries Merchant
+
+CB03 Bloodsworn Subjugator
+
+CB04 Sanguine Suppressor
+
+CB05 Lantern Stalker
+
+CB06 Paradigm Enforcer
+
+CB07 Vault Bandits
+
+CB08 Brethren Trio
+
+CB09 Startouched Assassin
+
+CB13 Succumb
+
+CB10 Harrowing Transformation
+
+CB11 Learn From Loss
+
+CB12 Compelled to Die
+
+CB14 Nightgrasp
+
+CR02 Eyekissed Invoker
+
+CR01 Hotwire Prodigy
+
+CR03 Steelsuit Consultant
+
+CR04 Colossus Showman
+
+CR05 Magma Scribe
+
+CR06 Startouched Blitzer
+
+CR08 Spire Defender
+
+CR09 Crag Prowler
+
+CR07 Igneous Uprising
+
+CR10 In Eldritch Flame
+
+CR11 Commune with Silence
+
+CR12 Pyre
+
+CR13 Incendiary Charger
+
+CR14 Task Force Hotrod
+
+CG01 Wreckage Inquisitors
+
+CG05 Startouched Arborist
+
+CG03 Deathrite Mystic
+
+CG04 First Responders
+
+CG08 Streetway Incursion
+
+CG06 World Whisperer
+
+CG07 Hirehand Gunner
+
+CG02 Verge Drifter
+
+CG09 Starbreaker Juvenile
+
+CG10 Barksplitter Colossus
+
+CG11 A Hole in the Sky
+
+CG13 Blooming Overgrowth
+
+CG12 Donnybrook
+
+CG14 Unethical Enhancements
+
+CA06 Portmaster's Firearm
+
+CA07 Obsidian Reliquary
+
+CA08 Arcwhip Emitter
+
+CA09 Pine Blitzer
+
+CA10 Corrupted Hedron
+
+CA11 Steelform Willshaper
+
+UZ01 Splintering Edict
+
+UZ02 Afflict Thought
+
+UZ03 Obsessive Ritualist
+
+UZ04 Restless Summoners
+
+UZ05 Oathbound Stalwart
+
+UZ06 Paid Off
+
+UZ09 Stormqueller Galleon
+
+UZ08 Sludge Trawler
+
+UZ07 Admired Aeronaut
+
+UZ10 Lantha, Task Force Sergeant
+
+CU04 Ravenfolk Adept
+
+UZ11 Black Site Enhancer
+
+UZ12 Voidwing Kite
+
+UZ13 Soulsiphon Initiate
+
+UZ14 Voice of the Roaring Wind
+
+UZ15 In Strength Entwined
+
+UZ16 Karsten, the Spinner
+
+UZ17 Smuggler's Hovercar
+
+UZ18 Ravaged Eviscerator
+
+UZ19 Pulverizing Helix
+
+UZ20 Adaptive Agent
+
+UW01 Sky Force Retiree
+
+UW02 Scape Surveyor
+
+UW03 Skyiron Shaper
+
+UW04 Thousand-Mind Cutthroat
+
+UW05 North District Prior
+
+UW06 Cabaret Seductress
+
+RZ01 Paragon of Opulence
+
+UW08 Triumphant Cavalier
+
+UW14 First-Class Skyship
+
+UW09 Forgotten Pontiff
+
+UW10 Leave No Trace
+
+UW11 Induced Catatonia
+
+UW12 Academic Excellence
+
+UW13 Strength of the Departed
+
+UU01 Watchman of the Deep
+
+UU02 Steelsuit Retrofitter
+
+UU03 Port Inspector
+
+UU04 Ego Devourer
+
+UU05 Dean of Science
+
+UU06 Void Empyrean
+
+UU09 In the Nick of Time
+
+UU08 Fade
+
+UU07 Mindbreak Shield
+
+UU13 Ancestral Voidstone
+
+UU11 Consult the Titans
+
+UU10 Forgotten Rites
+
+UU12 Wiped Clean
+
+UU14 Triumph, Taken by the Roil
+
+UB01 Shingle Trawler
+
+UB02 Karsten's Enforcer
+
+UB03 Festering Eyemass
+
+UB04 Flesh Shredder
+
+UB05 Corpse Inspectors
+
+UB06 Epitaph Lurkers
+
+UB07 Brethren Priestess
+
+UB12 Quick and Painful
+
+UG11 Ancient Stirrings
+
+UB14 Indoctrination
+
+UB08 Outlands Predator
+pt: 4/3 => 4/4
+
+UB09 Slay the Broken
+
+UB10 Too Quiet
+
+UB11 Acolyte's Torment
+
+UB13 Channel the Dark
+
+UW07 Trend Mastermind
+
+MZ01 Zaila, Her Will Be Done
+
+
+VERSION 6 CHANGELOG
 ====================
 
 UB01 Shingle Trawler added.
