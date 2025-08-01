@@ -1,4 +1,495 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+RZ06 Paragon of Opulence added.
+UA07 Prismatic Splinter added.
+UA06 Fateblur Cloak added.
+RG04 Moonrise added.
+RZ11 Lantha Uncovers The Truth added.
+RW01 Wingsuit Architect added.
+RW02 Liano, Prole's Champion added.
+RW03 Aspect of Subjugation added.
+RW04 Coda of Resilience added.
+RW05 Destined End added.
+RW06 Boom of Industry added.
+RU01 Nascent Intern added.
+RU02 Auspicious Coroners added.
+RU03 Scion of Insanity added.
+RU04 Coda of Ingenuity added.
+RU05 added.
+RU06 added.
+RB01 Haunted Starlet added.
+RB02 added.
+RB03 added.
+RB05 added.
+RB04 Coda of Persistence added.
+RB06 added.
+RR01 added.
+RR02 added.
+RR03 added.
+RR04 Coda of Triumph added.
+RR05 added.
+RR06 added.
+RG02 added.
+RG01 added.
+RG03 added.
+RG06 added.
+RG05 added.
+RZ03 added.
+RZ04 added.
+RZ05 added.
+RZ01 added.
+RZ07 added.
+RZ08 added.
+RZ09 added.
+RZ10 added.
+RZ02 added.
+RZ12 added.
+RZ13 added.
+RZ14 added.
+RZ15 added.
+MB02 Graven Confidant added.
+MU02 Acolyte of Knowledge added.
+RL01 Mystic Gate added.
+RL02 Sunken Ruins added.
+RL03 Graven Cairns added.
+RL04 Fire-Lit Thicket added.
+RL05 Wooded Bastion added.
+RL11 Reality Cusp added.
+MZ02 Unfathomable Conflux added.
+RL06 Fetid Heath added.
+RL07 Cascade Bluffs added.
+RL08 Twilight Mire added.
+RL09 Rugged Prairie added.
+RL10 Flooded Grove added.
+RA02 added.
+RA03 added.
+RA04 added.
+RA05 added.
+RA06 added.
+RA07 added.
+RA08 added.
+RA09 added.
+RA10 added.
+MZ03 added.
+MZ04 added.
+MZ05 added.
+MZ06 added.
+MZ07 added.
+MW01 added.
+MW02 added.
+MU01 added.
+MB01 added.
+MR01 added.
+MR02 added.
+MG01 added.
+MG02 added.
+MA02 Kozilek, the Bonds Unmade added.
+MA03 Emrakul, the Sky Sundered added.
+
+RZ01 Paragon of Opulence removed.
+UA06 Prismatic Splinter removed.
+UA07 Fateblur Cloak removed.
+RG01 Moonrise removed.
+RZ02 Lantha Uncovers The Truth removed.
+
+CW01 Volunteer Firewatch
+
+CW02 Startouched Devout
+
+CW03 Tireless Iterator
+
+CW04 Pedigree Collector
+
+CW06 East District Brute
+
+CW07 Aerial Enforcer
+
+CW08 Mournful Matriarch
+
+CW09 Zaila's Willbender
+
+CW10 Opalwing Cavalry
+
+CW05 Upgrade the Force
+
+CW11 Sundering Strike
+
+CW12 Take to the Skies
+
+CW13 Bring Malfunction
+
+CW14 Oligarch's Supercar
+
+CU01 Intrepid Aviator
+
+CU02 Diviner of Relics
+
+CU03 Task Force Operatives
+
+CU05 Startouched Analyst
+
+CU06 Winterfell Walker
+
+CU07 Mastbreaker
+
+CU09 Eldritch Command
+
+CU08 Pass Unscathed
+
+CU11 Impart Knowledge
+
+CU10 Taken By The Storm
+
+CU12 Hedron Imprisonment
+
+CU13 Duchy Flagship
+
+CU14 Zephyr Piercer
+
+CB01 Herald of the End
+
+CB02 Luxuries Merchant
+
+CB03 Bloodsworn Subjugator
+
+CB04 Sanguine Suppressor
+
+CB05 Lantern Stalker
+
+CB06 Paradigm Enforcer
+
+CB07 Vault Bandits
+
+CB08 Brethren Trio
+
+CB09 Startouched Assassin
+
+CB13 Succumb
+
+CB10 Harrowing Transformation
+
+CB11 Learn From Loss
+
+CB12 Compelled to Die
+
+CB14 Nightgrasp
+
+CR02 Eyekissed Invoker
+
+CR01 Hotwire Prodigy
+
+CR03 Steelsuit Consultant
+
+CR04 Colossus Showman
+
+CR05 Magma Scribe
+
+CR06 Startouched Blitzer
+
+CR08 Spire Defender
+
+CR09 Crag Prowler
+
+CR07 Igneous Uprising
+
+CR10 In Eldritch Flame
+
+CR11 Commune with Silence
+
+CR12 Pyre
+
+CR13 Incendiary Charger
+
+CR14 Task Force Hotrod
+
+CG01 Wreckage Inquisitors
+
+CG05 Startouched Arborist
+
+CG03 Deathrite Mystic
+
+CG04 First Responders
+
+CG08 Streetway Incursion
+
+CG06 World Whisperer
+
+CG07 Hirehand Gunner
+
+CG02 Verge Drifter
+
+CG09 Starbreaker Juvenile
+
+CG10 Barksplitter Colossus
+
+CG11 A Hole in the Sky
+
+CG13 Blooming Overgrowth
+
+CG12 Donnybrook
+
+CG14 Unethical Enhancements
+
+CA03 Old Ones Envoy
+
+CA06 Portmaster's Firearm
+
+CA07 Obsidian Reliquary
+
+CA08 Arcwhip Emitter
+
+CA09 Pine Blitzer
+
+CA10 Corrupted Hedron
+
+CA11 Steelform Willshaper
+
+UZ01 Splintering Edict
+
+UZ02 Afflict Thought
+
+UZ03 Obsessive Ritualist
+
+UZ04 Restless Summoners
+
+UZ05 Oathbound Stalwart
+
+UZ06 Paid Off
+
+UZ09 Stormqueller Galleon
+
+UZ08 Sludge Trawler
+
+UZ07 Admired Aeronaut
+
+UZ10 Lantha, Task Force Sergeant
+
+CU04 Ravenfolk Adept
+
+UZ11 Black Site Enhancer
+
+UZ12 Voidwing Kite
+
+UZ13 Soulsiphon Initiate
+
+UZ14 Voice of the Roaring Wind
+
+UZ15 In Strength Entwined
+
+UZ16 Karsten, the Spinner
+
+UZ17 Smuggler's Hovercar
+
+UZ18 Ravaged Eviscerator
+
+UZ19 Pulverizing Helix
+
+UZ20 Adaptive Agent
+
+UW01 Sky Force Retiree
+
+UW02 Scape Surveyor
+
+UW03 Skyiron Shaper
+
+UW04 Thousand-Mind Cutthroat
+
+UW05 North District Prior
+
+UW06 Cabaret Seductress
+
+UW08 Triumphant Cavalier
+
+UW14 First-Class Skyship
+
+UW09 Forgotten Pontiff
+
+UW10 Leave No Trace
+
+UW11 Induced Catatonia
+
+UW12 Academic Excellence
+
+UW13 Strength of the Departed
+
+UU01 Watchman of the Deep
+rules_text: Defender
+As long as the void called this turn, this creature gets +3/+0 and can attack as though it didn't have defender.
+{2}{U}: Surveil 1. => Defender
+As long as the void called this turn, this creature gets +3/+0 and can attack as though it didn't have defender. [i](Once on each of your turns, the void calls when a card enters your graveyard from your hand or library.)[/i]
+{2}{U}: Surveil 1.
+
+UU02 Steelsuit Retrofitter
+
+UU03 Port Inspector
+rules_text: Vigilance
+When this creature enters or attacks, investigate.
+If you would draw your second card this turn, instead surveil 1, then draw a card. => Vigilance
+When this creature enters or attacks, if you control no Clues, investigate.
+If you would draw your second card this turn, instead surveil 1, then draw a card.
+
+UU04 Ego Devourer
+
+UU05 Dean of Science
+rules_text: When this creature enters, you may sacrifice an artifact. If you do, put a hexproof counter on this creature.
+{2}, Sacrifice an artifact: Counter target spell unless its controller pays {1}. => When this creature enters, you may sacrifice an artifact. If you do, put a hexproof counter on this creature.
+{3}, Sacrifice an artifact: Draw two cards, then discard a card.
+
+UU06 Void Empyrean
+rules_text: Devoid [i](This card has no color.)[/i]
+Flying
+Whenever this creature deals combat damage to a player, look at the top three cards of that player's library. Put one of them on top of their library and the rest into their graveyard. => Devoid [i](This card has no color.)[/i]
+Flying
+Whenever this creature deals combat damage to a player, look at the top three cards of that player's library. Put one on top of their library and the rest into their graveyard.
+
+UU09 In the Nick of Time
+
+UU08 Fade
+
+UU07 Mindbreak Shield
+
+UU13 Ancestral Voidstone
+rules_text: When this artifact enters, surveil 2.
+{T}: Add {C}. Surveil 1. => When this artifact enters, surveil 2.
+{T}: Add {C}. 
+{1}, {T}: Surveil 1.
+
+UU11 Consult the Titans
+
+UU10 Forgotten Rites
+rules_text: Choose X. You may choose the same mode more than once —
+• Create a 1/1 white Spirit creature token with flying.
+• Draw a card, then discard a card.
+• Investigate. => Choose X plus one. You may choose the same mode more than once —
+• Create a 1/1 white Spirit creature token with flying.
+• Draw a card, then discard a card.
+• Investigate.
+
+UU12 Wiped Clean
+
+UU14 Triumph, Taken by the Roil
+
+UB01 Shingle Trawler
+
+UG02 Elden Rite Shaman
+
+UG03 Forgotten Naturalist
+
+UG04 Yestergrove Relic
+
+UG05 Curio Broker
+
+UG06 Botanical Conference
+pt: 4/4 => 4/3
+
+UG07 Violeteye Savage
+
+UG08 Unwavering Broodmother
+
+UG09 Willowvine Sentinel
+
+UG10 Bitten By the Void
+
+UR11 Occupation
+
+UR12 Blinding Immolation
+
+UG13 Rejuvenating Coda
+
+UG14 Confidential Science
+
+UG01 Gossip Tracker
+
+UB02 Karsten's Enforcer
+
+UB03 Festering Eyemass
+
+UB04 Flesh Shredder
+
+UB05 Corpse Inspectors
+
+UB06 Epitaph Lurkers
+
+UB07 Brethren Priestess
+
+UR08 Flamerush
+
+UR10 Rage Beyond Reason
+
+UB12 Quick and Painful
+
+UG11 Ancient Stirrings
+
+UG12 Unfamiliar Vegetation
+
+UR13 For the Cause
+
+UB14 Indoctrination
+
+UR01 Ashen Ravager
+
+UR02 Mutation Investigator
+
+UR03 Preemption Engineer
+
+UR04 Sacrifice Archivist
+
+UR05 Wildfire Aven
+
+UR06 Forgotten Lane Busker
+
+UR07 Pinefell Terror
+
+UB08 Outlands Predator
+
+UB09 Slay the Broken
+
+UR09 Sweep of Agony
+
+UB10 Too Quiet
+
+UB11 Acolyte's Torment
+
+UB13 Channel the Dark
+
+UR14 Pyretic Dreadnought
+
+UA01 Forsaken Acolyte
+
+UA02 Three-Eye Scrier
+
+UA03 Endward Harbinger
+
+UA04 Mesa Devourer
+
+UA05 Eternity Takes
+
+UA08 Winterfell Locomotive
+
+UA09 Hall of Innovation
+
+UA10 Promising Vista
+
+UW07 Trend Mastermind
+
+MA01 Ulamog, the Earth Engulfed
+
+MZ01 Zaila, Her Will Be Done
+rules_text: ​
+[i][/i] => [+1]: ​
+[-2]: ​
+[-10]: Search your library for any number of Eldrazi creature cards, put them onto the battlefield, then shuffle.
+special_text: ​
+[i][/i] => [+1]: ​
+[-2]: ​
+[-10]: Search your library for any number of Eldrazi creature cards, put them onto the battlefield, then shuffle.
+loyalty:  => 6
+
+RA01 Bear Witness
+
+
+VERSION 7 CHANGELOG
 ====================
 
 UG02 Elden Rite Shaman added.
