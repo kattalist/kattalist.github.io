@@ -1,4 +1,433 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+RZ12 Reality Schism added.
+
+RZ12 removed.
+
+CW01 Volunteer Firewatch
+
+CW02 Startouched Devout
+
+CW03 Tireless Iterator
+
+CW04 Pedigree Collector
+
+CW06 East District Brute
+
+CW07 Aerial Enforcer
+
+CW08 Mournful Matriarch
+
+CW09 Zaila's Willbender
+
+CW10 Opalwing Cavalry
+
+CW05 Upgrade the Force
+
+CW11 Sundering Strike
+
+CW12 Take to the Skies
+
+CW13 Bring Malfunction
+
+CW14 Oligarch's Supercar
+
+CU01 Intrepid Aviator
+
+CU02 Diviner of Relics
+
+CU03 Task Force Operatives
+
+CU05 Startouched Analyst
+
+CU06 Winterfell Walker
+
+CU07 Mastbreaker
+
+CU09 Eldritch Command
+
+CU08 Pass Unscathed
+
+CU11 Impart Knowledge
+
+CU10 Taken By The Storm
+
+CU12 Hedron Imprisonment
+
+CU13 Duchy Flagship
+
+CU14 Zephyr Piercer
+
+CB01 Herald of the End
+
+CB02 Luxuries Merchant
+rules_text: Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+Exile this card from your graveyard: Target opponent loses 1 life and you gain 1 life. => Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+When this creature dies, you may exile it from your graveyard. If you do, target opponent loses 1 life and you gain 1 life.
+
+CB03 Bloodsworn Subjugator
+
+CB04 Sanguine Suppressor
+
+CB05 Lantern Stalker
+
+CB06 Paradigm Enforcer
+
+CB07 Vault Bandits
+
+CB08 Brethren Trio
+
+CB09 Startouched Assassin
+
+CB13 Succumb
+
+CB10 Harrowing Transformation
+
+CB11 Learn From Loss
+
+CB12 Compelled to Die
+
+CB14 Nightgrasp
+
+CR02 Eyekissed Invoker
+
+CR01 Hotwire Prodigy
+
+CR03 Steelsuit Consultant
+
+CR04 Colossus Showman
+
+CR05 Magma Scribe
+
+CR06 Startouched Blitzer
+
+CR08 Spire Defender
+
+CR09 Crag Prowler
+
+CR07 Igneous Uprising
+
+CR10 In Eldritch Flame
+
+CR11 Commune with Silence
+
+CR12 Pyre
+
+CR13 Incendiary Charger
+
+CR14 Task Force Hotrod
+
+CG01 Wreckage Inquisitors
+
+CG05 Startouched Arborist
+
+CG03 Deathrite Mystic
+
+CG04 First Responders
+
+CG08 Streetway Incursion
+
+CG06 World Whisperer
+
+CG07 Hirehand Gunner
+
+CG02 Verge Drifter
+
+CG09 Starbreaker Juvenile
+
+CG10 Barksplitter Colossus
+
+CG11 A Hole in the Sky
+
+CG13 Blooming Overgrowth
+
+CG12 Donnybrook
+
+CG14 Unethical Enhancements
+
+CU04 Ravenfolk Adept
+
+UZ15 In Strength Entwined
+rules_text: Whenever a token creature enters the battlefield under your control, put a +1/+1 counter on it. If this is the first time this ability has resolved this turn, you gain 3 life. => Whenever a token creature enters the battlefield under your control, put a +1/+1 counter on it. If this is the first time this ability has resolved this turn, you gain 2 life.
+
+UW01 Sky Force Retiree
+
+UW02 Scape Surveyor
+
+UW03 Skyiron Shaper
+
+UW04 Thousand-Mind Cutthroat
+
+UW05 North District Prior
+
+UW06 Cabaret Seductress
+
+RZ06 Paragon of Opulence
+
+UW08 Triumphant Cavalier
+
+UW14 First-Class Skyship
+
+UW09 Forgotten Pontiff
+
+UW10 Leave No Trace
+
+UW11 Induced Catatonia
+
+UW12 Academic Excellence
+
+UW13 Strength of the Departed
+rules_text: Enchant creature
+When this Aura enters, create two 1/1 white Spirit creature tokens with flying.
+[i]United —[/i] Whenever enchanted creature attacks with two or more tokens, it gets +2/+2 until end of turn and you gain 2 life. => Enchant creature
+When this Aura enters, create two 1/1 white Spirit creature tokens with flying.
+[i]United —[/i] Whenever enchanted creature attacks with two or more tokens, it gets +2/+2 until end of turn.
+
+UU01 Watchman of the Deep
+
+UU02 Steelsuit Retrofitter
+
+UU03 Port Inspector
+
+UU04 Ego Devourer
+
+UU05 Dean of Science
+
+UU06 Void Empyrean
+
+UU09 In the Nick of Time
+
+UU08 Fade
+
+UU07 Mindbreak Shield
+
+UU13 Ancestral Voidstone
+
+UU11 Consult the Titans
+
+UU10 Forgotten Rites
+
+UU12 Wiped Clean
+
+UU14 Triumph, Taken by the Roil
+
+UB01 Shingle Trawler
+
+UG02 Elden Rite Shaman
+
+UG03 Forgotten Naturalist
+
+UG04 Yestergrove Relic
+
+UG05 Curio Broker
+
+UG06 Botanical Conference
+
+UG07 Violeteye Savage
+
+UG08 Unwavering Broodmother
+
+UG09 Willowvine Sentinel
+
+UG10 Bitten By the Void
+
+UR11 Occupation
+
+UR12 Blinding Immolation
+
+UG13 Rejuvenating Coda
+
+UG14 Confidential Science
+
+UG01 Gossip Tracker
+
+UB02 Karsten's Enforcer
+
+UB03 Festering Eyemass
+
+UB04 Flesh Shredder
+
+UB05 Corpse Inspectors
+
+UB06 Epitaph Lurkers
+
+UB07 Brethren Priestess
+
+UR08 Flamerush
+
+UR10 Rage Beyond Reason
+
+UB12 Quick and Painful
+
+UG11 Ancient Stirrings
+
+UG12 Unfamiliar Vegetation
+
+UR13 For the Cause
+
+UB14 Indoctrination
+
+UR01 Ashen Ravager
+
+UR02 Mutation Investigator
+
+UR03 Preemption Engineer
+
+UR04 Sacrifice Archivist
+
+UR05 Wildfire Aven
+
+UR06 Forgotten Lane Busker
+
+UR07 Pinefell Terror
+
+UB08 Outlands Predator
+
+UB09 Slay the Broken
+
+UR09 Sweep of Agony
+
+UB10 Too Quiet
+
+UB11 Acolyte's Torment
+
+UB13 Channel the Dark
+
+UR14 Pyretic Dreadnought
+
+UA01 Forsaken Acolyte
+
+UA02 Three-Eye Scrier
+
+UA03 Endward Harbinger
+
+UA04 Mesa Devourer
+
+UA05 Eternity Takes
+
+UA10 Promising Vista
+rules_text: This land enters the battlefield tapped.
+When this land enters, add {C}.
+{T}: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. => This land enters the battlefield tapped.
+When this land enters, add {C}.
+{T}: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+
+UW07 Trend Mastermind
+
+MZ01 Zaila, Her Will Be Done
+rules_text: [+1]: ​
+[-2]: ​
+[-10]: Search your library for any number of Eldrazi creature cards, put them onto the battlefield, then shuffle. => [+1]: Search your library for a colorless creature card with mana value greater than the number of loyalty counters on Zaila, reveal it, put it into your hand, then shuffle.
+[-1]: Until end of turn, whenever you tap a land for mana, add an additional {C}.
+[-10]: Each opponent sacrifices a number of permanents equal to the greatest mana value among creatures you control.
+special_text: [+1]: ​
+[-2]: ​
+[-10]: Search your library for any number of Eldrazi creature cards, put them onto the battlefield, then shuffle. => [+1]: Search your library for a colorless creature card with mana value greater than the number of loyalty counters on Zaila, reveal it, put it into your hand, then shuffle.
+[-1]: Until end of turn, whenever you tap a land for mana, add an additional {C}.
+[-10]: Each opponent sacrifices a number of permanents equal to the greatest mana value among creatures you control.
+
+RG04 Moonrise
+
+RZ11 Lantha Uncovers The Truth
+
+RW01 Wingsuit Architect
+
+RW02 Liano, Prole's Champion
+
+RW03 Aspect of Subjugation
+
+RW04 Coda of Resilience
+
+RW05 Destined End
+
+RW06 Boom of Industry
+
+RU01 Nascent Intern
+
+RU02 Auspicious Coroners
+
+RU03 Scion of Insanity
+
+RU04 Coda of Ingenuity
+
+RU05
+
+RU06
+
+RB01 Haunted Starlet
+
+RB02
+cost: {2}{B} => {B}{B}
+rules_text: Ward—Pay 3 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)[/i] => Menace
+You may cast this card from your graveyard as long as the void called this turn. If you do, it enters with a haste counter on it.
+pt:  => 3/3
+
+RB03
+
+RB05
+
+RB04 Coda of Persistence
+
+RB06
+
+RR01
+
+RR02
+
+RR03
+
+RR04 Coda of Triumph
+
+RR05
+
+RR06
+
+RG02
+
+RG01
+
+RG03
+
+RG06
+
+RG05
+
+RZ03
+
+RZ04
+
+RZ05
+
+RZ01
+
+RZ07
+
+RZ08
+type:  => Sorcery
+rules_text:  => Mill X cards, where X is 1 plus the number of cards named RZ08 in your graveyard. You may return a permanent card with mana value X or less from your graveyard to the battlefield.
+A deck can have any number of cards named RZ08.
+
+RZ09
+
+RZ10
+
+RZ02
+
+RZ13
+
+RZ14
+
+RZ15
+
+MB02 Graven Confidant
+
+MU02 Acolyte of Knowledge
+
+MZ02 Unfathomable Conflux
+
+
+VERSION 8 CHANGELOG
 ====================
 
 RZ06 Paragon of Opulence added.
