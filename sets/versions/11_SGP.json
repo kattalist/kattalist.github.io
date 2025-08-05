@@ -488,7 +488,7 @@
             "type": "Instant",
             "number": 88,
             "color_identity": "U",
-            "cost": "{1}{C}{U}",
+            "cost": "{C}{U}",
             "rules_text": "Devoid [i](This card has no color.)[/i]\nChoose one \u2014\n\u2022 Counter target spell unless its controller pays {2}.\n\u2022 Fragment target creature. [i](Its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -498,7 +498,7 @@
             "loyalty": "",
             "artist": "Ryan Van Dongen",
             "alias": "",
-            "notes": "Void count 1"
+            "notes": "Void count 1\n\n4 Aug 2025: Reduced from 1CU to CU"
         },
         {
             "card_name": "CU08 Pass Unscathed",
@@ -539,14 +539,14 @@
             "notes": "15 Jul 2025: Reduced cost, but added discard if you don't control a Clue\n16 Jul 2025: Broadened to controlling any artifact, then switched draw to impulse. To compensate, raised cost from 1U to 2U\n\nVoid count 3"
         },
         {
-            "card_name": "CU10 Taken By The Storm",
+            "card_name": "CU10 Taken by the Storm",
             "color": "U",
             "rarity": "common",
             "type": "Instant",
             "number": 89,
             "color_identity": "U",
-            "cost": "{3}{U}",
-            "rules_text": "Put target creature on top of its owner's library. If the void called this turn, put it on the bottom of its owner's library instead. [i](Once on each of your turns, the void calls when a card enters your graveyard from your hand or library.)[/i]",
+            "cost": "{1}{U}",
+            "rules_text": "Return target creature to its owner's hand. If the void called this turn, its controller puts it on the top or bottom of their library instead. [i](Once on each of your turns, the void calls when a card enters your graveyard from your hand or library.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -555,7 +555,7 @@
             "loyalty": "",
             "artist": "Bastien Grivet",
             "alias": "",
-            "notes": "Void count 1"
+            "notes": "4 Aug 2025: Switched to bounce/top or bottom instead of top/bottom, and reduced cost from 3U to 1U"
         },
         {
             "card_name": "CU12 Hedron Imprisonment",
@@ -660,16 +660,16 @@
             "number": 117,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "When this creature enters, create a colorless 1/1 Eldrazi Scion creature token with \u201cSacrifice this creature: Add {C}.\u201d\n{2}, Sacrifice a creature: Put a +1/+1 counter on this creature.",
+            "rules_text": "This creature has menace as long as its power is 4 or greater or you control a token.\n{2}, Sacrifice a creature: Put a +1/+1 counter on this creature.",
             "flavor_text": "[i][/i]",
-            "pt": "2/1",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Veli Nystrom",
             "alias": "",
-            "notes": "Void count 1\n17 Jul 2025: Pump effect now costs 2 mana instead of 1"
+            "notes": "Void count 1\n17 Jul 2025: Pump effect now costs 2 mana instead of 1\n4 Aug 2025: Switched to not be a token producer, just a sac outlet, but gets conditional menace and is now a 2/2 from a 2/1"
         },
         {
             "card_name": "CB04 Sanguine Suppressor",
@@ -1382,7 +1382,7 @@
             "number": 194,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Destroy target artifact, enchantment, or creature with flying.\nIf it's your turn, create a colorless 1/1 Eldrazi Scion creature token with \u201cSacrifice this creature: Add {C}.\u201d",
+            "rules_text": "This spell costs {1} less to cast if you control an Eldrazi.\nDestroy target artifact, enchantment, or creature with flying.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1391,7 +1391,7 @@
             "loyalty": "",
             "artist": "Andreas Rocha",
             "alias": "",
-            "notes": "15 Jul 2025: Switched from disenchant to bite\n18 Jul 2025: Switched back to disenchant with flyer removal, but raised cost from 1G to 2G"
+            "notes": "15 Jul 2025: Switched from disenchant to bite\n18 Jul 2025: Switched back to disenchant with flyer removal, but raised cost from 1G to 2G\n5 Aug 2025: Changed to cost reduction instead of token creation"
         },
         {
             "card_name": "CG13 Blooming Overgrowth",
@@ -1952,7 +1952,7 @@
             "number": 243,
             "color_identity": "BR",
             "cost": "{B}{R}",
-            "rules_text": "{B}{R}, Discard a card: Target creature gets -2/-2 until end of turn. When that creature dies this turn, put a +1/+1 counter on this creature.\nWhen this creature dies, it deals damage equal to its power to any target.",
+            "rules_text": "Whenever this creature attacks, you may pay {B}{R} and discard a card. If you do, put a +1/+1 counter on this creature and it gains menace until end of turn.\nWhen this creature dies, it deals damage equal to its power to any target.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -1961,7 +1961,7 @@
             "loyalty": "",
             "artist": "Jason Nguyen",
             "alias": "",
-            "notes": ""
+            "notes": "4 Aug 2025: Removed removal ability and switched to pump attack trigger"
         },
         {
             "card_name": "UZ14 Voice of the Roaring Wind",
@@ -2275,16 +2275,16 @@
             "number": 74,
             "color_identity": "W",
             "cost": "{5}{W}",
-            "rules_text": "Lifelink\nAt the beginning of your upkeep, if you have at least 5 life more than your starting life total, you may pay {W}{W}. If you do, exile target creature until this creature leaves the battlefield.",
+            "rules_text": "Lifelink\nAt the beginning of your upkeep, if you have more life than your starting life total, tap target creature an opponent controls.",
             "flavor_text": "[i][/i]",
-            "pt": "3/6",
+            "pt": "4/6",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Thomas Ricci",
             "alias": "",
-            "notes": ""
+            "notes": "4 Aug 2025: Switched effect to tap if > 21 instead of exile if > 25, and buffed from 3/6 to 4/6"
         },
         {
             "card_name": "UW10 Leave No Trace",
@@ -2465,7 +2465,7 @@
             "number": 106,
             "color_identity": "U",
             "cost": "{5}{U}{U}",
-            "rules_text": "Devoid [i](This card has no color.)[/i]\nFlying\nWhenever this creature deals combat damage to a player, look at the top three cards of that player's library. Put one on top of their library and the rest into their graveyard.",
+            "rules_text": "Devoid [i](This card has no color.)[/i]\nFlying\nWhenever this creature deals combat damage to a player, surveil 3.",
             "flavor_text": "[i][/i]",
             "pt": "5/6",
             "special_text": "",
@@ -2474,7 +2474,7 @@
             "loyalty": "",
             "artist": "Erskine Designs",
             "alias": "",
-            "notes": "Worried about this \u2014 you can basically prevent your opponent from drawing any answer"
+            "notes": "Worried about this \u2014 you can basically prevent your opponent from drawing any answer\n\n4 Aug 2025: Switched effect to surveil 3 instead of fateseal 3 for now"
         },
         {
             "card_name": "UU09 In the Nick of Time",
@@ -2484,7 +2484,7 @@
             "number": 109,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
-            "rules_text": "This spell costs {1}{U} less to cast if a permanent you control is the target of a spell or ability.\nCounter target spell.",
+            "rules_text": "Counter target spell. If that spell targeted one or more permanents you control, put a ward {2} counter on those permanents.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2579,7 +2579,7 @@
             "number": 110,
             "color_identity": "U",
             "cost": "{X}{U}",
-            "rules_text": "Choose X plus one. You may choose the same mode more than once \u2014\n\u2022 Create a 1/1 white Spirit creature token with flying.\n\u2022 Draw a card, then discard a card.\n\u2022 Investigate.",
+            "rules_text": "Choose X. You may choose the same mode more than once \u2014\n\u2022 Create a 1/1 white Spirit creature token with flying.\n\u2022 Draw a card, then discard a card.\n\u2022 Investigate.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2997,7 +2997,7 @@
             "number": 141,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "When this creature enters, create a 1/1 black Cultist creature token with \u201cSacrifice this creature: Target player mills a card. Activate only as a sorcery.\u201d\nWhenever a creature you control with power and toughness 1 dies, each opponent loses 1 life.",
+            "rules_text": "When this creature enters, create a 1/1 black Cultist creature token with \u201cSacrifice this creature: Target player mills a card. Activate only as a sorcery.\u201d\nWhenever a creature you control with base power and toughness 1 dies, each opponent loses 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -3073,7 +3073,7 @@
             "number": 147,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Destroy target creature. Surveil 1, then its controller loses life equal to the number of cards in your graveyard.",
+            "rules_text": "Destroy target creature. Surveil 1, then its controller loses 3 life if there are seven or more cards in your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3082,7 +3082,7 @@
             "loyalty": "",
             "artist": "Dariusz Kieliszek",
             "alias": "",
-            "notes": ""
+            "notes": "4 Aug 2025: Changed life drain to set amount if threshold met"
         },
         {
             "card_name": "UG11 Ancient Stirrings",
@@ -3415,7 +3415,7 @@
             "number": 183,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
-            "rules_text": "This Vehicle is an artifact creature and has haste as long as it entered the battlefield this turn.\nWhenever this Vehicle deals combat damage to a player, it deals 2 damage to each non-artifact creature.\nCrew 4",
+            "rules_text": "This Vehicle is an artifact creature and has haste as long as it entered this turn.\nWhenever this Vehicle deals combat damage to a player, it deals 2 damage to each non-artifact creature.\nCrew 4",
             "flavor_text": "[i][/i]",
             "pt": "7/7",
             "special_text": "",
@@ -3700,10 +3700,10 @@
             "number": 230,
             "color_identity": "WUG",
             "cost": "{G}{W}{U}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Investigate twice. You gain 2 life.\nIII \u2014 Sacrifice any number of Clues you control, then draw that many cards.\nSacrifice any number of Clues, then draw that many cards.",
+            "rules_text": "\nI, II \u2014 Investigate twice. You gain 2 life.\nIII \u2014 Sacrifice any number of Clues you control, then draw that many cards.\nSacrifice any number of Clues, then draw that many cards.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Investigate twice. You gain 2 life.\nIII \u2014 Sacrifice any number of Clues you control, then draw that many cards.\nSacrifice any number of Clues, then draw that many cards.",
+            "special_text": "\nI, II \u2014 Investigate twice. You gain 2 life.\nIII \u2014 Sacrifice any number of Clues you control, then draw that many cards.\nSacrifice any number of Clues, then draw that many cards.",
             "shape": "saga",
             "set": "SGP",
             "loyalty": "",
@@ -3931,21 +3931,21 @@
             "notes": ""
         },
         {
-            "card_name": "RU05",
+            "card_name": "RU05 Roiling Undertow",
             "color": "U",
             "rarity": "rare",
-            "type": "",
+            "type": "Sorcery",
             "number": 99,
             "color_identity": "U",
-            "cost": "{U}",
-            "rules_text": "",
+            "cost": "{2}{U}{U}",
+            "rules_text": "Each player chooses up to one creature they control and puts a shard counter on it. Then, return all creatures without counters on them to their owners' hands. [i](Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
-            "artist": "",
+            "artist": "Michael Lazidis",
             "alias": "",
             "notes": ""
         },
@@ -4387,14 +4387,14 @@
             "notes": ""
         },
         {
-            "card_name": "RZ08",
+            "card_name": "RZ08 Till the Soil",
             "color": "BG",
             "rarity": "rare",
             "type": "Sorcery",
             "number": 227,
             "color_identity": "BG",
             "cost": "{B}{G}",
-            "rules_text": "Mill X cards, where X is 1 plus the number of cards named RZ08 in your graveyard. You may return a permanent card with mana value X or less from your graveyard to the battlefield.\nA deck can have any number of cards named RZ08.",
+            "rules_text": "Mill X cards, where X is 1 plus the number of cards named Till the Soil in your graveyard. You may return a permanent card with mana value X or less from your graveyard to the battlefield.\nA deck can have any number of cards named Till the Soil.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4698,7 +4698,7 @@
             "number": 219,
             "color_identity": "UR",
             "cost": "{U}{U}{R}{R}",
-            "rules_text": "Unfathomable Conflux deals 10 damage to you.\nTake an extra turn after this one.",
+            "rules_text": "Unfathomable Conflux deals 7 damage to you.\nTake an extra turn after this one.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4707,7 +4707,7 @@
             "loyalty": "",
             "artist": "Alena Aenami",
             "alias": "",
-            "notes": ""
+            "notes": "5 Aug 2024: Reduced damage from 10 to 7"
         },
         {
             "card_name": "RL06 Fetid Heath",
@@ -5230,7 +5230,7 @@
             "number": 7,
             "color_identity": "C",
             "cost": "{12}",
-            "rules_text": "",
+            "rules_text": "Indestructible\nYour maximum hand size is twelve.\nWhenever Kozilek attacks, if you have fewer than seven cards in your hand, draw three cards and add {C}{C}{C}. Until end of turn, you don't lose this mana as steps and phases end.",
             "flavor_text": "[i][/i]",
             "pt": "12/12",
             "special_text": "",

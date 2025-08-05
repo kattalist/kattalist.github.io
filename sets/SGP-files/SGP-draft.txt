@@ -253,7 +253,7 @@
 		{
 			"name": "CU09 Eldritch Command",
 			"rarity": "common",
-			"mana_cost": "{1}{C}{U}",
+			"mana_cost": "{C}{U}",
 			"type": "Instant",
 			"collector_number": "88",
 			"image_uris": {
@@ -281,13 +281,13 @@
 			}
 		},
 		{
-			"name": "CU10 Taken By The Storm",
+			"name": "CU10 Taken by the Storm",
 			"rarity": "common",
-			"mana_cost": "{3}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/89_CU10 Taken By The Storm.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/89_CU10 Taken by the Storm.png"
 			}
 		},
 		{
@@ -2068,13 +2068,13 @@
 			}
 		},
 		{
-			"name": "RU05",
+			"name": "RU05 Roiling Undertow",
 			"rarity": "rare",
-			"mana_cost": "{U}",
-			"type": "",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/99_RU05.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/99_RU05 Roiling Undertow.png"
 			}
 		},
 		{
@@ -2308,13 +2308,13 @@
 			}
 		},
 		{
-			"name": "RZ08",
+			"name": "RZ08 Till the Soil",
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
 			"type": "Sorcery",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/227_RZ08.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/227_RZ08 Till the Soil.png"
 			}
 		},
 		{
@@ -2786,7 +2786,7 @@
 	2 RU02 Auspicious Coroners
 	2 RU03 Scion of Insanity
 	2 RU04 Coda of Ingenuity
-	2 RU05
+	2 RU05 Roiling Undertow
 	2 RU06
 	2 RB01 Haunted Starlet
 	2 RB02
@@ -2810,7 +2810,7 @@
 	2 RZ05
 	2 RZ01
 	2 RZ07
-	2 RZ08
+	2 RZ08 Till the Soil
 	2 RZ09
 	2 RZ10
 	2 RZ02
@@ -2981,7 +2981,7 @@
 	8 CU09 Eldritch Command
 	8 CU08 Pass Unscathed
 	8 CU11 Impart Knowledge
-	8 CU10 Taken By The Storm
+	8 CU10 Taken by the Storm
 	8 CU12 Hedron Imprisonment
 	8 CU13 Duchy Flagship
 	8 CU14 Zephyr Piercer
@@ -3063,7 +3063,7 @@
 	12 CU09 Eldritch Command
 	12 CU08 Pass Unscathed
 	12 CU11 Impart Knowledge
-	12 CU10 Taken By The Storm
+	12 CU10 Taken by the Storm
 	12 CU12 Hedron Imprisonment
 	12 CU13 Duchy Flagship
 	12 CU14 Zephyr Piercer
@@ -3237,7 +3237,7 @@
 	2 RU02 Auspicious Coroners
 	2 RU03 Scion of Insanity
 	2 RU04 Coda of Ingenuity
-	2 RU05
+	2 RU05 Roiling Undertow
 	2 RU06
 	2 RB01 Haunted Starlet
 	2 RB02
@@ -3261,7 +3261,7 @@
 	2 RZ05
 	2 RZ01
 	2 RZ07
-	2 RZ08
+	2 RZ08 Till the Soil
 	2 RZ09
 	2 RZ10
 	2 RZ02
@@ -3331,7 +3331,7 @@
 	6 CU09 Eldritch Command
 	6 CU08 Pass Unscathed
 	6 CU11 Impart Knowledge
-	6 CU10 Taken By The Storm
+	6 CU10 Taken by the Storm
 	6 CU12 Hedron Imprisonment
 	6 CU13 Duchy Flagship
 	6 CU14 Zephyr Piercer
@@ -3505,7 +3505,7 @@
 	7 RU02 Auspicious Coroners
 	7 RU03 Scion of Insanity
 	7 RU04 Coda of Ingenuity
-	7 RU05
+	7 RU05 Roiling Undertow
 	7 RU06
 	7 RB01 Haunted Starlet
 	7 RB02
@@ -3529,7 +3529,7 @@
 	7 RZ05
 	7 RZ01
 	7 RZ07
-	7 RZ08
+	7 RZ08 Till the Soil
 	7 RZ09
 	7 RZ10
 	7 RZ02

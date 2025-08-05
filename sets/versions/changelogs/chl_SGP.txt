@@ -1,4 +1,102 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+CU10 Taken by the Storm added.
+RU05 Roiling Undertow added.
+RZ08 Till the Soil added.
+
+CU10 Taken By The Storm removed.
+RU05 removed.
+RZ08 removed.
+
+CU09 Eldritch Command
+cost: {1}{C}{U} => {C}{U}
+
+CB03 Bloodsworn Subjugator
+rules_text: When this creature enters, create a colorless 1/1 Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+{2}, Sacrifice a creature: Put a +1/+1 counter on this creature. => This creature has menace as long as its power is 4 or greater or you control a token.
+{2}, Sacrifice a creature: Put a +1/+1 counter on this creature.
+pt: 2/1 => 2/2
+
+CG11 A Hole in the Sky
+rules_text: Destroy target artifact, enchantment, or creature with flying.
+If it's your turn, create a colorless 1/1 Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.” => This spell costs {1} less to cast if you control an Eldrazi.
+Destroy target artifact, enchantment, or creature with flying.
+
+UZ13 Soulsiphon Initiate
+rules_text: {B}{R}, Discard a card: Target creature gets -2/-2 until end of turn. When that creature dies this turn, put a +1/+1 counter on this creature.
+When this creature dies, it deals damage equal to its power to any target. => Whenever this creature attacks, you may pay {B}{R} and discard a card. If you do, put a +1/+1 counter on this creature and it gains menace until end of turn.
+When this creature dies, it deals damage equal to its power to any target.
+
+UW09 Forgotten Pontiff
+rules_text: Lifelink
+At the beginning of your upkeep, if you have at least 5 life more than your starting life total, you may pay {W}{W}. If you do, exile target creature until this creature leaves the battlefield. => Lifelink
+At the beginning of your upkeep, if you have more life than your starting life total, tap target creature an opponent controls.
+pt: 3/6 => 4/6
+
+UU06 Void Empyrean
+rules_text: Devoid [i](This card has no color.)[/i]
+Flying
+Whenever this creature deals combat damage to a player, look at the top three cards of that player's library. Put one on top of their library and the rest into their graveyard. => Devoid [i](This card has no color.)[/i]
+Flying
+Whenever this creature deals combat damage to a player, surveil 3.
+
+UU09 In the Nick of Time
+rules_text: This spell costs {1}{U} less to cast if a permanent you control is the target of a spell or ability.
+Counter target spell. => Counter target spell. If that spell targeted one or more permanents you control, put a ward {2} counter on those permanents.
+
+UU10 Forgotten Rites
+rules_text: Choose X plus one. You may choose the same mode more than once —
+• Create a 1/1 white Spirit creature token with flying.
+• Draw a card, then discard a card.
+• Investigate. => Choose X. You may choose the same mode more than once —
+• Create a 1/1 white Spirit creature token with flying.
+• Draw a card, then discard a card.
+• Investigate.
+
+UB06 Epitaph Lurkers
+rules_text: When this creature enters, create a 1/1 black Cultist creature token with “Sacrifice this creature: Target player mills a card. Activate only as a sorcery.”
+Whenever a creature you control with power and toughness 1 dies, each opponent loses 1 life. => When this creature enters, create a 1/1 black Cultist creature token with “Sacrifice this creature: Target player mills a card. Activate only as a sorcery.”
+Whenever a creature you control with base power and toughness 1 dies, each opponent loses 1 life.
+
+UB12 Quick and Painful
+rules_text: Destroy target creature. Surveil 1, then its controller loses life equal to the number of cards in your graveyard. => Destroy target creature. Surveil 1, then its controller loses 3 life if there are seven or more cards in your graveyard.
+
+UR14 Pyretic Dreadnought
+rules_text: This Vehicle is an artifact creature and has haste as long as it entered the battlefield this turn.
+Whenever this Vehicle deals combat damage to a player, it deals 2 damage to each non-artifact creature.
+Crew 4 => This Vehicle is an artifact creature and has haste as long as it entered this turn.
+Whenever this Vehicle deals combat damage to a player, it deals 2 damage to each non-artifact creature.
+Crew 4
+
+RZ11 Lantha Uncovers The Truth
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice any number of Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards. => 
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice any number of Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice any number of Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards. => 
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice any number of Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards.
+
+MZ02 Unfathomable Conflux
+rules_text: Unfathomable Conflux deals 10 damage to you.
+Take an extra turn after this one. => Unfathomable Conflux deals 7 damage to you.
+Take an extra turn after this one.
+
+MA02 Kozilek, the Bonds Unmade
+rules_text:  => Indestructible
+Your maximum hand size is twelve.
+Whenever Kozilek attacks, if you have fewer than seven cards in your hand, draw three cards and add {C}{C}{C}. Until end of turn, you don't lose this mana as steps and phases end.
+
+
+VERSION 10 CHANGELOG
 ====================
 
 No changes.
