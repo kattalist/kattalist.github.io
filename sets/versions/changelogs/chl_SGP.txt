@@ -1,4 +1,620 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+RU06 Unparalleled Efficiency added.
+RB02 Insatiable Slasher added.
+RB03 Mortician's Carriage added.
+RZ04 Salar, the Worldfury added.
+RZ01 Olmin, Royal Liaison added.
+RZ08 Something in the Soil added.
+RZ10 Piece It Together added.
+RZ02 Defuse added.
+CL01 Keeper's Peninsula added.
+CL02 Dusk Vantage added.
+CL03 Lost Settlement added.
+CL04 Cliffrest Tributary added.
+CL05 Village Steeples added.
+CL06 Secluded Avenue added.
+CL07 Cataract Valley added.
+CL08 Outlands Hamlet added.
+CL09 Bronzeglade Peaks added.
+CL10 Lakewatch Ruins added.
+Treasure added.
+
+RU06 removed.
+RB02 removed.
+RB03 removed.
+RZ04 removed.
+RZ01 removed.
+RZ08 Till the Soil removed.
+RZ10 removed.
+RZ02 removed.
+
+CW01 Volunteer Firewatch
+
+CW02 Startouched Devout
+
+CW03 Tireless Iterator
+
+CW04 Pedigree Collector
+
+CW06 East District Brute
+
+CW07 Aerial Enforcer
+
+CW08 Mournful Matriarch
+
+CW09 Zaila's Willbender
+
+CW10 Opalwing Cavalry
+
+CW05 Upgrade the Force
+
+CW11 Sundering Strike
+
+CW12 Take to the Skies
+
+CW13 Bring Malfunction
+
+CW14 Oligarch's Supercar
+
+CU01 Intrepid Aviator
+
+CU02 Diviner of Relics
+
+CU03 Task Force Operatives
+
+CU05 Startouched Analyst
+
+CU06 Winterfell Walker
+
+CU07 Mastbreaker
+
+CU09 Eldritch Command
+
+CU08 Pass Unscathed
+
+CU11 Impart Knowledge
+
+CU10 Taken by the Storm
+
+CU12 Hedron Imprisonment
+
+CU13 Duchy Flagship
+
+CU14 Zephyr Piercer
+
+CB01 Herald of the End
+
+CB02 Luxuries Merchant
+
+CB03 Bloodsworn Subjugator
+
+CB04 Sanguine Suppressor
+
+CB05 Lantern Stalker
+
+CB06 Paradigm Enforcer
+
+CB07 Vault Bandits
+
+CB08 Brethren Trio
+
+CB09 Startouched Assassin
+
+CB13 Succumb
+
+CB10 Harrowing Transformation
+
+CB11 Learn From Loss
+
+CB12 Compelled to Die
+
+CB14 Nightgrasp
+
+CR02 Eyekissed Invoker
+
+CR01 Hotwire Prodigy
+
+CR03 Steelsuit Consultant
+
+CR04 Colossus Showman
+
+CR05 Magma Scribe
+
+CR06 Startouched Blitzer
+cost: {2}{R} => {3}{R}
+pt: 2/3 => 2/4
+
+CR08 Spire Defender
+
+CR09 Crag Prowler
+
+CR07 Igneous Uprising
+
+CR10 In Eldritch Flame
+
+CR11 Commune with Silence
+
+CR12 Pyre
+
+CR13 Incendiary Charger
+
+CR14 Task Force Hotrod
+
+CG01 Wreckage Inquisitors
+
+CG05 Startouched Arborist
+
+CG03 Deathrite Mystic
+
+CG04 First Responders
+
+CG08 Streetway Incursion
+
+CG06 World Whisperer
+
+CG07 Hirehand Gunner
+
+CG02 Verge Drifter
+
+CG09 Starbreaker Juvenile
+
+CG10 Barksplitter Colossus
+
+CG11 A Hole in the Sky
+
+CG13 Blooming Overgrowth
+
+CG12 Donnybrook
+
+CG14 Unethical Enhancements
+
+CA06 Portmaster's Firearm
+
+CA07 Obsidian Reliquary
+
+CA08 Arcwhip Emitter
+
+CA09 Pine Blitzer
+
+CA10 Corrupted Hedron
+
+CA11 Steelform Willshaper
+
+UZ01 Splintering Edict
+
+UZ02 Afflict Thought
+
+UZ03 Obsessive Ritualist
+
+UZ04 Restless Summoners
+
+UZ05 Oathbound Stalwart
+
+UZ06 Paid Off
+
+UZ09 Stormqueller Galleon
+
+UZ08 Sludge Trawler
+type: Creature — Eldrazi Horror => Artifact Creature — Construct Horror
+rules_text: Devoid [i](This card has no color.)[/i]
+Trample
+Whenever you sacrifice a creature you control to pay the cost of a spell or ability, put a +1/+1 counter on this creature. => Devoid [i](This card has no color.)[/i]
+Trample
+Whenever you sacrifice a creature for the first time each turn, you draw a card and lose 1 life.
+Whenever you sacrifice a creature for the second time each turn, put a +1/+1 counter on each of up to two target creatures.
+
+UZ07 Admired Aeronaut
+cost: {UR} => {1}{U}{R}
+rules_text: Flying
+Whenever you cast a spell that targets a Vehicle attacking with or crewed by this creature, you may pay {U}{R}. If you do, copy that spell. You may choose new targets for the copy. => Flying
+Whenever you activate an ability of a Vehicle for the first time each turn, untap up to one target creature you control. If you spent mana to activate that ability, instead add {R} and this creature gets +1/+1 until end of turn.
+pt: 1/1 => 3/2
+
+UZ10 Lantha, Task Force Sergeant
+
+CU04 Ravenfolk Adept
+
+UZ11 Black Site Enhancer
+pt: 3/3 => 2/3
+
+UZ12 Voidwing Kite
+
+UZ13 Soulsiphon Initiate
+
+UZ14 Voice of the Roaring Wind
+
+UZ15 In Strength Entwined
+
+UZ16 Karsten, the Spinner
+
+UZ17 Smuggler's Hovercar
+
+UZ18 Ravaged Eviscerator
+rules_text: Devoid [i](This card has no color.)[/i]
+When this creature enters, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+{2}, Sacrifice a creature: Surveil 1, then draw a card. => Devoid [i](This card has no color.)[/i]
+When this creature enters or deals combat damage to a player, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+{2}, Sacrifice a creature: Surveil 1, then draw a card.
+
+UZ19 Pulverizing Helix
+
+UZ20 Adaptive Agent
+
+UW01 Sky Force Retiree
+
+UW02 Scape Surveyor
+
+UW03 Skyiron Shaper
+rules_text: Vigilance
+Whenever this creature attacks with or crews a Vehicle, you may pay {2}{W}. If you do, that Vehicle gains indestructible until end of turn. This ability triggers only once each turn. => Vigilance
+{2}{W}: Target Vehicle attacking with or crewed by this creature gains indestructible until end of turn. Activate only once each turn.
+
+UW04 Thousand-Mind Cutthroat
+
+UW05 North District Prior
+
+UW06 Cabaret Seductress
+
+RZ06 Paragon of Opulence
+rules_text: Whenever an opponent loses life on your turn outside of your combat phase, create a tapped Treasure token.
+{WB}{WB}{WB}, {T}: Target opponent loses 7 life and you gain 7 life. Spend only mana from artifact sources to activate this ability. => Whenever an opponent loses life on your turn outside of your combat phase, create a tapped Treasure token.
+{W}{W}{B}{B}, {T}: Target opponent loses 7 life and you gain 7 life. Spend only mana from artifact sources to activate this ability.
+
+UW08 Triumphant Cavalier
+
+UW14 First-Class Skyship
+
+UW09 Forgotten Pontiff
+
+UW10 Leave No Trace
+
+UW11 Induced Catatonia
+
+UW12 Academic Excellence
+
+UW13 Strength of the Departed
+
+UU01 Watchman of the Deep
+
+UU02 Steelsuit Retrofitter
+
+UU03 Port Inspector
+
+UU04 Ego Devourer
+
+UU05 Dean of Science
+
+UU06 Void Empyrean
+
+UU09 In the Nick of Time
+
+UU08 Fade
+
+UU07 Mindbreak Shield
+
+UU13 Ancestral Voidstone
+
+UU11 Consult the Titans
+
+UU10 Forgotten Rites
+
+UU12 Wiped Clean
+
+UU14 Triumph, Taken by the Roil
+
+UB01 Shingle Trawler
+
+UG02 Elden Rite Shaman
+
+UG03 Forgotten Naturalist
+
+UG04 Yestergrove Relic
+
+UG05 Curio Broker
+
+UG06 Botanical Conference
+
+UG07 Violeteye Savage
+
+UG08 Unwavering Broodmother
+
+UG09 Willowvine Sentinel
+
+UG10 Bitten By the Void
+
+UR11 Occupation
+
+UR12 Blinding Immolation
+
+UG13 Rejuvenating Coda
+
+UG14 Confidential Science
+
+UG01 Gossip Tracker
+
+UB02 Karsten's Enforcer
+
+UB03 Festering Eyemass
+
+UB04 Flesh Shredder
+
+UB05 Corpse Inspectors
+
+UB06 Epitaph Lurkers
+
+UB07 Brethren Priestess
+
+UR08 Flamerush
+
+UR10 Rage Beyond Reason
+
+UB12 Quick and Painful
+
+UG11 Ancient Stirrings
+
+UG12 Unfamiliar Vegetation
+
+UR13 For the Cause
+
+UB14 Indoctrination
+
+UR01 Ashen Ravager
+
+UR02 Mutation Investigator
+
+UR03 Preemption Engineer
+
+UR04 Sacrifice Archivist
+
+UR05 Wildfire Aven
+cost: {2}{R} => {3}{R}
+rules_text: When this creature enters or deals combat damage to a player, you may discard a card. If you do, draw a card, then draw an additional card if you control a creature with power 5 or greater.
+{R}: This creature gets +1/+0 until end of turn. => When this creature enters or deals combat damage to a player, you may discard a card. If you do, draw a card, then draw an additional card if you control a creature with power 6 or greater.
+{R}: This creature gets +1/+0 until end of turn.
+pt: 3/3 => 4/3
+
+UR06 Forgotten Lane Busker
+
+UR07 Pinefell Terror
+
+UB08 Outlands Predator
+
+UB09 Slay the Broken
+
+UR09 Sweep of Agony
+
+UB10 Too Quiet
+
+UB11 Acolyte's Torment
+
+UB13 Channel the Dark
+
+UR14 Pyretic Dreadnought
+
+UA01 Forsaken Acolyte
+
+UA02 Three-Eye Scrier
+
+UA03 Endward Harbinger
+
+UA04 Mesa Devourer
+
+UA05 Eternity Takes
+
+UA07 Prismatic Splinter
+
+UA06 Fateblur Cloak
+
+UA08 Winterfell Locomotive
+
+UA09 Hall of Innovation
+
+UA10 Promising Vista
+
+UW07 Trend Mastermind
+
+MZ01 Zaila, Her Will Be Done
+
+RG04 Moonrise
+
+RZ11 Lantha Uncovers The Truth
+rules_text: 
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice any number of Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to four Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards.
+special_text: 
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice any number of Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to four Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards.
+
+RA01 Bear Witness
+cost: {C}{C}{C}{C} => {6}
+rules_text: Fragment all creatures. Search your library for a colorless creature card with mana value X or less, where X is the number of creatures fragmented this way, put it onto the battlefield, then shuffle. => Fragment all creatures. If only {C} was spent to cast this spell, search your library for a colorless creature card with mana value X or less, where X is the number of creatures fragmented this way, put it onto the battlefield, then shuffle.
+
+RW01 Wingsuit Architect
+
+RW02 Liano, Prole's Champion
+
+RW03 Aspect of Subjugation
+
+RW04 Coda of Resilience
+
+RW05 Destined End
+
+RW06 Boom of Industry
+
+RU01 Nascent Intern
+
+RU02 Auspicious Coroners
+
+RU03 Scion of Insanity
+
+RU04 Coda of Ingenuity
+
+RU05 Roiling Undertow
+
+RB01 Haunted Starlet
+
+RB05
+
+RB04 Coda of Persistence
+
+RB06
+
+RR01
+
+RR02
+
+RR03
+
+RR04 Coda of Triumph
+
+RR05
+
+RR06
+
+RG02
+
+RG01
+
+RG03
+
+RG06
+
+RG05
+
+RZ03
+
+RZ05
+
+RZ07
+
+RZ09
+
+RZ12 Reality Schism
+
+RZ13
+type:  => Sorcery
+cost:  => {3}
+
+RZ14
+
+RZ15
+
+MB02 Graven Confidant
+pt: 2/1 => 2/2
+
+MU02 Acolyte of Knowledge
+
+RL01 Mystic Gate
+
+RL02 Sunken Ruins
+type:  => Land
+rules_text:  => {T}: Add {C}.
+{UB}, {T}: Add {U}{U}, {U}{B}, or {B}{B}.
+
+RL03 Graven Cairns
+type:  => Land
+rules_text:  => {T}: Add {C}.
+{BR}, {T}: Add {B}{B}, {B}{R}, or {R}{R}.
+
+RL04 Fire-Lit Thicket
+rules_text: {T}: Add {C}.
+{RG}: Add {R}{R}, {R}{G}, or {G}{G}. => {T}: Add {C}.
+{RG}, {T}: Add {R}{R}, {R}{G}, or {G}{G}.
+
+RL05 Wooded Bastion
+type:  => Land
+rules_text:  => {T}: Add {C}.
+{GW}, {T}: Add {G}{G}, {G}{W}, or {W}{W}.
+
+RL11 Reality Cusp
+rules_text: As this land enters, you may choose two colors. If you do, it enters tapped.
+{T}: Add {C} or one mana of either of the chosen colors. => As this land enters, you may choose two colors. If you do, it enters tapped and you gain 1 life.
+{T}: Add {C} or one mana of either of the chosen colors.
+
+MZ02 Unfathomable Conflux
+rules_text: Unfathomable Conflux deals 7 damage to you.
+Take an extra turn after this one. => Unfathomable Conflux deals 7 damage to you.
+Take an extra turn after this one. Exile Unfathomable Conflux.
+
+RL06 Fetid Heath
+type:  => Land
+rules_text:  => {T}: Add {C}.
+{WB}, {T}: Add {W}{W}, {W}{B}, or {B}{B}.
+
+RL07 Cascade Bluffs
+rules_text: {T}: Add {C}.
+{UR}: Add {U}{U}, {U}{R}, or {R}{R}. => {T}: Add {C}.
+{UR}, {T}: Add {U}{U}, {U}{R}, or {R}{R}.
+
+RL08 Twilight Mire
+rules_text: {T}: Add {C}.
+{BG}: Add {B}{B}, {B}{G}, or {G}{G}. => {T}: Add {C}.
+{BG}, {T}: Add {B}{B}, {B}{G}, or {G}{G}.
+
+RL09 Rugged Prairie
+type:  => Land
+rules_text:  => {T}: Add {C}.
+{RW}, {T}: Add {R}{R}, {R}{W}, or {W}{W}.
+
+RL10 Flooded Grove
+type:  => Land
+rules_text:  => {T}: Add {C}.
+{GU}, {T}: Add {G}{G}, {G}{U}, or {U}{U}.
+
+RA02
+
+RA03
+
+RA04
+
+RA05
+
+RA06
+
+RA07
+
+RA08
+
+RA09
+
+RA10
+
+MZ03
+type:  => Instant
+cost:  => {1}{G}{U}
+
+MZ04
+
+MZ05
+
+MZ06
+
+MZ07
+
+MA02 Kozilek, the Bonds Unmade
+rules_text: Indestructible
+Your maximum hand size is twelve.
+Whenever Kozilek attacks, if you have fewer than seven cards in your hand, draw three cards and add {C}{C}{C}. Until end of turn, you don't lose this mana as steps and phases end. => Indestructible
+Your maximum hand size is twelve.
+Whenever Kozilek attacks, if you have seven or fewer cards in your hand, draw five cards and add five {C}. Until end of turn, you don't lose this mana as steps and phases end.
+
+MA03 Emrakul, the Sky Sundered
+rules_text: Ward—Skip your next turn. => Flying, trample, protection from mana value 7 or less
+When you cast this spell, choose beginning phase, main phase, or combat phase. During each opponent's next turn, that player skips each instance of each phase not chosen this way. [i](The beginning phase includes the untap, upkeep, and draw steps. That player doesn't skip the ending phase.)[/i]
+pt: 13/13 => 14/14
+
+
+VERSION 11 CHANGELOG
 ====================
 
 CU10 Taken by the Storm added.
