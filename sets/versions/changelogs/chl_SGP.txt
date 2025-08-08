@@ -1,4 +1,132 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+CU09 Eldritch Rebuttal added.
+
+CU09 Eldritch Command removed.
+
+CU07 Mastbreaker
+rules_text: This creature can't be blocked and has ward {2} as long as the void called this turn. [i](Once on each of your turns, the void calls when a card enters your graveyard from your hand or library.)[/i]
+{1}{U}: Target player mills two cards. Activate only as a sorcery and only once each turn. => This creature can't be blocked and has ward {2} as long as the void called this turn. [i](The void calls when a card enters your graveyard from your hand or library.)[/i]
+{1}{U}: Target player mills two cards. Activate only as a sorcery and only once each turn.
+
+CU10 Taken by the Storm
+rules_text: Return target creature to its owner's hand. If the void called this turn, its controller puts it on the top or bottom of their library instead. [i](Once on each of your turns, the void calls when a card enters your graveyard from your hand or library.)[/i] => Return target creature to its owner's hand. If the void called this turn, its owner puts it on the top or bottom of their library instead. [i](The void calls when a card enters your graveyard from your hand or library.)[/i]
+
+CB01 Herald of the End
+rules_text: Haste
+When the void calls, put a +1/+1 counter or a deathtouch counter on this creature. [i](Once on each of your turns, the void calls when a card enters your graveyard from your hand or library.)[/i] => Haste
+At the beginning of your end step, if the void called this turn, put a +1/+1 counter or a deathtouch counter on this creature. [i](The void calls when a card enters your graveyard from your hand or library.)[/i]
+
+CB05 Lantern Stalker
+rules_text: When this creature enters, surveil 1.
+When the void calls, this creature gets +1/+0 and gains menace until end of turn. [i](Once on each of your turns, the void calls when a card enters your graveyard from your hand or library.)[/i] => When this creature enters, surveil 1.
+This creature gets +1/+0 and gains menace as long as the void called this turn. [i](The void calls when a card enters your graveyard from your hand or library.)[/i]
+
+CB14 Nightgrasp
+rules_text: Enchant creature
+Enchanted creature gets -2/-2. If the void called this turn, enchanted creature instead gets -6/-6. => Enchant creature
+Enchanted creature gets -2/-2. If the void called this turn, enchanted creature instead gets -6/-6. [i](The void calls when a card enters your graveyard from your hand or library.)[/i]
+
+CR02 Eyekissed Invoker
+rules_text: Menace
+{R}, Sacrifice this creature: It deals 2 damage to target player. Activate only if the void called this turn. => Menace
+{R}, Sacrifice this creature: It deals 2 damage to target player. Activate only if the void called this turn. [i](The void calls when a card enters your graveyard from your hand or library.)[/i]
+
+CR05 Magma Scribe
+rules_text: {2}{R}: Discard a card, then draw a card.
+When the void calls, this creature gains first strike until end of turn. [i](Once on each of your turns, the void calls when a card enters your graveyard from your hand or library.)[/i] => {2}{R}: Discard a card, then draw a card.
+This creature has first strike as long as the void called this turn. [i](The void calls when a card enters your graveyard from your hand or library.)[/i]
+
+UZ01 Splintering Edict
+rules_text: Choose one. If {C} was paid to cast this spell, instead you may choose both —
+• Fragment up to two target creatures with total mana value 6 or less. [i](To fragment a creature, its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+• Counter target spell. => Choose one. If {C} was paid to cast this spell, instead you may choose both —
+• Fragment target attacking, blocking, or tapped creature. You gain 3 life. [i](To fragment a creature, its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+• Counter target spell.
+
+UZ02 Afflict Thought
+rules_text: Target opponent reveals their hand. You choose a nonland card from it. Exile that card. Then if the void called this turn, that opponent discards a card. [i](Once on each of your turns, the void calls when a card enters your graveyard from your hand or library.)[/i] => Target opponent reveals their hand. You choose a nonland card from it. Exile that card. Then if the void called this turn, that opponent discards a card. [i](The void calls when a card enters your graveyard from your hand or library.)[/i]
+
+UZ03 Obsessive Ritualist
+rules_text: When this creature enters, you may pay {1} and discard a card. If you do, draw a card.
+As long as the void called this turn, this creature gets +1/+1 and has deathtouch and haste. [i](Once on each of your turns, the void calls when a card enters your graveyard from your hand or library.)[/i] => When this creature enters, you may pay {1} and discard a card. If you do, draw a card.
+As long as the void called this turn, this creature gets +1/+1 and has deathtouch and haste. [i](The void calls when a card enters your graveyard from your hand or library.)[/i]
+
+UZ08 Sludge Trawler
+rules_text: Devoid [i](This card has no color.)[/i]
+Trample
+Whenever you sacrifice a creature for the first time each turn, you draw a card and lose 1 life.
+Whenever you sacrifice a creature for the second time each turn, put a +1/+1 counter on each of up to two target creatures. => Devoid [i](This card has no color.)[/i]
+Trample
+Whenever you sacrifice a creature for the first time each turn, if it was a Scion, put a +1/+1 counter on this creature. Otherwise, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C},” then each opponent loses 1 life.
+
+UU01 Watchman of the Deep
+rules_text: Defender
+As long as the void called this turn, this creature gets +3/+0 and can attack as though it didn't have defender. [i](Once on each of your turns, the void calls when a card enters your graveyard from your hand or library.)[/i]
+{2}{U}: Surveil 1. => Defender
+As long as the void called this turn, this creature gets +3/+0 and can attack as though it didn't have defender. [i](The void calls when a card enters your graveyard from your hand or library.)[/i]
+{2}{U}: Surveil 1.
+
+UU11 Consult the Titans
+rules_text: As an additional cost to cast this spell, you may discard a card.
+Draw three cards, then draw an additional card if the void called this turn. [i](Once on each of your turns, the void calls when a card enters your graveyard from your hand or library.)[/i] => As an additional cost to cast this spell, you may discard a card.
+Draw three cards, plus an additional card if the void called this turn. [i](The void calls when a card enters your graveyard from your hand or library.)[/i]
+
+UB01 Shingle Trawler
+rules_text: Flying
+Whenever this creature deals combat damage to a player, each player discards a card. If this creature has a counter on it, instead target player discards a card.
+At the beginning of your end step, if the void called this turn, put a deathtouch counter or a lifelink counter on this creature. => Flying
+Whenever this creature deals combat damage to a player, each player discards a card. If this creature has a counter on it, instead target player discards a card.
+{1}{B}: Put a deathtouch counter or a lifelink counter on this creature. Activate only if this creature has no counters on it.
+
+UB04 Flesh Shredder
+rules_text: As this creature enters, you may discard a nonland card. If you do, this creature enters with a +1/+1 counter and a haste counter on it.
+When this creature deals combat damage to a player, if the void called this turn, up to one target creature that player controls gets -1/-1 until end of turn. => As this creature enters, you may discard a nonland card. If you do, this creature enters with a +1/+1 counter and a haste counter on it.
+When this creature deals combat damage to a player, if the void called this turn, up to one target creature that player controls gets -1/-1 until end of turn. [i](The void calls when a card enters your graveyard from your hand or library.)[/i]
+
+UR01 Ashen Ravager
+rules_text: When the void calls, put a +1/+1 counter on this creature. [i](Once on each of your turns, the void calls when a card enters your graveyard from your hand or library.)[/i]
+When this creature dies, it deals damage equal to its power to target opponent. => At the beginning of your end step, if the void called this turn, put a +1/+1 counter on this creature. [i](The void calls when a card enters your graveyard from your hand or library.)[/i]
+When this creature dies, it deals damage equal to its power to target opponent.
+
+UR04 Sacrifice Archivist
+rules_text: Menace
+When this creature attacks, exile the top card of your library. 
+You may play cards exiled with this creature as long as the void called this turn. => Menace
+When this creature attacks, exile the top card of your library. 
+You may play cards exiled with this creature as long as the void called this turn. [i](The void calls when a card enters your graveyard from your hand or library.)[/i]
+
+UB13 Channel the Dark
+rules_text: When the void calls, create a 1/1 black Horror creature token. [i](Once on each of your turns, the void calls when a card enters your graveyard from your hand or library.)[/i]
+Whenever the second card enters your graveyard from your hand or library on each of your turns, creatures you control get +1/+1 and gain flying until end of turn. => At the beginning of your end step, if the void called this turn, create a 1/1 black Horror creature token. [i](The void calls when a card enters your graveyard from your hand or library.)[/i]
+Whenever the second card enters your graveyard from your hand or library on each of your turns, creatures you control get +1/+1 and gain flying until end of turn.
+
+RZ11 Lantha Uncovers The Truth
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to four Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards. => 
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to four Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to four Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards. => 
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to four Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards.
+
+RB02 Insatiable Slasher
+rules_text: Menace
+You may cast this card from your graveyard as long as the void called this turn. If you do, it enters with a haste counter on it. => Menace
+You may cast this card from your graveyard as long as the void called this turn. If you do, it enters with a haste counter on it. [i](The void calls when a card enters your graveyard from your hand or library.)[/i]
+
+RZ04 Salar, the Worldfury
+
+
+VERSION 12 CHANGELOG
 ====================
 
 RU06 Unparalleled Efficiency added.

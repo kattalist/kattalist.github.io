@@ -251,13 +251,13 @@
 			}
 		},
 		{
-			"name": "CU09 Eldritch Command",
+			"name": "CU09 Eldritch Rebuttal",
 			"rarity": "common",
-			"mana_cost": "{C}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/81_CU09 Eldritch Command.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/81_CU09 Eldritch Rebuttal.png"
 			}
 		},
 		{
@@ -3095,7 +3095,7 @@
 	8 CU05 Startouched Analyst
 	8 CU06 Winterfell Walker
 	8 CU07 Mastbreaker
-	8 CU09 Eldritch Command
+	8 CU09 Eldritch Rebuttal
 	8 CU08 Pass Unscathed
 	8 CU11 Impart Knowledge
 	8 CU10 Taken by the Storm
@@ -3187,7 +3187,7 @@
 	12 CU05 Startouched Analyst
 	12 CU06 Winterfell Walker
 	12 CU07 Mastbreaker
-	12 CU09 Eldritch Command
+	12 CU09 Eldritch Rebuttal
 	12 CU08 Pass Unscathed
 	12 CU11 Impart Knowledge
 	12 CU10 Taken by the Storm
@@ -3465,7 +3465,7 @@
 	6 CU05 Startouched Analyst
 	6 CU06 Winterfell Walker
 	6 CU07 Mastbreaker
-	6 CU09 Eldritch Command
+	6 CU09 Eldritch Rebuttal
 	6 CU08 Pass Unscathed
 	6 CU11 Impart Knowledge
 	6 CU10 Taken by the Storm
