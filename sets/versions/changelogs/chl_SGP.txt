@@ -1,4 +1,303 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+UW06 Upgrade the Force added.
+UR09 In Eldritch Flame added.
+CW05 Cabaret Seductress added.
+UB01 Shingle Crawler added.
+UR10 Sweep of Agony added.
+UB10 Watch the Docks added.
+CR10 Forge in Anguish added.
+
+CW05 Upgrade the Force removed.
+CR10 In Eldritch Flame removed.
+UW06 Cabaret Seductress removed.
+UB01 Shingle Trawler removed.
+UR10 Rage Beyond Reason removed.
+UR09 Sweep of Agony removed.
+UB10 Too Quiet removed.
+
+CW03 Tireless Iterator
+type: Creature — Dwarf Artificer => Creature — Human Artificer
+cost: {C}{W} => {1}{W}
+rules_text: At the beginning of combat on your turn, up to one target artifact or colorless creature you control gains lifelink until end of turn. => Devoid [i](This card has no color.)[/i]
+At the beginning of combat on your turn, up to one target artifact or colorless creature you control gains lifelink until end of turn.
+pt: 2/3 => 2/2
+
+CW04 Pedigree Collector
+rules_text: When this creature enters, create a 1/1 white Dog creature token.
+[i]United [/i]— Whenever this creature attacks with two or more tokens, target attacking creature gains first strike until end of turn. => [i]United [/i]— Whenever this creature attacks with two or more tokens, target attacking creature gains first strike until end of turn.
+{3}{W}, {T}: Create a 1/1 white Dog creature token.
+pt: 1/1 => 2/1
+
+CW08 Mournful Matriarch
+rules_text: When this creature dies, choose one —
+• Create a 1/1 white Spirit creature token. You gain 1 life.
+• Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => When this creature dies, choose one —
+• Put a +1/+1 counter on target token you control. You gain 1 life.
+• Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+pt: 3/2 => 3/3
+
+CW09 Zaila's Willbender
+rules_text: Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+When this creature enters, exile target nonland permanent with mana value 2 or less until this creature leaves the battlefield. => Devoid [i](This card has no color.)[/i]
+When this creature enters, exile target nonland permanent with mana value 2 or less until this creature leaves the battlefield.
+
+CW11 Sundering Strike
+rules_text: Sundering Strike deals 4 damage to target attacking or blocking creature. If {C} was paid to cast this spell and that creature would die this turn, exile it instead. => Sundering Strike deals 4 damage to target attacking or blocking creature. If {C} was spent to cast this spell, exile that creature instead.
+
+CB04 Sanguine Suppressor
+rules_text: Whenever you gain life for the first time each turn, each opponent loses 1 life.
+{2}{B}: This creature gains deathtouch and lifelink until end of turn. => Lifelink
+Whenever you gain life for the first time each turn, each opponent loses 1 life.
+pt: 2/2 => 2/3
+
+CB05 Lantern Stalker
+rules_text: When this creature enters, surveil 1.
+This creature gets +1/+0 and gains menace as long as the void called this turn. [i](The void calls when a card enters your graveyard from your hand or library.)[/i] => When this creature enters, surveil 1.
+This creature gets +1/+0 and has menace as long as the void called this turn. [i](The void calls when a card enters your graveyard from your hand or library.)[/i]
+
+CB07 Vault Bandits
+rules_text: Flash
+{1}, Sacrifice an artifact or creature: Create a tapped Treasure token. => Flash
+When this creature enters, choose one. If you sacrificed a creature this turn, instead choose one or more —
+• Destroy target creature that was dealt damage this turn.
+• Create a tapped Treasure token.
+pt: 3/3 => 3/2
+
+CB12 Compelled to Die
+
+CR03 Steelsuit Consultant
+rules_text: Haste
+Whenever one or more artifact creatures you control attack, this creature deals 1 damage to any target. => Haste
+Whenever one or more artifact creatures you control attack, this creature deals 1 damage to target player.
+
+CR05 Magma Scribe
+rules_text: {2}{R}: Discard a card, then draw a card.
+This creature has first strike as long as the void called this turn. [i](The void calls when a card enters your graveyard from your hand or library.)[/i] => {1}{R}: Discard a card, then draw a card.
+This creature has first strike as long as the void called this turn. [i](The void calls when a card enters your graveyard from your hand or library.)[/i]
+
+CR07 Igneous Uprising
+rules_text: Create two 1/1 red Elemental creature tokens.
+{3}{R}{R}, Exile this card from your graveyard: Creatures you control get +2/+0 and gain trample until end of turn. => Create two 1/1 red Elemental creature tokens.
+{1}{R}, Discard this card: Create a 1/1 red Elemental creature token.
+
+CR13 Incendiary Charger
+rules_text: Trample
+{1}{R}, Sacrifice this Vehicle: It deals 6 damage to target creature or planeswalker. Activate this ability only if this Vehicle is a creature.
+Crew 2 => Trample
+{1}{R}, Sacrifice this Vehicle: It deals 6 damage to target creature or planeswalker. Activate only if this Vehicle is a creature.
+Crew 2
+
+CG01 Wreckage Inquisitors
+pt: 1/2 => 1/1
+
+CG06 World Whisperer
+rules_text: When this creature enters, create a colorless 1/1 Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+{1}{G}: Target token creature you control gains deathtouch until end of turn. Activate only once each turn and only outside of combat. => {1}{G}: Target token creature you control gains deathtouch until end of turn. Activate only once each turn and only outside of combat.
+
+CG02 Verge Drifter
+
+CG10 Barksplitter Colossus
+rules_text: Trample
+When this creature enters, create either one 3/3 green Treefolk creature token or three 1/1 green Saproling creature tokens.
+{1}{G}, Discard this card: Create a 1/1 green Saproling creature token. Surveil 1. => Trample
+When this creature enters, create a 3/3 green Treefolk creature token.
+{1}{G}, Discard this card: Create a 1/1 green Saproling creature token. Surveil 1.
+
+CG11 A Hole in the Sky
+
+CG14 Unethical Enhancements
+rules_text: Enchant creature
+When this Aura enters the battlefield, if it's attached to a token, draw a card.
+Enchanted creature gets +2/+2 and has trample. => Enchant creature
+When this Aura enters, if it's attached to a token, draw a card.
+Enchanted creature gets +2/+2 and has trample.
+
+CA02 Voices of the Severed
+
+CA03 Old Ones Envoy
+
+CA09 Pine Blitzer
+
+CA10 Corrupted Hedron
+
+UZ01 Splintering Edict
+rules_text: Choose one. If {C} was paid to cast this spell, instead you may choose both —
+• Fragment target attacking, blocking, or tapped creature. You gain 3 life. [i](To fragment a creature, its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+• Counter target spell. => Choose one. If {C} was spent to cast this spell, instead choose one or more —
+• Fragment target attacking, blocking, or tapped creature. You gain 3 life. [i](To fragment a creature, its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+• Counter target spell.
+
+UZ05 Oathbound Stalwart
+cost: {1}{G}{W} => {G}{W}
+rules_text: Vigilance
+When this creature enters, create a 1/1 white Human Soldier creature token.
+[i]United [/i]— Whenever this creature attacks with two or more tokens, create a 1/1 white Human Soldier creature token. => Vigilance
+When this creature enters, create a 1/1 white Human Soldier creature token.
+[i]United [/i]— Whenever this creature attacks with two or more tokens, you may pay {G}{W}. If you do, create a 1/1 white Human Soldier creature token.
+pt: 3/2 => 2/2
+
+UZ09 Stormqueller Galleon
+rules_text: Autopilot {2}{R}{W} [i]({2}{R}{W}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Whenever this Vehicle attacks, if it wasn't crewed this turn, put a +1/+1 counter on it. It gains first strike and menace until end of turn.
+Crew 2 => Autopilot {R}{W} [i]({R}{W}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Whenever this Vehicle attacks, if it wasn't crewed this turn, put a counter it doesn't have from among +1/+1, vigilance, first strike, and menace on it. Draw a card if no counters were put on it this way.
+Crew 2
+
+UZ08 Sludge Trawler
+rules_text: Devoid [i](This card has no color.)[/i]
+Trample
+Whenever you sacrifice a creature for the first time each turn, if it was a Scion, put a +1/+1 counter on this creature. Otherwise, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C},” then each opponent loses 1 life. => Devoid [i](This card has no color.)[/i]
+Trample
+Whenever you sacrifice a creature for the first time each turn, you draw a card and lose 1 life.
+Whenever you sacrifice a creature for the second time each turn, put a +1/+1 counter on each of up to two target creatures.
+
+UZ15 In Strength Entwined
+cost: {G}{W} => {1}{G}{W}
+rules_text: Whenever a token creature enters the battlefield under your control, put a +1/+1 counter on it. If this is the first time this ability has resolved this turn, you gain 2 life. => Whenever a token creature enters under your control, put a +1/+1 counter on it. If this is the first time this ability has resolved this turn, you gain 2 life.
+
+UZ18 Ravaged Eviscerator
+rules_text: Devoid [i](This card has no color.)[/i]
+When this creature enters or deals combat damage to a player, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+{2}, Sacrifice a creature: Surveil 1, then draw a card. => Devoid [i](This card has no color.)[/i]
+When this creature enters or deals combat damage to a player, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+{1}, Sacrifice a creature: This creature gains deathtouch until end of turn.
+
+UW05 North District Prior
+rules_text: This creature enters the battlefield with a +1/+1 counter on it for each creature you control.
+{3}{W}, {T}: Exile this creature. Return it to the battlefield under its owner's control at the beginning of the next end step. => This creature enters with a +1/+1 counter on it for each creature you control.
+{3}{W}, {T}: Exile this creature. Return it to the battlefield under its owner's control at the beginning of the next end step.
+
+UW08 Triumphant Cavalier
+rules_text: When this creature enters, create a 1/1 white Human Soldier creature token.
+Whenever you attack, each creature you control that shares a creature type with another creature you control gets +1/+1 until end of turn. => Whenever you attack, each creature you control that shares a creature type with another creature you control gets +1/+1 until end of turn.
+
+UW11 Induced Catatonia
+rules_text: Target creature gains indestructible until end of turn. Until end of turn, whenever a creature deals damage to it, tap that creature and put a stun counter on it. => Until end of turn, target creature gains indestructible and “Whenever a creature deals damage to this creature, tap that creature and put a stun counter on it.”
+
+UW12 Academic Excellence
+rules_text: {2}{W}: Look at the top five cards of your library. You may reveal a creature or Vehicle card with mana value 2 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order. If you didn't reveal a card this way, create a 1/1 white Human Pilot creature token. => {3}{W}: Look at the top five cards of your library. You may reveal a creature or Vehicle card with mana value 2 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order. If you didn't reveal a card this way, create a 1/1 white Human Pilot creature token.
+
+UW13 Strength of the Departed
+cost: {2}{W} => {3}{W}
+rules_text: Enchant creature
+When this Aura enters, create two 1/1 white Spirit creature tokens with flying.
+[i]United —[/i] Whenever enchanted creature attacks with two or more tokens, it gets +2/+2 until end of turn. => Enchant creature
+When this Aura enters, create a 1/1 white Spirit creature token with flying.
+Enchanted creature gets +1/+1 for each token you control and has flying.
+
+UU04 Ego Devourer
+rules_text: You may have this creature enter the battlefield as a copy of any creature on the battlefield.
+{U}{U}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => You may have this creature enter as a copy of any creature on the battlefield.
+{U}{U}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+
+UU06 Void Empyrean
+rules_text: Devoid [i](This card has no color.)[/i]
+Flying
+Whenever this creature deals combat damage to a player, surveil 3. => Devoid [i](This card has no color.)[/i]
+Flying
+When this creature enters, return up to two target creatures you don't control to their owner's hands, then surveil 3.
+
+UU09 In the Nick of Time
+rules_text: Counter target spell. If that spell targeted one or more permanents you control, put a ward {2} counter on those permanents. => Counter target spell. If that spell targeted one or more permanents you control, draw a card.
+
+UU10 Forgotten Rites
+rules_text: Choose X. You may choose the same mode more than once —
+• Create a 1/1 white Spirit creature token with flying.
+• Draw a card, then discard a card.
+• Investigate. => Choose X. You may choose the same mode more than once —
+• Tap or untap target creature, then surveil 1.
+• Draw a card, then discard a card.
+• Investigate.
+
+UU12 Wiped Clean
+cost: {C}{U} => {1}{U}
+rules_text: Devoid [i](This card has no color.)[/i]
+Enchant nonland permanent
+When this Aura enters the battlefield, for each other permanent that shares a name with enchanted permanent, you may pay {C}. If you do, create a token that's a copy of this Aura attached to that permanent.
+Enchanted permanent loses all abilities. => Devoid [i](This card has no color.)[/i]
+Enchant nonland permanent
+When this Aura enters, for each other permanent that shares a name with enchanted permanent, you may pay {C}. If you do, create a token that's a copy of this Aura attached to that permanent.
+Enchanted permanent loses all abilities.
+
+UG04 Yestergrove Relic
+rules_text: Vigilance
+Whenever you draw your second card each turn, if it's a land card, you may reveal it and put it onto the battlefield tapped. => Vigilance
+You may reveal the second card you draw each turn. If you reveal a land card this way, put it onto the battlefield tapped.
+
+UG05 Curio Broker
+rules_text: If one or more tokens would be created under your control, you may create that many 3/3 green Beast Horror creature tokens instead.
+Sacrifice any number of creatures with total power 6 or greater: Put two +1/+1 counters on each creature you control. => When this creature enters, you may sacrifice a token creature you control. If you do, create a 3/3 green Beast Horror creature token.
+Sacrifice any number of creatures with total power 6 or greater: Put two +1/+1 counters on each creature you control.
+
+UG07 Violeteye Savage
+rules_text: This creature can't be blocked by creatures with power 2 or less.
+{1}, Sacrifice an artifact or creature: Until end of turn, target creature you control can't be blocked by creatures with power 2 or less. => This creature can't be blocked by creatures with power 2 or less.
+When this creature dies, until the end of your next turn, creatures you control can't be blocked by creatures with power 2 or less.
+
+UG01 Gossip Tracker
+rules_text: When this creature enters or attacks, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+{2}{G}{G}: Sacrifice all Clues you control. Draw a card for each Clue sacrificed this way. => When this creature enters or attacks, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+{4}{G}{G}: Sacrifice all Clues you control. Draw a card for each Clue sacrificed this way.
+
+UB07 Brethren Priestess
+rules_text: Menace
+Whenever you sacrifice a creature for the first time each turn, you draw a card and lose 1 life. => Menace
+Whenever a creature you control dies for the first time each turn, you draw a card and lose 1 life. [i](The void calls when a card enters your graveyard from your hand or library.)[/i]
+
+UB12 Quick and Painful
+rules_text: Destroy target creature. Surveil 1, then its controller loses 3 life if there are seven or more cards in your graveyard. => Destroy target creature or Vehicle. If a Vehicle was destroyed this way, its controller discards a card.
+
+UR04 Sacrifice Archivist
+rules_text: Menace
+When this creature attacks, exile the top card of your library. 
+You may play cards exiled with this creature as long as the void called this turn. [i](The void calls when a card enters your graveyard from your hand or library.)[/i] => Menace
+When this creature attacks, exile the top card of your library. You may play that card on any turn the void called. [i](The void calls when a card enters your graveyard from your hand or library.)[/i]
+
+UB08 Outlands Predator
+rules_text: Flying
+When this creature enters, destroy target creature with equal or greater power.
+{B}{B}, {T}: Fragment this creature. Activate only as a sorcery. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => Flying
+When this creature enters, destroy up to one target creature with equal or greater power.
+{B}{B}, {T}: Fragment this creature. Activate only as a sorcery. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+
+UR14 Pyretic Dreadnought
+rules_text: This Vehicle is an artifact creature and has haste as long as it entered this turn.
+Whenever this Vehicle deals combat damage to a player, it deals 2 damage to each non-artifact creature.
+Crew 4 => Autopilot {X}{X}{R}{R}. If this is the first time you've activated this ability this turn, this Vehicle deals X damage to target creature. [i]({X}{X}{R}{R}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Crew 4
+
+UA08 Winterfell Locomotive
+rules_text: Autopilot {6} [i]({6}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Trample
+Whenever a creature crews this Vehicle, put a stun counter on it.
+Crew 4 => Autopilot {5} [i]({5}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Trample
+Whenever a creature crews this Vehicle, put a stun counter on that creature.
+Crew 3
+
+UA10 Promising Vista
+rules_text: This land enters the battlefield tapped.
+When this land enters, add {C}.
+{T}: Search your library for a basic land card, put it onto the battlefield, then shuffle. => This land enters tapped.
+When this land enters, you may pay 2 life. If you do, add {C}.
+{T}: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+
+UW07 Trend Mastermind
+rules_text: Whenever you gain life on your turn outside of your combat phase, put two +1/+1 counters on this creature.
+{W}, Remove three counters from this creature: Draw a card. => When this creature enters, you may return another target creature you control to its owner's hand. If you gained life this turn, the next spell you cast that shares a name with that creature costs {1} less to cast until end of turn.
+
+RA01 Bear Witness
+rules_text: Fragment all creatures. If only {C} was spent to cast this spell, search your library for a colorless creature card with mana value X or less, where X is the number of creatures fragmented this way, put it onto the battlefield, then shuffle. => Fragment all creatures. If only {C} was spent to cast this spell, search your library for a colorless creature card with mana value 6 or less, put it onto the battlefield, then shuffle.
+
+RZ08 Something in the Soil
+rules_text: Mill X cards, where X is 1 plus the number of cards named Something in the Soil in your graveyard. You may return a permanent card with mana value X or less from your graveyard to the battlefield.
+A deck can have any number of cards named Something in the Soil. => You get a soil counter. Then mill X cards, where X is twice the number of soil counters you have. You may return a permanent card with mana value X or less from your graveyard to the battlefield.
+A deck can have any number of cards named Something in the Soil.
+
+
+VERSION 13 CHANGELOG
 ====================
 
 CU09 Eldritch Rebuttal added.

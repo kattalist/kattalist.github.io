@@ -222,7 +222,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "UB01 Shingle Trawler",
+        "card_name": "UB01 Shingle Crawler",
         "number": 129,
         "shape": "normal",
         "set": "SGP"
@@ -330,7 +330,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "UW06 Cabaret Seductress",
+        "card_name": "UW06 Upgrade the Force",
         "number": 64,
         "shape": "normal",
         "set": "SGP"
@@ -438,7 +438,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "UR09 Sweep of Agony",
+        "card_name": "UR09 In Eldritch Flame",
         "number": 171,
         "shape": "normal",
         "set": "SGP"
@@ -468,7 +468,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "UR10 Rage Beyond Reason",
+        "card_name": "UR10 Sweep of Agony",
         "number": 172,
         "shape": "normal",
         "set": "SGP"
@@ -492,7 +492,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "UB10 Too Quiet",
+        "card_name": "UB10 Watch the Docks",
         "number": 138,
         "shape": "normal",
         "set": "SGP"
@@ -720,7 +720,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "CW05 Upgrade the Force",
+        "card_name": "CW05 Cabaret Seductress",
         "number": 43,
         "shape": "normal",
         "set": "SGP"
@@ -888,7 +888,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "CR10 In Eldritch Flame",
+        "card_name": "CR10 Forge in Anguish",
         "number": 152,
         "shape": "normal",
         "set": "SGP"

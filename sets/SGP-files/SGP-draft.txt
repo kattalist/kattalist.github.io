@@ -23,8 +23,8 @@
 		{
 			"name": "CW03 Tireless Iterator",
 			"rarity": "common",
-			"mana_cost": "{C}{W}",
-			"type": "Creature — Dwarf Artificer",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Artificer",
 			"collector_number": "41",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/41_CW03 Tireless Iterator.png"
@@ -91,13 +91,13 @@
 			}
 		},
 		{
-			"name": "CW05 Upgrade the Force",
-			"rarity": "common",
-			"mana_cost": "{2}{W}",
+			"name": "UW06 Upgrade the Force",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
 			"type": "Sorcery",
-			"collector_number": "43",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/43_CW05 Upgrade the Force.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/64_UW06 Upgrade the Force.png"
 			}
 		},
 		{
@@ -571,13 +571,13 @@
 			}
 		},
 		{
-			"name": "CR10 In Eldritch Flame",
-			"rarity": "common",
-			"mana_cost": "{R}",
+			"name": "UR09 In Eldritch Flame",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "152",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/152_CR10 In Eldritch Flame.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/171_UR09 In Eldritch Flame.png"
 			}
 		},
 		{
@@ -913,7 +913,7 @@
 		{
 			"name": "UZ05 Oathbound Stalwart",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{W}",
+			"mana_cost": "{G}{W}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "230",
 			"image_uris": {
@@ -1043,7 +1043,7 @@
 		{
 			"name": "UZ15 In Strength Entwined",
 			"rarity": "uncommon",
-			"mana_cost": "{G}{W}",
+			"mana_cost": "{1}{G}{W}",
 			"type": "Enchantment",
 			"collector_number": "240",
 			"image_uris": {
@@ -1151,13 +1151,13 @@
 			}
 		},
 		{
-			"name": "UW06 Cabaret Seductress",
-			"rarity": "uncommon",
+			"name": "CW05 Cabaret Seductress",
+			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Bard",
-			"collector_number": "64",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/64_UW06 Cabaret Seductress.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/43_CW05 Cabaret Seductress.png"
 			}
 		},
 		{
@@ -1233,7 +1233,7 @@
 		{
 			"name": "UW13 Strength of the Departed",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{3}{W}",
 			"type": "Enchantment — Aura",
 			"collector_number": "71",
 			"image_uris": {
@@ -1363,7 +1363,7 @@
 		{
 			"name": "UU12 Wiped Clean",
 			"rarity": "uncommon",
-			"mana_cost": "{C}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "105",
 			"image_uris": {
@@ -1381,13 +1381,13 @@
 			}
 		},
 		{
-			"name": "UB01 Shingle Trawler",
+			"name": "UB01 Shingle Crawler",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Bat Horror",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/129_UB01 Shingle Trawler.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/129_UB01 Shingle Crawler.png"
 			}
 		},
 		{
@@ -1601,16 +1601,6 @@
 			}
 		},
 		{
-			"name": "UR10 Rage Beyond Reason",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{R}{R}",
-			"type": "Instant",
-			"collector_number": "172",
-			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/172_UR10 Rage Beyond Reason.png"
-			}
-		},
-		{
 			"name": "UB12 Quick and Painful",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
@@ -1751,23 +1741,23 @@
 			}
 		},
 		{
-			"name": "UR09 Sweep of Agony",
+			"name": "UR10 Sweep of Agony",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{3}{R}",
 			"type": "Instant",
-			"collector_number": "171",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/171_UR09 Sweep of Agony.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/172_UR10 Sweep of Agony.png"
 			}
 		},
 		{
-			"name": "UB10 Too Quiet",
+			"name": "UB10 Watch the Docks",
 			"rarity": "uncommon",
-			"mana_cost": "{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/138_UB10 Too Quiet.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/138_UB10 Watch the Docks.png"
 			}
 		},
 		{
@@ -2883,6 +2873,16 @@
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/3_Treasure.png"
 			}
+		},
+		{
+			"name": "CR10 Forge in Anguish",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/152_CR10 Forge in Anguish.png"
+			}
 		}
 	]
 
@@ -2974,6 +2974,8 @@
 	1 MA02 Kozilek, the Bonds Unmade
 	1 MA03 Emrakul, the Sky Sundered
 [uncommon(3)]
+	4 UW06 Upgrade the Force
+	4 UR09 In Eldritch Flame
 	4 UZ01 Splintering Edict
 	4 UZ02 Afflict Thought
 	4 UZ03 Obsessive Ritualist
@@ -2999,7 +3001,6 @@
 	4 UW03 Skyiron Shaper
 	4 UW04 Thousand-Mind Cutthroat
 	4 UW05 North District Prior
-	4 UW06 Cabaret Seductress
 	4 UW08 Triumphant Cavalier
 	4 UW14 First-Class Skyship
 	4 UW09 Forgotten Pontiff
@@ -3021,7 +3022,7 @@
 	4 UU10 Forgotten Rites
 	4 UU12 Wiped Clean
 	4 UU14 Triumph, Taken by the Roil
-	4 UB01 Shingle Trawler
+	4 UB01 Shingle Crawler
 	4 UG02 Elden Rite Shaman
 	4 UG03 Forgotten Naturalist
 	4 UG04 Yestergrove Relic
@@ -3043,7 +3044,6 @@
 	4 UB06 Epitaph Lurkers
 	4 UB07 Brethren Priestess
 	4 UR08 Flamerush
-	4 UR10 Rage Beyond Reason
 	4 UB12 Quick and Painful
 	4 UG11 Ancient Stirrings
 	4 UG12 Unfamiliar Vegetation
@@ -3058,8 +3058,8 @@
 	4 UR07 Pinefell Terror
 	4 UB08 Outlands Predator
 	4 UB09 Slay the Broken
-	4 UR09 Sweep of Agony
-	4 UB10 Too Quiet
+	4 UR10 Sweep of Agony
+	4 UB10 Watch the Docks
 	4 UB11 Acolyte's Torment
 	4 UB13 Channel the Dark
 	4 UR14 Pyretic Dreadnought
@@ -3084,7 +3084,6 @@
 	8 CW08 Mournful Matriarch
 	8 CW09 Zaila's Willbender
 	8 CW10 Opalwing Cavalry
-	8 CW05 Upgrade the Force
 	8 CW11 Sundering Strike
 	8 CW12 Take to the Skies
 	8 CW13 Bring Malfunction
@@ -3125,7 +3124,6 @@
 	8 CR08 Spire Defender
 	8 CR09 Crag Prowler
 	8 CR07 Igneous Uprising
-	8 CR10 In Eldritch Flame
 	8 CR11 Commune with Silence
 	8 CR12 Pyre
 	8 CR13 Incendiary Charger
@@ -3156,6 +3154,7 @@
 	8 CA10 Corrupted Hedron
 	8 CA11 Steelform Willshaper
 	8 CU04 Ravenfolk Adept
+	8 CW05 Cabaret Seductress
 	8 CL01 Keeper's Peninsula
 	8 CL02 Dusk Vantage
 	8 CL03 Lost Settlement
@@ -3166,6 +3165,7 @@
 	8 CL08 Outlands Hamlet
 	8 CL09 Bronzeglade Peaks
 	8 CL10 Lakewatch Ruins
+	8 CR10 Forge in Anguish
 [foil(1)]
 	12 CW01 Volunteer Firewatch
 	12 CW02 Startouched Devout
@@ -3176,7 +3176,7 @@
 	12 CW08 Mournful Matriarch
 	12 CW09 Zaila's Willbender
 	12 CW10 Opalwing Cavalry
-	12 CW05 Upgrade the Force
+	6 UW06 Upgrade the Force
 	12 CW11 Sundering Strike
 	12 CW12 Take to the Skies
 	12 CW13 Bring Malfunction
@@ -3217,7 +3217,7 @@
 	12 CR08 Spire Defender
 	12 CR09 Crag Prowler
 	12 CR07 Igneous Uprising
-	12 CR10 In Eldritch Flame
+	6 UR09 In Eldritch Flame
 	12 CR11 Commune with Silence
 	12 CR12 Pyre
 	12 CR13 Incendiary Charger
@@ -3273,7 +3273,7 @@
 	6 UW03 Skyiron Shaper
 	6 UW04 Thousand-Mind Cutthroat
 	6 UW05 North District Prior
-	6 UW06 Cabaret Seductress
+	12 CW05 Cabaret Seductress
 	2 RZ06 Paragon of Opulence
 	6 UW08 Triumphant Cavalier
 	6 UW14 First-Class Skyship
@@ -3296,7 +3296,7 @@
 	6 UU10 Forgotten Rites
 	6 UU12 Wiped Clean
 	6 UU14 Triumph, Taken by the Roil
-	6 UB01 Shingle Trawler
+	6 UB01 Shingle Crawler
 	6 UG02 Elden Rite Shaman
 	6 UG03 Forgotten Naturalist
 	6 UG04 Yestergrove Relic
@@ -3318,7 +3318,6 @@
 	6 UB06 Epitaph Lurkers
 	6 UB07 Brethren Priestess
 	6 UR08 Flamerush
-	6 UR10 Rage Beyond Reason
 	6 UB12 Quick and Painful
 	6 UG11 Ancient Stirrings
 	6 UG12 Unfamiliar Vegetation
@@ -3333,8 +3332,8 @@
 	6 UR07 Pinefell Terror
 	6 UB08 Outlands Predator
 	6 UB09 Slay the Broken
-	6 UR09 Sweep of Agony
-	6 UB10 Too Quiet
+	6 UR10 Sweep of Agony
+	6 UB10 Watch the Docks
 	6 UB11 Acolyte's Torment
 	6 UB13 Channel the Dark
 	6 UR14 Pyretic Dreadnought
@@ -3444,6 +3443,7 @@
 	12 CL08 Outlands Hamlet
 	12 CL09 Bronzeglade Peaks
 	12 CL10 Lakewatch Ruins
+	12 CR10 Forge in Anguish
 [wildcard(1)]
 	6 CW01 Volunteer Firewatch
 	6 CW02 Startouched Devout
@@ -3454,7 +3454,7 @@
 	6 CW08 Mournful Matriarch
 	6 CW09 Zaila's Willbender
 	6 CW10 Opalwing Cavalry
-	6 CW05 Upgrade the Force
+	15 UW06 Upgrade the Force
 	6 CW11 Sundering Strike
 	6 CW12 Take to the Skies
 	6 CW13 Bring Malfunction
@@ -3495,7 +3495,7 @@
 	6 CR08 Spire Defender
 	6 CR09 Crag Prowler
 	6 CR07 Igneous Uprising
-	6 CR10 In Eldritch Flame
+	15 UR09 In Eldritch Flame
 	6 CR11 Commune with Silence
 	6 CR12 Pyre
 	6 CR13 Incendiary Charger
@@ -3551,7 +3551,7 @@
 	15 UW03 Skyiron Shaper
 	15 UW04 Thousand-Mind Cutthroat
 	15 UW05 North District Prior
-	15 UW06 Cabaret Seductress
+	6 CW05 Cabaret Seductress
 	7 RZ06 Paragon of Opulence
 	15 UW08 Triumphant Cavalier
 	15 UW14 First-Class Skyship
@@ -3574,7 +3574,7 @@
 	15 UU10 Forgotten Rites
 	15 UU12 Wiped Clean
 	15 UU14 Triumph, Taken by the Roil
-	15 UB01 Shingle Trawler
+	15 UB01 Shingle Crawler
 	15 UG02 Elden Rite Shaman
 	15 UG03 Forgotten Naturalist
 	15 UG04 Yestergrove Relic
@@ -3596,7 +3596,6 @@
 	15 UB06 Epitaph Lurkers
 	15 UB07 Brethren Priestess
 	15 UR08 Flamerush
-	15 UR10 Rage Beyond Reason
 	15 UB12 Quick and Painful
 	15 UG11 Ancient Stirrings
 	15 UG12 Unfamiliar Vegetation
@@ -3611,8 +3610,8 @@
 	15 UR07 Pinefell Terror
 	15 UB08 Outlands Predator
 	15 UB09 Slay the Broken
-	15 UR09 Sweep of Agony
-	15 UB10 Too Quiet
+	15 UR10 Sweep of Agony
+	15 UB10 Watch the Docks
 	15 UB11 Acolyte's Torment
 	15 UB13 Channel the Dark
 	15 UR14 Pyretic Dreadnought
@@ -3722,3 +3721,4 @@
 	6 CL08 Outlands Hamlet
 	6 CL09 Bronzeglade Peaks
 	6 CL10 Lakewatch Ruins
+	6 CR10 Forge in Anguish
