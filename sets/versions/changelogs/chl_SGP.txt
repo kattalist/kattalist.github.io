@@ -1,4 +1,102 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+CB08 Soultaker Idol added.
+
+CB08 Brethren Trio removed.
+
+CB13 Succumb
+type: Sorcery => Instant
+cost: {1}{B}{B} => {3}{B}
+rules_text: This spell costs {1}{B} less to cast if you've sacrificed a creature this turn.
+Destroy target creature. => This spell costs {2} less to cast if you've sacrificed a creature this turn.
+Destroy target creature.
+
+CB10 Harrowing Transformation
+rules_text: Target creature gains deathtouch and indestructible until end of turn.
+Target player mills a card. => Choose one —
+• Target creature gains deathtouch and indestructible until end of turn.
+• Create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+
+Eldrazi Scion
+
+CR01 Hotwire Prodigy
+rules_text: Haste
+Whenever this creature crews a Vehicle, that vehicle gains haste until end of turn. => Haste
+Whenever this creature crews a Vehicle, that Vehicle gains haste until end of turn.
+
+CG04 First Responders
+rules_text: When this creature enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+{2}, Sacrifice a token: This creature gets +2/+0 and gains trample until end of turn. => When this creature enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+{2}, Sacrifice a token: This creature gets +2/+2 and gains trample until end of turn.
+
+CG06 World Whisperer
+rules_text: {1}{G}: Target token creature you control gains deathtouch until end of turn. Activate only outside of combat. => This creature gets +1/+1 as long as you control a colorless creature.
+
+UZ09 Stormqueller Galleon
+
+UU05 Adaptive Lieutenant
+rules_text: Whenever this creature deals combat damage to a player, draw a card.
+{U}: Until end of turn, this creature gets -3/-0 and can't be blocked by creatures with greater power. => Whenever this creature deals combat damage to a player, draw a card.
+{U} or sacrifice an artifact: Until end of turn, this creature gets -3/-0 and can't be blocked by creatures with greater power.
+
+UU07 Mindbreak Shield
+rules_text: Until end of turn, target creature you control gains hexproof and “If this creature would die, fragment it instead.” [i](To fragment a creature, its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+Draw a card. => Until end of turn, target creature you control gains hexproof and “If this creature would die, fragment it instead.” [i](To fragment a creature, its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+
+UG03 Forgotten Naturalist
+rules_text: When this creature enters, you may destroy target artifact or enchantment.
+{3}{G}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => When this creature enters, you may destroy target artifact or enchantment.
+{3}{G}{G}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+
+UB03 Festering Eyemass
+rules_text: Devoid [i](This card has no color.)[/i]
+Sacrifice another artifact or creature: Add {B}. 
+{X}{B}{B}, {T}: Create X 1/1 colorless Eldrazi Scion creature tokens with “Sacrifice this creature: Add {C}.” => Devoid [i](This card has no color.)[/i]
+Sacrifice another artifact or creature: Add {B}. 
+{3}{B}{B}, {T}: Create two 1/1 colorless Eldrazi Scion creature tokens with “Sacrifice this creature: Add {C}.”
+
+UB04 Flesh Shredder
+rules_text: As this creature enters, you may discard a card. If you do, this creature enters with a +1/+1 counter and a haste counter on it. If you discarded a nonland card this way, target opponent loses 1 life and you gain 1 life. => When this creature enters, you may discard a card. If you do, put a +1/+1 counter and a haste counter on it. If you discarded a nonland card this way, also put a menace counter on it.
+
+UB05 Corpse Inspectors
+rules_text: Menace
+At the beginning of combat on your turn, choose up to one —
+• Mill two cards. If you do, this creature gets +1/+1 until end of turn.
+• Discard a card. If you do, put a +1/+1 counter on this creature. => At the beginning of combat on your turn, choose up to one —
+• Mill two cards. If you do, this creature gets +1/+1 until end of turn.
+• Discard a card. If you do, put a +1/+1 counter on this creature.
+
+UB06 Epitaph Lurkers
+rules_text: When this creature enters, create a 1/1 black Cultist creature token with “Sacrifice this creature: Target player mills a card. Activate only as a sorcery.”
+Whenever a creature you control with base power and toughness 1 dies, each opponent loses 1 life. => When this creature enters, create a 1/1 black Cultist creature token.
+Whenever a creature you control with base power and toughness 1 dies, each opponent loses 1 life.
+
+RZ10 Lantha Uncovers The Truth
+rules_text: 
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to three Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to three Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards.
+special_text: 
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to three Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to three Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards.
+
+RU03 Scion of Insanity
+rules_text: At the beginning of your upkeep, if this card is in your hand, you may reveal it and pay {1}{U}. If you do, mill ten cards, then draw a card and shuffle this card into your library.
+As long as there are twenty or fewer cards in your library, this creature has flying and hexproof and has base power and toughness 9/9. => At the beginning of your upkeep, if this card is in your hand, you may reveal it and pay {1}{U}. If you do, mill ten cards, draw a card, and shuffle this card into your library.
+As long as there are twenty or fewer cards in your library, this creature has flying and hexproof and is a 9/9.
+
+RU06 Unparalleled Efficiency
+
+
+VERSION 18 CHANGELOG
 ====================
 
 No changes.

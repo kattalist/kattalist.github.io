@@ -748,23 +748,23 @@
             "notes": "Void count 1\n9 Aug 2025: Added conditional \"destroy creature dealt damage this turn\", but lowered from 3/3 to 3/2"
         },
         {
-            "card_name": "CB08 Brethren Trio",
-            "color": "B",
+            "card_name": "CB08 Soultaker Idol",
+            "color": "",
             "rarity": "common",
-            "type": "Creature \u2014 Human Cultist",
+            "type": "Creature \u2014 Eldrazi Horror",
             "number": 114,
             "color_identity": "B",
             "cost": "{4}{B}",
-            "rules_text": "When this creature enters, create two black 1/1 Cultist creature tokens with \u201cSacrifice this creature: Target player mills a card. Activate only as a sorcery.\u201d",
-            "flavor_text": "[i][/i]",
-            "pt": "3/3",
+            "rules_text": "Devoid [i](This card has no color.)[/i]\nFlying\nWhen this creature dies, create a 1/1 black Cultist creature token and each opponent loses 1 life.",
+            "flavor_text": "[i]\u201cFear not the beings in the sky. As Kavalesk implores, they are here to save us.\u201d[/i]",
+            "pt": "4/3",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
-            "artist": "Bastien LeCouffe",
+            "artist": "Fartuh Acer",
             "alias": "",
-            "notes": "Void count 2 (from the mill, not the sacrifice)"
+            "notes": "Void count 2 (from the mill, not the sacrifice)\n11 Aug 2025: Totally changed card"
         },
         {
             "card_name": "CB09 Startouched Assassin",
@@ -789,11 +789,11 @@
             "card_name": "CB13 Succumb",
             "color": "B",
             "rarity": "common",
-            "type": "Sorcery",
+            "type": "Instant",
             "number": 119,
             "color_identity": "B",
-            "cost": "{1}{B}{B}",
-            "rules_text": "This spell costs {1}{B} less to cast if you've sacrificed a creature this turn.\nDestroy target creature.",
+            "cost": "{3}{B}",
+            "rules_text": "This spell costs {2} less to cast if you've sacrificed a creature this turn.\nDestroy target creature.",
             "flavor_text": "[i]The blackness opened, and there was nothing more.[/i]",
             "pt": "",
             "special_text": "",
@@ -802,7 +802,7 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
-            "notes": "Void count 1 (2 w/ new void)\n\n16 Jul 2025: Switched to sorcery and 1BB instead of 2BB\n17 Jul 2025: Switched from cost reduction on void to cost reduction on sacrifice"
+            "notes": "Void count 1 (2 w/ new void)\n\n16 Jul 2025: Switched to sorcery and 1BB instead of 2BB\n17 Jul 2025: Switched from cost reduction on void to cost reduction on sacrifice\n11 Aug 2025: Moved to 3B from 1BB and made an instant"
         },
         {
             "card_name": "CB10 Harrowing Transformation",
@@ -812,8 +812,8 @@
             "number": 116,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Target creature gains deathtouch and indestructible until end of turn.\nTarget player mills a card.",
-            "flavor_text": "[i]\u201cWe keep those ones in pitch-black cells. Not for them, mind you. It's just that none of us can bear to look.\u201d[/i]",
+            "rules_text": "Choose one \u2014\n\u2022 Target creature gains deathtouch and indestructible until end of turn.\n\u2022 Create a 1/1 colorless Eldrazi Scion creature token with \u201cSacrifice this creature: Add {C}.\u201d",
+            "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -821,7 +821,7 @@
             "loyalty": "",
             "artist": "Jakub Bazyluk",
             "alias": "",
-            "notes": "17 Jul 2025: Switched combat trick to deathtouch + indestructible + exile\n\nVoid count 2"
+            "notes": "17 Jul 2025: Switched combat trick to deathtouch + indestructible + exile\n11 Aug 2025: Added scion creation mode\n\nVoid count 2"
         },
         {
             "card_name": "CB11 Learn From Loss",
@@ -895,7 +895,7 @@
             "shape": "token",
             "set": "SGP",
             "loyalty": "",
-            "artist": "Rene Aigner",
+            "artist": "Bogdan Rezunenko",
             "alias": "",
             "notes": ""
         },
@@ -945,7 +945,7 @@
             "number": 142,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Haste\nWhenever this creature crews a Vehicle, that vehicle gains haste until end of turn.",
+            "rules_text": "Haste\nWhenever this creature crews a Vehicle, that Vehicle gains haste until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1249,7 +1249,7 @@
             "number": 179,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "When this creature enters, investigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this artifact: Draw a card.\u201d)[/i]\n{2}, Sacrifice a token: This creature gets +2/+0 and gains trample until end of turn.",
+            "rules_text": "When this creature enters, investigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this artifact: Draw a card.\u201d)[/i]\n{2}, Sacrifice a token: This creature gets +2/+2 and gains trample until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -1258,7 +1258,7 @@
             "loyalty": "",
             "artist": "Yari Lute",
             "alias": "",
-            "notes": "18 Jul 2025: Switched sac Clue to sac token\n20 Jul 2025: Buffed from 2/2 to 3/2"
+            "notes": "18 Jul 2025: Switched sac Clue to sac token\n20 Jul 2025: Buffed from 2/2 to 3/2\n11 Aug 2025: Improved buff from +2/+0 to +2/+2"
         },
         {
             "card_name": "CG08 Streetway Incursion",
@@ -1287,8 +1287,8 @@
             "number": 181,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "{1}{G}: Target token creature you control gains deathtouch until end of turn. Activate only outside of combat.",
-            "flavor_text": "[i][/i]",
+            "rules_text": "This creature gets +1/+1 as long as you control a colorless creature.",
+            "flavor_text": "[i]At one time, it was said that the wilds were Calloran's gift to its people. It has since been hypothesized that they were gifted by something else.[/i]",
             "pt": "3/3",
             "special_text": "",
             "shape": "normal",
@@ -1296,7 +1296,7 @@
             "loyalty": "",
             "artist": "Erskine Designs",
             "alias": "",
-            "notes": "18 Jul 2025: Switched ability to scion on enter instead of fragment, then switched effect to activated ability that can give deathtouch to one small thing (out of combat only)\n\n8 Aug 2025: Removed token creation\n\nREWORK"
+            "notes": "18 Jul 2025: Switched ability to scion on enter instead of fragment, then switched effect to activated ability that can give deathtouch to one small thing (out of combat only)\n\n8 Aug 2025: Removed token creation\n11 Aug 2025: Trimmed down to basically vanilla 3/3 (with +1/+1 if you control a colorless creature)\n\nREWORK"
         },
         {
             "card_name": "CG07 Hirehand Gunner",
@@ -1790,7 +1790,7 @@
             "loyalty": "",
             "artist": "Lorenzo Lanfranconi",
             "alias": "",
-            "notes": ""
+            "notes": "8 lines"
         },
         {
             "card_name": "UZ08 Sludge Trawlers",
@@ -2446,7 +2446,7 @@
             "number": 97,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "Whenever this creature deals combat damage to a player, draw a card.\n{U}: Until end of turn, this creature gets -3/-0 and can't be blocked by creatures with greater power.",
+            "rules_text": "Whenever this creature deals combat damage to a player, draw a card.\n{U} or sacrifice an artifact: Until end of turn, this creature gets -3/-0 and can't be blocked by creatures with greater power.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2455,7 +2455,7 @@
             "loyalty": "",
             "artist": "Paul Patricio",
             "alias": "",
-            "notes": "1 Aug 2025: Switched activated ability to card draw\n10 Aug 2025: Totally switched to card draw saboteur, with sneaky mode to weaken but make unblockable"
+            "notes": "1 Aug 2025: Switched activated ability to card draw\n10 Aug 2025: Totally switched to card draw saboteur, with sneaky mode to weaken but make unblockable\n11 Aug 2025: Added additional artifact sacrifice option for cost (for Clue archetype)"
         },
         {
             "card_name": "UU06 Void Empyrean",
@@ -2522,7 +2522,7 @@
             "number": 99,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Until end of turn, target creature you control gains hexproof and \u201cIf this creature would die, fragment it instead.\u201d [i](To fragment a creature, its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]\nDraw a card.",
+            "rules_text": "Until end of turn, target creature you control gains hexproof and \u201cIf this creature would die, fragment it instead.\u201d [i](To fragment a creature, its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2531,7 +2531,7 @@
             "loyalty": "",
             "artist": "Rayven Studios",
             "alias": "",
-            "notes": ""
+            "notes": "11 Aug 2025: Removed card draw"
         },
         {
             "card_name": "UU13 Ancestral Voidstone",
@@ -2674,7 +2674,7 @@
             "number": 198,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "When this creature enters, you may destroy target artifact or enchantment.\n{3}{G}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]",
+            "rules_text": "When this creature enters, you may destroy target artifact or enchantment.\n{3}{G}{G}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -2683,7 +2683,7 @@
             "loyalty": "",
             "artist": "Geoffroy Thoorens",
             "alias": "",
-            "notes": ""
+            "notes": "10 Aug 2025: Raised fragment cost from 3G to 3GG"
         },
         {
             "card_name": "UG04 Yestergrove Relic",
@@ -2940,7 +2940,7 @@
             "number": 130,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Devoid [i](This card has no color.)[/i]\nSacrifice another artifact or creature: Add {B}. \n{X}{B}{B}, {T}: Create X 1/1 colorless Eldrazi Scion creature tokens with \u201cSacrifice this creature: Add {C}.\u201d",
+            "rules_text": "Devoid [i](This card has no color.)[/i]\nSacrifice another artifact or creature: Add {B}. \n{3}{B}{B}, {T}: Create two 1/1 colorless Eldrazi Scion creature tokens with \u201cSacrifice this creature: Add {C}.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2949,7 +2949,7 @@
             "loyalty": "",
             "artist": "Jakub Bazyluk",
             "alias": "",
-            "notes": ""
+            "notes": "11 Aug 2025: Capped token creation at two for 5 mana"
         },
         {
             "card_name": "UB04 Flesh Shredder",
@@ -2959,7 +2959,7 @@
             "number": 131,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "As this creature enters, you may discard a card. If you do, this creature enters with a +1/+1 counter and a haste counter on it. If you discarded a nonland card this way, target opponent loses 1 life and you gain 1 life.",
+            "rules_text": "When this creature enters, you may discard a card. If you do, put a +1/+1 counter and a haste counter on it. If you discarded a nonland card this way, also put a menace counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -2968,7 +2968,7 @@
             "loyalty": "",
             "artist": "Darya Malabra",
             "alias": "",
-            "notes": "10 Aug 2025: Changed to single effect"
+            "notes": "10 Aug 2025: Changed to single effect\n11 Aug 2025: Changed life swing to menace counter"
         },
         {
             "card_name": "UB05 Corpse Inspectors",
@@ -2978,7 +2978,7 @@
             "number": 132,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
-            "rules_text": "Menace\nAt the beginning of combat on your turn, choose up to one \u2014\n\u2022 Mill two cards. If you do, this creature gets +1/+1 until end of turn.\n\u2022 Discard a card. If you do, put a +1/+1 counter on this creature.",
+            "rules_text": "At the beginning of combat on your turn, choose up to one \u2014\n\u2022 Mill two cards. If you do, this creature gets +1/+1 until end of turn.\n\u2022 Discard a card. If you do, put a +1/+1 counter on this creature.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2987,7 +2987,7 @@
             "loyalty": "",
             "artist": "Yawei Cao",
             "alias": "",
-            "notes": ""
+            "notes": "11 Aug 2025: Removed menace"
         },
         {
             "card_name": "UB06 Epitaph Lurkers",
@@ -2997,7 +2997,7 @@
             "number": 133,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "When this creature enters, create a 1/1 black Cultist creature token with \u201cSacrifice this creature: Target player mills a card. Activate only as a sorcery.\u201d\nWhenever a creature you control with base power and toughness 1 dies, each opponent loses 1 life.",
+            "rules_text": "When this creature enters, create a 1/1 black Cultist creature token.\nWhenever a creature you control with base power and toughness 1 dies, each opponent loses 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -3681,10 +3681,10 @@
             "number": 222,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
-            "rules_text": "\nI, II \u2014 Investigate twice. You gain 2 life.\nIII \u2014 Sacrifice up to three Clues you control, then draw that many cards.\nSacrifice any number of Clues, then draw that many cards.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Investigate twice. You gain 2 life.\nIII \u2014 Sacrifice up to three Clues you control, then draw that many cards.\nSacrifice any number of Clues, then draw that many cards.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI, II \u2014 Investigate twice. You gain 2 life.\nIII \u2014 Sacrifice up to three Clues you control, then draw that many cards.\nSacrifice any number of Clues, then draw that many cards.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Investigate twice. You gain 2 life.\nIII \u2014 Sacrifice up to three Clues you control, then draw that many cards.\nSacrifice any number of Clues, then draw that many cards.",
             "shape": "saga",
             "set": "SGP",
             "loyalty": "",
@@ -3881,7 +3881,7 @@
             "number": 89,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
-            "rules_text": "At the beginning of your upkeep, if this card is in your hand, you may reveal it and pay {1}{U}. If you do, mill ten cards, then draw a card and shuffle this card into your library.\nAs long as there are twenty or fewer cards in your library, this creature has flying and hexproof and has base power and toughness 9/9.",
+            "rules_text": "At the beginning of your upkeep, if this card is in your hand, you may reveal it and pay {1}{U}. If you do, mill ten cards, draw a card, and shuffle this card into your library.\nAs long as there are twenty or fewer cards in your library, this creature has flying and hexproof and is a 9/9.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -3947,7 +3947,7 @@
             "loyalty": "",
             "artist": "Lloyd Drake-Brockman",
             "alias": "",
-            "notes": ""
+            "notes": "8 lines"
         },
         {
             "card_name": "RB01 Haunted Starlet",

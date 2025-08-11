@@ -391,13 +391,13 @@
 			}
 		},
 		{
-			"name": "CB08 Brethren Trio",
+			"name": "CB08 Soultaker Idol",
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
-			"type": "Creature — Human Cultist",
+			"type": "Creature — Eldrazi Horror",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/114_CB08 Brethren Trio.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/114_CB08 Soultaker Idol.png"
 			}
 		},
 		{
@@ -413,8 +413,8 @@
 		{
 			"name": "CB13 Succumb",
 			"rarity": "common",
-			"mana_cost": "{1}{B}{B}",
-			"type": "Sorcery",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
 			"collector_number": "119",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/119_CB13 Succumb.png"
@@ -3111,7 +3111,7 @@
 	8 CB05 Lantern Stalker
 	8 CB06 Paradigm Enforcer
 	8 CB07 Speakeasy Brokers
-	8 CB08 Brethren Trio
+	8 CB08 Soultaker Idol
 	8 CB09 Startouched Assassin
 	8 CB13 Succumb
 	8 CB10 Harrowing Transformation
@@ -3204,7 +3204,7 @@
 	12 CB05 Lantern Stalker
 	12 CB06 Paradigm Enforcer
 	12 CB07 Speakeasy Brokers
-	12 CB08 Brethren Trio
+	12 CB08 Soultaker Idol
 	12 CB09 Startouched Assassin
 	12 CB13 Succumb
 	12 CB10 Harrowing Transformation
@@ -3482,7 +3482,7 @@
 	6 CB05 Lantern Stalker
 	6 CB06 Paradigm Enforcer
 	6 CB07 Speakeasy Brokers
-	6 CB08 Brethren Trio
+	6 CB08 Soultaker Idol
 	6 CB09 Startouched Assassin
 	6 CB13 Succumb
 	6 CB10 Harrowing Transformation
