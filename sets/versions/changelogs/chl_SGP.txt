@@ -1,4 +1,701 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+CB07 Speakeasy Brokers added.
+CR09 Ruin Prowler added.
+CR07 Crimson Gladeguard added.
+UZ08 Sludge Trawlers added.
+UU05 Adaptive Lieutenant added.
+UB08 Stonebridge Ambush added.
+UB11 Unnatural Torment added.
+RG05 Moonrise added.
+RZ10 Lantha Uncovers The Truth added.
+RG04 Coda of Emergence added.
+RZ03 Kavalesk, the Dark Exalted added.
+RZ13 Morgyn, Paradigm Breaker added.
+RA02 Thoughtscraper added.
+RZ11 Dream of Aeons Past added.
+Clue added.
+
+CB07 Vault Bandits removed.
+CR09 Crag Prowler removed.
+CR07 Igneous Uprising removed.
+UZ08 Sludge Trawler removed.
+UU05 Dean of Science removed.
+UB08 Outlands Predator removed.
+UB11 Acolyte's Torment removed.
+RG04 Moonrise removed.
+RZ11 Lantha Uncovers The Truth removed.
+RG05 removed.
+RZ03 removed.
+RZ10 Piece It Together removed.
+RZ13 removed.
+RA02 removed.
+
+CW01 Volunteer Firewatch
+
+CW02 Startouched Devout
+rules_text: When this creature enters, put a +1/+1 counter on target creature.
+{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => When this creature enters, put a +1/+1 counter on target creature.
+{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+
+CW03 Tireless Iterator
+
+CW04 Pedigree Collector
+
+CW06 East District Brute
+rules_text: Vigilance
+{3}{W}, {T}: Tap target creature. If {C} was paid, put a stun counter on it. => Vigilance
+{3}{W}, {T}: Tap target creature, then put a stun counter on it if {C} was spent to activate this ability.
+
+CW07 Aerial Enforcer
+
+CW08 Mournful Matriarch
+
+CW09 Zaila's Willbender
+
+CW10 Opalwing Cavalry
+
+UW06 Upgrade the Force
+
+CW11 Sundering Strike
+rules_text: Sundering Strike deals 4 damage to target attacking or blocking creature. If {C} was spent to cast this spell, exile that creature instead. => Sundering Strike deals 4 damage to target attacking or blocking creature. If {C} was spent to cast this spell, destroy that creature instead.
+
+CW12 Take to the Skies
+
+CW13 Bring Malfunction
+rules_text: Choose one —
+• Destroy target artifact or enchantment. Scry 1.
+• Fragment target creature with mana value 3 or less. [i](Its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => Choose one —
+• Exile target artifact or enchantment.
+• Fragment target creature with mana value 3 or less. [i](Its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+
+CW14 Oligarch's Supercar
+cost: {1}{W} => {2}{W}
+rules_text: Autopilot {1}{W} [i]({1}{W}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+This Vehicle gets +2/+2 and has lifelink if it wasn't crewed this turn.
+Crew 1 => Autopilot {1} [i]({1}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+When this Vehicle enters, draw a card.
+Crew 1
+pt: 2/2 => 3/2
+
+CU01 Intrepid Aviator
+
+CU02 Diviner of Relics
+
+CU03 Task Force Operatives
+
+CU05 Startouched Analyst
+rules_text: When this creature enters, draw a card.
+{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => When this creature enters, draw a card.
+{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+
+CU06 Winterfell Walker
+
+CU07 Mastbreaker
+type: Creature — Kraken => Creature — Kraken Horror
+rules_text: This creature can't be blocked and has ward {2} as long as the void called this turn. [i](The void calls when a card enters your graveyard from your hand or library.)[/i]
+{1}{U}: Target player mills two cards. Activate only as a sorcery and only once each turn. => This creature can't be blocked as long as the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+pt: 4/5 => 5/5
+
+CU09 Eldritch Rebuttal
+
+CU08 Pass Unscathed
+
+CU11 Impart Knowledge
+
+CU10 Taken by the Storm
+rules_text: Return target creature to its owner's hand. If the void called this turn, its owner puts it on the top or bottom of their library instead. [i](The void calls when a card enters your graveyard from your hand or library.)[/i] => Return target creature to its owner's hand. If the void called this turn, its owner puts it on the top or bottom of their library instead. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+
+CU12 Hedron Imprisonment
+rules_text: Enchant creature or Clue
+Enchanted permanent is a colorless Clue artifact with “{2}, Sacrifice this artifact: Draw a card.” It loses all other types and abilities. => Enchant creature or artifact
+Enchanted permanent is a colorless Clue artifact with “{2}, Sacrifice this artifact: Draw a card.” It loses all other types and abilities.
+
+CU13 Duchy Flagship
+
+CU14 Zephyr Piercer
+rules_text: Autopilot {1}{U} [i]({1}{U}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+This Vehicle gets +2/+2 and has flying if it wasn't crewed this turn.
+Crew 1 => Autopilot {1}{U} [i]({1}{U}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Flying
+This Vehicle gets +2/+2 if it wasn't crewed this turn.
+Crew 1
+
+CB01 Herald of the End
+rules_text: Haste
+At the beginning of your end step, if the void called this turn, put a +1/+1 counter or a deathtouch counter on this creature. [i](The void calls when a card enters your graveyard from your hand or library.)[/i] => Haste
+At the beginning of your end step, if the void called this turn, put a +1/+1 counter on this creature. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+
+CB02 Luxuries Merchant
+rules_text: Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+When this creature dies, you may exile it from your graveyard. If you do, target opponent loses 1 life and you gain 1 life. => Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+
+CB03 Bloodsworn Subjugator
+
+CB04 Sanguine Suppressor
+
+CB05 Lantern Stalker
+rules_text: When this creature enters, surveil 1.
+This creature gets +1/+0 and has menace as long as the void called this turn. [i](The void calls when a card enters your graveyard from your hand or library.)[/i] => When this creature enters, surveil 1.
+This creature gets +1/+0 and has menace as long as the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+
+CB06 Paradigm Enforcer
+
+CB08 Brethren Trio
+
+CB09 Startouched Assassin
+rules_text: When this creature enters, each opponent loses 2 life and you gain 2 life.
+{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => When this creature enters, each opponent loses 2 life and you gain 2 life.
+{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+
+CB13 Succumb
+
+CB10 Harrowing Transformation
+
+CB11 Learn From Loss
+
+CB12 Compelled to Die
+
+CB14 Nightgrasp
+rules_text: Enchant creature
+Enchanted creature gets -2/-2. If the void called this turn, enchanted creature instead gets -6/-6. [i](The void calls when a card enters your graveyard from your hand or library.)[/i] => Enchant creature
+Enchanted creature gets -2/-2. If the void called this turn, enchanted creature instead gets -6/-6. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+
+CR02 Eyekissed Invoker
+rules_text: Menace
+{R}, Sacrifice this creature: It deals 2 damage to target player. Activate only if the void called this turn. [i](The void calls when a card enters your graveyard from your hand or library.)[/i] => Menace
+{R}, Sacrifice this creature: It deals 2 damage to target player. Activate only if the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+
+CR01 Hotwire Prodigy
+rules_text: Haste
+Whenever this creature attacks with or crews a Vehicle, that vehicle gets +1/+0 until end of turn. => Haste
+Whenever this creature crews a Vehicle, that vehicle gains haste until end of turn.
+
+CR03 Steelsuit Consultant
+
+CR04 Colossus Showman
+
+CR05 Magma Scribe
+rules_text: {1}{R}: Discard a card, then draw a card.
+This creature has first strike as long as the void called this turn. [i](The void calls when a card enters your graveyard from your hand or library.)[/i] => {1}{R}: Discard a card, then draw a card. Activate only as a sorcery.
+This creature has first strike as long as the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+
+CR06 Startouched Blitzer
+rules_text: When this creature enters, it deals damage equal to its power to any target.
+{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => When this creature enters, it deals damage equal to its power to any target.
+{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+
+CR08 Spire Defender
+
+UR09 In Eldritch Flame
+rules_text: Target creature gets +2/+2 and gains trample until end of turn. Fragment up to one target creature blocking it. [i](Its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => Target creature gets +2/+2 and gains trample until end of turn. Fragment up to one target creature blocking it. [i](Its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+
+CR11 Commune with Silence
+
+CR12 Pyre
+
+CR13 Incendiary Charger
+
+CR14 Task Force Hotrod
+cost: {1}{R} => {2}{R}
+rules_text: Autopilot {1}{R} [i]({1}{R}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+This Vehicle gets +2/+2 and has menace if it wasn't crewed this turn.
+Crew 1 => Autopilot {1} [i]({1}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Menace
+When this Vehicle enters, exile the top card of your library. You may play that card until the end of your next turn.
+Crew 1
+pt: 2/2 => 3/3
+
+CG01 Wreckage Inquisitors
+
+CG05 Startouched Arborist
+rules_text: When this creature enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => When this creature enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+
+CG03 Deathrite Mystic
+
+CG04 First Responders
+
+CG08 Streetway Incursion
+
+CG06 World Whisperer
+rules_text: {1}{G}: Target token creature you control gains deathtouch until end of turn. Activate only once each turn and only outside of combat. => {1}{G}: Target token creature you control gains deathtouch until end of turn. Activate only outside of combat.
+
+CG07 Hirehand Gunner
+
+CG02 Verge Drifter
+
+CG09 Starbreaker Juvenile
+
+CG10 Barksplitter Colossus
+
+CG11 A Hole in the Sky
+rules_text: This spell costs {1} less to cast if you control an Eldrazi.
+Destroy target artifact, enchantment, or creature with flying. => This spell costs {1} less to cast if you control an Eldrazi.
+Destroy target artifact, battle, enchantment, or creature with flying.
+
+CG13 Blooming Overgrowth
+
+CG12 Donnybrook
+
+CG14 Unethical Enhancements
+
+CA04 Rend
+cost: {1}{C} => {2}
+rules_text: Fragment target creature. [i](Its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => Fragment target creature. [i](Its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+
+CA06 Portmaster's Firearm
+rules_text: Equipped creature gets +1/+1.
+[i]United [/i]— Whenever equipped creature attacks with two or more tokens, those tokens get +1/+1 until end of turn.
+Equip {2} => Equipped creature gets +1/+1.
+[i]United [/i]— Whenever equipped creature attacks with two or more tokens, it gains first strike until end of turn.
+Equip {2}
+
+UZ01 Splintering Edict
+rules_text: Choose one. If {C} was spent to cast this spell, instead choose one or more —
+• Fragment target attacking, blocking, or tapped creature. You gain 3 life. [i](To fragment a creature, its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+• Counter target spell. => Choose one. If {C} was spent to cast this spell, instead choose one or more —
+• Fragment target attacking, blocking, or tapped creature. You gain 3 life. [i](Its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+• Counter target spell.
+
+UZ02 Afflict Thought
+rules_text: Target opponent reveals their hand. You choose a nonland card from it. Exile that card. Then if the void called this turn, that opponent discards a card. [i](The void calls when a card enters your graveyard from your hand or library.)[/i] => Target opponent reveals their hand. You choose a nonland card from it. Exile that card. Then if the void called this turn, that opponent discards a card. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+
+UZ03 Obsessive Ritualist
+rules_text: When this creature enters, you may pay {1} and discard a card. If you do, draw a card.
+As long as the void called this turn, this creature gets +1/+1 and has deathtouch and haste. [i](The void calls when a card enters your graveyard from your hand or library.)[/i] => When this creature enters, you may pay {1} and discard a card. If you do, draw a card.
+As long as the void called this turn, this creature gets +1/+1 and has deathtouch and haste. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+
+UZ04 Restless Summoners
+
+UZ05 Oathbound Stalwart
+
+UZ06 Paid Off
+
+UZ09 Stormqueller Galleon
+
+UZ07 Admired Aeronaut
+
+UZ10 Lantha, Task Force Sergeant
+
+CU04 Ravenfolk Adept
+
+UZ11 Black Site Enhancer
+
+UZ12 Voidwing Kite
+
+UZ13 Soulsiphon Initiate
+
+UZ14 Voice of the Roaring Wind
+
+UZ15 In Strength Entwined
+
+UZ16 Karsten, the Spinner
+
+UZ17 Smuggler's Hovercar
+
+UZ18 Ravaged Eviscerator
+
+UZ19 Pulverizing Helix
+
+UZ20 Adaptive Agent
+
+UW01 Sky Force Retiree
+
+UW02 Scape Surveyor
+
+UW03 Skyiron Shaper
+
+UW04 Thousand-Mind Cutthroat
+rules_text: This creature gets +1/+0 and has double strike if you control another creature with the same name.
+{3}{W}: Fragment this creature. Activate only outside of combat. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => This creature gets +1/+0 and has double strike if you control another creature with the same name.
+{3}{W}: Fragment this creature. Activate only outside of combat. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+
+UW05 North District Prior
+
+CW05 Cabaret Seductress
+
+RZ06 Paragon of Opulence
+
+UW08 Triumphant Cavalier
+
+UW14 First-Class Skyship
+rules_text: Flying
+Autopilot {1}{W}{W} [i]({1}{W}{W}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Whenever this Vehicle attacks, put a +1/+1 counter on each creature that crewed it this turn. Put two +1/+1 counters on this Vehicle if no counters were put on creatures this way.
+Crew 3 => Flying
+Autopilot {1}{W} [i]({1}{W}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Whenever this Vehicle attacks, put a +1/+1 counter on it or on each creature that crewed it this turn.
+Crew 3
+
+UW09 Forgotten Pontiff
+
+UW10 Leave No Trace
+
+UW11 Induced Catatonia
+
+UW12 Academic Excellence
+rules_text: {3}{W}: Look at the top five cards of your library. You may reveal a creature or Vehicle card with mana value 2 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order. If you didn't reveal a card this way, create a 1/1 white Human Pilot creature token. => {2}{W}: Look at the top five cards of your library. You may reveal a creature or Vehicle card with mana value 2 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+
+UW13 Strength of the Departed
+
+UU01 Watchman of the Deep
+rules_text: Defender
+As long as the void called this turn, this creature gets +3/+0 and can attack as though it didn't have defender. [i](The void calls when a card enters your graveyard from your hand or library.)[/i]
+{2}{U}: Surveil 1. => Defender
+As long as the void called this turn, this creature gets +3/+0 and can attack as though it didn't have defender. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+{2}{U}: Surveil 1.
+
+UU02 Steelsuit Retrofitter
+
+UU03 Port Inspector
+
+UU04 Ego Devourer
+rules_text: You may have this creature enter as a copy of any creature on the battlefield.
+{U}{U}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => You may have this creature enter as a copy of any creature on the battlefield.
+{U}{U}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+
+UU06 Void Empyrean
+
+UU09 In the Nick of Time
+
+UU08 Fade
+
+UU07 Mindbreak Shield
+rules_text: Until end of turn, target creature you control gains hexproof and “If this creature would die, fragment it instead.” [i](To fragment a creature, its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+Draw a card. => Until end of turn, target creature you control gains hexproof and “If this creature would die, fragment it instead.” [i](To fragment a creature, its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+Draw a card.
+
+UU13 Ancestral Voidstone
+
+UU11 Consult the Titans
+rules_text: As an additional cost to cast this spell, you may discard a card.
+Draw three cards, plus an additional card if the void called this turn. [i](The void calls when a card enters your graveyard from your hand or library.)[/i] => As an additional cost to cast this spell, you may discard a card.
+Draw three cards, plus an additional card if the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+
+UU10 Forgotten Rites
+
+UU12 Wiped Clean
+rules_text: Devoid [i](This card has no color.)[/i]
+Enchant nonland permanent
+When this Aura enters, for each other permanent that shares a name with enchanted permanent, you may pay {C}. If you do, create a token that's a copy of this Aura attached to that permanent.
+Enchanted permanent loses all abilities. => Devoid [i](This card has no color.)[/i]
+Enchant nonland permanent
+When this Aura enters the battlefield, draw a card if {C} was spent to cast it.
+Enchanted permanent loses all abilities.
+
+UU14 Triumph, Taken by the Roil
+
+UB01 Shingle Crawler
+
+UG02 Elden Rite Shaman
+
+UG03 Forgotten Naturalist
+rules_text: When this creature enters, you may destroy target artifact or enchantment.
+{3}{G}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => When this creature enters, you may destroy target artifact or enchantment.
+{3}{G}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+
+UG04 Yestergrove Relic
+
+UG05 Curio Broker
+rules_text: When this creature enters, you may sacrifice a token creature you control. If you do, create a 3/3 green Beast Horror creature token.
+Sacrifice any number of creatures with total power 6 or greater: Put two +1/+1 counters on each creature you control. => When this creature enters, you may sacrifice a token. If you do, create a 3/3 green Beast Horror creature token.
+Sacrifice any number of creatures with total power 6 or greater: Put two +1/+1 counters on each creature you control.
+
+UG06 Botanical Conference
+
+UG07 Violeteye Savage
+
+UG08 Unwavering Broodmother
+
+UG09 Willowvine Sentinel
+
+UG10 Bitten By the Void
+
+UR11 Occupation
+
+UR12 Blinding Immolation
+
+UG13 Rejuvenating Coda
+
+UG14 Confidential Science
+
+UG01 Gossip Tracker
+
+UB02 Karsten's Enforcer
+
+UB03 Festering Eyemass
+
+UB04 Flesh Shredder
+rules_text: As this creature enters, you may discard a nonland card. If you do, this creature enters with a +1/+1 counter and a haste counter on it.
+When this creature deals combat damage to a player, if the void called this turn, up to one target creature that player controls gets -1/-1 until end of turn. [i](The void calls when a card enters your graveyard from your hand or library.)[/i] => As this creature enters, you may discard a card. If you do, this creature enters with a +1/+1 counter and a haste counter on it. If you discarded a nonland card this way, target opponent loses 1 life and you gain 1 life.
+
+UB05 Corpse Inspectors
+
+UB06 Epitaph Lurkers
+
+UB07 Brethren Priestess
+type: Creature => Creature — Zombie Cultist
+
+UR08 Flamerush
+
+UB12 Quick and Painful
+
+UG11 Ancient Stirrings
+
+UG12 Unfamiliar Vegetation
+
+UR13 For the Cause
+rules_text: As long as it's your turn, creatures you control get +1/+0.
+Whenever a creature you control dies for the first time each turn, if that creature was attacking, draw a card. => As long as it's your turn, creatures you control get +1/+0.
+Whenever an attacking creature you control dies, you may discard a card. If you do, draw two cards. This ability triggers only once each turn.
+
+UB14 Indoctrination
+
+UR01 Ashen Ravager
+rules_text: At the beginning of your end step, if the void called this turn, put a +1/+1 counter on this creature. [i](The void calls when a card enters your graveyard from your hand or library.)[/i]
+When this creature dies, it deals damage equal to its power to target opponent. => At the beginning of your end step, put a +1/+1 counter on this creature if the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+When this creature dies, it deals damage equal to its power to target opponent.
+
+UR02 Mutation Investigator
+rules_text: {T}: Add {R}.
+At the beginning of combat on your turn, put a +1/+1 counter on up to one target creature with mana value 4 or greater. => {T}: Add {R}.
+{1}, {T}: Put a +1/+1 counter on target creature with mana value 4 or greater.
+
+UR03 Preemption Engineer
+
+UR04 Sacrifice Archivist
+rules_text: Menace
+When this creature attacks, exile the top card of your library. You may play that card on any turn the void called. [i](The void calls when a card enters your graveyard from your hand or library.)[/i] => Menace
+Whenever this creature attacks, exile the top card of your library. 
+You may play cards exiled with this creature as long as the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+
+UR05 Wildfire Aven
+
+UR06 Forgotten Lane Busker
+rules_text: Whenever you cast a creature spell with mana value 4 or greater, create a Treasure token if it's the first time this ability has resolved this turn. If it's the second time, creatures you control gain trample and haste until end of turn. => Whenever a creature you control with mana value 4 or greater becomes blocked, that creature deals 1 damage to target opponent for each creature blocking it.
+{1}{R}, {T}: Put a menace counter on target creature you control.
+pt: 4/4 => 4/3
+
+UR07 Pinefell Terror
+rules_text: Reach, trample
+As long as you control another creature with mana value 4 or greater, this creature has haste. => Reach, trample, haste
+{1}{R}, Discard this card: Put a reach counter, a trample counter, or a haste counter on target creature you control.
+pt: 5/5 => 5/4
+
+UB09 Slay the Broken
+
+UR10 Sweep of Agony
+
+UB10 Watch the Docks
+
+UB13 Channel the Dark
+rules_text: At the beginning of your end step, if the void called this turn, create a 1/1 black Horror creature token. [i](The void calls when a card enters your graveyard from your hand or library.)[/i]
+Whenever the second card enters your graveyard from your hand or library on each of your turns, creatures you control get +1/+1 and gain flying until end of turn. => When this enchantment enters, each opponent sacrifices a creature or pays 3 life. Then each player discards a card.
+Once per turn, when you discard a card, you may pay {2}{B}. If you do, return that card and this enchantment to your hand.
+
+UR14 Pyretic Dreadnought
+
+UA01 Forsaken Acolyte
+rules_text: {3}{C}, {T}: Fragment target creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i]
+Creatures with shard counters can't be blocked by creatures with power 2 or greater. => {3}{C}, {T}: Fragment target creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+Creatures with shard counters can't be blocked.
+
+UA02 Three-Eye Scrier
+
+UA03 Endward Harbinger
+
+UA04 Mesa Devourer
+
+UA05 Eternity Takes
+
+UW07 Trend Mastermind
+
+MZ01 Zaila, Her Will Be Done
+
+RA01 Bear Witness
+
+RW01 Wingsuit Architect
+
+RW02 Liano, Prole's Champion
+rules_text: Liano enters with your choice of a +1/+1 counter, a vigilance counter, or a lifelink counter on it.
+Whenever a token creature enters under your control, for each counter on Liano, put a counter of that type on that creature.
+{1}{W}, {T}: Create a 1/1 white Human Soldier creature token. => Liano enters with your choice of a +1/+1 counter or a vigilance counter on it.
+Whenever a token creature enters under your control, for each counter on Liano, put a counter of that type on that creature.
+{1}{W}, {T}: Create a 1/1 white Human Soldier creature token.
+
+RW03 Aspect of Subjugation
+rules_text: When this creature enters, for each {C} spent to cast it, put a +1/+1 counter on it and choose up to one —
+• Exile target creature with mana value 2 or less.
+• Exile target creature with mana value 6 or greater.
+• Exile target creature. Return it to the battlefield under its owner's control at the beginning of the next end step. => When this creature enters, for each {C} spent to cast it, put a +1/+1 counter on it and choose up to one that hasn't been chosen —
+• Exile target creature with mana value 1 or 2.
+• Exile target creature with mana value 3 or 4.
+• Exile target creature with mana value 5 or 6.
+
+RW04 Coda of Resilience
+cost: {W}{W} => {2}{W}{W}
+rules_text: Cast this spell only if you've cast another spell this turn.
+Creatures you control gain protection from everything until end of turn. => This spell costs {2} less to cast if you've cast another spell this turn.
+Creatures you control gain protection from everything until end of turn.
+
+RW05 Destined End
+rules_text: If you control more creatures than an opponent, this spell costs {1} less to cast and you may cast it as though it had flash.
+Destroy all creatures. => If an opponent controls five or more creatures, you may cast this spell as though it had flash.
+Destroy all creatures.
+
+RW06 Boom of Industry
+
+RU01 Nascent Intern
+
+RU02 Auspicious Coroners
+rules_text: Vigilance
+When this creature enters or another creature you control dies, investigate.
+Once on each of your turns, you may mill a card instead of paying the mana cost of an activated ability of an artifact you control. [i](You still pay its other costs.)[/i] => Vigilance
+When this creature enters or another creature you control dies, investigate.
+Once on each of your turns, you may pay {2} less to activate an ability of an artifact you control. If you do, mill a card in addition to paying its other costs.
+pt: 3/3 => 3/2
+
+RU03 Scion of Insanity
+
+RU04 Coda of Ingenuity
+cost: {U}{U} => {2}{U}{U}
+rules_text: Cast this spell only if you've cast another spell this turn.
+Draw three cards. Put a card from your hand on top of your library or into your graveyard. => This spell costs {2} less to cast if you've cast another spell this turn.
+Draw three cards. Put a card from your hand on top of your library or into your graveyard.
+
+RU05 Roiling Undertow
+rules_text: Each player chooses up to one creature they control and puts a shard counter on it. Then, return all creatures without counters on them to their owners' hands. [i](Creatures with shard counters have base power and toughness 1/1 and can't be fragmented.)[/i] => Each player chooses up to one creature they control and fragments it. [i](That player creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+Return all other creatures to their owners' hands.
+
+RU06 Unparalleled Efficiency
+
+RB01 Haunted Starlet
+rules_text: Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+Whenever an opponent loses life for the first time each turn, you may pay {1}. If you do, you create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}” and lose 1 life. => Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+Whenever an opponent loses life, you may pay {1}. If you do, you create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}” and lose 1 life.
+
+RB02 Insatiable Slasher
+rules_text: Menace
+You may cast this card from your graveyard as long as the void called this turn. If you do, it enters with a haste counter on it. [i](The void calls when a card enters your graveyard from your hand or library.)[/i] => Menace
+You may cast this card from your graveyard as long as the void called this turn. If you do, it enters with a haste counter on it. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+
+RB03 Mortician's Carriage
+
+RB05
+
+RB04 Coda of Persistence
+cost: {B}{B} => {2}{B}{B}
+rules_text: Cast this spell only if you've cast another spell this turn.
+Return target creature card from your graveyard to the battlefield. Destroy all other creatures you control. => This spell costs {2} less to cast if you've cast another spell this turn.
+Return target creature card from your graveyard to the battlefield. You lose 3 life.
+
+RB06
+
+RR01
+
+RR02
+
+RR03
+
+RR04 Coda of Triumph
+cost: {R}{R} => {2}{R}{R}
+rules_text: Cast this spell only if you've cast another spell this turn.
+Coda of Triumph deals 5 damage to target creature or planeswalker and 2 damage to its controller. => This spell costs {2} less to cast if you've cast another spell this turn.
+Coda of Triumph deals 5 damage to target creature or planeswalker and 2 damage to its controller.
+
+RR05
+
+RR06
+
+RG02
+
+RG01
+
+RG03
+
+RG06
+
+RZ04 Salar, the Worldfury
+
+RZ05
+
+RZ01 Olmin, Royal Liaison
+
+RZ07
+
+RZ08 Something in the Soil
+
+RZ09
+
+MZ04
+type:  => Instant
+
+RZ02 Defuse
+
+RZ12 Reality Schism
+rules_text: Each player exiles a card from their hand. You may play cards you exiled this way. Each opponent may pay {2} as a sorcery to put a card they exiled this way into their hand.
+Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way. => Each player may exile a nonland card from their hand, and may play cards they exiled this way. Spells your opponents cast this way cost {2} more to cast.
+Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way.
+
+RZ14
+
+RZ15
+
+MB02 Graven Confidant
+
+MU02 Acolyte of Knowledge
+
+MZ02 Unfathomable Conflux
+
+RA03
+type:  => Enchantment
+
+RA04
+
+RA05
+
+RA06
+
+RA07
+
+RA08
+
+RA09
+
+RA10
+
+MZ03
+
+MZ05
+
+MZ06
+
+MZ07
+
+MW01
+
+MW02
+
+MU01
+type:  => Instant
+cost:  => {U}{U}
+rules_text:  => All creatures become legendary until end of turn.
+Draw a card.
+
+MA03 Emrakul, the Sky Sundered
+rules_text: Flying, trample, protection from mana value 7 or less
+When you cast this spell, choose beginning phase, main phase, or combat phase. During each opponent's next turn, that player skips each instance of each phase not chosen this way. [i](The beginning phase includes the untap, upkeep, and draw steps. That player doesn't skip the ending phase.)[/i] => Flying, trample, protection from mana value 7 or less
+When you cast this spell, choose beginning phase, main phase, or combat phase. Until your next turn, each opponent skips each instance of each phase not chosen this way. [i](The beginning phase includes the untap, upkeep, and draw steps. That player doesn't skip the ending phase.)[/i]
+
+Treasure
+
+CR10 Forge in Anguish
+
+
+VERSION 16 CHANGELOG
 ====================
 
 No changes.
