@@ -1,4 +1,515 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+CW06 Rockpile Brutes added.
+UW09 Industry Kingpins added.
+RA07 Bear Witness added.
+RB05 Occult Ritual added.
+RA01 Thoughtscraper added.
+RA02 Aspirant of Ulamog added.
+RA03 Slayer of Endless Form added.
+RA05 Supreme Desecrator added.
+
+CW06 East District Brute removed.
+UW09 Forgotten Pontiff removed.
+RA01 Bear Witness removed.
+RB05 removed.
+RA02 Thoughtscraper removed.
+RA03 removed.
+RA05 removed.
+RA07 removed.
+
+CW01 Volunteer Firewatch
+
+CW02 Startouched Devout
+
+CW03 Tireless Iterator
+
+CW04 Pedigree Collector
+
+CW07 Aerial Enforcer
+
+CW08 Mournful Matriarch
+
+CW09 Zaila's Willbender
+
+CW10 Opalwing Cavalry
+
+UW06 Upgrade the Force
+
+CW11 Sundering Strike
+
+CW12 Take to the Skies
+
+CW13 Bring Malfunction
+
+CW14 Oligarch's Supercar
+
+CU01 Intrepid Aviator
+
+CU02 Diviner of Relics
+
+CU03 Task Force Operatives
+
+CU05 Startouched Analyst
+
+CU06 Winterfell Walker
+
+CU07 Mastbreaker
+
+CU09 Eldritch Rebuttal
+
+CU08 Pass Unscathed
+
+CU11 Impart Knowledge
+rules_text: Look at the top four cards of your library. Put two of them into your hand and the rest into your graveyard. => Look at the top three cards of your library. Put two of them into your hand and the rest into your graveyard.
+
+CU10 Taken by the Storm
+
+CU12 Hedron Imprisonment
+
+CU13 Duchy Flagship
+
+CU14 Zephyr Piercer
+
+CB01 Herald of the End
+
+CB02 Luxuries Merchant
+
+CB03 Bloodsworn Subjugator
+
+CB04 Sanguine Suppressor
+
+CB05 Lantern Stalker
+
+CB06 Paradigm Enforcer
+
+CB07 Speakeasy Brokers
+
+CB08 Soultaker Idol
+
+CB09 Startouched Assassin
+
+CB13 Succumb
+
+CB10 Harrowing Transformation
+
+CB11 Learn From Loss
+
+CB12 Compelled to Die
+
+CB14 Nightgrasp
+
+CR02 Eyekissed Invoker
+
+CR01 Hotwire Prodigy
+
+CR03 Steelsuit Consultant
+
+CR04 Colossus Showman
+
+CR05 Magma Scribe
+
+CR06 Startouched Blitzer
+
+CR08 Spire Defender
+
+CR09 Ruin Prowler
+
+CR07 Crimson Gladeguard
+
+UR09 In Eldritch Flame
+
+CR11 Commune with Silence
+
+CR12 Pyre
+
+CR13 Incendiary Charger
+
+CR14 Task Force Hotrod
+
+CG01 Wreckage Inquisitors
+
+CG05 Startouched Arborist
+
+CG03 Deathrite Mystic
+
+CG04 First Responders
+
+CG08 Streetway Incursion
+
+CG06 World Whisperer
+
+CG07 Hirehand Gunner
+
+CG02 Verge Drifter
+
+CG09 Starbreaker Juvenile
+
+CG10 Barksplitter Colossus
+
+CG11 A Hole in the Sky
+
+CG13 Blooming Overgrowth
+
+CG12 Donnybrook
+
+CG14 Unethical Enhancements
+
+CA06 Portmaster's Firearm
+
+CA07 Obsidian Reliquary
+
+CA08 Arcwhip Emitter
+
+CA09 Pine Blitzer
+
+CA10 Corrupted Hedron
+
+CA11 Steelform Willshaper
+
+UZ01 Splintering Edict
+
+UZ02 Afflict Thought
+
+UZ03 Obsessive Ritualist
+
+UZ04 Restless Summoners
+
+UZ05 Oathbound Stalwart
+
+UZ06 Paid Off
+
+UZ09 Stormqueller Galleon
+rules_text: Autopilot {R}{W} [i]({R}{W}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Whenever this Vehicle attacks, if it wasn't crewed this turn, put a counter it doesn't have from among +1/+1, vigilance, first strike, and menace on it. Draw a card if no counters were put on it this way.
+Crew 2 => Autopilot {R}{W} [i]({R}{W}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Whenever this Vehicle attacks, put a counter it doesn't have from among +1/+1, vigilance, first strike, and menace on it. Draw a card if no counters were put on it this way.
+Crew 2
+pt: 5/4 => 4/4
+
+UZ08 Sludge Trawlers
+
+UZ07 Admired Aeronaut
+
+UZ10 Lantha, Task Force Sergeant
+
+Cultist
+rules_text: Sacrifice this creature: Target player mills a card. Activate only as a sorcery. => 
+
+CU04 Ravenfolk Adept
+
+UZ11 Black Site Enhancer
+
+UZ12 Voidwing Kite
+
+UZ13 Soulsiphon Initiate
+
+UZ14 Voice of the Roaring Wind
+
+UZ15 In Strength Entwined
+
+UZ16 Karsten, the Spinner
+
+UZ17 Smuggler's Hovercar
+
+UZ18 Ravaged Eviscerator
+
+UZ19 Pulverizing Helix
+
+UZ20 Adaptive Agent
+
+UW01 Sky Force Retiree
+
+UW02 Scape Surveyor
+
+UW03 Skyiron Shaper
+
+UW04 Thousand-Mind Cutthroat
+
+UW05 North District Prior
+
+CW05 Cabaret Seductress
+
+RZ06 Paragon of Opulence
+
+UW08 Triumphant Cavalier
+
+UW14 First-Class Skyship
+
+UW10 Leave No Trace
+
+UW11 Induced Catatonia
+
+UW12 Academic Excellence
+
+UW13 Strength of the Departed
+
+UU01 Watchman of the Deep
+
+UU02 Steelsuit Retrofitter
+rules_text: Flash
+When this creature enters, you may tap it. If you do, up to one target Vehicle you control becomes an artifact creature until end of turn.
+{1}{U}: Target creature can't be blocked this turn. Activate only if this creature is tapped and didn't attack this turn. => Flash
+As long as this creature entered this turn, it can crew Vehicles as though its power were any number.
+{1}{U}: Target creature can't be blocked this turn. Activate only if this creature is tapped and didn't attack this turn.
+
+UU03 Port Inspector
+
+UU04 Ego Devourer
+
+UU05 Adaptive Lieutenant
+
+UU06 Void Empyrean
+
+UU09 In the Nick of Time
+
+UU08 Fade
+
+UU07 Mindbreak Shield
+
+UU13 Ancestral Voidstone
+
+UU11 Consult the Titans
+
+UU10 Forgotten Rites
+
+UU12 Wiped Clean
+
+UU14 Triumph, Taken by the Roil
+
+UB01 Shingle Crawler
+
+UG02 Elden Rite Shaman
+
+UG03 Forgotten Naturalist
+
+UG04 Yestergrove Relic
+
+UG05 Curio Broker
+
+UG06 Botanical Conference
+
+UG07 Violeteye Savage
+
+UG08 Unwavering Broodmother
+
+UG09 Willowvine Sentinel
+
+UG10 Bitten By the Void
+
+UR11 Occupation
+
+UR12 Blinding Immolation
+
+UG13 Rejuvenating Coda
+
+UG14 Confidential Science
+
+UG01 Gossip Tracker
+
+UB02 Karsten's Enforcer
+
+UB03 Festering Eyemass
+
+UB04 Flesh Shredder
+
+UB05 Corpse Inspectors
+
+UB06 Epitaph Lurkers
+
+UB07 Brethren Priestess
+
+UR08 Flamerush
+
+UB12 Quick and Painful
+
+UG11 Ancient Stirrings
+
+UG12 Unfamiliar Vegetation
+
+UR13 For the Cause
+
+UB14 Indoctrination
+
+UR01 Ashen Ravager
+
+UR02 Mutation Investigator
+
+UR03 Preemption Engineer
+
+UR04 Sacrifice Archivist
+
+UR05 Wildfire Aven
+
+UR06 Forgotten Lane Busker
+
+UR07 Pinefell Terror
+
+UB08 Stonebridge Ambush
+
+UB09 Slay the Broken
+
+UR10 Sweep of Agony
+
+UB10 Watch the Docks
+
+UB11 Unnatural Torment
+
+UB13 Channel the Dark
+
+UR14 Pyretic Dreadnought
+
+UA01 Forsaken Acolyte
+
+UA02 Three-Eye Scrier
+
+UA03 Endward Harbinger
+
+UA04 Mesa Devourer
+
+UA05 Eternity Takes
+
+UW07 Trend Mastermind
+
+MZ01 Zaila, Her Will Be Done
+
+RG05 Moonrise
+
+RZ10 Lantha Uncovers The Truth
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to three Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards. => 
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to three Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to three Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards. => 
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to three Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards.
+
+RW01 Wingsuit Architect
+
+RW02 Liano, Prole's Champion
+
+RW03 Aspect of Subjugation
+
+RW04 Coda of Resilience
+
+RW05 Destined End
+
+RW06 Boom of Industry
+
+RU01 Nascent Intern
+
+RU02 Auspicious Coroners
+
+RU03 Scion of Insanity
+
+RU04 Coda of Ingenuity
+
+RU05 Roiling Undertow
+
+RU06 Unparalleled Efficiency
+rules_text: Whenever a nontoken Vehicle you control enters, create a token that's a copy of it. If it doesn't have autopilot, it gains autopilot {3}. [i](It gains “{3}: This Vehicle becomes an artifact creature until end of turn.”)[/i]
+Whenever a Vehicle you control deals combat damage to a player, surveil 2 if it was crewed this turn. Otherwise, draw a card. => Whenever a nontoken Vehicle you control enters, create a token that's a copy of it. If it doesn't have autopilot, it gains autopilot {3}.
+Whenever a Vehicle you control deals combat damage to a player, surveil 2 if it was crewed this turn. Otherwise, draw a card.
+
+RB01 Haunted Starlet
+
+RB02 Insatiable Slasher
+
+RB03 Mortician's Carriage
+
+RB04 Coda of Persistence
+
+RB06
+rules_text: Whenever you surveil, if no cards were put into your hand this way, create a 2/2 black Zombie creature token. If no cards were put into your graveyard this way, => 
+
+RR01
+
+RR02
+
+RR03
+
+RR04 Coda of Triumph
+
+RR05
+
+RR06
+
+RG02
+
+RG01
+
+RG03
+
+RG06
+
+RG04 Coda of Emergence
+
+RZ03 Kavalesk, the Dark Exalted
+
+RZ04 Salar, the Worldfury
+
+RZ05
+
+RZ01 Olmin, Royal Liaison
+
+RZ07
+
+RZ08 Something in the Soil
+
+RZ09
+
+RZ02 Defuse
+
+RZ12 Reality Schism
+
+RZ13 Morgyn, Paradigm Breaker
+
+RZ14
+cost:  => {B}{R}{G}
+
+RZ15
+cost:  => {B}{G}{U}
+
+MB02 Graven Confidant
+
+MU02 Acolyte of Knowledge
+
+MZ02 Unfathomable Conflux
+
+RA04
+type:  => Creature — Eldrazi
+cost:  => {8}
+pt:  => 13/7
+
+RA06
+type:  => Creature — Eldrazi
+cost:  => {11}
+pt:  => 10/10
+
+RA09
+type:  => Artifact
+
+RA10
+type:  => Artifact — Vehicle
+
+MZ03
+
+RZ11 Dream of Aeons Past
+
+MU01
+
+CR10 Forge in Anguish
+
+
+VERSION 19 CHANGELOG
 ====================
 
 CB08 Soultaker Idol added.

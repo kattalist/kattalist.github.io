@@ -1,1021 +1,1021 @@
 ﻿[
     {
         "card_name": "RW01 Wingsuit Architect",
-        "number": 51,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "MU01",
-        "number": 85,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "MB02 Graven Confidant",
-        "number": 121,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RR01",
-        "number": 156,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RG01",
-        "number": 190,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RW02 Liano, Prole's Champion",
-        "number": 52,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "MU02 Acolyte of Knowledge",
-        "number": 86,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RB01 Haunted Starlet",
-        "number": 122,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RR02",
-        "number": 157,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RG02",
-        "number": 191,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RW03 Aspect of Subjugation",
-        "number": 53,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RU01 Nascent Intern",
-        "number": 87,
-        "shape": "transform double faced",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RB02 Insatiable Slasher",
-        "number": 123,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RR03",
-        "number": 158,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RG03",
-        "number": 192,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RW04 Coda of Resilience",
-        "number": 54,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RU02 Auspicious Coroners",
-        "number": 88,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RB03 Mortician's Carriage",
-        "number": 124,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RR04 Coda of Triumph",
-        "number": 159,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RG04 Coda of Emergence",
-        "number": 193,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RW05 Destined End",
-        "number": 55,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RU03 Scion of Insanity",
-        "number": 89,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RB04 Coda of Persistence",
-        "number": 125,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RR05",
-        "number": 160,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RG05 Moonrise",
-        "number": 194,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RW06 Boom of Industry",
-        "number": 56,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RU04 Coda of Ingenuity",
-        "number": 90,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RB05",
-        "number": 126,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RR06",
-        "number": 161,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RG06",
-        "number": 195,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UW01 Sky Force Retiree",
-        "number": 57,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RU05 Roiling Undertow",
-        "number": 91,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RB06",
-        "number": 127,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UR01 Ashen Ravager",
-        "number": 162,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UG01 Gossip Tracker",
-        "number": 196,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UW02 Scape Surveyor",
-        "number": 58,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RU06 Unparalleled Efficiency",
-        "number": 92,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UB01 Shingle Crawler",
-        "number": 128,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UR02 Mutation Investigator",
-        "number": 163,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UG02 Elden Rite Shaman",
-        "number": 197,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UW03 Skyiron Shaper",
-        "number": 59,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UU01 Watchman of the Deep",
-        "number": 93,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UB02 Karsten's Enforcer",
-        "number": 129,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UR03 Preemption Engineer",
-        "number": 164,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UG03 Forgotten Naturalist",
-        "number": 198,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UW04 Thousand-Mind Cutthroat",
-        "number": 60,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UU02 Steelsuit Retrofitter",
-        "number": 94,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UB03 Festering Eyemass",
-        "number": 130,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UR04 Sacrifice Archivist",
-        "number": 165,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UG04 Yestergrove Relic",
-        "number": 199,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UW05 North District Prior",
-        "number": 61,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UU03 Port Inspector",
-        "number": 95,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UB04 Flesh Shredder",
-        "number": 131,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UR05 Wildfire Aven",
-        "number": 166,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UG05 Curio Broker",
-        "number": 200,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UW06 Upgrade the Force",
-        "number": 62,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UU04 Ego Devourer",
-        "number": 96,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UB05 Corpse Inspectors",
-        "number": 132,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UR06 Forgotten Lane Busker",
-        "number": 167,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UG06 Botanical Conference",
-        "number": 201,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UW07 Trend Mastermind",
-        "number": 63,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UU05 Adaptive Lieutenant",
-        "number": 97,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UB06 Epitaph Lurkers",
-        "number": 133,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UR07 Pinefell Terror",
-        "number": 168,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UG07 Violeteye Savage",
-        "number": 202,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UW08 Triumphant Cavalier",
-        "number": 64,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UU06 Void Empyrean",
-        "number": 98,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UB07 Brethren Priestess",
-        "number": 134,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UR08 Flamerush",
-        "number": 169,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UG08 Unwavering Broodmother",
-        "number": 203,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UW09 Forgotten Pontiff",
-        "number": 65,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UU07 Mindbreak Shield",
-        "number": 99,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UB08 Stonebridge Ambush",
-        "number": 135,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UR09 In Eldritch Flame",
-        "number": 170,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UG09 Willowvine Sentinel",
-        "number": 204,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UW10 Leave No Trace",
-        "number": 66,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UU08 Fade",
-        "number": 100,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UB09 Slay the Broken",
-        "number": 136,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UR10 Sweep of Agony",
-        "number": 171,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UG10 Bitten By the Void",
-        "number": 205,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UW11 Induced Catatonia",
-        "number": 67,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UU09 In the Nick of Time",
-        "number": 101,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UB10 Watch the Docks",
-        "number": 137,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UR11 Occupation",
-        "number": 172,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UG11 Ancient Stirrings",
-        "number": 206,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UW12 Academic Excellence",
-        "number": 68,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UU10 Forgotten Rites",
-        "number": 102,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UB11 Unnatural Torment",
-        "number": 138,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UR12 Blinding Immolation",
-        "number": 173,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UG12 Unfamiliar Vegetation",
-        "number": 207,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UW13 Strength of the Departed",
-        "number": 69,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UU11 Consult the Titans",
-        "number": 103,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UB12 Quick and Painful",
-        "number": 139,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UR13 For the Cause",
-        "number": 174,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UG13 Rejuvenating Coda",
-        "number": 208,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UW14 First-Class Skyship",
-        "number": 70,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UU12 Wiped Clean",
-        "number": 104,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UB13 Channel the Dark",
-        "number": 140,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UR14 Pyretic Dreadnought",
-        "number": 175,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UG14 Confidential Science",
-        "number": 209,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CW01 Volunteer Firewatch",
-        "number": 37,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UU13 Ancestral Voidstone",
-        "number": 105,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UB14 Indoctrination",
-        "number": 141,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CR01 Hotwire Prodigy",
-        "number": 142,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CG01 Wreckage Inquisitors",
-        "number": 176,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CW02 Startouched Devout",
-        "number": 38,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UU14 Triumph, Taken by the Roil",
-        "number": 106,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CB01 Herald of the End",
-        "number": 107,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CR02 Eyekissed Invoker",
-        "number": 143,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CG02 Verge Drifter",
-        "number": 177,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CW03 Tireless Iterator",
-        "number": 39,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CU01 Intrepid Aviator",
-        "number": 71,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CB02 Luxuries Merchant",
-        "number": 108,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CR03 Steelsuit Consultant",
-        "number": 144,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CG03 Deathrite Mystic",
-        "number": 178,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CW04 Pedigree Collector",
-        "number": 40,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CU02 Diviner of Relics",
-        "number": 72,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CB03 Bloodsworn Subjugator",
-        "number": 109,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CR04 Colossus Showman",
-        "number": 145,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CG04 First Responders",
-        "number": 179,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CW05 Cabaret Seductress",
-        "number": 41,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CU03 Task Force Operatives",
-        "number": 73,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CB04 Sanguine Suppressor",
-        "number": 110,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CR05 Magma Scribe",
-        "number": 146,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CG05 Startouched Arborist",
-        "number": 180,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CW06 East District Brute",
-        "number": 42,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CU04 Ravenfolk Adept",
-        "number": 74,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CB05 Lantern Stalker",
-        "number": 111,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CR06 Startouched Blitzer",
-        "number": 147,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CG06 World Whisperer",
-        "number": 181,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CW07 Aerial Enforcer",
-        "number": 43,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CU05 Startouched Analyst",
-        "number": 75,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CB06 Paradigm Enforcer",
-        "number": 112,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CR07 Crimson Gladeguard",
-        "number": 148,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CG07 Hirehand Gunner",
-        "number": 182,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CW08 Mournful Matriarch",
-        "number": 44,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CU06 Winterfell Walker",
-        "number": 76,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CB07 Speakeasy Brokers",
-        "number": 113,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CR08 Spire Defender",
-        "number": 149,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CG08 Streetway Incursion",
-        "number": 183,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CW09 Zaila's Willbender",
-        "number": 45,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CU07 Mastbreaker",
-        "number": 77,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CB08 Soultaker Idol",
-        "number": 114,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CR09 Ruin Prowler",
-        "number": 150,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CG09 Starbreaker Juvenile",
-        "number": 184,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CW10 Opalwing Cavalry",
-        "number": 46,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CU08 Pass Unscathed",
-        "number": 78,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CB09 Startouched Assassin",
-        "number": 115,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CR10 Forge in Anguish",
-        "number": 151,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CG10 Barksplitter Colossus",
-        "number": 185,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CW11 Sundering Strike",
         "number": 47,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "CU09 Eldritch Rebuttal",
-        "number": 79,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CB10 Harrowing Transformation",
-        "number": 116,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CR11 Commune with Silence",
-        "number": 152,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CG11 A Hole in the Sky",
-        "number": 186,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CW12 Take to the Skies",
-        "number": 48,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CU10 Taken by the Storm",
-        "number": 80,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CB11 Learn From Loss",
-        "number": 117,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CR12 Pyre",
-        "number": 153,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CG12 Donnybrook",
-        "number": 187,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CW13 Bring Malfunction",
-        "number": 49,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "CU11 Impart Knowledge",
+        "card_name": "MU01",
         "number": 81,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "CB12 Compelled to Die",
-        "number": 118,
+        "card_name": "MB02 Graven Confidant",
+        "number": 117,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "CR13 Incendiary Charger",
-        "number": 154,
+        "card_name": "RR01",
+        "number": 152,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "CG13 Blooming Overgrowth",
-        "number": 188,
+        "card_name": "RG01",
+        "number": 186,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "CW14 Oligarch's Supercar",
-        "number": 50,
+        "card_name": "RW02 Liano, Prole's Champion",
+        "number": 48,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "CU12 Hedron Imprisonment",
+        "card_name": "MU02 Acolyte of Knowledge",
         "number": 82,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "CB13 Succumb",
+        "card_name": "RB01 Haunted Starlet",
+        "number": 118,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "RR02",
+        "number": 153,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "RG02",
+        "number": 187,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "RW03 Aspect of Subjugation",
+        "number": 49,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "RU01 Nascent Intern",
+        "number": 83,
+        "shape": "transform double faced",
+        "set": "SGP"
+    },
+    {
+        "card_name": "RB02 Insatiable Slasher",
         "number": 119,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "CR14 Task Force Hotrod",
+        "card_name": "RR03",
+        "number": 154,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "RG03",
+        "number": 188,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "RW04 Coda of Resilience",
+        "number": 50,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "RU02 Auspicious Coroners",
+        "number": 84,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "RB03 Mortician's Carriage",
+        "number": 120,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "RR04 Coda of Triumph",
         "number": 155,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "CG14 Unethical Enhancements",
+        "card_name": "RG04 Coda of Emergence",
         "number": 189,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "RW05 Destined End",
+        "number": 51,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "RU03 Scion of Insanity",
+        "number": 85,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "RB04 Coda of Persistence",
+        "number": 121,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "RR05",
+        "number": 156,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "RG05 Moonrise",
+        "number": 190,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "RW06 Boom of Industry",
+        "number": 52,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "RU04 Coda of Ingenuity",
+        "number": 86,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "RB05 Occult Ritual",
+        "number": 122,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "RR06",
+        "number": 157,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "RG06",
+        "number": 191,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UW01 Sky Force Retiree",
+        "number": 53,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "RU05 Roiling Undertow",
+        "number": 87,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "RB06",
+        "number": 123,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UR01 Ashen Ravager",
+        "number": 158,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UG01 Gossip Tracker",
+        "number": 192,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UW02 Scape Surveyor",
+        "number": 54,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "RU06 Unparalleled Efficiency",
+        "number": 88,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UB01 Shingle Crawler",
+        "number": 124,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UR02 Mutation Investigator",
+        "number": 159,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UG02 Elden Rite Shaman",
+        "number": 193,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UW03 Skyiron Shaper",
+        "number": 55,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UU01 Watchman of the Deep",
+        "number": 89,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UB02 Karsten's Enforcer",
+        "number": 125,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UR03 Preemption Engineer",
+        "number": 160,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UG03 Forgotten Naturalist",
+        "number": 194,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UW04 Thousand-Mind Cutthroat",
+        "number": 56,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UU02 Steelsuit Retrofitter",
+        "number": 90,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UB03 Festering Eyemass",
+        "number": 126,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UR04 Sacrifice Archivist",
+        "number": 161,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UG04 Yestergrove Relic",
+        "number": 195,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UW05 North District Prior",
+        "number": 57,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UU03 Port Inspector",
+        "number": 91,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UB04 Flesh Shredder",
+        "number": 127,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UR05 Wildfire Aven",
+        "number": 162,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UG05 Curio Broker",
+        "number": 196,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UW06 Upgrade the Force",
+        "number": 58,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UU04 Ego Devourer",
+        "number": 92,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UB05 Corpse Inspectors",
+        "number": 128,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UR06 Forgotten Lane Busker",
+        "number": 163,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UG06 Botanical Conference",
+        "number": 197,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UW07 Trend Mastermind",
+        "number": 59,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UU05 Adaptive Lieutenant",
+        "number": 93,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UB06 Epitaph Lurkers",
+        "number": 129,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UR07 Pinefell Terror",
+        "number": 164,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UG07 Violeteye Savage",
+        "number": 198,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UW08 Triumphant Cavalier",
+        "number": 60,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UU06 Void Empyrean",
+        "number": 94,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UB07 Brethren Priestess",
+        "number": 130,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UR08 Flamerush",
+        "number": 165,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UG08 Unwavering Broodmother",
+        "number": 199,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UW09 Industry Kingpins",
+        "number": 61,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UU07 Mindbreak Shield",
+        "number": 95,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UB08 Stonebridge Ambush",
+        "number": 131,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UR09 In Eldritch Flame",
+        "number": 166,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UG09 Willowvine Sentinel",
+        "number": 200,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UW10 Leave No Trace",
+        "number": 62,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UU08 Fade",
+        "number": 96,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UB09 Slay the Broken",
+        "number": 132,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UR10 Sweep of Agony",
+        "number": 167,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UG10 Bitten By the Void",
+        "number": 201,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UW11 Induced Catatonia",
+        "number": 63,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UU09 In the Nick of Time",
+        "number": 97,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UB10 Watch the Docks",
+        "number": 133,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UR11 Occupation",
+        "number": 168,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UG11 Ancient Stirrings",
+        "number": 202,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UW12 Academic Excellence",
+        "number": 64,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UU10 Forgotten Rites",
+        "number": 98,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UB11 Unnatural Torment",
+        "number": 134,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UR12 Blinding Immolation",
+        "number": 169,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UG12 Unfamiliar Vegetation",
+        "number": 203,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UW13 Strength of the Departed",
+        "number": 65,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UU11 Consult the Titans",
+        "number": 99,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UB12 Quick and Painful",
+        "number": 135,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UR13 For the Cause",
+        "number": 170,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UG13 Rejuvenating Coda",
+        "number": 204,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UW14 First-Class Skyship",
+        "number": 66,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UU12 Wiped Clean",
+        "number": 100,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UB13 Channel the Dark",
+        "number": 136,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UR14 Pyretic Dreadnought",
+        "number": 171,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UG14 Confidential Science",
+        "number": 205,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CW01 Volunteer Firewatch",
+        "number": 33,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UU13 Ancestral Voidstone",
+        "number": 101,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UB14 Indoctrination",
+        "number": 137,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CR01 Hotwire Prodigy",
+        "number": 138,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CG01 Wreckage Inquisitors",
+        "number": 172,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CW02 Startouched Devout",
+        "number": 34,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UU14 Triumph, Taken by the Roil",
+        "number": 102,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CB01 Herald of the End",
+        "number": 103,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CR02 Eyekissed Invoker",
+        "number": 139,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CG02 Verge Drifter",
+        "number": 173,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CW03 Tireless Iterator",
+        "number": 35,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CU01 Intrepid Aviator",
+        "number": 67,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CB02 Luxuries Merchant",
+        "number": 104,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CR03 Steelsuit Consultant",
+        "number": 140,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CG03 Deathrite Mystic",
+        "number": 174,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CW04 Pedigree Collector",
+        "number": 36,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CU02 Diviner of Relics",
+        "number": 68,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CB03 Bloodsworn Subjugator",
+        "number": 105,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CR04 Colossus Showman",
+        "number": 141,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CG04 First Responders",
+        "number": 175,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CW05 Cabaret Seductress",
+        "number": 37,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CU03 Task Force Operatives",
+        "number": 69,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CB04 Sanguine Suppressor",
+        "number": 106,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CR05 Magma Scribe",
+        "number": 142,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CG05 Startouched Arborist",
+        "number": 176,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CW06 Rockpile Brutes",
+        "number": 38,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CU04 Ravenfolk Adept",
+        "number": 70,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CB05 Lantern Stalker",
+        "number": 107,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CR06 Startouched Blitzer",
+        "number": 143,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CG06 World Whisperer",
+        "number": 177,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CW07 Aerial Enforcer",
+        "number": 39,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CU05 Startouched Analyst",
+        "number": 71,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CB06 Paradigm Enforcer",
+        "number": 108,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CR07 Crimson Gladeguard",
+        "number": 144,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CG07 Hirehand Gunner",
+        "number": 178,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CW08 Mournful Matriarch",
+        "number": 40,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CU06 Winterfell Walker",
+        "number": 72,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CB07 Speakeasy Brokers",
+        "number": 109,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CR08 Spire Defender",
+        "number": 145,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CG08 Streetway Incursion",
+        "number": 179,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CW09 Zaila's Willbender",
+        "number": 41,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CU07 Mastbreaker",
+        "number": 73,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CB08 Soultaker Idol",
+        "number": 110,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CR09 Ruin Prowler",
+        "number": 146,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CG09 Starbreaker Juvenile",
+        "number": 180,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CW10 Opalwing Cavalry",
+        "number": 42,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CU08 Pass Unscathed",
+        "number": 74,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CB09 Startouched Assassin",
+        "number": 111,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CR10 Forge in Anguish",
+        "number": 147,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CG10 Barksplitter Colossus",
+        "number": 181,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CW11 Sundering Strike",
+        "number": 43,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CU09 Eldritch Rebuttal",
+        "number": 75,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CB10 Harrowing Transformation",
+        "number": 112,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CR11 Commune with Silence",
+        "number": 148,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CG11 A Hole in the Sky",
+        "number": 182,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CW12 Take to the Skies",
+        "number": 44,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CU10 Taken by the Storm",
+        "number": 76,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CB11 Learn From Loss",
+        "number": 113,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CR12 Pyre",
+        "number": 149,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CG12 Donnybrook",
+        "number": 183,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CW13 Bring Malfunction",
+        "number": 45,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CU11 Impart Knowledge",
+        "number": 77,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CB12 Compelled to Die",
+        "number": 114,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CR13 Incendiary Charger",
+        "number": 150,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CG13 Blooming Overgrowth",
+        "number": 184,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CW14 Oligarch's Supercar",
+        "number": 46,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CU12 Hedron Imprisonment",
+        "number": 78,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CB13 Succumb",
+        "number": 115,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CR14 Task Force Hotrod",
+        "number": 151,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "CG14 Unethical Enhancements",
+        "number": 185,
         "shape": "normal",
         "set": "SGP"
     },
@@ -1024,13 +1024,13 @@
     },
     {
         "card_name": "CU13 Duchy Flagship",
-        "number": 83,
+        "number": 79,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "CB14 Nightgrasp",
-        "number": 120,
+        "number": 116,
         "shape": "normal",
         "set": "SGP"
     },
@@ -1045,7 +1045,7 @@
     },
     {
         "card_name": "CU14 Zephyr Piercer",
-        "number": 84,
+        "number": 80,
         "shape": "normal",
         "set": "SGP"
     },
@@ -1073,97 +1073,97 @@
     "a->gold",
     {
         "card_name": "MZ01 Zaila, Her Will Be Done",
-        "number": 210,
+        "number": 206,
         "shape": "planeswalker",
         "set": "SGP"
     },
     {
         "card_name": "RZ02 Defuse",
-        "number": 214,
+        "number": 210,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "RZ03 Kavalesk, the Dark Exalted",
-        "number": 215,
+        "number": 211,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "RZ04 Salar, the Worldfury",
-        "number": 216,
+        "number": 212,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "RZ05",
-        "number": 217,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RZ01 Olmin, Royal Liaison",
         "number": 213,
         "shape": "normal",
         "set": "SGP"
     },
     {
+        "card_name": "RZ01 Olmin, Royal Liaison",
+        "number": 209,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
         "card_name": "UZ02 Afflict Thought",
-        "number": 226,
+        "number": 224,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "UZ03 Obsessive Ritualist",
-        "number": 227,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UZ04 Restless Summoners",
-        "number": 228,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UZ05 Oathbound Stalwart",
-        "number": 229,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UZ01 Splintering Edict",
         "number": 225,
         "shape": "normal",
         "set": "SGP"
     },
     {
+        "card_name": "UZ04 Restless Summoners",
+        "number": 226,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UZ05 Oathbound Stalwart",
+        "number": 227,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UZ01 Splintering Edict",
+        "number": 223,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
         "card_name": "UZ12 Voidwing Kite",
-        "number": 236,
+        "number": 234,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "UZ13 Soulsiphon Initiate",
-        "number": 237,
+        "number": 235,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "UZ14 Voice of the Roaring Wind",
-        "number": 238,
+        "number": 236,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "UZ15 In Strength Entwined",
-        "number": 239,
+        "number": 237,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "UZ11 Black Site Enhancer",
-        "number": 235,
+        "number": 233,
         "shape": "normal",
         "set": "SGP"
     },
@@ -1196,91 +1196,91 @@
     },
     {
         "card_name": "RZ06 Paragon of Opulence",
-        "number": 218,
+        "number": 214,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "MZ02 Unfathomable Conflux",
-        "number": 211,
+        "number": 207,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "RZ08 Something in the Soil",
-        "number": 220,
+        "number": 216,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "RZ09",
-        "number": 221,
+        "number": 217,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "MZ03",
-        "number": 212,
+        "number": 208,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "UZ06 Paid Off",
-        "number": 230,
+        "number": 228,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "RZ07",
-        "number": 219,
+        "number": 215,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "UZ08 Sludge Trawlers",
-        "number": 232,
+        "number": 230,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "UZ09 Stormqueller Galleon",
-        "number": 233,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RZ10 Lantha Uncovers The Truth",
-        "number": 222,
-        "shape": "saga",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UZ16 Karsten, the Spinner",
-        "number": 240,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "UZ07 Admired Aeronaut",
         "number": 231,
         "shape": "normal",
         "set": "SGP"
     },
     {
+        "card_name": "RZ10 Lantha Uncovers The Truth",
+        "number": 218,
+        "shape": "saga",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UZ16 Karsten, the Spinner",
+        "number": 238,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "UZ07 Admired Aeronaut",
+        "number": 229,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
         "card_name": "UZ18 Ravaged Eviscerator",
-        "number": 242,
+        "number": 240,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "UZ19 Pulverizing Helix",
-        "number": 243,
+        "number": 241,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "UZ10 Lantha, Task Force Sergeant",
-        "number": 234,
+        "number": 232,
         "shape": "normal",
         "set": "SGP"
     },
@@ -1289,7 +1289,7 @@
     },
     {
         "card_name": "UZ17 Smuggler's Hovercar",
-        "number": 241,
+        "number": 239,
         "shape": "normal",
         "set": "SGP"
     },
@@ -1301,7 +1301,7 @@
     },
     {
         "card_name": "UZ20 Adaptive Agent",
-        "number": 244,
+        "number": 242,
         "shape": "normal",
         "set": "SGP"
     },
@@ -1322,27 +1322,33 @@
     },
     {
         "card_name": "RZ12 Reality Schism",
-        "number": 223,
+        "number": 219,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "RZ13 Morgyn, Paradigm Breaker",
-        "number": 224,
+        "number": 220,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "RZ14",
+        "number": 221,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "RZ15",
+        "number": 222,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "RZ11 Dream of Aeons Past",
-        "number": 245,
+        "number": 243,
         "shape": "normal",
         "set": "SGP"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1442,19 +1448,19 @@
         "set": "SGP"
     },
     {
-        "card_name": "RA01 Bear Witness",
+        "card_name": "RA01 Thoughtscraper",
         "number": 20,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "RA02 Thoughtscraper",
+        "card_name": "RA02 Aspirant of Ulamog",
         "number": 21,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "RA03",
+        "card_name": "RA03 Slayer of Endless Form",
         "number": 22,
         "shape": "normal",
         "set": "SGP"
@@ -1466,7 +1472,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "RA05",
+        "card_name": "RA05 Supreme Desecrator",
         "number": 24,
         "shape": "normal",
         "set": "SGP"
@@ -1478,7 +1484,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "RA07",
+        "card_name": "RA07 Bear Witness",
         "number": 26,
         "shape": "normal",
         "set": "SGP"
@@ -1491,55 +1497,43 @@
     },
     {
         "card_name": "RA09",
-        "number": 28,
+        "number": 250,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "RA10",
-        "number": 29,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RZ14",
-        "number": 30,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "RZ15",
-        "number": 31,
+        "number": 251,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "UA01 Forsaken Acolyte",
-        "number": 32,
+        "number": 28,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "UA02 Three-Eye Scrier",
-        "number": 33,
+        "number": 29,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "UA03 Endward Harbinger",
-        "number": 34,
+        "number": 30,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "UA04 Mesa Devourer",
-        "number": 35,
+        "number": 31,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "UA05 Eternity Takes",
-        "number": 36,
+        "number": 32,
         "shape": "normal",
         "set": "SGP"
     },
@@ -1593,39 +1587,45 @@
     },
     {
         "card_name": "CA06 Portmaster's Firearm",
-        "number": 246,
+        "number": 244,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "CA07 Obsidian Reliquary",
-        "number": 247,
+        "number": 245,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "CA08 Arcwhip Emitter",
-        "number": 248,
+        "number": 246,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "CA09 Pine Blitzer",
-        "number": 249,
+        "number": 247,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "CA10 Corrupted Hedron",
-        "number": 250,
+        "number": 248,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "CA11 Steelform Willshaper",
-        "number": 251,
+        "number": 249,
         "shape": "normal",
         "set": "SGP"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
