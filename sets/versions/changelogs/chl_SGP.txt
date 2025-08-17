@@ -1,4 +1,583 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+UZ09 Stormquell Liner added.
+UG13 For All of Calloran added.
+RA08 Bear Witness added.
+MW02 Aspect of Subjugation added.
+RW04 Surge of Paralysis added.
+RW06 Hum of Industry added.
+RU01 Glyphbound Sharpshooter added.
+RU04 Surge of Amnesia added.
+RB05 Teachings of Kavalesk added.
+RB04 Surge of Compulsion added.
+RB06 Encroaching Abyss added.
+RR01 Moonlit Mutilator added.
+RA04 Collector of Souls added.
+RR02 Nylis, Epigone Reshaped added.
+RR03 Surge of Kleptomania added.
+RR04 Up in Flames added.
+RR05 Visions of the Veil added.
+RG03 Dockside Fishmonger added.
+RG01 Eccentric Geneticist added.
+RG02 Ovgin, Ghost Colossus added.
+RG06 Dead Man's Compass added.
+RG04 Surge of Agoraphobia added.
+RZ05 Population Boom added.
+RZ07 Clanston Innovator added.
+RZ09 Cirrus Behemoth added.
+RZ02 Revoke Will added.
+RZ14 That Even Time Forgets added.
+RZ15 Incursion Reporters added.
+RA05 Arbiter of the Scale added.
+RA06 Supreme Desecrator added.
+RA07 Scourge of Aeons added.
+RR06 The West District Hangar added.
+RA09 Eldrazi Monolith added.
+RA10 Joyride, Heirloom Skydancer added.
+MZ03 Leonard, Experiment Zero added.
+RW03 Fated Reunion added.
+MR01 Scour for Inspiration added.
+RL12 What Remains of Winterfell added.
+
+The Void Calls removed.
+UZ09 Stormqueller Galleon removed.
+UG13 Rejuvenating Coda removed.
+RA07 Bear Witness removed.
+RW03 Aspect of Subjugation removed.
+RW04 Coda of Resilience removed.
+RW06 Boom of Industry removed.
+RU01 Nascent Intern removed.
+RU04 Coda of Ingenuity removed.
+RB05 Occult Ritual removed.
+RB04 Coda of Persistence removed.
+RB06 removed.
+RR01 removed.
+RR02 removed.
+RR03 removed.
+RR04 Coda of Triumph removed.
+RR05 removed.
+RR06 removed.
+RG02 removed.
+RG01 removed.
+RG03 removed.
+RG06 removed.
+RG04 Coda of Emergence removed.
+RZ05 removed.
+RZ07 removed.
+RZ09 removed.
+RZ02 Defuse removed.
+RZ14 removed.
+RZ15 removed.
+RA04 removed.
+RA05 Supreme Desecrator removed.
+RA06 removed.
+RA08 removed.
+RA09 removed.
+RA10 removed.
+MZ03 removed.
+MW02 removed.
+MR01 removed.
+
+CW01 Volunteer Firewatch
+rules_text: Vigilance
+[i]United [/i]— Whenever this creature attacks with two or more tokens, put a +1/+1 counter on it. => Vigilance
+[i]United [/i]— Whenever this creature attacks with one or more tokens, put a +1/+1 counter on it.
+
+CW02 Startouched Devout
+
+CW03 Tireless Iterator
+
+CW04 Pedigree Collector
+rules_text: [i]United [/i]— Whenever this creature attacks with two or more tokens, target attacking creature gains first strike until end of turn.
+{3}{W}, {T}: Create a 1/1 white Dog creature token. => [i]United [/i]— Whenever this creature attacks with one or more tokens, target attacking creature gains first strike until end of turn.
+{3}{W}, {T}: Create a 1/1 white Dog creature token.
+
+CW06 Rockpile Brutes
+
+CW07 Aerial Enforcer
+pt: 3/2 => 2/2
+
+CW08 Mournful Matriarch
+
+CW09 Zaila's Willbender
+
+CW10 Opalwing Cavalry
+
+UW06 Upgrade the Force
+
+CW11 Sundering Strike
+
+CW12 Take to the Skies
+
+CW13 Bring Malfunction
+
+CW14 Oligarch's Supercar
+
+CU01 Intrepid Aviator
+
+CU02 Diviner of Relics
+
+CU03 Task Force Operatives
+
+CU05 Startouched Analyst
+
+CU06 Winterfell Walker
+rules_text: You may cast this spell as though it had flash if {C} is spent to cast it.
+When this creature enters, target creature gets -6/-0 until this creature leaves the battlefield. => When this creature enters, target creature gets -6/-0 until this creature leaves the battlefield. If {C} was spent to cast this spell, draw a card.
+
+CU07 Mastbreaker
+
+CU09 Eldritch Rebuttal
+
+CU08 Pass Unscathed
+
+CU11 Impart Knowledge
+
+CU10 Taken by the Storm
+
+CU12 Hedron Imprisonment
+
+CU13 Duchy Flagship
+rules_text: Flash
+Creatures that crewed this Vehicle this turn have hexproof.
+Crew 1 => Flash
+When this Vehicle enters, target creature you control gains hexproof until end of turn.
+Crew 1
+
+CU14 Zephyr Piercer
+
+CB01 Herald of the End
+
+CB02 Luxuries Merchant
+
+CB03 Bloodsworn Subjugator
+rules_text: This creature has menace as long as its power is 4 or greater or you control a token.
+{2}, Sacrifice a creature: Put a +1/+1 counter on this creature. => At the beginning of combat on your turn, this creature gains menace until end of turn if its power is 4 or greater or you control a token.
+{2}, Sacrifice a creature: Put a +1/+1 counter on this creature.
+
+CB04 Sanguine Suppressor
+
+CB05 Lantern Stalker
+
+CB06 Paradigm Enforcer
+
+CB07 Speakeasy Brokers
+
+CB08 Soultaker Idol
+
+CB09 Startouched Assassin
+
+CB13 Succumb
+
+CB10 Harrowing Transformation
+
+CB11 Learn From Loss
+
+CB12 Compelled to Die
+
+CB14 Nightgrasp
+
+CR02 Eyekissed Invoker
+
+CR01 Hotwire Prodigy
+
+CR03 Steelsuit Consultant
+
+CR04 Colossus Showman
+
+CR05 Magma Scribe
+
+CR06 Startouched Blitzer
+
+CR08 Spire Defender
+type: Creature — Human Pilot => Artifact — Vehicle
+rules_text: Reach
+When this creature enters, search your library for a Vehicle card with mana value 2 or less and put it onto the battlefield. It gains haste and becomes an artifact creature until end of turn. Sacrifice it at end of turn. => Autopilot {1}{R} [i]({1}{R}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Whenever this Vehicle attacks, another target attacking creature gets +2/+0 until end of turn.
+Crew 2
+pt: 3/4 => 5/5
+
+CR09 Ruin Prowler
+cost: {4}{R}{R} => {5}{R}
+pt: 5/4 => 4/3
+
+CR07 Crimson Gladeguard
+rules_text: Trample
+Whenever you discard a card, if it's not a combat phase, this creature gets +1/+0 until end of turn. => Trample
+Whenever you discard a card, this creature gets +1/+0 until end of turn.
+
+UR09 In Eldritch Flame
+
+CR11 Commune with Silence
+rules_text: As an additional cost to cast this spell, discard a card.
+Draw two cards. Target creature an opponent controls can't block this turn. => As an additional cost to cast this spell, discard a card.
+Draw two cards. Up to one target creature an opponent controls can't block this turn.
+
+CR12 Pyre
+
+CR13 Incendiary Charger
+rules_text: Trample
+{1}{R}, Sacrifice this Vehicle: It deals 6 damage to target creature or planeswalker. Activate only if this Vehicle is a creature.
+Crew 2 => Flying, trample
+{1}{R}, Sacrifice this Vehicle: It deals 6 damage to target creature or planeswalker. Activate only if this Vehicle is a creature.
+Crew 2
+
+CR14 Task Force Hotrod
+
+CG01 Wreckage Inquisitors
+
+CG05 Startouched Arborist
+
+CG03 Deathrite Mystic
+
+CG04 First Responders
+
+CG08 Streetway Incursion
+
+CG06 World Whisperer
+
+CG07 Hirehand Gunner
+
+CG02 Verge Drifter
+rules_text: Haste
+[i]United — [/i]Whenever this creature attacks with two or more tokens, you gain 2 life. => Haste
+[i]United — [/i]Whenever this creature attacks with one or more tokens, it gains lifelink until end of turn.
+
+CG09 Starbreaker Juvenile
+
+CG10 Barksplitter Colossus
+
+CG11 A Hole in the Sky
+
+CG13 Blooming Overgrowth
+
+CG12 Donnybrook
+
+CG14 Unethical Enhancements
+
+CA05 Thin the Veil
+
+CA06 Portmaster's Firearm
+rules_text: Equipped creature gets +1/+1.
+[i]United [/i]— Whenever equipped creature attacks with two or more tokens, it gains first strike until end of turn.
+Equip {2} => Equipped creature gets +1/+1.
+[i]United [/i]— Whenever equipped creature attacks with one or more tokens, it gains first strike until end of turn.
+Equip {2}
+
+UZ02 Afflict Thought
+
+UZ03 Obsessive Ritualist
+
+UZ05 Oathbound Stalwart
+rules_text: Vigilance
+When this creature enters, create a 1/1 white Human Soldier creature token.
+[i]United [/i]— Whenever this creature attacks with two or more tokens, you may pay {G}{W}. If you do, create a 1/1 white Human Soldier creature token. => Vigilance
+When this creature enters, create a 1/1 white Human Soldier creature token.
+[i]United [/i]— Whenever this creature attacks with one or more tokens, you may pay {G}{W}. If you do, create a 1/1 white Human Soldier creature token.
+
+CU04 Ravenfolk Adept
+
+UZ20 Adaptive Agent
+rules_text: Whenever you investigate or draw your second card each turn, put a +1/+1 counter or a trample counter on target creature you control.
+This creature can't be blocked as long as its power is 5 or greater. => Whenever you investigate or draw your second card each turn, put a +1/+1 counter or a trample counter on target creature you control.
+At the beginning of combat, if this creature's power is 5 or greater, it can't be blocked this turn.
+
+UW01 Sky Force Retiree
+
+UW02 Scape Surveyor
+
+UW03 Skyiron Shaper
+
+UW04 Thousand-Mind Cutthroat
+
+UW05 North District Prior
+
+CW05 Cabaret Seductress
+
+UW08 Triumphant Cavalier
+
+UW14 First-Class Skyship
+
+UW09 Industry Kingpins
+
+UW10 Leave No Trace
+
+UW11 Induced Catatonia
+
+UW12 Academic Excellence
+
+UW13 Strength of the Departed
+cost: {3}{W} => {2}{W}
+
+UU01 Watchman of the Deep
+
+UU02 Steelsuit Retrofitter
+
+UU03 Port Inspector
+
+UU04 Ego Devourer
+
+UU05 Adaptive Lieutenant
+
+UU06 Void Empyrean
+
+UU09 In the Nick of Time
+
+UU08 Fade
+
+UU07 Mindbreak Shield
+rules_text: Until end of turn, target creature you control gains hexproof and “If this creature would die, fragment it instead.” [i](To fragment a creature, its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => Until end of turn, target creature you control gains hexproof. The next time that creature would die this turn, remove all damage from it and fragment it instead. [i](To fragment a creature, its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+
+UU13 Ancestral Voidstone
+
+UU11 Consult the Titans
+
+UU10 Forgotten Rites
+
+UU12 Wiped Clean
+
+UU14 Triumph, Taken by the Roil
+
+UB01 Shingle Crawler
+
+UG02 Elden Rite Shaman
+
+UG03 Forgotten Naturalist
+
+UG04 Yestergrove Relic
+
+UG05 Curio Broker
+
+UG06 Botanical Conference
+rules_text: Hexproof
+[i]United[/i] — Whenever this creature attacks with two or more tokens, put a +1/+1 counter on target attacking creature you control. Then if attacking creatures you control have total power 8 or greater, draw a card. => Hexproof
+[i]United[/i] — Whenever this creature attacks with one or more tokens, put a +1/+1 counter on target attacking creature you control. Then if attacking creatures you control have total power 8 or greater, draw a card.
+
+UG07 Violeteye Savage
+
+UG08 Unwavering Broodmother
+
+UG09 Willowvine Sentinel
+
+UG10 Bitten By the Void
+
+UR11 Occupation
+
+UR12 Blinding Immolation
+
+UG14 Confidential Science
+
+UG01 Gossip Tracker
+
+UB02 Karsten's Enforcer
+
+UB03 Festering Eyemass
+
+UB04 Flesh Shredder
+
+UB05 Corpse Inspectors
+
+UB06 Epitaph Lurkers
+
+UB07 Brethren Priestess
+
+UR08 Flamerush
+
+UB12 Quick and Painful
+
+UG11 Ancient Stirrings
+
+UG12 Unfamiliar Vegetation
+
+UR13 For the Cause
+
+UB14 Indoctrination
+
+UR01 Ashen Ravager
+
+UR02 Mutation Investigator
+
+UR03 Preemption Engineer
+
+UR04 Sacrifice Archivist
+
+UR05 Wildfire Aven
+rules_text: When this creature enters or deals combat damage to a player, you may discard a card. If you do, draw a card, then draw an additional card if you control a creature with power 6 or greater.
+{R}: This creature gets +1/+0 until end of turn. => Flying
+When this creature enters or deals combat damage to a player, you may discard a card. If you do, draw a card, then draw an additional card if you control a creature with power 5 or greater.
+{R}: This creature gets +1/+0 until end of turn.
+pt: 4/3 => 3/3
+
+UR06 Forgotten Lane Busker
+
+UR07 Pinefell Terror
+
+UB08 Stonebridge Ambush
+
+UB09 Slay the Broken
+
+UR10 Sweep of Agony
+rules_text: Sweep of Agony deals 2 damage to each creature. Target creature you control gets +X/+0 and gains first strike until end of turn, where X is the number of creatures that died this way. => Sweep of Agony deals 2 damage to each creature.
+Until end of turn, up to one target creature you control gains first strike and “Whenever a creature dies, this creature gets +1/+0 until end of turn.”
+
+UB10 Watch the Docks
+
+UB11 Unnatural Torment
+
+UB13 Channel the Dark
+
+UR14 Pyretic Dreadnought
+rules_text: Autopilot {X}{X}{R}{R}. If this is the first time you've activated this ability this turn, this Vehicle deals X damage to target creature. [i]({X}{X}{R}{R}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Crew 4 => Autopilot {X}{X}{R}{R}. If this is the first time you've activated this ability this turn, this Vehicle deals X damage to target creature. [i]({X}{X}{R}{R}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Flying
+Crew 4
+
+UA01 Forsaken Acolyte
+rules_text: {3}{C}, {T}: Fragment target creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+Creatures with shard counters can't be blocked. => {5}{C}, {T}: Fragment target creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+Creatures you control with shard counters can't be blocked.
+
+UA02 Three-Eye Scrier
+
+UA03 Endward Harbinger
+
+UA04 Mesa Devourer
+
+UA05 Eternity Takes
+rules_text: Exile target creature. Then you may reveal a creature card with mana value 6 or greater from your hand. If you do, repeat this process. => Exile target creature. Then you may reveal a creature card with mana value 6 or greater from your hand. When you do, exile target creature.
+
+UA08 Winterfell Locomotive
+rules_text: Autopilot {5} [i]({5}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Trample
+Whenever a creature crews this Vehicle, put a stun counter on that creature.
+Crew 3 => Autopilot {4} [i]({4}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Trample
+Whenever a creature crews this Vehicle, put a stun counter on that creature.
+Crew 2
+pt: 9/9 => 7/7
+
+UA09 Hall of Innovation
+
+UA10 Promising Vista
+rules_text: This land enters tapped.
+When this land enters, you may pay 2 life. If you do, add {C}.
+{T}: Search your library for a basic land card, put it onto the battlefield, then shuffle. => This land enters tapped.
+When this land enters, you may pay 2 life. If you do, add {C}.
+{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+
+UW07 Trend Mastermind
+
+MZ01 Zaila, Her Will Be Done
+
+RG05 Moonrise
+
+RZ10 Lantha Uncovers The Truth
+rules_text: 
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to three Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to three Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards.
+special_text: 
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to three Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to three Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards.
+
+RW01 Wingsuit Architect
+
+RW02 Liano, Prole's Champion
+rules_text: Liano enters with your choice of a +1/+1 counter or a vigilance counter on it.
+Whenever a token creature enters under your control, for each counter on Liano, put a counter of that type on that creature.
+{1}{W}, {T}: Create a 1/1 white Human Soldier creature token. => Liano enters with your choice of a +1/+1 counter or a vigilance counter on it.
+[i]United [/i]— Whenever Liano attacks with one or more tokens, for each counter on Liano, put a counter of that type on those tokens.
+{1}{W}, {T}: Create a 1/1 white Human Soldier creature token.
+
+RW05 Destined End
+rules_text: If an opponent controls five or more creatures, you may cast this spell as though it had flash.
+Destroy all creatures. => As long as an opponent controls five or more creatures, you may cast this spell as though it had flash.
+Destroy all creatures.
+
+RU02 Auspicious Coroners
+rules_text: Vigilance
+When this creature enters or another creature you control dies, investigate.
+Once on each of your turns, you may pay {2} less to activate an ability of an artifact you control. If you do, mill a card in addition to paying its other costs. => Vigilance
+When this creature enters or another creature you control dies, investigate.
+Once on each of your turns, you may pay {2} less to activate an ability of an artifact you control. If you do, discard a card in addition to paying its other costs.
+
+RU03 Scion of Insanity
+
+RU05 Roiling Undertow
+rules_text: Each player chooses up to one creature they control and fragments it. [i](That player creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+Return all other creatures to their owners' hands. => Each player chooses up to one creature they control and fragments it. [i](That player creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+Return all creatures not fragmented this way to their owners' hands.
+
+RU06 Unparalleled Efficiency
+
+RB01 Haunted Starlet
+pt: 2/1 => 2/2
+
+RB02 Insatiable Slasher
+
+RB03 Mortician's Carriage
+
+RZ03 Kavalesk, the Dark Exalted
+
+MZ04
+cost:  => {U}{B}{R}
+
+RZ12 Reality Schism
+rules_text: Each player may exile a nonland card from their hand, and may play cards they exiled this way. Spells your opponents cast this way cost {2} more to cast.
+Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way. => Each player may exile a nonland card from their hand, and may cast cards they exiled this way for as long as they remain exiled. Spells your opponents cast this way cost {2} more to cast.
+Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way.
+
+MB02 Graven Confidant
+
+MU02 Acolyte of Knowledge
+
+RL02 Sunken Ruins
+
+MZ02 Unfathomable Conflux
+
+RA01 Thoughtscraper
+
+RA02 Aspirant of Ulamog
+
+RA03 Slayer of Endless Form
+rules_text: When this creature enters, starting with you, each player chooses one that hasn't been chosen from among flying, first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, or vigilance. Put each kind of counter chosen this way on this creature. => When this creature enters, starting with you, each player chooses one that hasn't been chosen from among flying, first strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, or vigilance. Put each kind of counter chosen this way on this creature.
+
+MZ05
+
+MZ06
+
+MZ07
+
+MW01
+cost:  => {2}{W}{W}
+
+MU01
+
+MB01
+cost:  => {B}
+
+MR02
+cost:  => {R}
+
+MG01
+cost:  => {G}
+
+MG02
+cost:  => {G}
+
+CR10 Forge in Anguish
+rules_text: Target creature you control gets +2/+0 and gains haste until end of turn. Then you may discard a card. If you do, put a +1/+1 counter on it. => Target creature you control gets +1/+0 and gains first strike until end of turn. Then you may discard a card. If you do, put a +1/+1 counter on it.
+
+
+VERSION 20 CHANGELOG
 ====================
 
 CW06 Rockpile Brutes added.
