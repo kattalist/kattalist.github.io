@@ -111,14 +111,14 @@
             "cost": "{2}{W}",
             "rules_text": "Flying\nWhenever an opponent loses life for the first time each turn, this creature gets +1/+1 until end of turn.",
             "flavor_text": "[i][/i]",
-            "pt": "2/2",
+            "pt": "2/3",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Erlan Arya",
             "alias": "",
-            "notes": "15 Jul 2025: Removed \"if it's not your combat phase\" because it's a bit awkward\n\n20 Jul 2025: Switched from 2/3 to 3/2\n\n12 Aug 2025: Decreased from 3/2 to 2/2"
+            "notes": "15 Jul 2025: Removed \"if it's not your combat phase\" because it's a bit awkward\n\n20 Jul 2025: Switched from 2/3 to 3/2\n\n12 Aug 2025: Decreased from 3/2 to 2/2\n19 Aug 2025: Went back to 2/3"
         },
         {
             "card_name": "CW08 Mournful Matriarch",
@@ -128,7 +128,7 @@
             "number": 29,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "When this creature dies, choose one \u2014\n\u2022 Put a +1/+1 counter on target token you control. You gain 1 life.\n\u2022 Investigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this artifact: Draw a card.\u201d)[/i]",
+            "rules_text": "When this creature dies, choose one \u2014\n\u2022 Put a +1/+1 counter on target creature you control. You gain 1 life.\n\u2022 Investigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this artifact: Draw a card.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -137,7 +137,7 @@
             "loyalty": "",
             "artist": "Mickie Camua",
             "alias": "",
-            "notes": "8 Aug 2025: Switched effect to buff another token instead of creating one itself"
+            "notes": "8 Aug 2025: Switched effect to buff another token instead of creating one itself\n19 Aug 2025: Broadened to buff any target creature"
         },
         {
             "card_name": "CW09 Zaila's Willbender",
@@ -216,7 +216,7 @@
             "notes": "8 Aug 2025: Switched to exile no matter what if C paid\n10 Aug 2025: Switched from exile to destroy (to differentiate from CW13 Bring Malfunction)\nCHANGE ART"
         },
         {
-            "card_name": "CW12 Take to the Skies",
+            "card_name": "CW12 Aerial Augmentation",
             "color": "W",
             "rarity": "common",
             "type": "Instant",
@@ -230,7 +230,7 @@
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
-            "artist": "Vassilios Bayiokos",
+            "artist": "Marc Simonetti",
             "alias": "",
             "notes": ""
         },
@@ -1363,7 +1363,7 @@
             "number": 176,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "This spell costs {1} less to cast if you control an Eldrazi.\nDestroy target artifact, battle, enchantment, or creature with flying.",
+            "rules_text": "This spell costs {1} less to cast if you control an Eldrazi.\nDestroy target artifact, enchantment, or creature with flying.",
             "flavor_text": "[i]\u201cDay 617: The Institute is gone.\u201d\n\u2014 Clanston Institute of Science research notes[/i]",
             "pt": "",
             "special_text": "",
@@ -1441,14 +1441,14 @@
             "cost": "{1}{C}",
             "rules_text": "Whenever this creature deals combat damage to a player, that player exiles that many cards from the top of their library.\n{3}: This creature gets +1/+1 until end of turn.",
             "flavor_text": "[i][/i]",
-            "pt": "1/2",
+            "pt": "1/3",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Fartuh Acer",
             "alias": "",
-            "notes": ""
+            "notes": "19 Aug 2025: Bumped from 1/2 to 1/3"
         },
         {
             "card_name": "CA02 Voices of the Severed",
@@ -1554,7 +1554,7 @@
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "When this artifact enters, investigate.\n{4}, {T}, Sacrifice this artifact: Destroy target creature. Activate only as a sorcery.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cIt's one of the oldest pieces in our collection, and still one of the least understood.\u201d\n\u2014 Leonard, chief investigator[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -1923,7 +1923,7 @@
             "loyalty": "",
             "artist": "Maxime Chiasson",
             "alias": "",
-            "notes": "19 Jul 2025: Raised cost from 1 life to 2 life for loot"
+            "notes": "19 Jul 2025: Raised cost from 1 life to 2 life for loot\n\nNEEDS FT"
         },
         {
             "card_name": "UZ13 Soulsiphon Initiate",
@@ -1990,7 +1990,7 @@
             "number": 238,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
-            "rules_text": "Deathtouch, lifelink\nIf an opponent would lose life on your turn outside of your combat phase, that opponent loses twice as much life instead.",
+            "rules_text": "Deathtouch, lifelink\nIf an opponent would lose life on your turn outside of your combat phase, that opponent loses twice that much life instead.",
             "flavor_text": "[i]\u201cForget what you have heard. Once you leave this room, our propaganda becomes absolute truth.\u201d[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2617,7 +2617,7 @@
             "number": 116,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Flying\nWhenever this creature deals combat damage to a player, each player discards a card. If this creature has a counter on it, instead target player discards a card.\n{2}{B}: Put a deathtouch counter or a lifelink counter on this creature.",
+            "rules_text": "Flying\nWhenever this creature deals combat damage to a player, each player discards a card. If this creature has a counter on it, instead target player discards a card.\n{1}{B}: Put a +1/+1 counter on this creature.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2626,7 +2626,7 @@
             "loyalty": "",
             "artist": "Brian Valeza",
             "alias": "",
-            "notes": "8 Aug 2025: Changed counter trigger off void to just be AA\n9 Aug 2025: Multiple counters can be stacked now, but costs 2B instead of 1B"
+            "notes": "8 Aug 2025: Changed counter trigger off void to just be AA\n9 Aug 2025: Multiple counters can be stacked now, but costs 2B instead of 1B\n19 Aug 2025: Switched to just +1/+1 counters and reduced cost from 2B to 1B"
         },
         {
             "card_name": "UG02 Elden Rite Shaman",
@@ -2636,7 +2636,7 @@
             "number": 189,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Whenever an Eldrazi enters under your control, put a +1/+1 counter on this creature.\n{G}, {T}: Look at the top X cards of your library, where X is this creature's power. You may reveal a creature card with mana value X or less and put it into your hand, then shuffle.",
+            "rules_text": "Whenever an Eldrazi enters under your control, put a +1/+1 counter on this creature.\n{G}, {T}: Look at the top X cards of your library, where X is this creature's power. You may reveal a creature card from among them, put it into your hand, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2645,7 +2645,7 @@
             "loyalty": "",
             "artist": "Lin Chang",
             "alias": "",
-            "notes": ""
+            "notes": "19 Aug 2025: Now reveals creature card of any size"
         },
         {
             "card_name": "UG03 Forgotten Naturalist",
@@ -2778,7 +2778,7 @@
             "loyalty": "",
             "artist": "Ilya Popov",
             "alias": "",
-            "notes": ""
+            "notes": "NEEDS FT"
         },
         {
             "card_name": "UG10 Bitten By the Void",
@@ -2854,7 +2854,7 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
-            "notes": "FIND NEW ART\n\n12 Aug 2025: Changed effect to give all tokens trample"
+            "notes": "FIND NEW ART\nNEEDS FT\n\n12 Aug 2025: Changed effect to give all tokens trample"
         },
         {
             "card_name": "UG14 Confidential Science",
@@ -3017,7 +3017,7 @@
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Flamerush deals 2 damage divided as you choose among up to two target creatures.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]Once the restaurant's patrons realized the LaCloff sisters were not performers, the dinner service was abruptly cut short.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -3434,7 +3434,7 @@
             "number": 19,
             "color_identity": "C",
             "cost": "{5}",
-            "rules_text": "Flying\nWhenever you gain life for the first time each turn, exile the top card of target player's library.\nOnce on each of your turns, you may play a card exiled with this creature, and you may spend mana as though it were mana of any type to play it.",
+            "rules_text": "Flying\nWhenever you gain life for the first time each turn, exile the top card of target player's library.\nOnce each turn, you may play a card exiled with this creature, and you may spend mana as though it were mana of any type to play it.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -3549,7 +3549,7 @@
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}: Add {C}.\n{2}, {T}: Target artifact creature you control can't be blocked this turn.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cEvery breakthrough is an iteration on the last. Within a year, our capabilities scale tenfold.\u201d[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -3624,16 +3624,16 @@
             "number": 202,
             "color_identity": "WU",
             "cost": "{3}{W}{U}",
-            "rules_text": "[+1]: Search your library for a colorless creature card with mana value greater than the number of loyalty counters on Zaila, reveal it, put it into your hand, then shuffle.\n[-1]: Until end of turn, whenever you tap a land for mana, add an additional {C}.\n[-10]: Each opponent sacrifices a number of permanents equal to the greatest mana value among creatures you control.",
+            "rules_text": "[+1]: Draw a card. Zaila gains protection from mana value 3 or less until your next turn.\n[-2]: Fragment target creature. If you control that creature, put two +1/+1 counters on it.\n[-10]: Each opponent sacrifices a number of permanents equal to the greatest mana value among creatures you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[+1]: Search your library for a colorless creature card with mana value greater than the number of loyalty counters on Zaila, reveal it, put it into your hand, then shuffle.\n[-1]: Until end of turn, whenever you tap a land for mana, add an additional {C}.\n[-10]: Each opponent sacrifices a number of permanents equal to the greatest mana value among creatures you control.",
+            "special_text": "[+1]: Draw a card. Zaila gains protection from mana value 3 or less until your next turn.\n[-2]: Fragment target creature. If you control that creature, put two +1/+1 counters on it.\n[-10]: Each opponent sacrifices a number of permanents equal to the greatest mana value among creatures you control.",
             "shape": "planeswalker",
             "set": "SGP",
             "loyalty": "6",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": ""
+            "notes": "18 Aug 2025: Juggled effects (idk how to make planeswalkers)"
         },
         {
             "card_name": "RG05 Moonrise",
@@ -3693,30 +3693,30 @@
             "notes": "6 Aug 2025: Raised cost from CCCC to 6, and made tutor conditional on only spending C on spell\n\n8 Aug 2025: Made mana value a flat 6 so you can't cheat out Emrakul"
         },
         {
-            "card_name": "RW01 Wingsuit Architect",
+            "card_name": "RW02 Captivating Alto",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Artificer",
-            "number": 38,
+            "type": "Creature \u2014 Human Bard",
+            "number": 39,
             "color_identity": "W",
-            "cost": "{1}{W}",
-            "rules_text": "Flying\nWhen this creature attacks, you may put a flying counter on another target attacking creature without flying. If you do, that creature and this creature get +1/+1 until end of turn.",
+            "cost": "{3}{W}",
+            "rules_text": "When this creature enters, exile another target creature until this creature leaves the battlefield.\nWhenever you gain life, you may return a creature card exiled with this creature to the battlefield under its owner's control with a +1/+1 counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
-            "artist": "Marc Simonetti",
+            "artist": "Loles Romero",
             "alias": "",
-            "notes": "18 Aug 2025: Bumped from 2/2 to 3/2"
+            "notes": "18 Aug 2025: Bumped from 2/2 to 3/2\n19 Aug 2025: Reduced from 3/2 to 2/2, but completely changed card to blinker/removal effect"
         },
         {
-            "card_name": "RW02 Liano, Prole's Champion",
+            "card_name": "RW01 Liano, Prole's Champion",
             "color": "W",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Soldier",
-            "number": 39,
+            "number": 38,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
             "rules_text": "Liano enters with your choice of a +1/+1 counter or a vigilance counter on it.\n[i]United [/i]\u2014 Whenever Liano attacks with one or more tokens, for each counter on Liano, put a counter of that type on those tokens.\n{1}{W}, {T}: Create a 1/1 white Human Soldier creature token.",
@@ -3728,7 +3728,7 @@
             "loyalty": "",
             "artist": "Borja Pindado",
             "alias": "",
-            "notes": "10 Aug 2025: Removed lifelink\n17 Aug 2025: Changed counter duplication ability to United ability since there were none at rare"
+            "notes": "10 Aug 2025: Removed lifelink\n17 Aug 2025: Changed counter duplication ability to United ability since there were none at rare\n\nFIND NEW ART"
         },
         {
             "card_name": "MW02 Aspect of Subjugation",
@@ -4149,23 +4149,23 @@
             "notes": ""
         },
         {
-            "card_name": "RG03 Dockside Fishmonger",
+            "card_name": "RG03 Gene Recombinators",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Citizen",
+            "type": "Creature \u2014 Human Detective",
             "number": 184,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Whenever you sacrifice one or more Eldrazi, create a Food token.\n{1}{C}, {T}: Put a number of +1/+1 counters on target creature equal to the amount of life you gained this turn.",
+            "rules_text": "Sacrifice two creatures: Create a 3/2 colorless Eldrazi Horror creature token.\n[i]United [/i]\u2014 Whenever this creature attacks with one or more tokens, populate. [i](Create a token that's a copy of a creature token you control.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "2/2",
+            "pt": "3/2",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Eliz Roxs",
             "alias": "",
-            "notes": ""
+            "notes": "19 Aug 2025: Changed completely"
         },
         {
             "card_name": "RG01 Eccentric Geneticist",
@@ -4365,7 +4365,7 @@
             "number": 217,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
-            "rules_text": "Autopilot {2}{R}\nFlying, vigilance\nWhen this Vehicle enters, you may pay its crew cost or its autopilot cost. If you do, it becomes a creature until end of turn and deals damage equal to its power to target creature.\nCrew 3",
+            "rules_text": "Autopilot {2}{R}\nFlying, vigilance\nWhen this Vehicle becomes a creature, if it entered this turn, it deals damage equal to its power to target creature.\nCrew 3",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -4441,7 +4441,7 @@
             "number": 220,
             "color_identity": "WRG",
             "cost": "{R}{G}{W}",
-            "rules_text": "Whenever a permanent you control enters, you may put an exemplar counter on it if no permanents that share a type with it have exemplar counters on them.\nMorgyn has all abilities of all permanents you control with exemplar counters.",
+            "rules_text": "Whenever a permanent you control enters, you may put an exemplar counter on it if no permanents you control that share a type with it have exemplar counters on them.\nMorgyn has all abilities of all permanents you control with exemplar counters.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -4783,14 +4783,14 @@
             "number": 10,
             "color_identity": "C",
             "cost": "{4}",
-            "rules_text": "Whenever you cast a colorless creature spell with greater mana value than this creature, put a +1/+1 counter on this creature. Each opponent then reveals their hand and discards a card with lesser mana value than the number of counters on this creature.",
+            "rules_text": "Whenever you cast a colorless creature spell with mana value 4 or greater, put a +1/+1 counter on this creature. Each opponent then reveals their hand and discards a card with lesser mana value than the number of counters on this creature.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
-            "artist": "Vasylina Dabukad",
+            "artist": "Aerozopher",
             "alias": "",
             "notes": "wordy and maybe unreasonable"
         },
@@ -4828,7 +4828,7 @@
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
-            "artist": "",
+            "artist": "Tomasz Ryger",
             "alias": "",
             "notes": ""
         },
@@ -4992,7 +4992,7 @@
             "number": 212,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
-            "rules_text": "Choose one. You may choose another if you control a creature with mana value 4 or greater and another if you control a creature with mana value 6 or greater \u2014\n\u2022 Derail deals 4 damage to any target.\n\u2022 Creatures can't block this turn.\n\u2022 Destroy target artifact or enchantment.",
+            "rules_text": "Choose one. You may choose another if you control a creature with mana value 4 or greater and another if you control a creature with mana value 6 or greater.\n\u2022 Derail deals 4 damage to any target.\n\u2022 Creatures can't block this turn.\n\u2022 Destroy target artifact or enchantment.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5061,7 +5061,7 @@
             "notes": ""
         },
         {
-            "card_name": "MZ05 Induce Paranoia",
+            "card_name": "MZ05 Paranoia",
             "color": "UB",
             "rarity": "mythic",
             "type": "Instant",
@@ -5077,7 +5077,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": "Fuck tokens in particular"
+            "notes": "Fuck tokens in particular\n18 Aug 2025: Switched from 1UU to UB"
         },
         {
             "card_name": "MB01 Bloodlust Visionary",

@@ -111,13 +111,13 @@
 			}
 		},
 		{
-			"name": "CW12 Take to the Skies",
+			"name": "CW12 Aerial Augmentation",
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/33_CW12 Take to the Skies.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/33_CW12 Aerial Augmentation.png"
 			}
 		},
 		{
@@ -1941,23 +1941,23 @@
 			}
 		},
 		{
-			"name": "RW01 Wingsuit Architect",
+			"name": "RW02 Captivating Alto",
 			"rarity": "rare",
-			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Artificer",
-			"collector_number": "38",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Bard",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/38_RW01 Wingsuit Architect.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/39_RW02 Captivating Alto.png"
 			}
 		},
 		{
-			"name": "RW02 Liano, Prole's Champion",
+			"name": "RW01 Liano, Prole's Champion",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "39",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/39_RW02 Liano, Prole's Champion.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/38_RW01 Liano, Prole's Champion.png"
 			}
 		},
 		{
@@ -2181,13 +2181,13 @@
 			}
 		},
 		{
-			"name": "RG03 Dockside Fishmonger",
+			"name": "RG03 Gene Recombinators",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Citizen",
+			"type": "Creature — Human Detective",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/184_RG03 Dockside Fishmonger.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/184_RG03 Gene Recombinators.png"
 			}
 		},
 		{
@@ -2661,13 +2661,13 @@
 			}
 		},
 		{
-			"name": "MZ05 Induce Paranoia",
+			"name": "MZ05 Paranoia",
 			"rarity": "mythic",
 			"mana_cost": "{U}{B}",
 			"type": "Instant",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/206_MZ05 Induce Paranoia.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/206_MZ05 Paranoia.png"
 			}
 		},
 		{
@@ -2899,8 +2899,8 @@
 	2 RG05 Moonrise
 	2 RZ10 Lantha Uncovers The Truth
 	2 RA08 Bear Witness
-	2 RW01 Wingsuit Architect
-	2 RW02 Liano, Prole's Champion
+	2 RW02 Captivating Alto
+	2 RW01 Liano, Prole's Champion
 	1 MW02 Aspect of Subjugation
 	2 RW04 Surge of Paralysis
 	2 RW05 Destined End
@@ -2923,7 +2923,7 @@
 	2 RR03 Surge of Kleptomania
 	2 RR04 Up in Flames
 	2 RR05 Visions of the Veil
-	2 RG03 Dockside Fishmonger
+	2 RG03 Gene Recombinators
 	2 RG01 Eccentric Geneticist
 	2 RG02 Ovgin, Ghost Colossus
 	2 RG06 Dead Man's Compass
@@ -2971,7 +2971,7 @@
 	1 MZ07 Ravin, Heir of Goldport
 	2 RW03 Fated Reunion
 	1 MW01 Torvinald, Iron Eminence
-	1 MZ05 Induce Paranoia
+	1 MZ05 Paranoia
 	1 MB01 Bloodlust Visionary
 	1 MR01 Scour for Inspiration
 	1 MR02 Jerald, Steel Virtuoso
@@ -3092,7 +3092,7 @@
 	8 CW09 Zaila's Willbender
 	8 CW10 Opalwing Cavalry
 	8 CW11 Sundering Strike
-	8 CW12 Take to the Skies
+	8 CW12 Aerial Augmentation
 	8 CW13 Bring Malfunction
 	8 CW14 Oligarch's Supercar
 	8 CU01 Intrepid Aviator
@@ -3185,7 +3185,7 @@
 	12 CW10 Opalwing Cavalry
 	6 UW06 Upgrade the Force
 	12 CW11 Sundering Strike
-	12 CW12 Take to the Skies
+	12 CW12 Aerial Augmentation
 	12 CW13 Bring Malfunction
 	12 CW14 Oligarch's Supercar
 	12 CU01 Intrepid Aviator
@@ -3360,8 +3360,8 @@
 	2 RG05 Moonrise
 	2 RZ10 Lantha Uncovers The Truth
 	2 RA08 Bear Witness
-	2 RW01 Wingsuit Architect
-	2 RW02 Liano, Prole's Champion
+	2 RW02 Captivating Alto
+	2 RW01 Liano, Prole's Champion
 	1 MW02 Aspect of Subjugation
 	2 RW04 Surge of Paralysis
 	2 RW05 Destined End
@@ -3384,7 +3384,7 @@
 	2 RR03 Surge of Kleptomania
 	2 RR04 Up in Flames
 	2 RR05 Visions of the Veil
-	2 RG03 Dockside Fishmonger
+	2 RG03 Gene Recombinators
 	2 RG01 Eccentric Geneticist
 	2 RG02 Ovgin, Ghost Colossus
 	2 RG06 Dead Man's Compass
@@ -3432,7 +3432,7 @@
 	1 MZ07 Ravin, Heir of Goldport
 	2 RW03 Fated Reunion
 	1 MW01 Torvinald, Iron Eminence
-	1 MZ05 Induce Paranoia
+	1 MZ05 Paranoia
 	1 MB01 Bloodlust Visionary
 	1 MR01 Scour for Inspiration
 	1 MR02 Jerald, Steel Virtuoso
@@ -3464,7 +3464,7 @@
 	6 CW10 Opalwing Cavalry
 	15 UW06 Upgrade the Force
 	6 CW11 Sundering Strike
-	6 CW12 Take to the Skies
+	6 CW12 Aerial Augmentation
 	6 CW13 Bring Malfunction
 	6 CW14 Oligarch's Supercar
 	6 CU01 Intrepid Aviator
@@ -3639,8 +3639,8 @@
 	7 RG05 Moonrise
 	7 RZ10 Lantha Uncovers The Truth
 	7 RA08 Bear Witness
-	7 RW01 Wingsuit Architect
-	7 RW02 Liano, Prole's Champion
+	7 RW02 Captivating Alto
+	7 RW01 Liano, Prole's Champion
 	4 MW02 Aspect of Subjugation
 	7 RW04 Surge of Paralysis
 	7 RW05 Destined End
@@ -3663,7 +3663,7 @@
 	7 RR03 Surge of Kleptomania
 	7 RR04 Up in Flames
 	7 RR05 Visions of the Veil
-	7 RG03 Dockside Fishmonger
+	7 RG03 Gene Recombinators
 	7 RG01 Eccentric Geneticist
 	7 RG02 Ovgin, Ghost Colossus
 	7 RG06 Dead Man's Compass
@@ -3711,7 +3711,7 @@
 	4 MZ07 Ravin, Heir of Goldport
 	7 RW03 Fated Reunion
 	4 MW01 Torvinald, Iron Eminence
-	4 MZ05 Induce Paranoia
+	4 MZ05 Paranoia
 	4 MB01 Bloodlust Visionary
 	4 MR01 Scour for Inspiration
 	4 MR02 Jerald, Steel Virtuoso

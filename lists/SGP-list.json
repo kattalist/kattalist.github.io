@@ -60,7 +60,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "RW01 Wingsuit Architect",
+        "card_name": "RW01 Liano, Prole's Champion",
         "number": 38,
         "shape": "normal",
         "set": "SGP"
@@ -90,7 +90,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "RW02 Liano, Prole's Champion",
+        "card_name": "RW02 Captivating Alto",
         "number": 39,
         "shape": "normal",
         "set": "SGP"
@@ -144,7 +144,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "RG03 Dockside Fishmonger",
+        "card_name": "RG03 Gene Recombinators",
         "number": 184,
         "shape": "normal",
         "set": "SGP"
@@ -990,7 +990,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "CW12 Take to the Skies",
+        "card_name": "CW12 Aerial Augmentation",
         "number": 33,
         "shape": "normal",
         "set": "SGP"
@@ -1099,7 +1099,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "MZ05 Induce Paranoia",
+        "card_name": "MZ05 Paranoia",
         "number": 206,
         "shape": "normal",
         "set": "SGP"

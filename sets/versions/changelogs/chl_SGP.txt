@@ -1,4 +1,114 @@
-﻿VERSION 22 CHANGELOG
+﻿VERSION 23 CHANGELOG
+====================
+
+CW12 Aerial Augmentation added.
+RW02 Captivating Alto added.
+RW01 Liano, Prole's Champion added.
+RG03 Gene Recombinators added.
+MZ05 Paranoia added.
+
+CW12 Take to the Skies removed.
+RW01 Wingsuit Architect removed.
+RW02 Liano, Prole's Champion removed.
+RG03 Dockside Fishmonger removed.
+MZ05 Induce Paranoia removed.
+
+CW07 Aerial Enforcer
+pt: 2/2 => 2/3
+
+CW08 Mournful Matriarch
+rules_text: When this creature dies, choose one —
+• Put a +1/+1 counter on target token you control. You gain 1 life.
+• Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => When this creature dies, choose one —
+• Put a +1/+1 counter on target creature you control. You gain 1 life.
+• Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+
+CG11 A Hole in the Sky
+rules_text: This spell costs {1} less to cast if you control an Eldrazi.
+Destroy target artifact, battle, enchantment, or creature with flying. => This spell costs {1} less to cast if you control an Eldrazi.
+Destroy target artifact, enchantment, or creature with flying.
+
+CA01 Chrysalis of Flesh
+pt: 1/2 => 1/3
+
+CA07 Obsidian Reliquary
+
+UZ12 Voidwing Kite
+
+UZ16 Karsten, the Spinner
+rules_text: Deathtouch, lifelink
+If an opponent would lose life on your turn outside of your combat phase, that opponent loses twice as much life instead. => Deathtouch, lifelink
+If an opponent would lose life on your turn outside of your combat phase, that opponent loses twice that much life instead.
+
+UB01 Shingle Crawler
+rules_text: Flying
+Whenever this creature deals combat damage to a player, each player discards a card. If this creature has a counter on it, instead target player discards a card.
+{2}{B}: Put a deathtouch counter or a lifelink counter on this creature. => Flying
+Whenever this creature deals combat damage to a player, each player discards a card. If this creature has a counter on it, instead target player discards a card.
+{1}{B}: Put a +1/+1 counter on this creature.
+
+UG02 Elden Rite Shaman
+rules_text: Whenever an Eldrazi enters under your control, put a +1/+1 counter on this creature.
+{G}, {T}: Look at the top X cards of your library, where X is this creature's power. You may reveal a creature card with mana value X or less and put it into your hand, then shuffle. => Whenever an Eldrazi enters under your control, put a +1/+1 counter on this creature.
+{G}, {T}: Look at the top X cards of your library, where X is this creature's power. You may reveal a creature card from among them, put it into your hand, then shuffle.
+
+UG09 Willowvine Sentinel
+
+UG13 For All of Calloran
+
+UR08 Flamerush
+
+UA03 Endward Harbinger
+rules_text: Flying
+Whenever you gain life for the first time each turn, exile the top card of target player's library.
+Once on each of your turns, you may play a card exiled with this creature, and you may spend mana as though it were mana of any type to play it. => Flying
+Whenever you gain life for the first time each turn, exile the top card of target player's library.
+Once each turn, you may play a card exiled with this creature, and you may spend mana as though it were mana of any type to play it.
+
+UA09 Hall of Innovation
+
+MZ01 Zaila, Her Will Be Done
+rules_text: [+1]: Search your library for a colorless creature card with mana value greater than the number of loyalty counters on Zaila, reveal it, put it into your hand, then shuffle.
+[-1]: Until end of turn, whenever you tap a land for mana, add an additional {C}.
+[-10]: Each opponent sacrifices a number of permanents equal to the greatest mana value among creatures you control. => [+1]: Draw a card. Zaila gains protection from mana value 3 or less until your next turn.
+[-2]: Fragment target creature. If you control that creature, put two +1/+1 counters on it.
+[-10]: Each opponent sacrifices a number of permanents equal to the greatest mana value among creatures you control.
+special_text: [+1]: Search your library for a colorless creature card with mana value greater than the number of loyalty counters on Zaila, reveal it, put it into your hand, then shuffle.
+[-1]: Until end of turn, whenever you tap a land for mana, add an additional {C}.
+[-10]: Each opponent sacrifices a number of permanents equal to the greatest mana value among creatures you control. => [+1]: Draw a card. Zaila gains protection from mana value 3 or less until your next turn.
+[-2]: Fragment target creature. If you control that creature, put two +1/+1 counters on it.
+[-10]: Each opponent sacrifices a number of permanents equal to the greatest mana value among creatures you control.
+
+RZ09 Cirrus Behemoth
+rules_text: Autopilot {2}{R}
+Flying, vigilance
+When this Vehicle enters, you may pay its crew cost or its autopilot cost. If you do, it becomes a creature until end of turn and deals damage equal to its power to target creature.
+Crew 3 => Autopilot {2}{R}
+Flying, vigilance
+When this Vehicle becomes a creature, if it entered this turn, it deals damage equal to its power to target creature.
+Crew 3
+
+RZ13 Morgyn, Paradigm Breaker
+rules_text: Whenever a permanent you control enters, you may put an exemplar counter on it if no permanents that share a type with it have exemplar counters on them.
+Morgyn has all abilities of all permanents you control with exemplar counters. => Whenever a permanent you control enters, you may put an exemplar counter on it if no permanents you control that share a type with it have exemplar counters on them.
+Morgyn has all abilities of all permanents you control with exemplar counters.
+
+RA02 Aspirant of Ulamog
+rules_text: Whenever you cast a colorless creature spell with greater mana value than this creature, put a +1/+1 counter on this creature. Each opponent then reveals their hand and discards a card with lesser mana value than the number of counters on this creature. => Whenever you cast a colorless creature spell with mana value 4 or greater, put a +1/+1 counter on this creature. Each opponent then reveals their hand and discards a card with lesser mana value than the number of counters on this creature.
+
+RA05 Arbiter of the Scale
+
+RZ04 Derail
+rules_text: Choose one. You may choose another if you control a creature with mana value 4 or greater and another if you control a creature with mana value 6 or greater —
+• Derail deals 4 damage to any target.
+• Creatures can't block this turn.
+• Destroy target artifact or enchantment. => Choose one. You may choose another if you control a creature with mana value 4 or greater and another if you control a creature with mana value 6 or greater.
+• Derail deals 4 damage to any target.
+• Creatures can't block this turn.
+• Destroy target artifact or enchantment.
+
+
+VERSION 22 CHANGELOG
 ====================
 
 RR02 Nylis, Epigone Reborn added.
