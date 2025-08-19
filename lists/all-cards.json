@@ -3528,7 +3528,7 @@
             "number": 128,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "When this enchantment enters, each opponent sacrifices a creature or pays 3 life. Then each player discards a card.\nOnce per turn, when you discard a card, you may pay {2}{B}. If you do, return that card and this enchantment to your hand.",
+            "rules_text": "When this enchantment enters, each opponent sacrifices a creature or pays 3 life. Then each player discards a card.\nWhenever you discard a card, you may pay {B}. If you do, return that card and this enchantment to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3537,7 +3537,7 @@
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
-            "notes": "",
+            "notes": "19 Aug 2025: Reduced cost from 2B to B",
             "image_type": "png"
         },
         {
@@ -3848,10 +3848,10 @@
             "number": 218,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2013 Investigate twice. You gain 2 life.\nIII \u2013 Sacrifice up to three Clues you control, then draw that many cards.\nSacrifice any number of Clues, then draw that many cards.",
+            "rules_text": "\nI, II \u2013 Investigate twice. You gain 2 life.\nIII \u2013 Sacrifice up to three Clues, then draw that many cards.\nSacrifice any number of Clues, then draw that many cards.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2013 Investigate twice. You gain 2 life.\nIII \u2013 Sacrifice up to three Clues you control, then draw that many cards.\nSacrifice any number of Clues, then draw that many cards.",
+            "special_text": "\nI, II \u2013 Investigate twice. You gain 2 life.\nIII \u2013 Sacrifice up to three Clues, then draw that many cards.\nSacrifice any number of Clues, then draw that many cards.",
             "shape": "saga",
             "set": "SGP",
             "loyalty": "",
@@ -3888,7 +3888,7 @@
             "number": 39,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "When this creature enters, exile another target creature until this creature leaves the battlefield.\nWhenever you gain life, you may return a creature card exiled with this creature to the battlefield under its owner's control with a +1/+1 counter on it.",
+            "rules_text": "Lifelink\nWhen this creature enters, exile another target creature until this creature leaves the battlefield. If you controlled that creature, return it to the battlefield under its owner's control with a +1/+1 counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -3897,7 +3897,7 @@
             "loyalty": "",
             "artist": "Loles Romero",
             "alias": "",
-            "notes": "18 Aug 2025: Bumped from 2/2 to 3/2\n19 Aug 2025: Reduced from 3/2 to 2/2, but completely changed card to blinker/removal effect",
+            "notes": "18 Aug 2025: Bumped from 2/2 to 3/2\n19 Aug 2025: Completely changed card to blinker/removal effect",
             "image_type": "png"
         },
         {

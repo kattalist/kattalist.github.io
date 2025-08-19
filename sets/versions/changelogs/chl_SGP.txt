@@ -1,4 +1,36 @@
-﻿VERSION 23 CHANGELOG
+﻿VERSION 24 CHANGELOG
+====================
+
+
+
+UB13 Channel the Dark
+rules_text: When this enchantment enters, each opponent sacrifices a creature or pays 3 life. Then each player discards a card.
+Once per turn, when you discard a card, you may pay {2}{B}. If you do, return that card and this enchantment to your hand. => When this enchantment enters, each opponent sacrifices a creature or pays 3 life. Then each player discards a card.
+Whenever you discard a card, you may pay {B}. If you do, return that card and this enchantment to your hand.
+
+RZ10 Lantha Uncovers The Truth
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to three Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards. => 
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to three Clues, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to three Clues you control, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards. => 
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to three Clues, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards.
+
+RW02 Captivating Alto
+rules_text: When this creature enters, exile another target creature until this creature leaves the battlefield.
+Whenever you gain life, you may return a creature card exiled with this creature to the battlefield under its owner's control with a +1/+1 counter on it. => Lifelink
+When this creature enters, exile another target creature until this creature leaves the battlefield. If you controlled that creature, return it to the battlefield under its owner's control with a +1/+1 counter on it.
+
+
+VERSION 23 CHANGELOG
 ====================
 
 CW12 Aerial Augmentation added.
