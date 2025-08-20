@@ -1,4 +1,30 @@
-﻿VERSION 24 CHANGELOG
+﻿VERSION 25 CHANGELOG
+====================
+
+
+
+CR05 Magma Scribe
+rules_text: {1}{R}: Discard a card, then draw a card. Activate only as a sorcery.
+This creature has first strike as long as the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => {2}{R}: Discard a card, then draw a card. Activate only as a sorcery.
+This creature has first strike as long as the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+
+UB01 Shingle Crawler
+rules_text: Flying
+Whenever this creature deals combat damage to a player, each player discards a card. If this creature has a counter on it, instead target player discards a card.
+{1}{B}: Put a +1/+1 counter on this creature. => Flying
+Whenever this creature deals combat damage to a player, each player discards a card.
+{2}{B}: Put a +1/+1 counter on this creature.
+
+UB04 Flesh Shredder
+rules_text: When this creature enters, you may discard a card. If you do, put a +1/+1 counter and a haste counter on it. If you discarded a nonland card this way, also put a menace counter on it. => When this creature enters, draw a card, then discard a card. If you discarded a nonland card this way, put a haste counter and a menace counter on it.
+
+UB13 Channel the Dark
+rules_text: When this enchantment enters, each opponent sacrifices a creature or pays 3 life. Then each player discards a card.
+Whenever you discard a card, you may pay {B}. If you do, return that card and this enchantment to your hand. => When this enchantment enters, each opponent sacrifices a creature or pays 3 life. Then each player discards a card.
+Whenever you discard a card, you may pay {1}{B}. If you do, return that card and this enchantment to your hand.
+
+
+VERSION 24 CHANGELOG
 ====================
 
 

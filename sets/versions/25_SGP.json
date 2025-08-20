@@ -983,7 +983,7 @@
             "number": 134,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "{1}{R}: Discard a card, then draw a card. Activate only as a sorcery.\nThis creature has first strike as long as the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]",
+            "rules_text": "{2}{R}: Discard a card, then draw a card. Activate only as a sorcery.\nThis creature has first strike as long as the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/1",
             "special_text": "",
@@ -992,7 +992,7 @@
             "loyalty": "",
             "artist": "Felipe Machado",
             "alias": "",
-            "notes": "17 Jul 2025: Raised ability cost to 2R from 1R\n8 Aug 2025: Reduced rummage cost back to 1R and raised toughness to 2 from 1\n10 Aug 2025: Put toughness back at 1, and added \"activate only as a sorcery\" to the rummage"
+            "notes": "17 Jul 2025: Raised ability cost to 2R from 1R\n8 Aug 2025: Reduced rummage cost back to 1R and raised toughness to 2 from 1\n10 Aug 2025: Put toughness back at 1, and added \"activate only as a sorcery\" to the rummage\n19 Aug 2025: Bumped rummage from 1R to 2R"
         },
         {
             "card_name": "CR06 Startouched Blitzer",
@@ -2617,7 +2617,7 @@
             "number": 116,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Flying\nWhenever this creature deals combat damage to a player, each player discards a card. If this creature has a counter on it, instead target player discards a card.\n{1}{B}: Put a +1/+1 counter on this creature.",
+            "rules_text": "Flying\nWhenever this creature deals combat damage to a player, each player discards a card.\n{2}{B}: Put a +1/+1 counter on this creature.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2626,7 +2626,7 @@
             "loyalty": "",
             "artist": "Brian Valeza",
             "alias": "",
-            "notes": "8 Aug 2025: Changed counter trigger off void to just be AA\n9 Aug 2025: Multiple counters can be stacked now, but costs 2B instead of 1B\n19 Aug 2025: Switched to just +1/+1 counters and reduced cost from 2B to 1B"
+            "notes": "8 Aug 2025: Changed counter trigger off void to just be AA\n9 Aug 2025: Multiple counters can be stacked now, but costs 2B instead of 1B\n19 Aug 2025: Switched to just +1/+1 counters, but removed \"target player discards\" mode"
         },
         {
             "card_name": "UG02 Elden Rite Shaman",
@@ -2940,7 +2940,7 @@
             "number": 119,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "When this creature enters, you may discard a card. If you do, put a +1/+1 counter and a haste counter on it. If you discarded a nonland card this way, also put a menace counter on it.",
+            "rules_text": "When this creature enters, draw a card, then discard a card. If you discarded a nonland card this way, put a haste counter and a menace counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -2949,7 +2949,7 @@
             "loyalty": "",
             "artist": "Darya Malabra",
             "alias": "",
-            "notes": "10 Aug 2025: Changed to single effect\n11 Aug 2025: Changed life swing to menace counter"
+            "notes": "10 Aug 2025: Changed to single effect\n11 Aug 2025: Changed life swing to menace counter\n19 Aug 2025: Switched discard to loot, and removed +1/+1 counter possibility"
         },
         {
             "card_name": "UB05 Corpse Inspectors",
@@ -3358,7 +3358,7 @@
             "number": 128,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "When this enchantment enters, each opponent sacrifices a creature or pays 3 life. Then each player discards a card.\nWhenever you discard a card, you may pay {B}. If you do, return that card and this enchantment to your hand.",
+            "rules_text": "When this enchantment enters, each opponent sacrifices a creature or pays 3 life. Then each player discards a card.\nWhenever you discard a card, you may pay {1}{B}. If you do, return that card and this enchantment to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3367,7 +3367,7 @@
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
-            "notes": "19 Aug 2025: Reduced cost from 2B to B"
+            "notes": "19 Aug 2025: Reduced cost from 2B to 1B"
         },
         {
             "card_name": "UR14 Pyretic Dreadnought",
