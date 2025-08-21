@@ -15,7 +15,7 @@
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Vigilance\n[i]United [/i]\u2014 Whenever this creature attacks with one or more tokens, put a +1/+1 counter on it.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]Only the bravest devote their free time to the city's hardest, most essential, and least-funded job.[/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
@@ -622,7 +622,7 @@
             "number": 94,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Haste\nAt the beginning of your end step, if the void called this turn, put a +1/+1 counter on this creature. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]",
+            "rules_text": "Haste\nWhenever the void calls for the first time each turn, this creature gets +1/+1 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -631,7 +631,7 @@
             "loyalty": "",
             "artist": "Mert Genccinar",
             "alias": "",
-            "notes": "16 Jul 2025: Removed enabler, but allowed 1/1 counter option as well as deathtouch counter\n17 Jul 2025: Added haste\n10 Aug 2025: Removed deathtouch option"
+            "notes": "16 Jul 2025: Removed enabler, but allowed 1/1 counter option as well as deathtouch counter\n17 Jul 2025: Added haste\n10 Aug 2025: Removed deathtouch option\n\nShould better differentiate between this and Ashen Ravager\n\n20 Aug 2025: Reduced to simply +1/+1 (counters were a bit wild)"
         },
         {
             "card_name": "CB02 Luxuries Merchant",
@@ -965,7 +965,7 @@
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "When this creature enters, create a tapped Treasure token.\nThis creature gets +2/+2 and has menace as long as you've cast a spell with mana value 4 or greater this turn.",
-            "flavor_text": "[i]\u201cI've seen the ravenous beasts that lie out there, and with the purchase of our all-inclusive family pass, so can you!\u201d[/i]",
+            "flavor_text": "[i]\u201cI've seen the ravenous beasts that lie out there, and so can you!\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
@@ -983,16 +983,16 @@
             "number": 134,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "{2}{R}: Discard a card, then draw a card. Activate only as a sorcery.\nThis creature has first strike as long as the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]",
+            "rules_text": "This creature has first strike as long as the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "4/1",
+            "pt": "4/2",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Felipe Machado",
             "alias": "",
-            "notes": "17 Jul 2025: Raised ability cost to 2R from 1R\n8 Aug 2025: Reduced rummage cost back to 1R and raised toughness to 2 from 1\n10 Aug 2025: Put toughness back at 1, and added \"activate only as a sorcery\" to the rummage\n19 Aug 2025: Bumped rummage from 1R to 2R"
+            "notes": "17 Jul 2025: Raised ability cost to 2R from 1R\n8 Aug 2025: Reduced rummage cost back to 1R and raised toughness to 2 from 1\n10 Aug 2025: Put toughness back at 1, and added \"activate only as a sorcery\" to the rummage\n19 Aug 2025: Bumped rummage from 1R to 2R\n20 Aug 2025: Removed rummage and bumped from 4/1 to 4/2"
         },
         {
             "card_name": "CR06 Startouched Blitzer",
@@ -1173,7 +1173,7 @@
             "number": 166,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "This creature gets +1/+1 as long as you control a token.\n{2}{G}: Investigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this artifact: Draw a card.\u201d)[/i]",
+            "rules_text": "This creature gets +1/+1 as long as you control a token.\n{4}{G}: Investigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this artifact: Draw a card.\u201d)[/i]",
             "flavor_text": "[i]Razed towns leave tales behind.[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1182,7 +1182,7 @@
             "loyalty": "",
             "artist": "Zhuoxin Wang",
             "alias": "",
-            "notes": "18 Jul 2025: Made 1/2 by default (from 1/1)\n\n8 Aug 2025: Back to 1/1"
+            "notes": "18 Jul 2025: Made 1/2 by default (from 1/1)\n\n8 Aug 2025: Back to 1/1\n20 Aug 2025: Raised ability cost from 2G to 4G (based on Magnifying Glass costing 4 in SOI)"
         },
         {
             "card_name": "CG05 Startouched Arborist",
@@ -1439,16 +1439,16 @@
             "number": 1,
             "color_identity": "C",
             "cost": "{1}{C}",
-            "rules_text": "Whenever this creature deals combat damage to a player, that player exiles that many cards from the top of their library.\n{3}: This creature gets +1/+1 until end of turn.",
+            "rules_text": "Whenever this creature attacks, target colorless creature gets either +1/+0 or +0/+1 until end of turn.",
             "flavor_text": "[i][/i]",
-            "pt": "1/3",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Fartuh Acer",
             "alias": "",
-            "notes": "19 Aug 2025: Bumped from 1/2 to 1/3"
+            "notes": "19 Aug 2025: Bumped from 1/2 to 1/3\n20 Aug 2025: Made it just buff colorless creatures instead, because it was pretty useless before"
         },
         {
             "card_name": "CA02 Voices of the Severed",
@@ -2556,11 +2556,11 @@
             "card_name": "UU10 Forgotten Rites",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Sorcery",
+            "type": "Instant",
             "number": 89,
             "color_identity": "U",
-            "cost": "{X}{U}",
-            "rules_text": "Choose X. You may choose the same mode more than once \u2014\n\u2022 Tap or untap target creature, then surveil 1.\n\u2022 Draw a card, then discard a card.\n\u2022 Investigate.",
+            "cost": "{3}{U}",
+            "rules_text": "Draw two cards, then choose one \u2014\n\u2022 Draw a card, then discard a card.\n\u2022 Investigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this artifact: Draw a card.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2569,7 +2569,7 @@
             "loyalty": "",
             "artist": "Alex Petruk",
             "alias": "",
-            "notes": "1 Aug 2025: Switched from X choices to X + 1 choices\n\n8 Aug 2025: Replaced tokens with tap/untap and surveil"
+            "notes": "1 Aug 2025: Switched from X choices to X + 1 choices\n\n8 Aug 2025: Replaced tokens with tap/untap and surveil\n20 Aug 2025: No longer X spell, just draw 2 + (loot or investigate)"
         },
         {
             "card_name": "UU12 Wiped Clean",
@@ -2598,7 +2598,7 @@
             "number": 93,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
-            "rules_text": "Creatures that crewed [i]Triumph [/i]this turn are Eldrazi Horrors in addition to their other types.\nWhenever [i]Triumph [/i]deals combat damage to a player, surveil X, where X is the number of Horrors you control, then draw a card.\nCrew 1",
+            "rules_text": "Creatures that crewed Triumph[i] [/i]this turn are Eldrazi Horrors in addition to their other types.\nWhenever Triumph[i] [/i]deals combat damage to a player, surveil X, where X is the number of Horrors you control, then draw a card.\nCrew 1",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2617,7 +2617,7 @@
             "number": 116,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Flying\nWhenever this creature deals combat damage to a player, each player discards a card.\n{2}{B}: Put a +1/+1 counter on this creature.",
+            "rules_text": "Flying\nWhenever this creature deals combat damage to a player, each player discards a card.\n{2}{B}, Discard this card: Target player discards two cards.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2626,7 +2626,7 @@
             "loyalty": "",
             "artist": "Brian Valeza",
             "alias": "",
-            "notes": "8 Aug 2025: Changed counter trigger off void to just be AA\n9 Aug 2025: Multiple counters can be stacked now, but costs 2B instead of 1B\n19 Aug 2025: Switched to just +1/+1 counters, but removed \"target player discards\" mode"
+            "notes": "8 Aug 2025: Changed counter trigger off void to just be AA\n9 Aug 2025: Multiple counters can be stacked now, but costs 2B instead of 1B\n19 Aug 2025: Switched to just +1/+1 counters, but removed \"target player discards\" mode\n20 Aug 2025: Added Mind Rot as discard effect (black didn't have a channel effect yet)"
         },
         {
             "card_name": "UG02 Elden Rite Shaman",
@@ -2826,7 +2826,7 @@
             "number": 163,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "As an additional cost to cast this spell, you may discard any number of cards. This spell costs {2} less to cast for each card discarded this way.\nBlinding Immolation deals 5 damage to target creature or planeswalker.",
+            "rules_text": "This spell costs {2} less to cast if you've discarded a card this turn.\nBlinding Immolation deals 5 damage to target creature or planeswalker.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2835,7 +2835,7 @@
             "loyalty": "",
             "artist": "Vishakh Mohan",
             "alias": "",
-            "notes": ""
+            "notes": "20 Aug 2025: Changed from discard for cost reduction to static reduction if you've discarded a card"
         },
         {
             "card_name": "UG13 For All of Calloran",
@@ -3130,7 +3130,7 @@
             "number": 152,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "At the beginning of your end step, put a +1/+1 counter on this creature if the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]\nWhen this creature dies, it deals damage equal to its power to target opponent.",
+            "rules_text": "At the beginning of your end step, put a +1/+1 counter on this creature if the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]\nWhen this creature dies, if its power is 3 or greater, it deals 3 damage to target player.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -3139,7 +3139,7 @@
             "loyalty": "",
             "artist": "Camille Alquier",
             "alias": "",
-            "notes": ""
+            "notes": "Should better differentiate b/w this and Herald of the End\n\n20 Aug 2025: Capped damage on death at 3"
         },
         {
             "card_name": "UR02 Mutation Investigator",
@@ -3168,7 +3168,7 @@
             "number": 154,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "This creature has first strike as long as it's attacking.\nAt the beginning of combat on your turn, up to one target Vehicle crewed by this creature gets +1/+0 and gains first strike until end of turn.",
+            "rules_text": "This creature has first strike as long as it's attacking.\nAt the beginning of combat on your turn, up to one target Vehicle crewed by this creature gets +2/+0 and gains first strike until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3177,7 +3177,7 @@
             "loyalty": "",
             "artist": "Alena Zhukova",
             "alias": "",
-            "notes": ""
+            "notes": "20 Aug 2025: Boosted buff from 1/0 to 2/0"
         },
         {
             "card_name": "UR04 Sacrifice Archivist",
@@ -3728,7 +3728,7 @@
             "loyalty": "",
             "artist": "Borja Pindado",
             "alias": "",
-            "notes": "10 Aug 2025: Removed lifelink\n17 Aug 2025: Changed counter duplication ability to United ability since there were none at rare\n\nFIND NEW ART"
+            "notes": "10 Aug 2025: Removed lifelink\n17 Aug 2025: Changed counter duplication ability to United ability since there were none at rare\n\nFIND NEW ART\n\nBreakdown:\n- What deck wants this card? Go-wide token decks"
         },
         {
             "card_name": "MW02 Aspect of Subjugation",
@@ -4537,7 +4537,7 @@
             "color_identity": "WU",
             "cost": "",
             "rules_text": "{T}: Add {C}.\n{WU}, {T}: Add {W}{W}, {W}{U}, or {U}{U}.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]The duchy's northward roads are its least traveled, but they hide truly remarkable relics behind them.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -4575,7 +4575,7 @@
             "color_identity": "BR",
             "cost": "",
             "rules_text": "{T}: Add {C}.\n{BR}, {T}: Add {B}{B}, {B}{R}, or {R}{R}.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]Decades ago, small villages were everywhere along the Salcman River. Their cemeteries outlived them.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -4613,7 +4613,7 @@
             "color_identity": "WG",
             "cost": "",
             "rules_text": "{T}: Add {C}.\n{GW}, {T}: Add {G}{G}, {G}{W}, or {W}{W}.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]Kaalham is as old as Goldport, but stalled its growth in order to steel itself from the sea and sky.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",

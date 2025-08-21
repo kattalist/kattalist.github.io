@@ -1,4 +1,81 @@
-﻿VERSION 26 CHANGELOG
+﻿VERSION 27 CHANGELOG
+====================
+
+
+
+CW01 Volunteer Firewatch
+
+CB01 Herald of the End
+rules_text: Haste
+At the beginning of your end step, if the void called this turn, put a +1/+1 counter on this creature. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => Haste
+Whenever the void calls for the first time each turn, this creature gets +1/+1 until end of turn.
+
+CR04 Colossus Showman
+
+CR05 Magma Scribe
+rules_text: {2}{R}: Discard a card, then draw a card. Activate only as a sorcery.
+This creature has first strike as long as the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => This creature has first strike as long as the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+pt: 4/1 => 4/2
+
+CG01 Wreckage Inquisitors
+rules_text: This creature gets +1/+1 as long as you control a token.
+{2}{G}: Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => This creature gets +1/+1 as long as you control a token.
+{4}{G}: Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+
+CA01 Chrysalis of Flesh
+rules_text: Whenever this creature deals combat damage to a player, that player exiles that many cards from the top of their library.
+{3}: This creature gets +1/+1 until end of turn. => Whenever this creature attacks, target colorless creature gets either +1/+0 or +0/+1 until end of turn.
+pt: 1/3 => 2/2
+
+UU10 Forgotten Rites
+type: Sorcery => Instant
+cost: {X}{U} => {3}{U}
+rules_text: Choose X. You may choose the same mode more than once —
+• Tap or untap target creature, then surveil 1.
+• Draw a card, then discard a card.
+• Investigate. => Draw two cards, then choose one —
+• Draw a card, then discard a card.
+• Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+
+UU14 Triumph, Taken by the Roil
+rules_text: Creatures that crewed [i]Triumph [/i]this turn are Eldrazi Horrors in addition to their other types.
+Whenever [i]Triumph [/i]deals combat damage to a player, surveil X, where X is the number of Horrors you control, then draw a card.
+Crew 1 => Creatures that crewed Triumph[i] [/i]this turn are Eldrazi Horrors in addition to their other types.
+Whenever Triumph[i] [/i]deals combat damage to a player, surveil X, where X is the number of Horrors you control, then draw a card.
+Crew 1
+
+UB01 Shingle Crawler
+rules_text: Flying
+Whenever this creature deals combat damage to a player, each player discards a card.
+{2}{B}: Put a +1/+1 counter on this creature. => Flying
+Whenever this creature deals combat damage to a player, each player discards a card.
+{2}{B}, Discard this card: Target player discards two cards.
+
+UR12 Blinding Immolation
+rules_text: As an additional cost to cast this spell, you may discard any number of cards. This spell costs {2} less to cast for each card discarded this way.
+Blinding Immolation deals 5 damage to target creature or planeswalker. => This spell costs {2} less to cast if you've discarded a card this turn.
+Blinding Immolation deals 5 damage to target creature or planeswalker.
+
+UR01 Ashen Ravager
+rules_text: At the beginning of your end step, put a +1/+1 counter on this creature if the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+When this creature dies, it deals damage equal to its power to target opponent. => At the beginning of your end step, put a +1/+1 counter on this creature if the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+When this creature dies, if its power is 3 or greater, it deals 3 damage to target player.
+
+UR03 Preemption Engineer
+rules_text: This creature has first strike as long as it's attacking.
+At the beginning of combat on your turn, up to one target Vehicle crewed by this creature gets +1/+0 and gains first strike until end of turn. => This creature has first strike as long as it's attacking.
+At the beginning of combat on your turn, up to one target Vehicle crewed by this creature gets +2/+0 and gains first strike until end of turn.
+
+RW01 Liano, Prole's Champion
+
+RL01 Mystic Gate
+
+RL03 Graven Cairns
+
+RL05 Wooded Bastion
+
+
+VERSION 26 CHANGELOG
 ====================
 
 No changes.

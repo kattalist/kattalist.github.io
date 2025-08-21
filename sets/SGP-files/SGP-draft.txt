@@ -1343,8 +1343,8 @@
 		{
 			"name": "UU10 Forgotten Rites",
 			"rarity": "uncommon",
-			"mana_cost": "{X}{U}",
-			"type": "Sorcery",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
 			"collector_number": "89",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/89_UU10 Forgotten Rites.png"
