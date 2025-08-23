@@ -1,4 +1,618 @@
-﻿VERSION 27 CHANGELOG
+﻿VERSION 29 CHANGELOG
+====================
+
+No changes.
+
+VERSION 28 CHANGELOG
+====================
+
+CW03 Mire Sentinel added.
+CB03 Unwelcome Tenant added.
+CG07 Streetway Incursion added.
+CG08 World Whisperer added.
+CG06 Hirehand Gunner added.
+CG13 Eldritch Growth added.
+CA04 Old Ones Envoy added.
+CA05 Rend added.
+CA06 Thin the Veil added.
+CA03 Incursive Voidmaw added.
+UB09 Devour the Broken added.
+UW07 Vintage Fanatic added.
+Human Bard added.
+
+CW03 Tireless Iterator removed.
+CB03 Bloodsworn Subjugator removed.
+CG08 Streetway Incursion removed.
+CG06 World Whisperer removed.
+CG07 Hirehand Gunner removed.
+CG13 Blooming Overgrowth removed.
+CA03 Old Ones Envoy removed.
+CA04 Rend removed.
+CA05 Thin the Veil removed.
+CA06 Portmaster's Firearm removed.
+UB09 Slay the Broken removed.
+UW07 Trend Mastermind removed.
+
+CW01 Volunteer Firewatch
+
+CW02 Startouched Devout
+
+CW04 Pedigree Collector
+rules_text: [i]United [/i]— Whenever this creature attacks with one or more tokens, target attacking creature gains first strike until end of turn.
+{3}{W}, {T}: Create a 1/1 white Dog creature token. => When this creature enters, create a 1/1 white Dog creature token.
+[i]United [/i]— Whenever this creature attacks with one or more tokens, target attacking creature gains first strike until end of turn.
+
+CW06 Rockpile Brutes
+type: Creature — Human Citizen Horror => Creature — Human Citizen
+rules_text: Vigilance
+{3}{W}, {T}: Tap target creature. If {C} was spent to activate this, put a stun counter on it. => {2}{W}, {T}: Tap target creature. If {C} was spent to activate this, put a stun counter on it.
+pt: 2/3 => 3/2
+
+CW07 Aerial Enforcer
+
+CW08 Mournful Matriarch
+
+CW09 Zaila's Willbender
+pt: 2/2 => 3/3
+
+CW10 Opalwing Cavalry
+
+UW06 Upgrade the Force
+
+CW11 Sundering Strike
+
+CW12 Aerial Augmentation
+
+CW13 Bring Malfunction
+
+CW14 Oligarch's Supercar
+pt: 3/2 => 2/2
+
+CU01 Intrepid Aviator
+
+CU02 Diviner of Relics
+rules_text: Whenever you cast a colorless spell for the first time each turn, you may draw a card. If you do, discard a card. => {T}: Add {C}. Spend this mana only to cast a colorless spell or activate an ability of a colorless permanent.
+pt: 2/2 => 1/2
+
+CU03 Task Force Operatives
+rules_text: Vigilance
+{2}{U}, {T}: Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => Vigilance
+{3}{U}, {T}: Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+
+CU05 Startouched Analyst
+
+CU06 Winterfell Walker
+
+CU07 Mastbreaker
+
+CU09 Eldritch Rebuttal
+
+CU08 Pass Unscathed
+
+CU11 Impart Knowledge
+
+CU10 Taken by the Storm
+
+CU12 Hedron Imprisonment
+
+CU13 Duchy Flagship
+
+CU14 Zephyr Piercer
+
+CB01 Herald of the End
+
+CB02 Luxuries Merchant
+
+CB04 Sanguine Suppressor
+
+CB05 Lantern Stalker
+
+CB06 Paradigm Enforcer
+rules_text: Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+Whenever you extort, target creature gets -1/-1 until end of turn. => Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+Whenever you extort, up to one target creature gets -1/-1 until end of turn.
+
+CB07 Speakeasy Brokers
+
+CB08 Soultaker Idol
+rules_text: Devoid [i](This card has no color.)[/i]
+Flying
+When this creature dies, create a 1/1 black Cultist creature token and each opponent loses 1 life. => Devoid [i](This card has no color.)[/i]
+Flying
+When this creature enters, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+
+CB09 Startouched Assassin
+
+CB13 Succumb
+
+CB10 Harrowing Transformation
+rules_text: Choose one —
+• Target creature gains deathtouch and indestructible until end of turn.
+• Create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.” => Target creature gains deathtouch and indestructible until end of turn. If that creature is colorless, put a +1/+1 counter on it.
+
+CB11 Learn From Loss
+
+CB12 Compelled to Die
+
+CB14 Nightgrasp
+
+CR02 Eyekissed Invoker
+
+CR01 Hotwire Prodigy
+
+CR03 Steelsuit Consultant
+
+CR04 Colossus Showman
+
+CR05 Magma Scribe
+
+CR06 Startouched Blitzer
+
+CR08 Spire Defender
+
+CR09 Ruin Prowler
+
+CR07 Crimson Gladeguard
+
+UR09 In Eldritch Flame
+
+CR11 Commune with Silence
+
+CR12 Pyre
+
+CR13 Incendiary Charger
+
+CR14 Task Force Hotrod
+
+CG01 Wreckage Inquisitors
+
+CG05 Startouched Arborist
+
+CG03 Deathrite Mystic
+rules_text: Whenever you sacrifice one or more creatures, put a +1/+1 counter on this creature. => Whenever you sacrifice a creature, put a +1/+1 counter on this creature.
+
+CG04 First Responders
+
+CG02 Verge Drifter
+
+CG09 Starbreaker Juvenile
+
+CG10 Barksplitter Colossus
+rules_text: Trample
+When this creature enters, create a 3/3 green Treefolk creature token.
+{1}{G}, Discard this card: Create a 1/1 green Saproling creature token. Surveil 1. => Trample
+{1}{G}, Discard this card: Surveil 1. You gain 3 life.
+
+CG11 A Hole in the Sky
+
+CG12 Donnybrook
+
+CG14 Unethical Enhancements
+
+CA07 Obsidian Reliquary
+rules_text: When this artifact enters, investigate.
+{4}, {T}, Sacrifice this artifact: Destroy target creature. Activate only as a sorcery. => When this artifact enters, investigate.
+{5}, {T}, Sacrifice this artifact: Destroy target creature. Activate only as a sorcery.
+
+UZ01 Splintering Edict
+
+UZ02 Afflict Thought
+
+UZ03 Obsessive Ritualist
+
+UZ04 Restless Summoners
+
+UZ05 Oathbound Stalwart
+
+UZ06 Paid Off
+
+UZ09 Stormquell Liner
+
+UZ08 Sludge Trawlers
+
+UZ07 Admired Aeronaut
+
+UZ10 Lantha, Task Force Sergeant
+
+CU04 Ravenfolk Adept
+
+UZ11 Black Site Enhancer
+
+UZ12 Voidwing Kite
+type: Creature — Eldrazi Bird Horror => Creature — Bird Horror
+
+UZ13 Soulsiphon Initiate
+
+UZ14 Voice of the Roaring Wind
+
+UZ15 In Strength Entwined
+
+UZ16 Karsten, the Spinner
+
+UZ17 Smuggler's Hovercar
+
+UZ18 Ravaged Eviscerator
+
+UZ19 Pulverizing Helix
+
+UZ20 Adaptive Agent
+
+UW01 Sky Force Retiree
+
+UW02 Scape Surveyor
+rules_text: Flying
+When this creature enters, if an opponent controls more lands than you, search your library for a basic land card, reveal it, put it into your hand, then shuffle. Put a +1/+1 counter on this creature otherwise or if a card named Wastes was revealed this way. => Flying
+When this creature enters, you may search your library for a land card named Wastes, reveal it, put it into your hand, then shuffle.
+pt: 1/2 => 1/3
+
+UW03 Skyiron Shaper
+rules_text: Vigilance
+{2}{W}: Target Vehicle attacking with or crewed by this creature gains indestructible until end of turn. Activate only once each turn. => Vigilance
+Whenever you attack, you may pay {W}. If you do, target artifact creature attacking with or crewed by this creature gains indestructible until end of turn.
+
+UW04 Thousand-Mind Cutthroat
+
+UW05 North District Prior
+
+CW05 Cabaret Seductress
+rules_text: Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+Whenever you extort for the first time each turn, this creature gets +1/+0 and gains lifelink until end of turn. => Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+pt: 1/3 => 2/3
+
+RZ06 Paragon of Opulence
+
+UW08 Triumphant Cavalier
+
+UW14 First-Class Skyship
+
+UW09 Industry Kingpins
+rules_text: Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+When this creature enters, choose one —
+• Exile target creature with power 4 or greater. Put two +1/+1 counters on this creature.
+• Create two 2/2 Human Noble creature tokens with extort. => Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+When this creature enters, choose one —
+• Exile target creature with power 4 or greater. Put a +1/+1 counter on this creature.
+• Create a 2/2 white Human Bard creature token with extort.
+pt: 2/2 => 3/3
+
+UW10 Leave No Trace
+
+UW11 Induced Catatonia
+
+UW12 Academic Excellence
+rules_text: {2}{W}: Look at the top five cards of your library. You may reveal a creature or Vehicle card with mana value 2 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order. => {2}{W}: Look at the top five cards of your library. You may reveal a creature or artifact card with mana value 2 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+
+UW13 Strength of the Departed
+cost: {2}{W} => {1}{W}
+rules_text: Enchant creature
+When this Aura enters, create a 1/1 white Spirit creature token with flying.
+Enchanted creature gets +1/+1 for each token you control and has flying. => Enchant creature
+Enchanted creature gets +1/+1 for each token you control and has flying.
+
+UU01 Watchman of the Deep
+
+UU02 Steelsuit Retrofitter
+
+UU03 Port Inspector
+
+UU04 Ego Devourer
+
+UU05 Adaptive Lieutenant
+
+UU06 Void Empyrean
+rules_text: Devoid [i](This card has no color.)[/i]
+Flying
+When this creature enters, return up to two target creatures you don't control to their owner's hands, then surveil 3. => Devoid [i](This card has no color.)[/i]
+Flying
+When this creature enters, return up to two target creatures you don't control to their owners' hands, then surveil 3.
+
+UU09 In the Nick of Time
+
+UU08 Fade
+
+UU07 Mindbreak Shield
+
+UU13 Ancestral Voidstone
+
+UU11 Consult the Titans
+
+UU10 Forgotten Rites
+
+UU12 Wiped Clean
+
+UU14 Triumph, Taken by the Roil
+
+UB01 Shingle Crawler
+
+UG02 Elden Rite Shaman
+
+UG03 Forgotten Naturalist
+
+UG04 Yestergrove Relic
+rules_text: Vigilance
+You may reveal the second card you draw each turn. If you reveal a land card this way, put it onto the battlefield tapped. => Vigilance
+You may reveal the second card you draw each turn. When you reveal a land card this way, put it onto the battlefield tapped.
+
+UG05 Curio Broker
+
+UG06 Botanical Conference
+rules_text: Hexproof
+[i]United[/i] — Whenever this creature attacks with one or more tokens, put a +1/+1 counter on target attacking creature you control. Then if attacking creatures you control have total power 8 or greater, draw a card. => Ward {1}
+[i]United[/i] — Whenever this creature attacks with one or more tokens, put a +1/+1 counter on target attacking creature you control. Then if attacking creatures you control have total power 8 or greater, draw a card.
+
+UG07 Violeteye Savage
+
+UG08 Unwavering Broodmother
+rules_text: Devoid [i](This card has no color.)[/i]
+When this creature deals combat damage to a player, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+{G}{G}: Put a trample counter on this creature. => Devoid [i](This card has no color.)[/i]
+Whenever this creature deals combat damage to a player, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+{G}{G}: Put a trample counter on this creature.
+
+UG09 Willowvine Sentinel
+
+UG10 Bitten By the Void
+rules_text: Target creature you control deals damage equal to its power to target creature you don't control.
+If it's your turn, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.” => Choose one —
+• Target creature you control deals damage equal to its power to target creature you don't control.
+• Create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+
+UR11 Occupation
+
+UR12 Blinding Immolation
+
+UG13 For All of Calloran
+
+UG14 Confidential Science
+
+UG01 Gossip Tracker
+
+UB02 Karsten's Enforcer
+
+UB03 Festering Eyemass
+
+UB04 Flesh Shredder
+
+UB05 Corpse Inspectors
+
+UB06 Epitaph Lurkers
+rules_text: When this creature enters, create a 1/1 black Cultist creature token.
+Whenever a creature you control with base power and toughness 1 dies, each opponent loses 1 life. => When this creature enters, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+Whenever a creature you control with base power and toughness 1 dies, each opponent loses 1 life.
+
+UB07 Brethren Priestess
+
+UR08 Flamerush
+
+UB12 Quick and Painful
+
+UG11 Ancient Stirrings
+
+UG12 Unfamiliar Vegetation
+
+UR13 For the Cause
+
+UB14 Indoctrination
+
+UR01 Ashen Ravager
+
+UR02 Mutation Investigator
+
+UR03 Preemption Engineer
+
+UR04 Sacrifice Archivist
+
+UR05 Wildfire Aven
+
+UR06 Forgotten Lane Busker
+rules_text: Whenever a creature you control with mana value 4 or greater becomes blocked, that creature deals 1 damage to target opponent for each creature blocking it.
+{1}{R}, {T}: Put a menace counter on target creature you control. => Creatures you control with mana value 4 or greater have menace.
+Whenever one or more creatures you control deal combat damage to a player, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+pt: 4/3 => 3/3
+
+UR07 Pinefell Terror
+rules_text: Reach, trample, haste
+{1}{R}, Discard this card: Put a reach counter, a trample counter, or a haste counter on target creature you control. => Reach, trample, haste
+{1}{R}, Discard this card: Put a reach counter, a trample counter, or a haste counter on target creature.
+
+UB08 Stonebridge Ambush
+
+UR10 Sweep of Agony
+
+UB10 Watch the Docks
+
+UB11 Unnatural Torment
+
+UB13 Channel the Dark
+cost: {1}{B} => {2}{B}
+rules_text: When this enchantment enters, each opponent sacrifices a creature or pays 3 life. Then each player discards a card.
+Whenever you discard a card, you may pay {1}{B}. If you do, return that card and this enchantment to your hand. => When this enchantment enters, each opponent discards a card, then loses 3 life unless they sacrifice a creature.
+Whenever you discard a card, you may pay {1}{B}. If you do, return that card and this enchantment to your hand.
+
+UR14 Pyretic Dreadnought
+
+UA01 Forsaken Acolyte
+
+UA02 Three-Eye Scrier
+
+UA03 Endward Harbinger
+
+UA04 Mesa Devourer
+
+UA05 Eternity Takes
+
+MA01 Ulamog, the Earth Engulfed
+
+MZ01 Zaila, Her Will Be Done
+
+RG05 Moonrise
+
+RZ10 Lantha Uncovers The Truth
+
+RA08 Bear Witness
+
+RW02 Captivating Alto
+
+RW01 Liano, Prole's Champion
+rules_text: Liano enters with your choice of a +1/+1 counter or a vigilance counter on it.
+[i]United [/i]— Whenever Liano attacks with one or more tokens, for each counter on Liano, put a counter of that type on those tokens.
+{1}{W}, {T}: Create a 1/1 white Human Soldier creature token. => Liano enters with your choice of a +1/+1 counter or a vigilance counter on it.
+[i]United [/i]— Whenever Liano attacks with one or more tokens, for each counter on Liano, put a counter of that type on each of those tokens.
+{1}{W}, {T}: Create a 1/1 white Human Soldier creature token.
+
+MW02 Aspect of Subjugation
+
+RW04 Surge of Paralysis
+
+RW05 Destined End
+cost: {1}{W}{W}{W} => {W}{W}
+rules_text: As long as an opponent controls five or more creatures, you may cast this spell as though it had flash.
+Destroy all creatures. => Cleave {2}{W}{W} [i](You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)[/i]
+Destroy all [token] creatures.
+
+RW06 Hum of Industry
+
+RU01 Glyphbound Sharpshooter
+
+RU02 Auspicious Coroners
+
+RU03 Scion of Insanity
+
+RU04 Surge of Amnesia
+
+RU05 Roiling Undertow
+
+RU06 Unparalleled Efficiency
+
+RB01 Haunted Starlet
+
+RB02 Insatiable Slasher
+
+RB03 Mortician's Carriage
+
+RB05 Teachings of Kavalesk
+
+RB04 Surge of Compulsion
+
+RB06 Encroaching Abyss
+
+RR01 Moonlit Mutilator
+
+RA04 Collector of Souls
+
+RR02 Nylis, Epigone Reborn
+
+RR03 Surge of Kleptomania
+
+RR04 Up in Flames
+
+RR05 Visions of the Veil
+
+RG03 Gene Recombinators
+
+RG01 Eccentric Geneticist
+
+RG02 Ovgin, Ghost Colossus
+
+RG06 Dead Man's Compass
+
+RG04 Surge of Agoraphobia
+
+RZ03 Kavalesk, the Dark Exalted
+
+MZ06 Salar, the Worldfury
+
+RZ05 Population Boom
+
+RZ01 Olmin, Royal Liaison
+
+RZ07 Clanston Innovator
+
+RZ08 Something in the Soil
+
+RZ09 Cirrus Behemoth
+
+MZ04 Efraim, High Alderman
+rules_text: Extort
+At the beginning of your end step, if you gained 3 or more life this turn, return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield with a finality counter and an extort counter on it. => Extort
+At the beginning of your end step, if you gained 3 or more life this turn, return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter and an extort counter on it.
+
+RZ02 Revoke Will
+
+RZ12 Reality Schism
+
+RZ13 Morgyn, Paradigm Breaker
+
+RZ14 That Even Time Forgets
+
+RZ15 Incursion Reporters
+
+MB02 Graven Confidant
+
+MU01 Acolyte of Knowledge
+
+MZ02 Forge the Bridge
+
+RA01 Thoughtscraper
+
+RA02 Aspirant of Ulamog
+
+RA03 Slayer of Endless Form
+
+RA05 Arbiter of the Scale
+
+RA06 Supreme Desecrator
+
+RA07 Scourge of Aeons
+
+RR06 The West District Hangar
+
+RA10 Joyride, Heirloom Skydancer
+rules_text: Flying
+[i]Joyride [/i]gets +2/+2 if it was crewed by exactly two creatures.
+Crew 1 => Flying
+Joyride[i] [/i]gets +2/+2 if it was crewed by exactly two creatures.
+Crew 1
+
+MZ03 Leonard, Experiment Zero
+
+RZ11 Dream of Aeons Past
+
+MU02 Ulen, Titans' Clarion
+
+RZ04 Derail
+type: Instant => Sorcery
+
+MZ07 Ravin, Heir of Goldport
+
+RW03 Fated Reunion
+
+MW01 Torvinald, Iron Eminence
+
+MZ05 Paranoia
+
+MB01 Bloodlust Visionary
+
+MR01 Scour for Inspiration
+
+MR02 Jerald, Steel Virtuoso
+
+MG01 Reshape the World
+
+MG02 Baalakus, the Zenith
+
+MA02 Kozilek, the Bonds Unmade
+
+MA03 Emrakul, the Sky Sundered
+
+Treasure
+
+CR10 Forge in Anguish
+
+Clue
+
+
+VERSION 27 CHANGELOG
 ====================
 
 
