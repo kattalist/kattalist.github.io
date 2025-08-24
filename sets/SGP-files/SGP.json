@@ -52,7 +52,7 @@
             "number": 25,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Devoid [i](This card has no color.)[/i]\nVigilance\nThis creature enters with a +1/+1 counter on it if you control a land named Wastes.",
+            "rules_text": "Devoid [i](This card has no color.)[/i]\nVigilance\nThis creature gets +0/+1 as long as you control a land named Wastes.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -688,7 +688,7 @@
             "loyalty": "",
             "artist": "Christian Auer",
             "alias": "",
-            "notes": "9 Aug 2025: Just passively has lifelink now"
+            "notes": "9 Aug 2025: Just passively has lifelink now\n\nFIND NEW ART \u2014 COPY IN GQC"
         },
         {
             "card_name": "CB05 Lantern Stalker",
@@ -885,7 +885,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Creature \u2014 Eldrazi Scion",
-            "number": 2,
+            "number": 3,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Sacrifice this creature: Add {C}.",
@@ -1723,17 +1723,17 @@
             "type": "Creature \u2014 Human Soldier",
             "number": 228,
             "color_identity": "WG",
-            "cost": "{G}{W}",
+            "cost": "{1}{G}{W}",
             "rules_text": "Vigilance\nWhen this creature enters, create a 1/1 white Human Soldier creature token.\n[i]United [/i]\u2014 Whenever this creature attacks with one or more tokens, you may pay {G}{W}. If you do, create a 1/1 white Human Soldier creature token.",
             "flavor_text": "[i][/i]",
-            "pt": "2/2",
+            "pt": "2/3",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Jordan Taylor",
             "alias": "",
-            "notes": "8 Aug 2025: Decreased to GW from 1GW and made 2/2 instead of 3/2. Also removed token creation on attack and replaced with +1/+1\n9 Aug 2025: United ability makes tokens again but costs mana"
+            "notes": "8 Aug 2025: Decreased to GW from 1GW and made 2/2 instead of 3/2. Also removed token creation on attack and replaced with +1/+1\n9 Aug 2025: United ability makes tokens again but costs mana\n23 Aug 2025: Back to 1GW and 2/3 from 2/2"
         },
         {
             "card_name": "UZ06 Paid Off",
@@ -1970,9 +1970,9 @@
             "type": "Enchantment",
             "number": 238,
             "color_identity": "WG",
-            "cost": "{1}{G}{W}",
-            "rules_text": "Whenever a token creature enters under your control, put a +1/+1 counter on it. If this is the first time this ability has resolved this turn, you gain 2 life.",
-            "flavor_text": "[i]\u201cDedicated to Gareth and Wilhemina, who brought out the best in each other.\u201d\n\u2014 Tideview Park bench inscription[/i]",
+            "cost": "{G}{W}",
+            "rules_text": "Whenever a creature token enters under your control, put a +1/+1 counter on it.",
+            "flavor_text": "[i]\u201cDedicated to Gareth and Wilhemina, who brought out the best in each other.\u201d\n\u2014Tideview Park bench inscription[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -1980,7 +1980,7 @@
             "loyalty": "",
             "artist": "Jason Scheier",
             "alias": "",
-            "notes": "1 Aug 2025: Nerfed lifegain from 3 to 2\n8 Aug 2025: Raised mana value from 2 to 3 (now 1GW)"
+            "notes": "1 Aug 2025: Nerfed lifegain from 3 to 2\n8 Aug 2025: Raised mana value from 2 to 3 (now 1GW)\n23 Aug 2025: No more lifegain, now down to 2 mana"
         },
         {
             "card_name": "UZ16 Karsten, the Spinner",
@@ -2085,7 +2085,7 @@
             "number": 45,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Whenever a token creature enters under your control, this creature gets +1/+1 until end of turn.\nAt the beginning of combat on your turn, if this creature's power is 4 or greater, it gains flying and first strike until end of turn.",
+            "rules_text": "Whenever a creature token you control enters, this creature gets +1/+1 until end of turn.\nAt the beginning of combat on your turn, if this creature's power is 4 or greater, it gains flying and first strike until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -2113,7 +2113,7 @@
             "loyalty": "",
             "artist": "Nina Wojcik",
             "alias": "",
-            "notes": "8 lines\n22 Aug 2025: Shifted around to potential Scion producer, and reduced from 2/3 to 1/3"
+            "notes": "22 Aug 2025: Shifted around to potential Scion producer, and reduced from 2/3 to 1/3"
         },
         {
             "card_name": "UW03 Skyiron Shaper",
@@ -2142,7 +2142,7 @@
             "number": 48,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "This creature gets +1/+0 and has double strike if you control another creature with the same name.\n{3}{W}: Fragment this creature. Activate only outside of combat. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]",
+            "rules_text": "This creature has double strike if you control another creature with the same name.\n{3}{W}: Fragment this creature. Activate only outside of combat. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
@@ -2218,16 +2218,16 @@
             "number": 52,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
-            "rules_text": "Whenever you attack, each creature you control that shares a creature type with another creature you control gets +1/+1 until end of turn.",
+            "rules_text": "Vigilance\n[i]United [/i]\u2014 Whenever this creature attacks with one or more tokens, creatures you control get +1/+1 until end of turn.",
             "flavor_text": "[i][/i]",
-            "pt": "3/4",
+            "pt": "4/4",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Piotr Arendzikowski",
             "alias": "",
-            "notes": "8 Aug 2025: Removed token creation on enters"
+            "notes": "8 Aug 2025: Removed token creation on enters\n23 Aug 2025: Switched to similar United ability, bumped up to 4/4 and gave vigilance"
         },
         {
             "card_name": "UW14 First-Class Skyship",
@@ -2306,14 +2306,14 @@
             "notes": ""
         },
         {
-            "card_name": "UW12 Academic Excellence",
+            "card_name": "UW12 Faculty of Engineering",
             "color": "W",
             "rarity": "uncommon",
             "type": "Enchantment",
             "number": 56,
             "color_identity": "W",
-            "cost": "{W}",
-            "rules_text": "{2}{W}: Look at the top five cards of your library. You may reveal a creature or artifact card with mana value 2 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+            "cost": "{1}{W}",
+            "rules_text": "When this enchantment enters, look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\nCreatures you control have vigilance.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2322,7 +2322,7 @@
             "loyalty": "",
             "artist": "Beni Butnar",
             "alias": "",
-            "notes": "9 Aug 2025: Bumped ability from 2W to 3W\n10 Aug 2025: Removed token generation"
+            "notes": "9 Aug 2025: Bumped ability from 2W to 3W\n10 Aug 2025: Removed token generation\n\nWhat is this slot for? Vehicle Midrange\n- should care about Vehicles or artifacts, and should have some sort of slower benefit that justifies playing this early"
         },
         {
             "card_name": "UW13 Strength of the Departed",
@@ -2484,8 +2484,8 @@
             "number": 88,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Return target nonland permanent to its owner's hand. \nInvestigate.",
-            "flavor_text": "[i]\u201cThe Guard came by and told me they'd find him. The next day, they said they weren't sure he'd ever existed.\u201d[/i]",
+            "rules_text": "Return target nonland permanent to its owner's hand. \nInvestigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this artifact: Draw a card.\u201d)[/i]",
+            "flavor_text": "[i]\u201cThe Guard told me they'd find him. The next day, they weren't sure he'd ever existed.\u201d[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -2553,23 +2553,23 @@
             "notes": ""
         },
         {
-            "card_name": "UU10 Forgotten Rites",
-            "color": "U",
+            "card_name": "UU10 Rippling Fracture",
+            "color": "",
             "rarity": "uncommon",
-            "type": "Instant",
+            "type": "Sorcery",
             "number": 90,
             "color_identity": "U",
-            "cost": "{3}{U}",
-            "rules_text": "Draw two cards, then choose one \u2014\n\u2022 Draw a card, then discard a card.\n\u2022 Investigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this artifact: Draw a card.\u201d)[/i]",
-            "flavor_text": "[i][/i]",
+            "cost": "{1}{U}{U}",
+            "rules_text": "Devoid [i](This card has no color.)[/i]\nCreate a token that's a copy of target creature you control. \nInvestigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this artifact: Draw a card.\u201d)[/i]",
+            "flavor_text": "[i]There is a moment of sanity that comes between losing everything and losing everything else.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
-            "artist": "Alex Petruk",
+            "artist": "Dominik Mayer",
             "alias": "",
-            "notes": "1 Aug 2025: Switched from X choices to X + 1 choices\n\n8 Aug 2025: Replaced tokens with tap/untap and surveil\n20 Aug 2025: No longer X spell, just draw 2 + (loot or investigate)"
+            "notes": "1 Aug 2025: Switched from X choices to X + 1 choices\n\n8 Aug 2025: Replaced tokens with tap/untap and surveil\n20 Aug 2025: No longer X spell, just draw 2 + (loot or investigate)\n24 Aug 2025: Now a cloner + investigate"
         },
         {
             "card_name": "UU12 Wiped Clean",
@@ -2636,7 +2636,7 @@
             "number": 190,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Whenever an Eldrazi enters under your control, put a +1/+1 counter on this creature.\n{G}, {T}: Look at the top X cards of your library, where X is this creature's power. You may reveal a creature card from among them, put it into your hand, then shuffle.",
+            "rules_text": "Whenever an Eldrazi enters under your control, put a +1/+1 counter on this creature.\n{2}{G}, {T}: Look at the top X cards of your library, where X is this creature's power. You may reveal a creature card from among them, put it into your hand, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2645,7 +2645,7 @@
             "loyalty": "",
             "artist": "Lin Chang",
             "alias": "",
-            "notes": "19 Aug 2025: Now reveals creature card of any size"
+            "notes": "19 Aug 2025: Now reveals creature card of any size\n23 Aug 2025: Switched AA from G to 2G"
         },
         {
             "card_name": "UG03 Forgotten Naturalist",
@@ -2674,7 +2674,7 @@
             "number": 192,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Vigilance\nYou may reveal the second card you draw each turn. When you reveal a land card this way, put it onto the battlefield tapped.",
+            "rules_text": "When this creature enters, investigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this artifact: Draw a card.\u201d)[/i]\nYou may reveal the second card you draw each turn. Whenever you reveal a land card this way, put it onto the battlefield tapped.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -2683,7 +2683,7 @@
             "loyalty": "",
             "artist": "Nessa_V",
             "alias": "",
-            "notes": ""
+            "notes": "24 Aug: Removed vigilance, but added investigate on enters"
         },
         {
             "card_name": "UG05 Curio Broker",
@@ -2712,16 +2712,16 @@
             "number": 194,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "Ward {1}\n[i]United[/i] \u2014 Whenever this creature attacks with one or more tokens, put a +1/+1 counter on target attacking creature you control. Then if attacking creatures you control have total power 8 or greater, draw a card.",
+            "rules_text": "Vigilance, ward {1}\n[i]United[/i] \u2014 Whenever this creature attacks with one or more tokens, put a +1/+1 counter on target attacking creature you control. Then if attacking creatures you control have total power 8 or greater, draw a card.",
             "flavor_text": "[i][/i]",
-            "pt": "4/3",
+            "pt": "3/4",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Eric Gonzales",
             "alias": "",
-            "notes": "22 Aug 2025: Removed hexproof, replaced with ward 1"
+            "notes": "22 Aug 2025: Removed hexproof, replaced with ward 1\n24 Aug 2025: Added vigilance and switched to 3/4"
         },
         {
             "card_name": "UG07 Violeteye Savage",
@@ -2845,7 +2845,7 @@
             "number": 201,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
-            "rules_text": "Creatures you control get +3/+3 until end of turn. Token creatures you control also gain trample until end of turn.",
+            "rules_text": "Creatures you control get +3/+3 until end of turn. Creature tokens you control also gain trample until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2902,7 +2902,7 @@
             "number": 118,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]\nThis creature has deathtouch and lifelink as long as you've extorted this turn.",
+            "rules_text": "Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]\nThis creature has deathtouch as long as you've extorted this turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -2911,7 +2911,7 @@
             "loyalty": "",
             "artist": "Kael Ngu",
             "alias": "",
-            "notes": ""
+            "notes": "23 Aug 2025: Dropped lifelink"
         },
         {
             "card_name": "UB03 Festering Eyemass",
@@ -2921,7 +2921,7 @@
             "number": 119,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Devoid [i](This card has no color.)[/i]\nSacrifice another artifact or creature: Add {B}. \n{3}{B}{B}, {T}: Create two 1/1 colorless Eldrazi Scion creature tokens with \u201cSacrifice this creature: Add {C}.\u201d",
+            "rules_text": "Devoid [i](This card has no color.)[/i]\nSacrifice another artifact or creature: Put a +1/+1 counter or an eye counter on this creature.\nWhen this creature dies, each opponent loses 1 life and you gain 1 life for each eye counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3389,23 +3389,23 @@
             "notes": "9 Aug 2025: Changed up to autopilot XXRR and repeated burn if autopiloted\n12 Aug 2025: Gave this flying"
         },
         {
-            "card_name": "UA01 Forsaken Acolyte",
+            "card_name": "UA01 Titan's Effigy",
             "color": "",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Bird Horror",
+            "type": "Creature \u2014 Eldrazi",
             "number": 18,
             "color_identity": "C",
             "cost": "{3}",
-            "rules_text": "{5}{C}, {T}: Fragment target creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]\nCreatures you control with shard counters can't be blocked.",
+            "rules_text": "When this creature enters, create a 1/1 colorless Eldrazi Scion creature token with \u201cSacrifice this creature: Add {C}.\u201d\n{8}, {T}, Sacrifice this creature: Create a 10/10 colorless Eldrazi creature token.",
             "flavor_text": "[i][/i]",
-            "pt": "3/2",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
-            "artist": "Domenico Cava",
+            "artist": "Bryan Frosado",
             "alias": "",
-            "notes": "10 Aug 2025: Switched to totally unblockable\n12 Aug 2025: Made AA more expensive (5C from 3C), but made only your things unblockable"
+            "notes": "10 Aug 2025: Switched to totally unblockable\n12 Aug 2025: Made AA more expensive (5C from 3C), but made only your things unblockable\n23 Aug 2025: Totally switched to Scion maker and late-game sink\n\nOptions: 6, T, Sac: 7/7 or 8, T, Sac: 10/10"
         },
         {
             "card_name": "UA02 Three-Eye Scrier",
@@ -3417,14 +3417,14 @@
             "cost": "{4}",
             "rules_text": "At the beginning of your upkeep, surveil 2.\nAt the beginning of your end step, target player mills cards equal to the number of cards put into your graveyard from your hand or library this turn.",
             "flavor_text": "[i][/i]",
-            "pt": "2/2",
+            "pt": "3/3",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Dariusz Kieliszek",
             "alias": "",
-            "notes": ""
+            "notes": "23 Aug 2025: Bumped from 2/2 to 3/3"
         },
         {
             "card_name": "UA03 Endward Harbinger",
@@ -3662,10 +3662,10 @@
             "number": 219,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
-            "rules_text": "\nI, II \u2014 Investigate twice. You gain 2 life.\nIII \u2014 Sacrifice up to three Clues, then draw that many cards.\nSacrifice any number of Clues, then draw that many cards.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Investigate twice. You gain 2 life.\nIII \u2014 Sacrifice up to three Clues, then draw that many cards.\nSacrifice any number of Clues, then draw that many cards.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI, II \u2014 Investigate twice. You gain 2 life.\nIII \u2014 Sacrifice up to three Clues, then draw that many cards.\nSacrifice any number of Clues, then draw that many cards.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Investigate twice. You gain 2 life.\nIII \u2014 Sacrifice up to three Clues, then draw that many cards.\nSacrifice any number of Clues, then draw that many cards.",
             "shape": "saga",
             "set": "SGP",
             "loyalty": "",
@@ -5011,7 +5011,7 @@
             "number": 209,
             "color_identity": "WBG",
             "cost": "{W}{B}{G}",
-            "rules_text": "Whenever a token creature you control enters, put a +1/+1 counter on Ravin.\nWhenever Ravin attacks, attacking tokens gain menace, lifelink, and vigilance until end of turn.",
+            "rules_text": "Whenever a creature token you control enters, put a +1/+1 counter on Ravin.\nWhenever Ravin attacks, attacking tokens gain menace, lifelink, and vigilance until end of turn.",
             "flavor_text": "[i]\u201cI often wonder how we will rest, knowing we kept this from our people.\u201d[/i]",
             "pt": "4/3",
             "special_text": "",
@@ -5407,7 +5407,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Treasure",
-            "number": 6,
+            "number": 8,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Sacrifice this artifact: Add one mana of any color.",
@@ -5445,7 +5445,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Clue",
-            "number": 5,
+            "number": 7,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{2}, Sacrifice this artifact: Draw a card.",
@@ -5483,7 +5483,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Creature \u2014 Elemental Horror",
-            "number": 3,
+            "number": 4,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Reach",
@@ -5502,7 +5502,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Bard",
-            "number": 4,
+            "number": 6,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]",
@@ -5515,7 +5515,45 @@
             "artist": "Tim Razumovsky",
             "alias": "",
             "notes": ""
+        },
+        {
+            "card_name": "Human",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Human",
+            "number": 5,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "SGP",
+            "loyalty": "",
+            "artist": "Joseph Feely",
+            "alias": "",
+            "notes": ""
+        },
+        {
+            "card_name": "Dog",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Dog",
+            "number": 2,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "SGP",
+            "loyalty": "",
+            "artist": "Edwin Henry Landseer",
+            "alias": "",
+            "notes": ""
         }
     ],
-    "version": 29
+    "version": 30
 }

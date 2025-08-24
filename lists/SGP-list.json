@@ -516,7 +516,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "UU10 Forgotten Rites",
+        "card_name": "UU10 Rippling Fracture",
         "number": 90,
         "shape": "normal",
         "set": "SGP"
@@ -570,7 +570,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "UW12 Academic Excellence",
+        "card_name": "UW12 Faculty of Engineering",
         "number": 56,
         "shape": "normal",
         "set": "SGP"
@@ -1490,7 +1490,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "UA01 Forsaken Acolyte",
+        "card_name": "UA01 Titan's Effigy",
         "number": 18,
         "shape": "normal",
         "set": "SGP"
@@ -1887,40 +1887,46 @@
         "set": "SGP"
     },
     {
-        "card_name": "Eldrazi Scion",
+        "card_name": "Dog",
         "number": 2,
         "shape": "token",
         "set": "SGP"
     },
     {
-        "card_name": "Elemental Horror",
+        "card_name": "Eldrazi Scion",
         "number": 3,
         "shape": "token",
         "set": "SGP"
     },
     {
-        "card_name": "Human Bard",
+        "card_name": "Elemental Horror",
         "number": 4,
         "shape": "token",
         "set": "SGP"
     },
     {
-        "card_name": "Clue",
+        "card_name": "Human",
         "number": 5,
         "shape": "token",
         "set": "SGP"
     },
     {
-        "card_name": "Treasure",
+        "card_name": "Human Bard",
         "number": 6,
         "shape": "token",
         "set": "SGP"
     },
     {
-        "card_name": "e"
+        "card_name": "Clue",
+        "number": 7,
+        "shape": "token",
+        "set": "SGP"
     },
     {
-        "card_name": "e"
+        "card_name": "Treasure",
+        "number": 8,
+        "shape": "token",
+        "set": "SGP"
     },
     {
         "card_name": "e"

@@ -1,4 +1,122 @@
-﻿VERSION 29 CHANGELOG
+﻿VERSION 30 CHANGELOG
+====================
+
+UW12 Faculty of Engineering added.
+UU10 Rippling Fracture added.
+UA01 Titan's Effigy added.
+Human added.
+Dog added.
+
+UW12 Academic Excellence removed.
+UU10 Forgotten Rites removed.
+UA01 Forsaken Acolyte removed.
+
+CW03 Mire Sentinel
+rules_text: Devoid [i](This card has no color.)[/i]
+Vigilance
+This creature enters with a +1/+1 counter on it if you control a land named Wastes. => Devoid [i](This card has no color.)[/i]
+Vigilance
+This creature gets +0/+1 as long as you control a land named Wastes.
+
+CB04 Sanguine Suppressor
+
+Eldrazi Scion
+
+UZ05 Oathbound Stalwart
+cost: {G}{W} => {1}{G}{W}
+pt: 2/2 => 2/3
+
+UZ15 In Strength Entwined
+cost: {1}{G}{W} => {G}{W}
+rules_text: Whenever a token creature enters under your control, put a +1/+1 counter on it. If this is the first time this ability has resolved this turn, you gain 2 life. => Whenever a creature token enters under your control, put a +1/+1 counter on it.
+
+UW01 Sky Force Retiree
+rules_text: Whenever a token creature enters under your control, this creature gets +1/+1 until end of turn.
+At the beginning of combat on your turn, if this creature's power is 4 or greater, it gains flying and first strike until end of turn. => Whenever a creature token you control enters, this creature gets +1/+1 until end of turn.
+At the beginning of combat on your turn, if this creature's power is 4 or greater, it gains flying and first strike until end of turn.
+
+UW02 Scape Surveyor
+
+UW04 Thousand-Mind Cutthroat
+rules_text: This creature gets +1/+0 and has double strike if you control another creature with the same name.
+{3}{W}: Fragment this creature. Activate only outside of combat. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => This creature has double strike if you control another creature with the same name.
+{3}{W}: Fragment this creature. Activate only outside of combat. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+
+UW08 Triumphant Cavalier
+rules_text: Whenever you attack, each creature you control that shares a creature type with another creature you control gets +1/+1 until end of turn. => Vigilance
+[i]United [/i]— Whenever this creature attacks with one or more tokens, creatures you control get +1/+1 until end of turn.
+pt: 3/4 => 4/4
+
+UU08 Fade
+rules_text: Return target nonland permanent to its owner's hand. 
+Investigate. => Return target nonland permanent to its owner's hand. 
+Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+
+UG02 Elden Rite Shaman
+rules_text: Whenever an Eldrazi enters under your control, put a +1/+1 counter on this creature.
+{G}, {T}: Look at the top X cards of your library, where X is this creature's power. You may reveal a creature card from among them, put it into your hand, then shuffle. => Whenever an Eldrazi enters under your control, put a +1/+1 counter on this creature.
+{2}{G}, {T}: Look at the top X cards of your library, where X is this creature's power. You may reveal a creature card from among them, put it into your hand, then shuffle.
+
+UG04 Yestergrove Relic
+rules_text: Vigilance
+You may reveal the second card you draw each turn. When you reveal a land card this way, put it onto the battlefield tapped. => When this creature enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+You may reveal the second card you draw each turn. Whenever you reveal a land card this way, put it onto the battlefield tapped.
+
+UG06 Botanical Conference
+rules_text: Ward {1}
+[i]United[/i] — Whenever this creature attacks with one or more tokens, put a +1/+1 counter on target attacking creature you control. Then if attacking creatures you control have total power 8 or greater, draw a card. => Vigilance, ward {1}
+[i]United[/i] — Whenever this creature attacks with one or more tokens, put a +1/+1 counter on target attacking creature you control. Then if attacking creatures you control have total power 8 or greater, draw a card.
+pt: 4/3 => 3/4
+
+UG13 For All of Calloran
+rules_text: Creatures you control get +3/+3 until end of turn. Token creatures you control also gain trample until end of turn. => Creatures you control get +3/+3 until end of turn. Creature tokens you control also gain trample until end of turn.
+
+UB02 Karsten's Enforcer
+rules_text: Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+This creature has deathtouch and lifelink as long as you've extorted this turn. => Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+This creature has deathtouch as long as you've extorted this turn.
+
+UB03 Festering Eyemass
+rules_text: Devoid [i](This card has no color.)[/i]
+Sacrifice another artifact or creature: Add {B}. 
+{3}{B}{B}, {T}: Create two 1/1 colorless Eldrazi Scion creature tokens with “Sacrifice this creature: Add {C}.” => Devoid [i](This card has no color.)[/i]
+Sacrifice another artifact or creature: Put a +1/+1 counter or an eye counter on this creature.
+When this creature dies, each opponent loses 1 life and you gain 1 life for each eye counter on it.
+
+UA02 Three-Eye Scrier
+pt: 2/2 => 3/3
+
+RZ10 Lantha Uncovers The Truth
+rules_text: 
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to three Clues, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to three Clues, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards.
+special_text: 
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to three Clues, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Investigate twice. You gain 2 life.
+III — Sacrifice up to three Clues, then draw that many cards.
+Sacrifice any number of Clues, then draw that many cards.
+
+MZ07 Ravin, Heir of Goldport
+rules_text: Whenever a token creature you control enters, put a +1/+1 counter on Ravin.
+Whenever Ravin attacks, attacking tokens gain menace, lifelink, and vigilance until end of turn. => Whenever a creature token you control enters, put a +1/+1 counter on Ravin.
+Whenever Ravin attacks, attacking tokens gain menace, lifelink, and vigilance until end of turn.
+
+Treasure
+
+Clue
+
+Elemental Horror
+
+Human Bard
+
+
+VERSION 29 CHANGELOG
 ====================
 
 No changes.
