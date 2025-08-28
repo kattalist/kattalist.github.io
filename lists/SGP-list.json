@@ -60,7 +60,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "RW01 Liano, Prole's Champion",
+        "card_name": "RW01 Regulation Inspector",
         "number": 39,
         "shape": "normal",
         "set": "SGP"
@@ -84,13 +84,13 @@
         "set": "SGP"
     },
     {
-        "card_name": "RG01 Eccentric Geneticist",
+        "card_name": "RG01 Ovaan, Ghost Colossus",
         "number": 183,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "RW02 Captivating Alto",
+        "card_name": "RW02 Liano, Prole's Champion",
         "number": 40,
         "shape": "normal",
         "set": "SGP"
@@ -114,13 +114,13 @@
         "set": "SGP"
     },
     {
-        "card_name": "RG02 Ovgin, Ghost Colossus",
+        "card_name": "RG02 Gene Recombinators",
         "number": 184,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "RW03 Fated Reunion",
+        "card_name": "RW03 Captivating Alto",
         "number": 41,
         "shape": "normal",
         "set": "SGP"
@@ -132,37 +132,37 @@
         "set": "SGP"
     },
     {
-        "card_name": "RB03 Mortician's Carriage",
+        "card_name": "RB03 Esme, Lost to Avarice",
         "number": 113,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "RR03 Surge of Kleptomania",
+        "card_name": "RR03 Dasek, Wrath Herald",
         "number": 149,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "RG03 Gene Recombinators",
+        "card_name": "RG03 Curious Botanist",
         "number": 185,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "RW04 Surge of Paralysis",
+        "card_name": "RW04 Eiara, Aegis Herald",
         "number": 42,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "RU04 Surge of Amnesia",
+        "card_name": "RU04 Czaruun, Insight Herald",
         "number": 78,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "RB04 Surge of Compulsion",
+        "card_name": "RB04 Zommok, Grief Herald",
         "number": 114,
         "shape": "normal",
         "set": "SGP"
@@ -174,13 +174,13 @@
         "set": "SGP"
     },
     {
-        "card_name": "RG04 Surge of Agoraphobia",
+        "card_name": "RG04 Chasm Behemoth",
         "number": 186,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "RW05 Destined End",
+        "card_name": "RW05 Fated Reunion",
         "number": 43,
         "shape": "normal",
         "set": "SGP"
@@ -192,7 +192,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "RB05 Teachings of Kavalesk",
+        "card_name": "RB05 Mortician's Carriage",
         "number": 115,
         "shape": "normal",
         "set": "SGP"
@@ -204,13 +204,13 @@
         "set": "SGP"
     },
     {
-        "card_name": "RG05 Moonrise",
+        "card_name": "RG05 Vinrag, Expanse Herald",
         "number": 187,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "RW06 Hum of Industry",
+        "card_name": "RW06 Destined End",
         "number": 44,
         "shape": "normal",
         "set": "SGP"
@@ -222,7 +222,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "RB06 Encroaching Abyss",
+        "card_name": "RB06 Teachings of Kavalesk",
         "number": 116,
         "shape": "normal",
         "set": "SGP"
@@ -234,7 +234,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "RG06 Dead Man's Compass",
+        "card_name": "RG06 Moonrise",
         "number": 188,
         "shape": "normal",
         "set": "SGP"
@@ -672,7 +672,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "CB01 Herald of the End",
+        "card_name": "CB01 Lamplighter of the End",
         "number": 95,
         "shape": "normal",
         "set": "SGP"
@@ -762,7 +762,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "CB04 Sanguine Suppressor",
+        "card_name": "CB04 Cruel Patrician",
         "number": 98,
         "shape": "normal",
         "set": "SGP"
@@ -792,7 +792,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "CB05 Lantern Stalker",
+        "card_name": "CB05 Inkrealm Stalker",
         "number": 99,
         "shape": "normal",
         "set": "SGP"
@@ -1276,9 +1276,9 @@
         "set": "SGP"
     },
     {
-        "card_name": "RZ10 Lantha Uncovers The Truth",
+        "card_name": "RZ10 Banquet Sleuth",
         "number": 219,
-        "shape": "saga",
+        "shape": "normal",
         "set": "SGP"
     },
     {
@@ -1375,7 +1375,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "RZ15 Incursion Reporters",
+        "card_name": "RZ15 Fate's Cruel Compulsion",
         "number": 223,
         "shape": "normal",
         "set": "SGP"

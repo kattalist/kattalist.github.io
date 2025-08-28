@@ -321,13 +321,13 @@
 			}
 		},
 		{
-			"name": "CB01 Herald of the End",
+			"name": "CB01 Lamplighter of the End",
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Cultist",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/95_CB01 Herald of the End.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/95_CB01 Lamplighter of the End.png"
 			}
 		},
 		{
@@ -351,23 +351,23 @@
 			}
 		},
 		{
-			"name": "CB04 Sanguine Suppressor",
+			"name": "CB04 Cruel Patrician",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Noble",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/98_CB04 Sanguine Suppressor.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/98_CB04 Cruel Patrician.png"
 			}
 		},
 		{
-			"name": "CB05 Lantern Stalker",
+			"name": "CB05 Inkrealm Stalker",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Nightmare Horror",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/99_CB05 Lantern Stalker.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/99_CB05 Inkrealm Stalker.png"
 			}
 		},
 		{
@@ -404,7 +404,7 @@
 			"name": "CB09 Startouched Assassin",
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
-			"type": "Artifact Creature — Construct Horror",
+			"type": "Creature — Human Assassin Horror",
 			"collector_number": "103",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/103_CB09 Startouched Assassin.png"
@@ -953,7 +953,7 @@
 		{
 			"name": "UZ10 Lantha, Task Force Sergeant",
 			"rarity": "uncommon",
-			"mana_cost": "{G}{U}",
+			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Human Detective",
 			"collector_number": "233",
 			"image_uris": {
@@ -1083,7 +1083,7 @@
 		{
 			"name": "UZ20 Adaptive Agent",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{U}",
+			"mana_cost": "{2}{G}{U}",
 			"type": "Creature — Human Detective",
 			"collector_number": "243",
 			"image_uris": {
@@ -1911,29 +1911,29 @@
 			}
 		},
 		{
-			"name": "RG05 Moonrise",
+			"name": "RG06 Moonrise",
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "187",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/187_RG05 Moonrise.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/188_RG06 Moonrise.png"
 			}
 		},
 		{
-			"name": "RZ10 Lantha Uncovers The Truth",
+			"name": "RZ10 Banquet Sleuth",
 			"rarity": "rare",
-			"mana_cost": "{1}{G}{U}",
-			"type": "Enchantment — Saga",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Human Rogue",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/219_RZ10 Lantha Uncovers The Truth.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/219_RZ10 Banquet Sleuth.png"
 			}
 		},
 		{
 			"name": "RA08 Bear Witness",
 			"rarity": "rare",
-			"mana_cost": "{6}",
+			"mana_cost": "{4}",
 			"type": "Sorcery",
 			"collector_number": "17",
 			"image_uris": {
@@ -1941,23 +1941,23 @@
 			}
 		},
 		{
-			"name": "RW02 Captivating Alto",
+			"name": "RW03 Captivating Alto",
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Bard",
-			"collector_number": "40",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/40_RW02 Captivating Alto.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/41_RW03 Captivating Alto.png"
 			}
 		},
 		{
-			"name": "RW01 Liano, Prole's Champion",
+			"name": "RW02 Liano, Prole's Champion",
 			"rarity": "rare",
-			"mana_cost": "{1}{W}{W}",
+			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "39",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/39_RW01 Liano, Prole's Champion.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/40_RW02 Liano, Prole's Champion.png"
 			}
 		},
 		{
@@ -1971,33 +1971,33 @@
 			}
 		},
 		{
-			"name": "RW04 Surge of Paralysis",
+			"name": "RW04 Eiara, Aegis Herald",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}",
-			"type": "Enchantment — Aura Curse",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Eldrazi Avatar",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/42_RW04 Surge of Paralysis.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/42_RW04 Eiara, Aegis Herald.png"
 			}
 		},
 		{
-			"name": "RW05 Destined End",
+			"name": "RW06 Destined End",
 			"rarity": "rare",
 			"mana_cost": "{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "43",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/43_RW05 Destined End.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/44_RW06 Destined End.png"
 			}
 		},
 		{
-			"name": "RW06 Hum of Industry",
+			"name": "RW01 Regulation Inspector",
 			"rarity": "rare",
-			"mana_cost": "{1}{W}{W}",
-			"type": "Enchantment",
-			"collector_number": "44",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/44_RW06 Hum of Industry.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/39_RW01 Regulation Inspector.png"
 			}
 		},
 		{
@@ -2031,13 +2031,13 @@
 			}
 		},
 		{
-			"name": "RU04 Surge of Amnesia",
+			"name": "RU04 Czaruun, Insight Herald",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}{U}",
-			"type": "Enchantment — Aura Curse",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Eldrazi Avatar",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/78_RU04 Surge of Amnesia.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/78_RU04 Czaruun, Insight Herald.png"
 			}
 		},
 		{
@@ -2081,43 +2081,43 @@
 			}
 		},
 		{
-			"name": "RB03 Mortician's Carriage",
+			"name": "RB05 Mortician's Carriage",
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "113",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/113_RB03 Mortician's Carriage.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/115_RB05 Mortician's Carriage.png"
 			}
 		},
 		{
-			"name": "RB05 Teachings of Kavalesk",
+			"name": "RB06 Teachings of Kavalesk",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "115",
-			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/115_RB05 Teachings of Kavalesk.png"
-			}
-		},
-		{
-			"name": "RB04 Surge of Compulsion",
-			"rarity": "rare",
-			"mana_cost": "{3}{B}",
-			"type": "Enchantment — Aura Curse",
-			"collector_number": "114",
-			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/114_RB04 Surge of Compulsion.png"
-			}
-		},
-		{
-			"name": "RB06 Encroaching Abyss",
-			"rarity": "rare",
-			"mana_cost": "{1}{B}",
-			"type": "Enchantment",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/116_RB06 Encroaching Abyss.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/116_RB06 Teachings of Kavalesk.png"
+			}
+		},
+		{
+			"name": "RB04 Zommok, Grief Herald",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Eldrazi Avatar",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/114_RB04 Zommok, Grief Herald.png"
+			}
+		},
+		{
+			"name": "RB03 Esme, Lost to Avarice",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Human Cultist",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/113_RB03 Esme, Lost to Avarice.png"
 			}
 		},
 		{
@@ -2151,13 +2151,13 @@
 			}
 		},
 		{
-			"name": "RR03 Surge of Kleptomania",
+			"name": "RR03 Dasek, Wrath Herald",
 			"rarity": "rare",
-			"mana_cost": "{2}{R}",
-			"type": "Enchantment — Aura Curse",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Eldrazi Avatar",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/149_RR03 Surge of Kleptomania.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/149_RR03 Dasek, Wrath Herald.png"
 			}
 		},
 		{
@@ -2181,53 +2181,53 @@
 			}
 		},
 		{
-			"name": "RG03 Gene Recombinators",
+			"name": "RG02 Gene Recombinators",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Detective",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/184_RG02 Gene Recombinators.png"
+			}
+		},
+		{
+			"name": "RG03 Curious Botanist",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Artifact Creature — Construct",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/185_RG03 Gene Recombinators.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/185_RG03 Curious Botanist.png"
 			}
 		},
 		{
-			"name": "RG01 Eccentric Geneticist",
-			"rarity": "rare",
-			"mana_cost": "{G}",
-			"type": "Creature — Human Scientist",
-			"collector_number": "183",
-			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/183_RG01 Eccentric Geneticist.png"
-			}
-		},
-		{
-			"name": "RG02 Ovgin, Ghost Colossus",
+			"name": "RG01 Ovaan, Ghost Colossus",
 			"rarity": "rare",
 			"mana_cost": "{G}{G}",
 			"type": "Legendary Creature — Spirit Horror",
-			"collector_number": "184",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/184_RG02 Ovgin, Ghost Colossus.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/183_RG01 Ovaan, Ghost Colossus.png"
 			}
 		},
 		{
-			"name": "RG06 Dead Man's Compass",
+			"name": "RG04 Chasm Behemoth",
 			"rarity": "rare",
-			"mana_cost": "{1}{G}",
-			"type": "Artifact",
-			"collector_number": "188",
-			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/188_RG06 Dead Man's Compass.png"
-			}
-		},
-		{
-			"name": "RG04 Surge of Agoraphobia",
-			"rarity": "rare",
-			"mana_cost": "{1}{G}",
-			"type": "Enchantment — Aura Curse",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Beast Horror",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/186_RG04 Surge of Agoraphobia.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/186_RG04 Chasm Behemoth.png"
+			}
+		},
+		{
+			"name": "RG05 Vinrag, Expanse Herald",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Eldrazi Avatar",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/187_RG05 Vinrag, Expanse Herald.png"
 			}
 		},
 		{
@@ -2351,13 +2351,13 @@
 			}
 		},
 		{
-			"name": "RZ15 Incursion Reporters",
+			"name": "RZ15 Fate's Cruel Compulsion",
 			"rarity": "rare",
-			"mana_cost": "{B}{G}{U}",
-			"type": "Creature — Human Detective",
+			"mana_cost": "{3}{B}{G}{U}",
+			"type": "Enchantment — Aura",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/223_RZ15 Incursion Reporters.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/223_RZ15 Fate's Cruel Compulsion.png"
 			}
 		},
 		{
@@ -2554,7 +2554,7 @@
 			"name": "RA07 Scourge of Aeons",
 			"rarity": "rare",
 			"mana_cost": "{11}",
-			"type": "Creature — Eldrazi",
+			"type": "Creature — Eldrazi Angel",
 			"collector_number": "16",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/16_RA07 Scourge of Aeons.png"
@@ -2623,7 +2623,7 @@
 		{
 			"name": "RZ04 Derail",
 			"rarity": "rare",
-			"mana_cost": "{2}{R}{G}",
+			"mana_cost": "{1}{R}{G}",
 			"type": "Sorcery",
 			"collector_number": "213",
 			"image_uris": {
@@ -2641,13 +2641,13 @@
 			}
 		},
 		{
-			"name": "RW03 Fated Reunion",
+			"name": "RW05 Fated Reunion",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "41",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/41_RW03 Fated Reunion.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/43_RW05 Fated Reunion.png"
 			}
 		},
 		{
@@ -2673,7 +2673,7 @@
 		{
 			"name": "MB01 Bloodlust Visionary",
 			"rarity": "mythic",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{B}{B}",
 			"type": "Artifact Creature — Construct",
 			"collector_number": "109",
 			"image_uris": {
@@ -2926,38 +2926,38 @@
 	2 RZ06 Paragon of Opulence
 	1 MA01 Ulamog, the Earth Engulfed
 	1 MZ01 Zaila, Her Will Be Done
-	2 RG05 Moonrise
-	2 RZ10 Lantha Uncovers The Truth
+	2 RG06 Moonrise
+	2 RZ10 Banquet Sleuth
 	2 RA08 Bear Witness
-	2 RW02 Captivating Alto
-	2 RW01 Liano, Prole's Champion
+	2 RW03 Captivating Alto
+	2 RW02 Liano, Prole's Champion
 	1 MW02 Aspect of Subjugation
-	2 RW04 Surge of Paralysis
-	2 RW05 Destined End
-	2 RW06 Hum of Industry
+	2 RW04 Eiara, Aegis Herald
+	2 RW06 Destined End
+	2 RW01 Regulation Inspector
 	2 RU01 Glyphbound Sharpshooter
 	2 RU02 Auspicious Coroners
 	2 RU03 Scion of Insanity
-	2 RU04 Surge of Amnesia
+	2 RU04 Czaruun, Insight Herald
 	2 RU05 Roiling Undertow
 	2 RU06 Unparalleled Efficiency
 	2 RB01 Haunted Starlet
 	2 RB02 Insatiable Slasher
-	2 RB03 Mortician's Carriage
-	2 RB05 Teachings of Kavalesk
-	2 RB04 Surge of Compulsion
-	2 RB06 Encroaching Abyss
+	2 RB05 Mortician's Carriage
+	2 RB06 Teachings of Kavalesk
+	2 RB04 Zommok, Grief Herald
+	2 RB03 Esme, Lost to Avarice
 	2 RR01 Moonlit Mutilator
 	2 RA04 Collector of Souls
 	2 RR02 Nylis, Epigone Reborn
-	2 RR03 Surge of Kleptomania
+	2 RR03 Dasek, Wrath Herald
 	2 RR04 Up in Flames
 	2 RR05 Visions of the Veil
-	2 RG03 Gene Recombinators
-	2 RG01 Eccentric Geneticist
-	2 RG02 Ovgin, Ghost Colossus
-	2 RG06 Dead Man's Compass
-	2 RG04 Surge of Agoraphobia
+	2 RG02 Gene Recombinators
+	2 RG03 Curious Botanist
+	2 RG01 Ovaan, Ghost Colossus
+	2 RG04 Chasm Behemoth
+	2 RG05 Vinrag, Expanse Herald
 	2 RZ03 Kavalesk, the Dark Exalted
 	1 MZ06 Salar, the Worldfury
 	2 RZ05 Population Boom
@@ -2970,7 +2970,7 @@
 	2 RZ12 Reality Schism
 	2 RZ13 Morgyn, Paradigm Breaker
 	2 RZ14 That Even Time Forgets
-	2 RZ15 Incursion Reporters
+	2 RZ15 Fate's Cruel Compulsion
 	1 MB02 Graven Confidant
 	1 MU01 Acolyte of Knowledge
 	2 RL01 Mystic Gate
@@ -2999,7 +2999,7 @@
 	1 MU02 Ulen, Titans' Clarion
 	2 RZ04 Derail
 	1 MZ07 Ravin, Heir of Goldport
-	2 RW03 Fated Reunion
+	2 RW05 Fated Reunion
 	1 MW01 Torvinald, Iron Eminence
 	1 MZ05 Paranoia
 	1 MB01 Bloodlust Visionary
@@ -3138,11 +3138,11 @@
 	8 CU12 Hedron Imprisonment
 	8 CU13 Duchy Flagship
 	8 CU14 Zephyr Piercer
-	8 CB01 Herald of the End
+	8 CB01 Lamplighter of the End
 	8 CB02 Luxuries Merchant
 	8 CB03 Unwelcome Tenant
-	8 CB04 Sanguine Suppressor
-	8 CB05 Lantern Stalker
+	8 CB04 Cruel Patrician
+	8 CB05 Inkrealm Stalker
 	8 CB06 Paradigm Enforcer
 	8 CB07 Speakeasy Brokers
 	8 CB08 Soultaker Idol
@@ -3231,11 +3231,11 @@
 	12 CU12 Hedron Imprisonment
 	12 CU13 Duchy Flagship
 	12 CU14 Zephyr Piercer
-	12 CB01 Herald of the End
+	12 CB01 Lamplighter of the End
 	12 CB02 Luxuries Merchant
 	12 CB03 Unwelcome Tenant
-	12 CB04 Sanguine Suppressor
-	12 CB05 Lantern Stalker
+	12 CB04 Cruel Patrician
+	12 CB05 Inkrealm Stalker
 	12 CB06 Paradigm Enforcer
 	12 CB07 Speakeasy Brokers
 	12 CB08 Soultaker Idol
@@ -3387,38 +3387,38 @@
 	6 UW07 Vintage Fanatic
 	1 MA01 Ulamog, the Earth Engulfed
 	1 MZ01 Zaila, Her Will Be Done
-	2 RG05 Moonrise
-	2 RZ10 Lantha Uncovers The Truth
+	2 RG06 Moonrise
+	2 RZ10 Banquet Sleuth
 	2 RA08 Bear Witness
-	2 RW02 Captivating Alto
-	2 RW01 Liano, Prole's Champion
+	2 RW03 Captivating Alto
+	2 RW02 Liano, Prole's Champion
 	1 MW02 Aspect of Subjugation
-	2 RW04 Surge of Paralysis
-	2 RW05 Destined End
-	2 RW06 Hum of Industry
+	2 RW04 Eiara, Aegis Herald
+	2 RW06 Destined End
+	2 RW01 Regulation Inspector
 	2 RU01 Glyphbound Sharpshooter
 	2 RU02 Auspicious Coroners
 	2 RU03 Scion of Insanity
-	2 RU04 Surge of Amnesia
+	2 RU04 Czaruun, Insight Herald
 	2 RU05 Roiling Undertow
 	2 RU06 Unparalleled Efficiency
 	2 RB01 Haunted Starlet
 	2 RB02 Insatiable Slasher
-	2 RB03 Mortician's Carriage
-	2 RB05 Teachings of Kavalesk
-	2 RB04 Surge of Compulsion
-	2 RB06 Encroaching Abyss
+	2 RB05 Mortician's Carriage
+	2 RB06 Teachings of Kavalesk
+	2 RB04 Zommok, Grief Herald
+	2 RB03 Esme, Lost to Avarice
 	2 RR01 Moonlit Mutilator
 	2 RA04 Collector of Souls
 	2 RR02 Nylis, Epigone Reborn
-	2 RR03 Surge of Kleptomania
+	2 RR03 Dasek, Wrath Herald
 	2 RR04 Up in Flames
 	2 RR05 Visions of the Veil
-	2 RG03 Gene Recombinators
-	2 RG01 Eccentric Geneticist
-	2 RG02 Ovgin, Ghost Colossus
-	2 RG06 Dead Man's Compass
-	2 RG04 Surge of Agoraphobia
+	2 RG02 Gene Recombinators
+	2 RG03 Curious Botanist
+	2 RG01 Ovaan, Ghost Colossus
+	2 RG04 Chasm Behemoth
+	2 RG05 Vinrag, Expanse Herald
 	2 RZ03 Kavalesk, the Dark Exalted
 	1 MZ06 Salar, the Worldfury
 	2 RZ05 Population Boom
@@ -3431,7 +3431,7 @@
 	2 RZ12 Reality Schism
 	2 RZ13 Morgyn, Paradigm Breaker
 	2 RZ14 That Even Time Forgets
-	2 RZ15 Incursion Reporters
+	2 RZ15 Fate's Cruel Compulsion
 	1 MB02 Graven Confidant
 	1 MU01 Acolyte of Knowledge
 	2 RL01 Mystic Gate
@@ -3460,7 +3460,7 @@
 	1 MU02 Ulen, Titans' Clarion
 	2 RZ04 Derail
 	1 MZ07 Ravin, Heir of Goldport
-	2 RW03 Fated Reunion
+	2 RW05 Fated Reunion
 	1 MW01 Torvinald, Iron Eminence
 	1 MZ05 Paranoia
 	1 MB01 Bloodlust Visionary
@@ -3510,11 +3510,11 @@
 	6 CU12 Hedron Imprisonment
 	6 CU13 Duchy Flagship
 	6 CU14 Zephyr Piercer
-	6 CB01 Herald of the End
+	6 CB01 Lamplighter of the End
 	6 CB02 Luxuries Merchant
 	6 CB03 Unwelcome Tenant
-	6 CB04 Sanguine Suppressor
-	6 CB05 Lantern Stalker
+	6 CB04 Cruel Patrician
+	6 CB05 Inkrealm Stalker
 	6 CB06 Paradigm Enforcer
 	6 CB07 Speakeasy Brokers
 	6 CB08 Soultaker Idol
@@ -3666,38 +3666,38 @@
 	15 UW07 Vintage Fanatic
 	4 MA01 Ulamog, the Earth Engulfed
 	4 MZ01 Zaila, Her Will Be Done
-	7 RG05 Moonrise
-	7 RZ10 Lantha Uncovers The Truth
+	7 RG06 Moonrise
+	7 RZ10 Banquet Sleuth
 	7 RA08 Bear Witness
-	7 RW02 Captivating Alto
-	7 RW01 Liano, Prole's Champion
+	7 RW03 Captivating Alto
+	7 RW02 Liano, Prole's Champion
 	4 MW02 Aspect of Subjugation
-	7 RW04 Surge of Paralysis
-	7 RW05 Destined End
-	7 RW06 Hum of Industry
+	7 RW04 Eiara, Aegis Herald
+	7 RW06 Destined End
+	7 RW01 Regulation Inspector
 	7 RU01 Glyphbound Sharpshooter
 	7 RU02 Auspicious Coroners
 	7 RU03 Scion of Insanity
-	7 RU04 Surge of Amnesia
+	7 RU04 Czaruun, Insight Herald
 	7 RU05 Roiling Undertow
 	7 RU06 Unparalleled Efficiency
 	7 RB01 Haunted Starlet
 	7 RB02 Insatiable Slasher
-	7 RB03 Mortician's Carriage
-	7 RB05 Teachings of Kavalesk
-	7 RB04 Surge of Compulsion
-	7 RB06 Encroaching Abyss
+	7 RB05 Mortician's Carriage
+	7 RB06 Teachings of Kavalesk
+	7 RB04 Zommok, Grief Herald
+	7 RB03 Esme, Lost to Avarice
 	7 RR01 Moonlit Mutilator
 	7 RA04 Collector of Souls
 	7 RR02 Nylis, Epigone Reborn
-	7 RR03 Surge of Kleptomania
+	7 RR03 Dasek, Wrath Herald
 	7 RR04 Up in Flames
 	7 RR05 Visions of the Veil
-	7 RG03 Gene Recombinators
-	7 RG01 Eccentric Geneticist
-	7 RG02 Ovgin, Ghost Colossus
-	7 RG06 Dead Man's Compass
-	7 RG04 Surge of Agoraphobia
+	7 RG02 Gene Recombinators
+	7 RG03 Curious Botanist
+	7 RG01 Ovaan, Ghost Colossus
+	7 RG04 Chasm Behemoth
+	7 RG05 Vinrag, Expanse Herald
 	7 RZ03 Kavalesk, the Dark Exalted
 	4 MZ06 Salar, the Worldfury
 	7 RZ05 Population Boom
@@ -3710,7 +3710,7 @@
 	7 RZ12 Reality Schism
 	7 RZ13 Morgyn, Paradigm Breaker
 	7 RZ14 That Even Time Forgets
-	7 RZ15 Incursion Reporters
+	7 RZ15 Fate's Cruel Compulsion
 	4 MB02 Graven Confidant
 	4 MU01 Acolyte of Knowledge
 	7 RL01 Mystic Gate
@@ -3739,7 +3739,7 @@
 	4 MU02 Ulen, Titans' Clarion
 	7 RZ04 Derail
 	4 MZ07 Ravin, Heir of Goldport
-	7 RW03 Fated Reunion
+	7 RW05 Fated Reunion
 	4 MW01 Torvinald, Iron Eminence
 	4 MZ05 Paranoia
 	4 MB01 Bloodlust Visionary

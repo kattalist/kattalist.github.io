@@ -1,4 +1,164 @@
-﻿VERSION 30 CHANGELOG
+﻿VERSION 31 CHANGELOG
+====================
+
+CB01 Lamplighter of the End added.
+CB04 Cruel Patrician added.
+CB05 Inkrealm Stalker added.
+RG06 Moonrise added.
+RZ10 Banquet Sleuth added.
+RW03 Captivating Alto added.
+RW02 Liano, Prole's Champion added.
+RW04 Eiara, Aegis Herald added.
+RW06 Destined End added.
+RW01 Regulation Inspector added.
+RU04 Czaruun, Insight Herald added.
+RB05 Mortician's Carriage added.
+RB06 Teachings of Kavalesk added.
+RB04 Zommok, Grief Herald added.
+RB03 Esme, Lost to Avarice added.
+RR03 Dasek, Wrath Herald added.
+RG02 Gene Recombinators added.
+RG03 Curious Botanist added.
+RG01 Ovaan, Ghost Colossus added.
+RG04 Chasm Behemoth added.
+RG05 Vinrag, Expanse Herald added.
+RZ15 Fate's Cruel Compulsion added.
+RW05 Fated Reunion added.
+
+CB01 Herald of the End removed.
+CB04 Sanguine Suppressor removed.
+CB05 Lantern Stalker removed.
+RG05 Moonrise removed.
+RZ10 Lantha Uncovers The Truth removed.
+RW02 Captivating Alto removed.
+RW01 Liano, Prole's Champion removed.
+RW04 Surge of Paralysis removed.
+RW05 Destined End removed.
+RW06 Hum of Industry removed.
+RU04 Surge of Amnesia removed.
+RB03 Mortician's Carriage removed.
+RB05 Teachings of Kavalesk removed.
+RB04 Surge of Compulsion removed.
+RB06 Encroaching Abyss removed.
+RR03 Surge of Kleptomania removed.
+RG03 Gene Recombinators removed.
+RG01 Eccentric Geneticist removed.
+RG02 Ovgin, Ghost Colossus removed.
+RG06 Dead Man's Compass removed.
+RG04 Surge of Agoraphobia removed.
+RZ15 Incursion Reporters removed.
+RW03 Fated Reunion removed.
+
+CB09 Startouched Assassin
+type: Artifact Creature — Construct Horror => Creature — Human Assassin Horror
+
+CB11 Learn From Loss
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+Surveil 1, then draw two cards. => As an additional cost to cast this spell, sacrifice a creature or discard a card.
+Surveil 1, then draw two cards.
+
+CG03 Deathrite Mystic
+rules_text: Whenever you sacrifice a creature, put a +1/+1 counter on this creature. => Whenever you sacrifice a creature for the first time each turn, put a +1/+1 counter on this creature.
+
+CG13 Eldritch Growth
+
+UZ01 Splintering Edict
+rules_text: Choose one. If {C} was spent to cast this spell, instead choose one or more —
+• Fragment target attacking, blocking, or tapped creature. You gain 3 life. [i](Its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+• Counter target spell. => Choose one. If {C} was spent to cast this spell, instead choose one or more.
+• Fragment target attacking, blocking, or tapped creature. You gain 3 life. [i](Its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+• Counter target spell.
+
+UZ10 Lantha, Task Force Sergeant
+cost: {G}{U} => {1}{G}{U}
+rules_text: Activated abilities of artifacts you control cost {1} less to activate. This effect can't reduce the amount of mana you pay to activate an ability to less than one mana.
+{2}, {T}: Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => Activated abilities of artifacts you control cost {1} less to activate. This effect can't reduce the amount of mana you pay to activate an ability to less than one mana.
+{3}, {T}: Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+pt: 1/3 => 2/4
+
+CU04 Ravenfolk Adept
+
+UZ12 Voidwing Kite
+rules_text: Flying
+At the beginning of your draw step, you may draw an additional card. If you do, you discard a card and lose 2 life. => Flying
+At the beginning of your draw step, you may draw an additional card. If you do, you discard a card and lose 1 life.
+
+UZ20 Adaptive Agent
+cost: {1}{G}{U} => {2}{G}{U}
+rules_text: Whenever you investigate or draw your second card each turn, put a +1/+1 counter or a trample counter on target creature you control.
+At the beginning of combat, if this creature's power is 5 or greater, it can't be blocked this turn. => Vigilance
+Whenever you investigate or draw your second card each turn, put a +1/+1 counter or a trample counter on target creature you control.
+pt: 3/2 => 3/3
+
+UW13 Strength of the Departed
+
+UG02 Elden Rite Shaman
+rules_text: Whenever an Eldrazi enters under your control, put a +1/+1 counter on this creature.
+{2}{G}, {T}: Look at the top X cards of your library, where X is this creature's power. You may reveal a creature card from among them, put it into your hand, then shuffle. => Whenever an Eldrazi enters under your control, put a +1/+1 counter on this creature.
+{3}{G}, {T}: Look at the top X cards of your library, where X is this creature's power. You may reveal a creature card from among them, put it into your hand, then shuffle.
+pt: 1/1 => 2/2
+
+UG05 Curio Broker
+
+UB07 Brethren Priestess
+rules_text: Menace
+Whenever a creature you control dies for the first time each turn, you draw a card and lose 1 life. [i](The void calls when a card enters your graveyard from your hand or library.)[/i] => Menace
+Whenever a creature you control dies for the first time each turn, you draw a card and lose 1 life.
+
+UA02 Three-Eye Scrier
+rules_text: At the beginning of your upkeep, surveil 2.
+At the beginning of your end step, target player mills cards equal to the number of cards put into your graveyard from your hand or library this turn. => At the beginning of your upkeep, surveil 2.
+
+RA08 Bear Witness
+cost: {6} => {4}
+rules_text: Fragment all creatures. If only {C} was spent to cast this spell, search your library for a colorless creature card with mana value 6 or less, put it onto the battlefield, then shuffle. => Fragment all creatures. [i](To fragment a creature, its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+
+RU02 Auspicious Coroners
+rules_text: Vigilance
+When this creature enters or another creature you control dies, investigate.
+Once on each of your turns, you may pay {2} less to activate an ability of an artifact you control. If you do, discard a card in addition to paying its other costs. => Vigilance
+When this creature enters or another creature you control dies, investigate.
+Sacrifice a Clue: Draw a card, then discard a card.
+
+RB01 Haunted Starlet
+rules_text: Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+Whenever an opponent loses life, you may pay {1}. If you do, you create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}” and lose 1 life. => Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+Whenever an opponent loses life for the first time each turn, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.” You lose 1 life.
+
+RA02 Aspirant of Ulamog
+rules_text: Whenever you cast a colorless creature spell with mana value 4 or greater, put a +1/+1 counter on this creature. Each opponent then reveals their hand and discards a card with lesser mana value than the number of counters on this creature. => When this creature enters, exile up to one target nonland permanent until this creature leaves the battlefield.
+{4}: Destroy this creature. Its controller draws two cards. Any player may activate this ability.
+
+RA07 Scourge of Aeons
+type: Creature — Eldrazi => Creature — Eldrazi Angel
+rules_text: Trample
+This creature enters with three doom counters on it.
+At the beginning of your upkeep, remove a doom counter from this creature, then destroy all other permanents with mana value greater than or equal to the number of doom counters on it. => Flying, trample
+This creature enters with three doom counters on it.
+At the beginning of your upkeep, remove a doom counter from this creature, then destroy all other permanents with mana value greater than or equal to the number of doom counters on it.
+
+RZ04 Derail
+cost: {2}{R}{G} => {1}{R}{G}
+
+MB01 Bloodlust Visionary
+cost: {1}{B} => {B}{B}
+rules_text: Whenever a player sacrifices a nontoken permanent, you may pay 3 life. If you do, create a token that's a copy of that permanent.
+Creatures you control have “{1}{B}, Sacrifice this creature: You draw a card and lose 1 life.” => Whenever a player sacrifices a nontoken permanent, you may pay 2 life. If you do, create a token that's a copy of that permanent.
+{1}{B}, Sacrifice a creature: You draw a card and lose 1 life.
+
+MR01 Scour for Inspiration
+rules_text: Name a card, then exile cards from the top of your library until you exile a card with the chosen name. You may play that card this turn. Scour for Inspiration deals damage to you equal to the number of land cards exiled from your library this turn. => Name a card, then exile cards from the top of your library until you exile a card with the chosen name. You may play that card this turn. Scour for Inspiration deals damage to you equal to the number of land cards exiled this way.
+
+MR02 Jerald, Steel Virtuoso
+rules_text: Activate only one of Jerald's abilities each turn. [i](You may activate that ability any number of times.)[/i]
+{1}{R}: Artifact creatures you control get +1/+0 until end of turn.
+{3}{R}: Artifact creatures you control gain menace until end of turn. Create a Treasure token.
+{6}{R}{R}: Artifact creatures you control gain double strike and trample until end of turn. => {1}{R}: Artifact creatures you control get +1/+0 until end of turn.
+{3}{R}: Artifact creatures you control gain first strike and menace until end of turn.
+{6}{R}{R}: Artifact creatures you control gain double strike and trample until end of turn.
+
+
+VERSION 30 CHANGELOG
 ====================
 
 UW12 Faculty of Engineering added.
