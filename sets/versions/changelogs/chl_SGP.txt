@@ -1,4 +1,28 @@
-﻿VERSION 31 CHANGELOG
+﻿VERSION 32 CHANGELOG
+====================
+
+
+
+UZ04 Restless Summoners
+rules_text: {T}: Add one mana of any type. When you next cast a spell with mana value 4 or greater this turn, untap this creature. [i](The types of mana are {C}, {W}, {U}, {B}, {R}, and {G}.)[/i] => {T}: Add one mana of any type. [i](The types of mana are {C}, {W}, {U}, {B}, {R}, and {G}.)[/i]
+Whenever you cast a spell with mana value 4 or greater, untap this creature.
+
+UU01 Watchman of the Deep
+rules_text: Defender
+As long as the void called this turn, this creature gets +3/+0 and can attack as though it didn't have defender. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+{2}{U}: Surveil 1. => Defender
+As long as the void called this turn, this creature gets +3/+0 and can attack as though it didn't have defender. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+{1}{U}: Surveil 1.
+
+MR02 Jerald, Steel Virtuoso
+rules_text: {1}{R}: Artifact creatures you control get +1/+0 until end of turn.
+{3}{R}: Artifact creatures you control gain first strike and menace until end of turn.
+{6}{R}{R}: Artifact creatures you control gain double strike and trample until end of turn. => {1}{R}: Artifact creatures you control get +1/+0 until end of turn.
+{2}{R}: Artifact creatures you control gain first strike and menace until end of turn.
+{4}{R}{R}: Artifact creatures you control gain double strike and trample until end of turn.
+
+
+VERSION 31 CHANGELOG
 ====================
 
 CB01 Lamplighter of the End added.
