@@ -90,7 +90,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "RW02 Liano, Prole's Champion",
+        "card_name": "RW02 High Sergeant Liano",
         "number": 40,
         "shape": "normal",
         "set": "SGP"
@@ -300,7 +300,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "UW03 Skyiron Shaper",
+        "card_name": "UW03 Steelwire Shaper",
         "number": 47,
         "shape": "normal",
         "set": "SGP"
@@ -1020,7 +1020,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "CW13 Bring Malfunction",
+        "card_name": "CW13 Zeppelin",
         "number": 35,
         "shape": "normal",
         "set": "SGP"

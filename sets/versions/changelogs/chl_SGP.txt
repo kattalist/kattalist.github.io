@@ -1,4 +1,146 @@
-﻿VERSION 32 CHANGELOG
+﻿VERSION 33 CHANGELOG
+====================
+
+CW13 Zeppelin added.
+UW03 Steelwire Shaper added.
+RW02 High Sergeant Liano added.
+
+CW13 Bring Malfunction removed.
+UW03 Skyiron Shaper removed.
+RW02 Liano, Prole's Champion removed.
+
+UW06 Upgrade the Force
+rules_text: Create three 1/1 colorless Construct artifact creature tokens. If you control a non-Construct token, put a +1/+1 counter on target token you control and you gain 1 life. => Create three 1/1 colorless Construct artifact creature tokens. Put a +1/+1 counter on each if you control a non-Construct token.
+
+CU03 Task Force Operatives
+rules_text: Vigilance
+{3}{U}, {T}: Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => Vigilance
+When this creature enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+
+CB01 Lamplighter of the End
+rules_text: Haste
+This creature gets +1/+1 as long as the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => Haste
+Whenever the void calls, if this creature has no counters on it, put a +1/+1 counter on it. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+
+CB06 Paradigm Enforcer
+rules_text: Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+Whenever you extort, up to one target creature gets -1/-1 until end of turn. => Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+Whenever you extort, up to one target creature gets -1/-1 until end of turn. This ability triggers only once each turn.
+
+CB11 Learn From Loss
+rules_text: As an additional cost to cast this spell, sacrifice a creature or discard a card.
+Surveil 1, then draw two cards. => As an additional cost to cast this spell, sacrifice a creature.
+Surveil 1, then draw two cards.
+
+CR01 Hotwire Prodigy
+
+CR05 Magma Scribe
+
+CG01 Wreckage Inquisitors
+rules_text: This creature gets +1/+1 as long as you control a token.
+{4}{G}: Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => This creature gets +1/+1 as long as you control a token.
+{3}{G}: Investigate. Activate only once. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+
+CG02 Verge Drifter
+rules_text: Haste
+[i]United — [/i]Whenever this creature attacks with one or more tokens, it gains lifelink until end of turn. => Vigilance
+[i]United — [/i]Whenever this creature attacks with one or more tokens, target attacking token gains indestructible until end of turn. Untap it.
+
+CG10 Barksplitter Colossus
+rules_text: Trample
+{1}{G}, Discard this card: Surveil 1. You gain 3 life. => Trample, haste
+{1}{G}, Discard this card: Surveil 1. You gain 3 life.
+
+UZ02 Afflict Thought
+rules_text: Target opponent reveals their hand. You choose a nonland card from it. Exile that card. Then if the void called this turn, that opponent discards a card. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => Target opponent reveals their hand. You choose a nonland card from it. Exile that card. If the void called this turn, draw a card. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+
+UU03 Port Inspector
+rules_text: Vigilance
+When this creature enters or attacks, if you control no Clues, investigate.
+If you would draw your second card this turn, instead surveil 1, then draw a card. => Vigilance
+Whenever this creature attacks, if you control no Clues, investigate.
+If you would draw your second card this turn, instead surveil 1, then draw a card.
+
+UB01 Shingle Crawler
+rules_text: Flying
+Whenever this creature deals combat damage to a player, each player discards a card.
+{2}{B}, Discard this card: Target player discards two cards. => Flying
+Whenever this creature deals combat damage to a player, each player discards a card.
+{2}{B}, Discard this card: Target player discards two cards. Activate only as a sorcery.
+
+UG05 Curio Broker
+rules_text: When this creature enters, you may sacrifice a token. If you do, create a 3/3 green Beast Horror creature token.
+Sacrifice any number of creatures with total power 6 or greater: Put two +1/+1 counters on each creature you control. => When this creature enters, you may sacrifice a token. If you do, create a 3/3 green Beast Horror creature token.
+Sacrifice any number of creatures with total power 4 or greater: Put two +1/+1 counters on each creature you control.
+
+UG09 Willowvine Sentinel
+
+UG13 For All of Calloran
+
+UG01 Gossip Tracker
+rules_text: When this creature enters or attacks, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+{4}{G}{G}: Sacrifice all Clues you control. Draw a card for each Clue sacrificed this way. => When this creature enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+{4}{G}{G}: Sacrifice all Clues you control. Draw a card for each Clue sacrificed this way.
+
+UB03 Festering Eyemass
+rules_text: Devoid [i](This card has no color.)[/i]
+Sacrifice another artifact or creature: Put a +1/+1 counter or an eye counter on this creature.
+When this creature dies, each opponent loses 1 life and you gain 1 life for each eye counter on it. => Devoid [i](This card has no color.)[/i]
+{B}, Sacrifice another artifact or creature: Put a +1/+1 counter on this creature.
+When this creature dies, each opponent loses 1 life and you gain 1 life for each counter on it.
+
+RW03 Captivating Alto
+rules_text: Lifelink
+When this creature enters, exile another target creature until this creature leaves the battlefield. If you controlled that creature, return it to the battlefield under its owner's control with a +1/+1 counter on it. => Lifelink
+When this creature enters, exile another target creature, then return it to the battlefield under its owner's control at the beginning of the next end step. If you control that creature, it enters with a +1/+1 counter on it.
+
+RU03 Scion of Insanity
+rules_text: At the beginning of your upkeep, if this card is in your hand, you may reveal it and pay {1}{U}. If you do, mill ten cards, draw a card, and shuffle this card into your library.
+As long as there are twenty or fewer cards in your library, this creature has flying and hexproof and is a 9/9. => At the beginning of your upkeep, if this card is in your hand, you may reveal it and pay {1}{U}. If you do, mill ten cards, draw a card, and shuffle this card into your library.
+As long as there are twenty or fewer cards in your library, this creature is a 9/9 with flying, vigilance, and hexproof.
+
+RB06 Teachings of Kavalesk
+
+RB03 Esme, Lost to Avarice
+rules_text: Whenever the void calls for the first time each turn, each opponent loses 2 life and you gain 2 life. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+{3}{B}: If Esme isn't a Horror, it becomes a 0/0 Horror in addition to its other types. Put a +1/+1 counter on it for each card in your graveyard. => Whenever the void calls for the first time each turn, each opponent loses 2 life and you gain 2 life. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+{3}{B}: Esme becomes a 0/0 Horror in addition to its other types. Put a +1/+1 counter on it for each card in your graveyard. Activate only if Esme isn't a Horror.
+
+RZ12 Reality Schism
+rules_text: Each player may exile a nonland card from their hand, and may cast cards they exiled this way for as long as they remain exiled. Spells your opponents cast this way cost {2} more to cast.
+Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way. => Each player may exile a nonland card from their hand, and may cast that card for as long as it remains exiled. Spells your opponents cast this way cost {2} more to cast.
+Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way.
+
+RZ15 Fate's Cruel Compulsion
+rules_text: Enchant creature
+You control enchanted creature.
+Enchanted creature has lifelink, vigilance, and protection from its owner. [i](This permanent can't be targeted, dealt damage, enchanted, or equipped by anything its owner controls.)[/i] => Enchant creature
+You control enchanted creature.
+Enchanted creature has lifelink, vigilance, and ward {2}. [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+
+RL02 Sunken Ruins
+
+RL03 Graven Cairns
+
+RL04 Fire-Lit Thicket
+
+RL06 Fetid Heath
+
+RL07 Cascade Bluffs
+
+RL08 Twilight Mire
+
+RL09 Rugged Prairie
+
+RL10 Flooded Grove
+
+RA02 Aspirant of Ulamog
+rules_text: When this creature enters, exile up to one target nonland permanent until this creature leaves the battlefield.
+{4}: Destroy this creature. Its controller draws two cards. Any player may activate this ability. => When this creature enters, exile up to one other target nonland permanent until this creature leaves the battlefield.
+{5}: Destroy this creature. Its controller draws three cards. Any player may activate this ability.
+
+
+VERSION 32 CHANGELOG
 ====================
 
 

@@ -121,13 +121,13 @@
 			}
 		},
 		{
-			"name": "CW13 Bring Malfunction",
+			"name": "CW13 Zeppelin",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/35_CW13 Bring Malfunction.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/35_CW13 Zeppelin.png"
 			}
 		},
 		{
@@ -1111,13 +1111,13 @@
 			}
 		},
 		{
-			"name": "UW03 Skyiron Shaper",
+			"name": "UW03 Steelwire Shaper",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Pilot",
+			"type": "Creature — Human Artificer",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/47_UW03 Skyiron Shaper.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/47_UW03 Steelwire Shaper.png"
 			}
 		},
 		{
@@ -1951,13 +1951,13 @@
 			}
 		},
 		{
-			"name": "RW02 Liano, Prole's Champion",
+			"name": "RW02 High Sergeant Liano",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Creature — Human Soldier",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/40_RW02 Liano, Prole's Champion.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/40_RW02 High Sergeant Liano.png"
 			}
 		},
 		{
@@ -2930,7 +2930,7 @@
 	2 RZ10 Banquet Sleuth
 	2 RA08 Bear Witness
 	2 RW03 Captivating Alto
-	2 RW02 Liano, Prole's Champion
+	2 RW02 High Sergeant Liano
 	1 MW02 Aspect of Subjugation
 	2 RW04 Eiara, Aegis Herald
 	2 RW06 Destined End
@@ -3035,7 +3035,7 @@
 	4 UZ20 Adaptive Agent
 	4 UW01 Sky Force Retiree
 	4 UW02 Scape Surveyor
-	4 UW03 Skyiron Shaper
+	4 UW03 Steelwire Shaper
 	4 UW04 Thousand-Mind Cutthroat
 	4 UW05 North District Prior
 	4 UW08 Triumphant Cavalier
@@ -3123,7 +3123,7 @@
 	8 CW10 Opalwing Cavalry
 	8 CW11 Sundering Strike
 	8 CW12 Aerial Augmentation
-	8 CW13 Bring Malfunction
+	8 CW13 Zeppelin
 	8 CW14 Oligarch's Supercar
 	8 CU01 Intrepid Aviator
 	8 CU02 Diviner of Relics
@@ -3216,7 +3216,7 @@
 	6 UW06 Upgrade the Force
 	12 CW11 Sundering Strike
 	12 CW12 Aerial Augmentation
-	12 CW13 Bring Malfunction
+	12 CW13 Zeppelin
 	12 CW14 Oligarch's Supercar
 	12 CU01 Intrepid Aviator
 	12 CU02 Diviner of Relics
@@ -3307,7 +3307,7 @@
 	6 UZ20 Adaptive Agent
 	6 UW01 Sky Force Retiree
 	6 UW02 Scape Surveyor
-	6 UW03 Skyiron Shaper
+	6 UW03 Steelwire Shaper
 	6 UW04 Thousand-Mind Cutthroat
 	6 UW05 North District Prior
 	12 CW05 Cabaret Seductress
@@ -3391,7 +3391,7 @@
 	2 RZ10 Banquet Sleuth
 	2 RA08 Bear Witness
 	2 RW03 Captivating Alto
-	2 RW02 Liano, Prole's Champion
+	2 RW02 High Sergeant Liano
 	1 MW02 Aspect of Subjugation
 	2 RW04 Eiara, Aegis Herald
 	2 RW06 Destined End
@@ -3495,7 +3495,7 @@
 	15 UW06 Upgrade the Force
 	6 CW11 Sundering Strike
 	6 CW12 Aerial Augmentation
-	6 CW13 Bring Malfunction
+	6 CW13 Zeppelin
 	6 CW14 Oligarch's Supercar
 	6 CU01 Intrepid Aviator
 	6 CU02 Diviner of Relics
@@ -3586,7 +3586,7 @@
 	15 UZ20 Adaptive Agent
 	15 UW01 Sky Force Retiree
 	15 UW02 Scape Surveyor
-	15 UW03 Skyiron Shaper
+	15 UW03 Steelwire Shaper
 	15 UW04 Thousand-Mind Cutthroat
 	15 UW05 North District Prior
 	6 CW05 Cabaret Seductress
@@ -3670,7 +3670,7 @@
 	7 RZ10 Banquet Sleuth
 	7 RA08 Bear Witness
 	7 RW03 Captivating Alto
-	7 RW02 Liano, Prole's Champion
+	7 RW02 High Sergeant Liano
 	4 MW02 Aspect of Subjugation
 	7 RW04 Eiara, Aegis Herald
 	7 RW06 Destined End
