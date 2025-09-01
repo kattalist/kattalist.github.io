@@ -108,7 +108,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "RR02 Nylis, Epigone Reborn",
+        "card_name": "RR02 Bullet Locomotive",
         "number": 148,
         "shape": "normal",
         "set": "SGP"
@@ -528,7 +528,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "UR10 Sweep of Agony",
+        "card_name": "UR10 Scalding Roil",
         "number": 162,
         "shape": "normal",
         "set": "SGP"
@@ -1300,7 +1300,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "UZ19 Pulverizing Helix",
+        "card_name": "UZ19 Artillery Commander",
         "number": 242,
         "shape": "normal",
         "set": "SGP"
@@ -1893,43 +1893,46 @@
         "set": "SGP"
     },
     {
-        "card_name": "Eldrazi Scion",
+        "card_name": "Eldrazi",
         "number": 3,
         "shape": "token",
         "set": "SGP"
     },
     {
-        "card_name": "Elemental Horror",
+        "card_name": "Eldrazi Scion",
         "number": 4,
         "shape": "token",
         "set": "SGP"
     },
     {
-        "card_name": "Human",
+        "card_name": "Elemental Horror",
         "number": 5,
         "shape": "token",
         "set": "SGP"
     },
     {
-        "card_name": "Human Bard",
+        "card_name": "Human",
         "number": 6,
         "shape": "token",
         "set": "SGP"
     },
     {
-        "card_name": "Clue",
+        "card_name": "Human Bard",
         "number": 7,
         "shape": "token",
         "set": "SGP"
     },
     {
-        "card_name": "Treasure",
+        "card_name": "Clue",
         "number": 8,
         "shape": "token",
         "set": "SGP"
     },
     {
-        "card_name": "e"
+        "card_name": "Treasure",
+        "number": 9,
+        "shape": "token",
+        "set": "SGP"
     },
     {
         "card_name": "e"

@@ -1,4 +1,155 @@
-﻿VERSION 33 CHANGELOG
+﻿VERSION 34 CHANGELOG
+====================
+
+UZ19 Artillery Commander added.
+UR10 Scalding Roil added.
+RR02 Bullet Locomotive added.
+Eldrazi added.
+
+UZ19 Pulverizing Helix removed.
+UR10 Sweep of Agony removed.
+RR02 Nylis, Epigone Reborn removed.
+
+Eldrazi Scion
+
+CG02 Verge Drifter
+rules_text: Vigilance
+[i]United — [/i]Whenever this creature attacks with one or more tokens, target attacking token gains indestructible until end of turn. Untap it. => Vigilance
+[i]United — [/i]Whenever this creature attacks with one or more tokens, put a +1/+1 counter on target attacking token and untap it.
+
+RZ06 Paragon of Opulence
+cost: {2}{W}{B} => {1}{W}{B}
+pt: 4/3 => 3/2
+
+RG06 Moonrise
+
+RZ10 Banquet Sleuth
+
+RA08 Bear Witness
+
+RW03 Captivating Alto
+
+RW02 High Sergeant Liano
+
+RW04 Eiara, Aegis Herald
+
+RW06 Destined End
+
+RW01 Regulation Inspector
+
+RU01 Glyphbound Sharpshooter
+
+RU02 Auspicious Coroners
+
+RU03 Scion of Insanity
+
+RU04 Czaruun, Insight Herald
+
+RU05 Roiling Undertow
+
+RU06 Unparalleled Efficiency
+
+RB01 Haunted Starlet
+
+RB02 Insatiable Slasher
+
+RB05 Mortician's Carriage
+
+RB06 Teachings of Kavalesk
+
+RB04 Zommok, Grief Herald
+
+RB03 Esme, Lost to Avarice
+
+RR01 Moonlit Mutilator
+
+RA04 Collector of Souls
+
+RR03 Dasek, Wrath Herald
+
+RR04 Up in Flames
+
+RR05 Visions of the Veil
+
+RG02 Gene Recombinators
+pt: 3/2 => 3/3
+
+RG03 Curious Botanist
+
+RG04 Chasm Behemoth
+
+RG05 Vinrag, Expanse Herald
+
+RZ03 Kavalesk, the Dark Exalted
+
+RZ05 Population Boom
+
+RZ01 Olmin, Royal Liaison
+
+RZ07 Clanston Innovator
+
+RZ08 Something in the Soil
+
+RZ09 Cirrus Behemoth
+rules_text: Autopilot {2}{R}
+Flying, vigilance
+When this Vehicle becomes a creature, if it entered this turn, it deals damage equal to its power to target creature.
+Crew 3 => Autopilot {1}{W}
+Flying, vigilance
+When this Vehicle enters, it deals 3 damage to any target and you gain 3 life.
+Crew 3
+
+RZ02 Revoke Will
+
+RZ12 Reality Schism
+
+RZ13 Morgyn, Paradigm Breaker
+
+RZ14 That Even Time Forgets
+
+RZ15 Fate's Cruel Compulsion
+
+MZ02 Forge the Bridge
+rules_text: Forge the Bridge deals 5 damage to you.
+Take an extra turn after this one. => Forge the Bridge deals 5 damage to you.
+Take an extra turn after this one. Exile Forge the Bridge.
+
+RA01 Thoughtscraper
+
+RA02 Aspirant of Ulamog
+
+RA03 Slayer of Endless Form
+
+RA05 Arbiter of the Scale
+
+RA06 Supreme Desecrator
+
+RA07 Scourge of Aeons
+
+RR06 The West District Hangar
+
+RA09 Eldrazi Monolith
+
+RA10 Joyride, Heirloom Skydancer
+
+RZ11 Dream of Aeons Past
+
+RZ04 Derail
+
+RW05 Fated Reunion
+
+Treasure
+
+Clue
+
+Elemental Horror
+
+Human Bard
+
+Human
+
+
+VERSION 33 CHANGELOG
 ====================
 
 CW13 Zeppelin added.

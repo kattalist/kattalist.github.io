@@ -885,7 +885,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Creature \u2014 Eldrazi Scion",
-            "number": 3,
+            "number": 4,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Sacrifice this creature: Add {C}.",
@@ -1306,7 +1306,7 @@
             "number": 168,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Vigilance\n[i]United \u2014 [/i]Whenever this creature attacks with one or more tokens, target attacking token gains indestructible until end of turn. Untap it.",
+            "rules_text": "Vigilance\n[i]United \u2014 [/i]Whenever this creature attacks with one or more tokens, put a +1/+1 counter on target attacking token and untap it.",
             "flavor_text": "[i]\u201cWe have seen this evil before. We will live to see it again.\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1315,7 +1315,7 @@
             "loyalty": "",
             "artist": "Julian Bauer",
             "alias": "",
-            "notes": "18 Jul 2025: Switched from 5 mana 4/4 to 2 mana 2/2 (bear w/ set mechanic)\n12 Aug 2025: Switched \"gain 2 life\" to lifelink\n28 Aug 2025: Removed haste and lifelink"
+            "notes": "18 Jul 2025: Switched from 5 mana 4/4 to 2 mana 2/2 (bear w/ set mechanic)\n12 Aug 2025: Switched \"gain 2 life\" to lifelink\n28 Aug 2025: Removed haste and lifelink\n30 Aug 2025: Now has vigilance, and provides pseudo-vigilance with buff to another token"
         },
         {
             "card_name": "CG09 Starbreaker Juvenile",
@@ -2040,21 +2040,21 @@
             "notes": "Think about this"
         },
         {
-            "card_name": "UZ19 Pulverizing Helix",
+            "card_name": "UZ19 Artillery Commander",
             "color": "WR",
             "rarity": "uncommon",
-            "type": "Sorcery",
+            "type": "Artifact Creature \u2014 Construct",
             "number": 242,
             "color_identity": "WR",
             "cost": "{R}{W}",
-            "rules_text": "If you control an artifact, you may cast this spell as though it had flash.\nPulverizing Helix deals 3 damage to any target and you gain 3 life.",
-            "flavor_text": "[i]The advent of the long-range energy cannon revolutionized counter-incursion tactics.[/i]",
-            "pt": "",
+            "rules_text": "Whenever a Vehicle you control enters, put a +1/+1 counter on this creature.\nWhenever this creature crews a Vehicle, until end of turn, that Vehicle gains haste and gets +1/+1 for each counter on this creature.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
-            "artist": "Asur Misoa",
+            "artist": "Nicholas Maxson",
             "alias": "",
             "notes": ""
         },
@@ -2198,17 +2198,17 @@
             "type": "Creature \u2014 Human Noble",
             "number": 215,
             "color_identity": "WB",
-            "cost": "{2}{W}{B}",
+            "cost": "{1}{W}{B}",
             "rules_text": "Whenever an opponent loses life on your turn outside of your combat phase, create a tapped Treasure token.\n{W}{W}{B}{B}, {T}: Target opponent loses 7 life and you gain 7 life. Spend only mana from artifact sources to activate this ability.",
             "flavor_text": "[i][/i]",
-            "pt": "4/3",
+            "pt": "3/2",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Tim Razumovsky",
             "alias": "",
-            "notes": "move to rare methinks\n\n6 Aug 2025: Changed ability cost from (W/B)(W/B)(W/B) to WWBB"
+            "notes": "move to rare methinks\n\n6 Aug 2025: Changed ability cost from (W/B)(W/B)(W/B) to WWBB\n31 Aug 2025: Dropped to 1WB as a 3/2\n\nShould this be constructed viable? Maybe, in some kind of mardu drain/burn thing\n\nDoes this seem constructed viable? Maybe, but might be a bit too slow"
         },
         {
             "card_name": "UW08 Triumphant Cavalier",
@@ -3294,23 +3294,23 @@
             "notes": "Will this be format-warping? Uncertain at this time\nWorse Cut Down when hitting one target, but has flexibility to hit two 1/1s"
         },
         {
-            "card_name": "UR10 Sweep of Agony",
+            "card_name": "UR10 Scalding Roil",
             "color": "R",
             "rarity": "uncommon",
             "type": "Instant",
             "number": 162,
             "color_identity": "R",
-            "cost": "{3}{R}",
-            "rules_text": "Sweep of Agony deals 2 damage to each creature.\nUntil end of turn, up to one target creature you control gains first strike and \u201cWhenever a creature dies, this creature gets +1/+0 until end of turn.\u201d",
+            "cost": "{R}{R}",
+            "rules_text": "Scalding Roil deals 2 damage to each creature and 2 damage to you.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
-            "artist": "Dominik Mayer",
+            "artist": "Artem Chebokha",
             "alias": "",
-            "notes": "8 Aug 2025: Upped damage from 1 to 2, and upped cost from 2R to 3R\n9 Aug 2025: Added first strike to pump\n\nThis doesn't work, so think about what to do instead"
+            "notes": "8 Aug 2025: Upped damage from 1 to 2, and upped cost from 2R to 3R\n9 Aug 2025: Added first strike to pump\n\nA bit weird \u2014 this is the type of removal that needs to be efficient in a token-heavy environment (closer to Pyroclasm)"
         },
         {
             "card_name": "UB10 Watch the Docks",
@@ -3652,7 +3652,7 @@
             "loyalty": "",
             "artist": "Ismael Inceoglu",
             "alias": "",
-            "notes": ""
+            "notes": "\nShould this be constructed viable? Yes, as a niche sideboard card\n\nDoes this seem constructed viable? Very meta-dependent"
         },
         {
             "card_name": "RZ10 Banquet Sleuth",
@@ -3671,7 +3671,7 @@
             "loyalty": "",
             "artist": "Francesca Resta",
             "alias": "",
-            "notes": "7 Aug 2025: Changed \"any number\" to \"up to 4\"\n10 Aug 2025: Switched to 1GU from GWU, and reduced max sacrifice to 3\n27 Aug 2025: Totally switched to unblockable creature that gets +1/+1 for each Clue sacrificed this turn"
+            "notes": "7 Aug 2025: Changed \"any number\" to \"up to 4\"\n10 Aug 2025: Switched to 1GU from GWU, and reduced max sacrifice to 3\n27 Aug 2025: Totally switched to unblockable creature that gets +1/+1 for each Clue sacrificed this turn\n\nShould this be constructed viable? Yes, in a clue midrange deck\n\nDoes this seem constructed viable? Maybe; hard to say when the card is just stats"
         },
         {
             "card_name": "RA08 Bear Witness",
@@ -3690,7 +3690,7 @@
             "loyalty": "",
             "artist": "Artem Chebokha",
             "alias": "",
-            "notes": "6 Aug 2025: Raised cost from CCCC to 6, and made tutor conditional on only spending C on spell\n\n8 Aug 2025: Made mana value a flat 6 so you can't cheat out Emrakul\n\n27 Aug 2025: Removed cheat-in, just 4 mana fragment everything"
+            "notes": "6 Aug 2025: Raised cost from CCCC to 6, and made tutor conditional on only spending C on spell\n\n8 Aug 2025: Made mana value a flat 6 so you can't cheat out Emrakul\n\n27 Aug 2025: Removed cheat-in, just 4 mana fragment everything\n\nShould this be constructed viable? Yes, in some kind of flicker/enters shell\n\nDoes this seem constructed viable? Maybe not \u2014 effect is powerful, but 4 mana is a lot, so it depends what else exists"
         },
         {
             "card_name": "RW03 Captivating Alto",
@@ -3709,7 +3709,7 @@
             "loyalty": "",
             "artist": "Loles Romero",
             "alias": "",
-            "notes": "18 Aug 2025: Bumped from 2/2 to 3/2\n19 Aug 2025: Completely changed card to blinker/removal effect\n30 Aug 2025: Now only blinks (no banish)"
+            "notes": "18 Aug 2025: Bumped from 2/2 to 3/2\n19 Aug 2025: Completely changed card to blinker/removal effect\n30 Aug 2025: Now only blinks (no banish)\n\nShould this be constructed viable? Yes, in flicker decks"
         },
         {
             "card_name": "RW02 High Sergeant Liano",
@@ -3728,7 +3728,7 @@
             "loyalty": "",
             "artist": "Helder Almeida",
             "alias": "",
-            "notes": "10 Aug 2025: Removed lifelink\n17 Aug 2025: Changed counter duplication ability to United ability since there were none at rare\n\nFIND NEW ART\n\nBreakdown:\n- What deck wants this card? Go-wide token decks"
+            "notes": "10 Aug 2025: Removed lifelink\n17 Aug 2025: Changed counter duplication ability to United ability since there were none at rare\n\nFIND NEW ART\n\nShould this be constructed viable? Yes, in token decks\n\nDoes this currently seem constructed viable? Unsure \u2014 4 mana is a lot compared to current Naya tokens list, and doesn't synergize with Eo"
         },
         {
             "card_name": "MW02 Aspect of Subjugation",
@@ -3766,7 +3766,7 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
-            "notes": "27 Aug 2025: Changed to Herald cycle"
+            "notes": "27 Aug 2025: Changed to Herald cycle\n\nShould this be constructed viable? Probably not"
         },
         {
             "card_name": "RW06 Destined End",
@@ -3785,7 +3785,7 @@
             "loyalty": "",
             "artist": "Daniel Ignacio",
             "alias": "",
-            "notes": ""
+            "notes": "Should this be constructed viable? Yes\n\nDoes this currently seem constructed viable? Yes"
         },
         {
             "card_name": "RW01 Regulation Inspector",
@@ -3804,7 +3804,7 @@
             "loyalty": "",
             "artist": "Adam Lane",
             "alias": "",
-            "notes": "16 Aug 2025: Reduced 5/10 to 3/6\n18 Aug 2025: Totally changed to token producer\n24 Aug 2025: Reduced token production from 3 to 2"
+            "notes": "16 Aug 2025: Reduced 5/10 to 3/6\n18 Aug 2025: Totally changed to token producer\n24 Aug 2025: Reduced token production from 3 to 2\n\nShould this be constructed viable? Yes, as a sideboard card"
         },
         {
             "card_name": "RU01 Glyphbound Sharpshooter",
@@ -3823,7 +3823,7 @@
             "loyalty": "",
             "artist": "Rayven Studios",
             "alias": "",
-            "notes": "18 Aug 2025: Moved from U to 1U, and buffed from 1/2 to 2/2"
+            "notes": "18 Aug 2025: Moved from U to 1U, and buffed from 1/2 to 2/2\n\nShould this be constructed viable? Yes\n\nDoes this currently seem constructed viable? Probably, but surveil specifically may be tough to enable"
         },
         {
             "card_name": "RU02 Auspicious Coroners",
@@ -3842,7 +3842,7 @@
             "loyalty": "",
             "artist": "Hugo Puzzuoli",
             "alias": "",
-            "notes": "9 Aug 2025: Nerfed from 3/3 to 3/2\n14 Aug 2025: Switched mill to discard\n27 Aug 2025: Got rid of cost reduction, and replaced with \"sac clue to loot\" option if you have no mana"
+            "notes": "9 Aug 2025: Nerfed from 3/3 to 3/2\n14 Aug 2025: Switched mill to discard\n27 Aug 2025: Got rid of cost reduction, and replaced with \"sac clue to loot\" option if you have no mana\n\nShould this be constructed viable? Probably not, depends if clues are viable\n\nDoes this currently seem constructed viable? Depends on if clues are viable \u2014 if they are, this is a very powerful enabler"
         },
         {
             "card_name": "RU03 Scion of Insanity",
@@ -3861,7 +3861,7 @@
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
-            "notes": ""
+            "notes": "Should this be constructed viable? Probably not"
         },
         {
             "card_name": "RU04 Czaruun, Insight Herald",
@@ -3880,7 +3880,7 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
-            "notes": "8 lines\n27 Aug 2025: Changed to Herald cycle"
+            "notes": "8 lines\n27 Aug 2025: Changed to Herald cycle\n\nShould this be constructed viable? Probably not"
         },
         {
             "card_name": "RU05 Roiling Undertow",
@@ -3899,7 +3899,7 @@
             "loyalty": "",
             "artist": "Michael Lazidis",
             "alias": "",
-            "notes": ""
+            "notes": "Should this be constructed viable? Yes, as token hate\n\nDoes this currently seem constructed viable? Yes"
         },
         {
             "card_name": "RU06 Unparalleled Efficiency",
@@ -3918,7 +3918,7 @@
             "loyalty": "",
             "artist": "Lloyd Drake-Brockman",
             "alias": "",
-            "notes": ""
+            "notes": "Should this be constructed viable? No"
         },
         {
             "card_name": "RB01 Haunted Starlet",
@@ -3937,7 +3937,7 @@
             "loyalty": "",
             "artist": "Helder Almeida",
             "alias": "",
-            "notes": "17 Aug 2025: Bumped from 2/1 to 2/2\n27 Aug 2025: No cost, but once each turn"
+            "notes": "17 Aug 2025: Bumped from 2/1 to 2/2\n27 Aug 2025: No cost, but once each turn\n\nShould this be constructed viable? Yes, but watch if this is too pushed as a ramp tool\n\nDoes this seem constructed viable? Yes, the ramp is pretty powerful"
         },
         {
             "card_name": "RB02 Insatiable Slasher",
@@ -3956,7 +3956,7 @@
             "loyalty": "",
             "artist": "Morgan Yon",
             "alias": "",
-            "notes": "Pushed af"
+            "notes": "Pushed af\n\nShould this be constructed viable? Yes, as an aggro tool\n\nDoes this seem constructed viable? Maybe, depending on how easily void can be enabled"
         },
         {
             "card_name": "RB05 Mortician's Carriage",
@@ -3975,7 +3975,7 @@
             "loyalty": "",
             "artist": "Silvia Pasqualetto",
             "alias": "",
-            "notes": "8 lines"
+            "notes": "8 lines\n\nShould this be constructed viable? Probably not"
         },
         {
             "card_name": "RB06 Teachings of Kavalesk",
@@ -3994,7 +3994,7 @@
             "loyalty": "",
             "artist": "Zsolt Szabados",
             "alias": "",
-            "notes": "14 Aug 2025: Pushed from BBB to 1BB\n16 Aug 2025: Pushed from 1BB to 2B"
+            "notes": "14 Aug 2025: Pushed from BBB to 1BB\n16 Aug 2025: Pushed from 1BB to 2B\n\nShould this be constructed viable? Yes, as powerful card advantage\n\nDoes this seem constructed viable? Hard to say because the life loss can add up, so you may end up sacrificing mana efficiency for tempo"
         },
         {
             "card_name": "RB04 Zommok, Grief Herald",
@@ -4013,7 +4013,7 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
-            "notes": "8 lines\n27 Aug 2025: Changed to Herald cycle"
+            "notes": "8 lines\n27 Aug 2025: Changed to Herald cycle\n\nShould this be constructed viable? Probably not"
         },
         {
             "card_name": "RB03 Esme, Lost to Avarice",
@@ -4032,7 +4032,7 @@
             "loyalty": "",
             "artist": "Aurore Folny",
             "alias": "",
-            "notes": "8 lines"
+            "notes": "8 lines\n\nShould this be constructed viable? No, a bit too flashy"
         },
         {
             "card_name": "RR01 Moonlit Mutilator",
@@ -4051,7 +4051,7 @@
             "loyalty": "",
             "artist": "Wesley Gardner",
             "alias": "",
-            "notes": "should be a beefer of an aggro card\n14 Aug 2025: Buffed from 1/1 to 1/2\n15 Aug 2025: Buffed mana from RR to RRR, but switched first strike for trample"
+            "notes": "should be a beefer of an aggro card\n14 Aug 2025: Buffed from 1/1 to 1/2\n15 Aug 2025: Buffed mana from RR to RRR, but switched first strike for trample\n\nShould this be constructed viable? Yes, in aggro decks\n\nDoes this seem constructed viable? Maybe, but might be too slow compared to tokens (probably shouldn't buff though)"
         },
         {
             "card_name": "RA04 Collector of Souls",
@@ -4070,26 +4070,26 @@
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
-            "notes": ""
+            "notes": "Should this be constructed viable? No, too expensive"
         },
         {
-            "card_name": "RR02 Nylis, Epigone Reborn",
-            "color": "",
+            "card_name": "RR02 Bullet Locomotive",
+            "color": "R",
             "rarity": "rare",
-            "type": "Legendary Creature \u2014 Eldrazi Cultist",
+            "type": "Artifact \u2014 Vehicle",
             "number": 148,
             "color_identity": "R",
-            "cost": "{1}{R}{R}",
-            "rules_text": "Devoid [i](This card has no color.)[/i]\nWhen Nylis enters, exile the top three cards of your library. You may play one of them for as long as you control a colorless creature.\nSacrifice Nylis: It deals 2 damage to any target. Add {C}{C}.",
+            "cost": "{R}",
+            "rules_text": "This Vehicle has haste and is an artifact creature as long as it entered this turn.\nWhenever this Vehicle attacks, if it was crewed this turn, it gets +1/+0 and gains trample and \u201cSacrifice this Vehicle at end of combat.\u201d\nCrew 1",
             "flavor_text": "[i][/i]",
-            "pt": "3/3",
+            "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
-            "artist": "Mark Erskine",
+            "artist": "Tim Razumovsky",
             "alias": "",
-            "notes": "think more about"
+            "notes": "think more about\nREVISIT\n\n31 Aug 2025: Totally switched to aggro Vehicle\n\nShould this be constructed viable? Yes, in aggro decks\n\nDoes this seem constructed viable? Yes \u2014 haste on a 2/1 with upside is a big deal, even if it becomes a ball afterwards"
         },
         {
             "card_name": "RR03 Dasek, Wrath Herald",
@@ -4108,7 +4108,7 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
-            "notes": "8 lines\n27 Aug 2025: Changed to Herald cycle"
+            "notes": "8 lines\n27 Aug 2025: Changed to Herald cycle\n\nShould this be constructed viable? Probably not"
         },
         {
             "card_name": "RR04 Up in Flames",
@@ -4127,7 +4127,7 @@
             "loyalty": "",
             "artist": "Florian Herold",
             "alias": "",
-            "notes": ""
+            "notes": "\nShould this be constructed viable? Maybe, as a sideboard card\n\nDoes this seem constructed viable? Depends on meta \u2014 three red pips is quite restrictive"
         },
         {
             "card_name": "RR05 Visions of the Veil",
@@ -4146,7 +4146,7 @@
             "loyalty": "",
             "artist": "Lee Petty",
             "alias": "",
-            "notes": ""
+            "notes": "Should this be constructed viable? Probably not"
         },
         {
             "card_name": "RG02 Gene Recombinators",
@@ -4158,14 +4158,14 @@
             "cost": "{2}{G}",
             "rules_text": "Sacrifice two creatures: Create a 3/2 colorless Eldrazi Horror creature token.\n[i]United [/i]\u2014 Whenever this creature attacks with one or more tokens, populate. [i](Create a token that's a copy of a creature token you control.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "3/2",
+            "pt": "3/3",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Eliz Roxs",
             "alias": "",
-            "notes": "19 Aug 2025: Changed completely"
+            "notes": "19 Aug 2025: Changed completely\n31 Aug 2025: Raised from 3/2 to 3/3\n\nShould this be constructed viable? Maybe, in token decks\n\nDoes this seem constructed viable? Maybe, but might be a bit too slow"
         },
         {
             "card_name": "RG03 Curious Botanist",
@@ -4184,7 +4184,7 @@
             "loyalty": "",
             "artist": "Svyato",
             "alias": "",
-            "notes": "25 Aug 2025: Made into toy for mono green\n8 lines"
+            "notes": "25 Aug 2025: Made into toy for mono green\n8 lines\n\nShould this be constructed viable? Yes, in mono-G\n\nDoes this seem constructed viable? I think so \u2014 this is a lot of value for mono-G"
         },
         {
             "card_name": "RG01 Ovaan, Ghost Colossus",
@@ -4222,7 +4222,7 @@
             "loyalty": "",
             "artist": "Borja Pindado",
             "alias": "",
-            "notes": "Switch to creature\n\n25 Aug 2025: Switched to creature"
+            "notes": "Switch to creature\n\n25 Aug 2025: Switched to creature\n\nShould this be constructed viable? Yes, in mono-G\n\nDoes this seem constructed viable? Maybe, will have to see if Vestige of the King's Fall sees play"
         },
         {
             "card_name": "RG05 Vinrag, Expanse Herald",
@@ -4241,7 +4241,7 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
-            "notes": "27 Aug 2025: Changed to Herald cycle"
+            "notes": "27 Aug 2025: Changed to Herald cycle\n\nShould this be constructed viable? Probably not"
         },
         {
             "card_name": "RZ03 Kavalesk, the Dark Exalted",
@@ -4260,7 +4260,7 @@
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
-            "notes": "10 Aug 2025: Consider if this should hit other things in graveyard or not (say flashback)"
+            "notes": "10 Aug 2025: Consider if this should hit other things in graveyard or not (say flashback)\n\nShould this be constructed viable? Yes, as a buildaround\n\nDoes this seem constructed viable? Yes, since this is a cost reduction plus a sac outlet"
         },
         {
             "card_name": "MZ06 Salar, the Worldfury",
@@ -4298,7 +4298,7 @@
             "loyalty": "",
             "artist": "Pete Amarchee",
             "alias": "",
-            "notes": ""
+            "notes": "Should this be constructed viable? Maybe?? Not this design but this slot feels like it should be playable\n\nDoes this seem constructed viable? No, too slow right now"
         },
         {
             "card_name": "RZ01 Olmin, Royal Liaison",
@@ -4317,7 +4317,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": ""
+            "notes": "Should this be constructed viable? Yes, in control\n\nDoes this seem constructed viable? Yes, since this is GAAIV with card draw"
         },
         {
             "card_name": "RZ07 Clanston Innovator",
@@ -4336,7 +4336,7 @@
             "loyalty": "",
             "artist": "Anna Rusan",
             "alias": "",
-            "notes": ""
+            "notes": "Should this be constructed viable? Yes, as part of Izzet blitz or Vehicle aggro\n\nDoes this seem constructed viable? Yes; this may singlehandedly enable Vehicles in constructed"
         },
         {
             "card_name": "RZ08 Something in the Soil",
@@ -4355,7 +4355,7 @@
             "loyalty": "",
             "artist": "Clara Tessier",
             "alias": "",
-            "notes": ""
+            "notes": "Should this be constructed viable? Yes, as a buildaround\n\nDoes this seem constructed viable? Depends on how easily an Eldrazi titan can be cheated into play (using soil counters should help make this reasonable)"
         },
         {
             "card_name": "RZ09 Cirrus Behemoth",
@@ -4365,7 +4365,7 @@
             "number": 218,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
-            "rules_text": "Autopilot {2}{R}\nFlying, vigilance\nWhen this Vehicle becomes a creature, if it entered this turn, it deals damage equal to its power to target creature.\nCrew 3",
+            "rules_text": "Autopilot {1}{W}\nFlying, vigilance\nWhen this Vehicle enters, it deals 3 damage to any target and you gain 3 life.\nCrew 3",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -4374,7 +4374,7 @@
             "loyalty": "",
             "artist": "Ben Zweifel",
             "alias": "",
-            "notes": "think about this"
+            "notes": "think about this\n31 Aug 2025: Switched enters to lightning helix effect\n\nShould this be constructed viable? Yes, in any RW midrange build\n\nDoes this seem constructed viable? Yes; powerful creature for 1W plus lightning helix on enters"
         },
         {
             "card_name": "MZ04 Efraim, High Alderman",
@@ -4412,7 +4412,7 @@
             "loyalty": "",
             "artist": "Y - mir",
             "alias": "",
-            "notes": "Think about \"target player mills...\" effect"
+            "notes": "Think about \"target player mills...\" effect\n\nShould this be constructed viable? Yes, countermagic is useful\n\nDoes this seem constructed viable? \"Fringe playable\" \u2014 pipsqueak, but mill has been buffed since then, so probably yes"
         },
         {
             "card_name": "RZ12 Reality Schism",
@@ -4431,7 +4431,7 @@
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
-            "notes": "8 lines"
+            "notes": "8 lines\n\nShould this be constructed viable? Yes, as part of a Jeskai tempo plan\n\nDoes this seem constructed viable? Maybe \u2014 mana cost is restrictive, but the advantage you can gain is significant"
         },
         {
             "card_name": "RZ13 Morgyn, Paradigm Breaker",
@@ -4450,7 +4450,7 @@
             "loyalty": "",
             "artist": "Jarreau Wimberly",
             "alias": "",
-            "notes": ""
+            "notes": "Should this be constructed viable? Not outside of brawl"
         },
         {
             "card_name": "RZ14 That Even Time Forgets",
@@ -4469,7 +4469,7 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
-            "notes": ""
+            "notes": "Should this be constructed viable? Yes, as broad removal\n\nDoes this seem constructed viable? Yes, if Jund is strong enough otherwise"
         },
         {
             "card_name": "RZ15 Fate's Cruel Compulsion",
@@ -4488,7 +4488,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": ""
+            "notes": "Should this be constructed viable? Probably not when it's 6 mana\n\nDoes this seem constructed viable? No \u2014 probaby too slow in its current state"
         },
         {
             "card_name": "MB02 Graven Confidant",
@@ -4650,8 +4650,8 @@
             "number": 204,
             "color_identity": "UR",
             "cost": "{U}{U}{R}{R}",
-            "rules_text": "Forge the Bridge deals 5 damage to you.\nTake an extra turn after this one.",
-            "flavor_text": "[i]\u201cThere was a moment, not one hour past sunset, when the entire heavens seemed to shake...\u201d\n\u2014 Excerpt from Lantha's journal[/i]",
+            "rules_text": "Forge the Bridge deals 5 damage to you.\nTake an extra turn after this one. Exile Forge the Bridge.",
+            "flavor_text": "[i]\u201cThere was a moment, not one hour past dusk, when all the heavens seemed to shake...\u201d\n\u2014 Excerpt from Lantha's journal[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -4659,7 +4659,7 @@
             "loyalty": "",
             "artist": "Alena Aenami",
             "alias": "",
-            "notes": "5 Aug 2024: Reduced damage from 10 to 7\n18 Aug 2024: Reduced damage from 7 to 5"
+            "notes": "5 Aug 2025: Reduced damage from 10 to 7\n18 Aug 2025: Reduced damage from 7 to 5"
         },
         {
             "card_name": "RL06 Fetid Heath",
@@ -4773,7 +4773,7 @@
             "loyalty": "",
             "artist": "Matheus Calza",
             "alias": "",
-            "notes": "Welcome back Pithing Needle"
+            "notes": "Welcome back Pithing Needle\n\nShould this be constructed viable? Yes, as a sideboard card\n\nDoes this seem constructed viable? Yes, compared to Pithing Needle"
         },
         {
             "card_name": "RA02 Aspirant of Ulamog",
@@ -4792,7 +4792,7 @@
             "loyalty": "",
             "artist": "Aerozopher",
             "alias": "",
-            "notes": "wordy and maybe unreasonable\n30 Aug 2025: Upped to 5 mana to draw 3"
+            "notes": "wordy and maybe unreasonable\n30 Aug 2025: Upped to 5 mana to draw 3\n\nShould this be constructed viable? Yes, as removal attached to card advantage in the lategame\n\nDoes this seem constructed viable? Yes, compared to other banish effects"
         },
         {
             "card_name": "RA03 Slayer of Endless Form",
@@ -4811,7 +4811,7 @@
             "loyalty": "",
             "artist": "Bogdan Rezunenko",
             "alias": "",
-            "notes": "14 Aug 2025: Removed double strike (weird when first strike is also there)"
+            "notes": "14 Aug 2025: Removed double strike (weird when first strike is also there)\n\nShould this be constructed viable? Probably not, since it's just a french vanilla"
         },
         {
             "card_name": "RA05 Arbiter of the Scale",
@@ -4830,7 +4830,7 @@
             "loyalty": "",
             "artist": "Tomasz Ryger",
             "alias": "",
-            "notes": ""
+            "notes": "Should this be constructed viable? Maybe? Very expensive, but the effect is quite powerful\n\nDoes this seem constructed viable? Probably too slow, but interesting"
         },
         {
             "card_name": "RA06 Supreme Desecrator",
@@ -4849,7 +4849,7 @@
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
-            "notes": ""
+            "notes": "Should this be constructed viable? No, too expensive"
         },
         {
             "card_name": "RA07 Scourge of Aeons",
@@ -4868,7 +4868,7 @@
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
-            "notes": "8 lines"
+            "notes": "8 lines\n\nShould this be constructed viable? No, very expensive and also annoying to deal with"
         },
         {
             "card_name": "RR06 The West District Hangar",
@@ -4887,7 +4887,7 @@
             "loyalty": "",
             "artist": "Ede Laszlo",
             "alias": "",
-            "notes": ""
+            "notes": "Should this be constructed viable? If Vehicles are viable, then yes\n\nDoes this seem constructed viable? Probably not, since Vehicles are generally slow and this is a bit win-more"
         },
         {
             "card_name": "RA09 Eldrazi Monolith",
@@ -4906,7 +4906,7 @@
             "loyalty": "",
             "artist": "Lunart Christophe",
             "alias": "",
-            "notes": ""
+            "notes": "Should this be constructed viable? No"
         },
         {
             "card_name": "RA10 Joyride, Heirloom Skydancer",
@@ -4925,7 +4925,7 @@
             "loyalty": "",
             "artist": "Patrick Jensen",
             "alias": "",
-            "notes": "17 Aug 2025: Buffed from 1/2 to 2/2"
+            "notes": "17 Aug 2025: Buffed from 1/2 to 2/2\nREVISIT"
         },
         {
             "card_name": "MZ03 Leonard, Experiment Zero",
@@ -4963,7 +4963,7 @@
             "loyalty": "",
             "artist": "Maxwell Crabill",
             "alias": "",
-            "notes": "8 lines"
+            "notes": "8 lines\n\nShould this be constructed viable? Yes \u2014 this card is wild and hard to pin down, but it may be the most powerful rare in the set\n\nDoes this seem constructed viable? Yes"
         },
         {
             "card_name": "MU02 Ulen, Titans' Clarion",
@@ -5001,7 +5001,7 @@
             "loyalty": "",
             "artist": "Hugo Puzzuoli",
             "alias": "",
-            "notes": "22 Aug 2025: Switched to sorcery (made more sense bc you would never use the \"creatures can't block mode\" on another person's turn)\n27 Aug 2025: Reduced to 1RG"
+            "notes": "22 Aug 2025: Switched to sorcery (made more sense bc you would never use the \"creatures can't block mode\" on another person's turn)\n27 Aug 2025: Reduced to 1RG\n\nShould this be constructed viable? Yes, to benefit midrange strategies\n\nDoes this seem constructed viable? Maybe, but mana value restriction is high"
         },
         {
             "card_name": "MZ07 Ravin, Heir of Goldport",
@@ -5039,7 +5039,7 @@
             "loyalty": "",
             "artist": "Aeris Meadows",
             "alias": "",
-            "notes": "yaoi"
+            "notes": "yaoi\n\nShould this be constructed viable? Yes\n\nDoes this currently seem constructed viable? Yes"
         },
         {
             "card_name": "MW01 Torvinald, Iron Eminence",
@@ -5407,7 +5407,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Treasure",
-            "number": 8,
+            "number": 9,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Sacrifice this artifact: Add one mana of any color.",
@@ -5445,7 +5445,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Clue",
-            "number": 7,
+            "number": 8,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{2}, Sacrifice this artifact: Draw a card.",
@@ -5483,7 +5483,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Creature \u2014 Elemental Horror",
-            "number": 4,
+            "number": 5,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Reach",
@@ -5502,7 +5502,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Bard",
-            "number": 6,
+            "number": 7,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]",
@@ -5521,7 +5521,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Creature \u2014 Human",
-            "number": 5,
+            "number": 6,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -5553,7 +5553,26 @@
             "artist": "Edwin Henry Landseer",
             "alias": "",
             "notes": ""
+        },
+        {
+            "card_name": "Eldrazi",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Eldrazi",
+            "number": 3,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "10/10",
+            "special_text": "",
+            "shape": "token",
+            "set": "SGP",
+            "loyalty": "",
+            "artist": "Nino Is",
+            "alias": "",
+            "notes": ""
         }
     ],
-    "version": 33
+    "version": 34
 }

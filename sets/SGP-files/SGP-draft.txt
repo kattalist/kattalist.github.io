@@ -465,9 +465,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Eldrazi Scion",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/3_Eldrazi Scion.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/4_Eldrazi Scion.png"
 			}
 		},
 		{
@@ -1071,13 +1071,13 @@
 			}
 		},
 		{
-			"name": "UZ19 Pulverizing Helix",
+			"name": "UZ19 Artillery Commander",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
-			"type": "Sorcery",
+			"type": "Artifact Creature — Construct",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/242_UZ19 Pulverizing Helix.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/242_UZ19 Artillery Commander.png"
 			}
 		},
 		{
@@ -1153,7 +1153,7 @@
 		{
 			"name": "RZ06 Paragon of Opulence",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}{B}",
+			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Human Noble",
 			"collector_number": "215",
 			"image_uris": {
@@ -1731,13 +1731,13 @@
 			}
 		},
 		{
-			"name": "UR10 Sweep of Agony",
+			"name": "UR10 Scalding Roil",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{R}{R}",
 			"type": "Instant",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/162_UR10 Sweep of Agony.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/162_UR10 Scalding Roil.png"
 			}
 		},
 		{
@@ -2141,13 +2141,13 @@
 			}
 		},
 		{
-			"name": "RR02 Nylis, Epigone Reborn",
+			"name": "RR02 Bullet Locomotive",
 			"rarity": "rare",
-			"mana_cost": "{1}{R}{R}",
-			"type": "Legendary Creature — Eldrazi Cultist",
+			"mana_cost": "{R}",
+			"type": "Artifact — Vehicle",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/148_RR02 Nylis, Epigone Reborn.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/148_RR02 Bullet Locomotive.png"
 			}
 		},
 		{
@@ -2845,9 +2845,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/8_Treasure.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/9_Treasure.png"
 			}
 		},
 		{
@@ -2865,9 +2865,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Clue",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/7_Clue.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/8_Clue.png"
 			}
 		},
 		{
@@ -2885,9 +2885,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental Horror",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/4_Elemental Horror.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/5_Elemental Horror.png"
 			}
 		},
 		{
@@ -2895,9 +2895,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Human Bard",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/6_Human Bard.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/7_Human Bard.png"
 			}
 		},
 		{
@@ -2905,9 +2905,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Human",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/5_Human.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/6_Human.png"
 			}
 		},
 		{
@@ -2918,6 +2918,16 @@
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/2_Dog.png"
+			}
+		},
+		{
+			"name": "Eldrazi",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Eldrazi",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/3_Eldrazi.png"
 			}
 		}
 	]
@@ -2949,7 +2959,7 @@
 	2 RB03 Esme, Lost to Avarice
 	2 RR01 Moonlit Mutilator
 	2 RA04 Collector of Souls
-	2 RR02 Nylis, Epigone Reborn
+	2 RR02 Bullet Locomotive
 	2 RR03 Dasek, Wrath Herald
 	2 RR04 Up in Flames
 	2 RR05 Visions of the Veil
@@ -3031,7 +3041,7 @@
 	4 UZ16 Karsten, the Spinner
 	4 UZ17 Smuggler's Hovercar
 	4 UZ18 Ravaged Eviscerator
-	4 UZ19 Pulverizing Helix
+	4 UZ19 Artillery Commander
 	4 UZ20 Adaptive Agent
 	4 UW01 Sky Force Retiree
 	4 UW02 Scape Surveyor
@@ -3095,7 +3105,7 @@
 	4 UR07 Pinefell Terror
 	4 UB08 Stonebridge Ambush
 	4 UB09 Devour the Broken
-	4 UR10 Sweep of Agony
+	4 UR10 Scalding Roil
 	4 UB10 Watch the Docks
 	4 UB11 Unnatural Torment
 	4 UB13 Channel the Dark
@@ -3303,7 +3313,7 @@
 	6 UZ16 Karsten, the Spinner
 	6 UZ17 Smuggler's Hovercar
 	6 UZ18 Ravaged Eviscerator
-	6 UZ19 Pulverizing Helix
+	6 UZ19 Artillery Commander
 	6 UZ20 Adaptive Agent
 	6 UW01 Sky Force Retiree
 	6 UW02 Scape Surveyor
@@ -3369,7 +3379,7 @@
 	6 UR07 Pinefell Terror
 	6 UB08 Stonebridge Ambush
 	6 UB09 Devour the Broken
-	6 UR10 Sweep of Agony
+	6 UR10 Scalding Roil
 	6 UB10 Watch the Docks
 	6 UB11 Unnatural Torment
 	6 UB13 Channel the Dark
@@ -3410,7 +3420,7 @@
 	2 RB03 Esme, Lost to Avarice
 	2 RR01 Moonlit Mutilator
 	2 RA04 Collector of Souls
-	2 RR02 Nylis, Epigone Reborn
+	2 RR02 Bullet Locomotive
 	2 RR03 Dasek, Wrath Herald
 	2 RR04 Up in Flames
 	2 RR05 Visions of the Veil
@@ -3582,7 +3592,7 @@
 	15 UZ16 Karsten, the Spinner
 	15 UZ17 Smuggler's Hovercar
 	15 UZ18 Ravaged Eviscerator
-	15 UZ19 Pulverizing Helix
+	15 UZ19 Artillery Commander
 	15 UZ20 Adaptive Agent
 	15 UW01 Sky Force Retiree
 	15 UW02 Scape Surveyor
@@ -3648,7 +3658,7 @@
 	15 UR07 Pinefell Terror
 	15 UB08 Stonebridge Ambush
 	15 UB09 Devour the Broken
-	15 UR10 Sweep of Agony
+	15 UR10 Scalding Roil
 	15 UB10 Watch the Docks
 	15 UB11 Unnatural Torment
 	15 UB13 Channel the Dark
@@ -3689,7 +3699,7 @@
 	7 RB03 Esme, Lost to Avarice
 	7 RR01 Moonlit Mutilator
 	7 RA04 Collector of Souls
-	7 RR02 Nylis, Epigone Reborn
+	7 RR02 Bullet Locomotive
 	7 RR03 Dasek, Wrath Herald
 	7 RR04 Up in Flames
 	7 RR05 Visions of the Veil
