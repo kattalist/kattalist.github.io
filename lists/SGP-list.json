@@ -24,13 +24,13 @@
         "set": "SGP"
     },
     {
-        "card_name": "MG01 Reshape the World",
+        "card_name": "MG01 Eccentric Geneticist",
         "number": 181,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "MW02 Aspect of Subjugation",
+        "card_name": "MW02 Subjugation Herald",
         "number": 38,
         "shape": "normal",
         "set": "SGP"
@@ -234,7 +234,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "RG06 Moonrise",
+        "card_name": "RG06 Ruinate",
         "number": 188,
         "shape": "normal",
         "set": "SGP"
@@ -960,7 +960,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "CW11 Sundering Strike",
+        "card_name": "CW11 Timely Intervention",
         "number": 33,
         "shape": "normal",
         "set": "SGP"
@@ -1020,7 +1020,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "CW13 Zeppelin",
+        "card_name": "CW13 Zeppelin Disaster",
         "number": 35,
         "shape": "normal",
         "set": "SGP"
@@ -1111,7 +1111,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "MZ06 Salar, the Worldfury",
+        "card_name": "MZ06 Grand Awakening",
         "number": 208,
         "shape": "normal",
         "set": "SGP"
@@ -1228,7 +1228,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "MZ02 Forge the Bridge",
+        "card_name": "MZ02 Lost to Endless Scripture",
         "number": 204,
         "shape": "normal",
         "set": "SGP"

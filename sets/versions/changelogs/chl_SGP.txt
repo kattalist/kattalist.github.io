@@ -1,4 +1,93 @@
-﻿VERSION 34 CHANGELOG
+﻿VERSION 35 CHANGELOG
+====================
+
+CW11 Timely Intervention added.
+CW13 Zeppelin Disaster added.
+RG06 Ruinate added.
+MW02 Subjugation Herald added.
+MZ06 Grand Awakening added.
+MZ02 Lost to Endless Scripture added.
+MG01 Eccentric Geneticist added.
+
+CW11 Sundering Strike removed.
+CW13 Zeppelin removed.
+RG06 Moonrise removed.
+MW02 Aspect of Subjugation removed.
+MZ06 Salar, the Worldfury removed.
+MZ02 Forge the Bridge removed.
+MG01 Reshape the World removed.
+
+CW04 Pedigree Collector
+cost: {1}{W} => {2}{W}
+
+CW10 Opalwing Cavalry
+
+CW12 Aerial Augmentation
+
+UZ11 Black Site Enhancer
+rules_text: Vigilance
+{T}: Add {C}. When this mana is spent to cast an instant, sorcery, or colorless spell, draw a card. => Vigilance
+{T}: Add {C}. When this mana is spent to cast an instant, sorcery, or colorless spell, scry 1.
+
+UW04 Thousand-Mind Cutthroat
+rules_text: This creature has double strike if you control another creature with the same name.
+{3}{W}: Fragment this creature. Activate only outside of combat. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => This creature has double strike if it shares a name with another creature you control.
+{3}{W}: Fragment this creature. Activate only outside of combat. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+
+UW08 Triumphant Cavalier
+pt: 4/4 => 3/4
+
+UU09 In the Nick of Time
+
+UU07 Mindbreak Shield
+
+UR07 Pinefell Terror
+rules_text: Reach, trample, haste
+{1}{R}, Discard this card: Put a reach counter, a trample counter, or a haste counter on target creature. => Reach, trample, haste
+{1}{R}, Discard this card: Put a reach counter, a trample counter, or a haste counter on target creature. That creature deals 1 damage to any target.
+
+UB08 Stonebridge Ambush
+rules_text: When this creature enters, destroy up to one target creature with equal or greater power.
+{B}{B}, {T}: Fragment this creature. Activate only as a sorcery. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => As this creature enters, you may pay {B} and fragment it. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+When this creature enters, destroy target creature with equal or greater power.
+
+UR10 Scalding Roil
+
+UA03 Endward Harbinger
+rules_text: Flying
+Whenever you gain life for the first time each turn, exile the top card of target player's library.
+Once each turn, you may play a card exiled with this creature, and you may spend mana as though it were mana of any type to play it. => Flying, lifelink
+Whenever you gain life for the first time each turn, exile the top card of target player's library. Until end of turn, you may play that card, and you may spend mana as though it were mana of any type to play it.
+pt: 4/4 => 3/4
+
+RW03 Captivating Alto
+rules_text: Lifelink
+When this creature enters, exile another target creature, then return it to the battlefield under its owner's control at the beginning of the next end step. If you control that creature, it enters with a +1/+1 counter on it. => Lifelink
+When this creature enters, exile another target creature. Return it to the battlefield under its owner's control at the beginning of the next end step. If you control that creature, it enters with a +1/+1 counter on it.
+
+RW06 Destined End
+rules_text: Cleave {2}{W}{W} [i](You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)[/i]
+Destroy all [token] creatures. => Cleave {1}{W}{W}{W} [i](You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)[/i]
+Destroy all [token] creatures.
+
+RB04 Zommok, Grief Herald
+cost: {3}{B}{B} => {5}{B}{B}
+
+RG02 Gene Recombinators
+rules_text: Sacrifice two creatures: Create a 3/2 colorless Eldrazi Horror creature token.
+[i]United [/i]— Whenever this creature attacks with one or more tokens, populate. [i](Create a token that's a copy of a creature token you control.)[/i] => {2}, Sacrifice two creatures: Create an X/X green Ooze creature token, where X is the combined power of the sacrificed creatures. Activate only as a sorcery.
+[i]United [/i]— Whenever this creature attacks with one or more tokens, populate. [i](Create a token that's a copy of a creature token you control.)[/i]
+
+RZ03 Kavalesk, the Dark Exalted
+cost: {1}{B}{R} => {2}{B}{R}
+
+RW05 Fated Reunion
+rules_text: Search your library for a creature card with the same mana value as a creature you control, reveal it, put it into your hand, then shuffle. If that card has mana value 3 or less, put it onto the battlefield tapped. => Search your library for a creature card with the same mana value as a creature you control, reveal it, put it into your hand, then shuffle. If that card has mana value 3 or less, put it onto the battlefield tapped instead.
+
+CR10 Forge in Anguish
+
+
+VERSION 34 CHANGELOG
 ====================
 
 UZ19 Artillery Commander added.
