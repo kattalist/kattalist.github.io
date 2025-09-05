@@ -1,4 +1,138 @@
-﻿VERSION 35 CHANGELOG
+﻿VERSION 36 CHANGELOG
+====================
+
+CW08 Mire Pathforger added.
+CW07 Aerial Regulator added.
+CW03 Mournful Matriarch added.
+UG02 Viscera Channeler added.
+UG07 Manifold Wreaker added.
+UG08 Savage Broodmother added.
+UG01 Cataclysm Constable added.
+UG12 Scour the Formless Scape added.
+MU02 Acolyte of Knowledge added.
+MU01 Lightwire Swarm added.
+Construct added.
+
+CW03 Mire Sentinel removed.
+CW07 Aerial Enforcer removed.
+CW08 Mournful Matriarch removed.
+UG02 Elden Rite Shaman removed.
+UG07 Violeteye Savage removed.
+UG08 Unwavering Broodmother removed.
+UG01 Gossip Tracker removed.
+UG12 Unfamiliar Vegetation removed.
+MU01 Acolyte of Knowledge removed.
+MU02 Ulen, Titans' Clarion removed.
+Elemental Horror removed.
+
+CW04 Pedigree Collector
+rules_text: When this creature enters, create a 1/1 white Dog creature token.
+[i]United [/i]— Whenever this creature attacks with one or more tokens, target attacking creature gains first strike until end of turn. => When this creature enters, create a 1/1 white Dog creature token.
+[i]United [/i]— Whenever this creature attacks with one or more tokens, target attacking creature gets +1/+1 until end of turn.
+pt: 2/1 => 1/2
+
+CW10 Opalwing Cavalry
+rules_text: Flying
+Whenever this creature attacks with one or more Vehicles, attacking creatures get +1/+1 until end of turn. => Flying
+Whenever this creature attacks with one or more Vehicles, other attacking creatures get +1/+1 until end of turn.
+pt: 3/3 => 4/3
+
+Eldrazi Scion
+
+CG01 Wreckage Inquisitors
+rules_text: This creature gets +1/+1 as long as you control a token.
+{3}{G}: Investigate. Activate only once. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => This creature gets +1/+1 as long as you control a token.
+{2}{G}: Investigate. Activate only once. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+
+CG10 Barksplitter Colossus
+type: Creature — Elemental => Creature — Elemental Horror
+
+Cultist
+
+UZ12 Voidwing Kite
+
+RZ06 Paragon of Opulence
+rules_text: Whenever an opponent loses life on your turn outside of your combat phase, create a tapped Treasure token.
+{W}{W}{B}{B}, {T}: Target opponent loses 7 life and you gain 7 life. Spend only mana from artifact sources to activate this ability. => Whenever an opponent loses life on your turn outside of your combat phase, create a tapped Treasure token.
+{W}{W}{B}{B}, {T}: Target opponent loses 7 life and you gain 7 life. Spend only mana from Treasures to activate this ability.
+
+UU03 Port Inspector
+rules_text: Vigilance
+Whenever this creature attacks, if you control no Clues, investigate.
+If you would draw your second card this turn, instead surveil 1, then draw a card. => Vigilance
+When this creature enters, investigate.
+If you would draw your second card this turn, instead surveil 1, then draw a card.
+
+UG04 Yestergrove Relic
+pt: 3/2 => 2/2
+
+UG09 Willowvine Sentinel
+
+UG13 For All of Calloran
+
+UA03 Endward Harbinger
+cost: {5} => {4}{C}
+rules_text: Flying, lifelink
+Whenever you gain life for the first time each turn, exile the top card of target player's library. Until end of turn, you may play that card, and you may spend mana as though it were mana of any type to play it. => Flying, lifelink
+Whenever you gain life for the first time each turn, exile the top card of your library. Until end of turn, you may play that card.
+
+UA09 Hall of Innovation
+
+UA10 Promising Vista
+
+RW06 Destined End
+cost: {W}{W} => {1}{W}{W}
+rules_text: Cleave {1}{W}{W}{W} [i](You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)[/i]
+Destroy all [token] creatures. => Cleave {2}{W}{W} [i](You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)[/i]
+Destroy all [token] creatures.
+
+RU02 Auspicious Coroners
+rules_text: Vigilance
+When this creature enters or another creature you control dies, investigate.
+Sacrifice a Clue: Draw a card, then discard a card. => Vigilance
+When this creature enters or another creature you control dies, investigate.
+{T}, Sacrifice a Clue: Draw a card, then discard a card.
+
+RU03 Scion of Insanity
+rules_text: At the beginning of your upkeep, if this card is in your hand, you may reveal it and pay {1}{U}. If you do, mill ten cards, draw a card, and shuffle this card into your library.
+As long as there are twenty or fewer cards in your library, this creature is a 9/9 with flying, vigilance, and hexproof. => At the beginning of your upkeep, if this card is in your hand, you may reveal it and pay {1}{U}. If you do, mill six cards, draw a card, and shuffle this card into your library.
+As long as there are twenty or fewer cards in your library, this creature is a 9/9 with flying, vigilance, and hexproof.
+
+RG02 Gene Recombinators
+
+RZ09 Cirrus Behemoth
+rules_text: Autopilot {1}{W}
+Flying, vigilance
+When this Vehicle enters, it deals 3 damage to any target and you gain 3 life.
+Crew 3 => Autopilot {1}{W} [i]({1}{W}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Flying, vigilance
+When this Vehicle enters, it deals 3 damage to any target and you gain 3 life.
+Crew 3
+
+MB02 Graven Confidant
+type: Creature — Human Noble => Creature — Human Advisor
+
+MR02 Jerald, Steel Virtuoso
+rules_text: {1}{R}: Artifact creatures you control get +1/+0 until end of turn.
+{2}{R}: Artifact creatures you control gain first strike and menace until end of turn.
+{4}{R}{R}: Artifact creatures you control gain double strike and trample until end of turn. => {1}{R}: Artifact creatures you control get +1/+0 until end of turn.
+{2}{R}: Artifact creatures you control gain first strike and menace until end of turn.
+{3}{R}{R}: Artifact creatures you control gain double strike and trample until end of turn.
+
+MG01 Eccentric Geneticist
+
+Clue
+
+Human Bard
+
+Human
+
+Dog
+
+Eldrazi
+
+
+VERSION 35 CHANGELOG
 ====================
 
 CW11 Timely Intervention added.

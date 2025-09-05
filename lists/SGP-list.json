@@ -6,7 +6,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "MU01 Acolyte of Knowledge",
+        "card_name": "MU01 Lightwire Swarm",
         "number": 73,
         "shape": "normal",
         "set": "SGP"
@@ -36,7 +36,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "MU02 Ulen, Titans' Clarion",
+        "card_name": "MU02 Acolyte of Knowledge",
         "number": 74,
         "shape": "normal",
         "set": "SGP"
@@ -264,7 +264,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "UG01 Gossip Tracker",
+        "card_name": "UG01 Cataclysm Constable",
         "number": 189,
         "shape": "normal",
         "set": "SGP"
@@ -294,7 +294,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "UG02 Elden Rite Shaman",
+        "card_name": "UG02 Viscera Channeler",
         "number": 190,
         "shape": "normal",
         "set": "SGP"
@@ -444,7 +444,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "UG07 Violeteye Savage",
+        "card_name": "UG07 Manifold Wreaker",
         "number": 195,
         "shape": "normal",
         "set": "SGP"
@@ -474,7 +474,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "UG08 Unwavering Broodmother",
+        "card_name": "UG08 Savage Broodmother",
         "number": 196,
         "shape": "normal",
         "set": "SGP"
@@ -594,7 +594,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "UG12 Unfamiliar Vegetation",
+        "card_name": "UG12 Scour the Formless Scape",
         "number": 200,
         "shape": "normal",
         "set": "SGP"
@@ -720,7 +720,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "CW03 Mire Sentinel",
+        "card_name": "CW03 Mournful Matriarch",
         "number": 25,
         "shape": "normal",
         "set": "SGP"
@@ -840,7 +840,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "CW07 Aerial Enforcer",
+        "card_name": "CW07 Aerial Regulator",
         "number": 29,
         "shape": "normal",
         "set": "SGP"
@@ -870,7 +870,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "CW08 Mournful Matriarch",
+        "card_name": "CW08 Mire Pathforger",
         "number": 30,
         "shape": "normal",
         "set": "SGP"
@@ -1791,13 +1791,13 @@
     },
     {
         "card_name": "UA09 Hall of Innovation",
-        "number": 283,
+        "number": 277,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "UA10 Promising Vista",
-        "number": 284,
+        "number": 278,
         "shape": "normal",
         "set": "SGP"
     },
@@ -1820,38 +1820,68 @@
         "card_name": "er"
     },
     {
-        "card_name": "SL01 Plains",
-        "number": 277,
+        "card_name": "Mountain",
+        "number": 286,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "SL02 Island",
-        "number": 278,
+        "card_name": "Swamp",
+        "number": 284,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "SL04 Mountain",
-        "number": 280,
+        "card_name": "Forest",
+        "number": 288,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "SL03 Swamp",
+        "card_name": "Wastes",
         "number": 279,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "SL05 Forest",
+        "card_name": "Plains",
+        "number": 280,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "Island",
+        "number": 282,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "Island 2",
+        "number": 283,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "Plains 2",
         "number": 281,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "SL06 Wastes",
-        "number": 282,
+        "card_name": "Swamp 2",
+        "number": 285,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "Mountain 2",
+        "number": 287,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "Forest 2",
+        "number": 289,
         "shape": "normal",
         "set": "SGP"
     },
@@ -1881,49 +1911,25 @@
     },
     "a->token",
     {
-        "card_name": "Cultist",
+        "card_name": "Eldrazi",
         "number": 1,
         "shape": "token",
         "set": "SGP"
     },
     {
-        "card_name": "Dog",
+        "card_name": "Eldrazi Scion",
         "number": 2,
         "shape": "token",
         "set": "SGP"
     },
     {
-        "card_name": "Eldrazi",
-        "number": 3,
-        "shape": "token",
-        "set": "SGP"
-    },
-    {
-        "card_name": "Eldrazi Scion",
-        "number": 4,
-        "shape": "token",
-        "set": "SGP"
-    },
-    {
-        "card_name": "Elemental Horror",
-        "number": 5,
-        "shape": "token",
-        "set": "SGP"
-    },
-    {
-        "card_name": "Human",
-        "number": 6,
-        "shape": "token",
-        "set": "SGP"
-    },
-    {
-        "card_name": "Human Bard",
+        "card_name": "Clue",
         "number": 7,
         "shape": "token",
         "set": "SGP"
     },
     {
-        "card_name": "Clue",
+        "card_name": "Construct",
         "number": 8,
         "shape": "token",
         "set": "SGP"
@@ -1931,6 +1937,30 @@
     {
         "card_name": "Treasure",
         "number": 9,
+        "shape": "token",
+        "set": "SGP"
+    },
+    {
+        "card_name": "Dog",
+        "number": 3,
+        "shape": "token",
+        "set": "SGP"
+    },
+    {
+        "card_name": "Human",
+        "number": 4,
+        "shape": "token",
+        "set": "SGP"
+    },
+    {
+        "card_name": "Human Bard",
+        "number": 5,
+        "shape": "token",
+        "set": "SGP"
+    },
+    {
+        "card_name": "Cultist",
+        "number": 6,
         "shape": "token",
         "set": "SGP"
     },
