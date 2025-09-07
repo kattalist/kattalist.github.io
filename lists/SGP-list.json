@@ -1363,7 +1363,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "RZ13 Morgyn, Paradigm Breaker",
+        "card_name": "RZ13 Brunn, Blunt Tactician",
         "number": 221,
         "shape": "normal",
         "set": "SGP"
@@ -1568,7 +1568,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "CA06 Thin the Veil",
+        "card_name": "CA06 Reality Wanes",
         "number": 6,
         "shape": "normal",
         "set": "SGP"
@@ -1917,55 +1917,58 @@
         "set": "SGP"
     },
     {
-        "card_name": "Eldrazi Scion",
+        "card_name": "Eldrazi Angel",
         "number": 2,
         "shape": "token",
         "set": "SGP"
     },
     {
-        "card_name": "Clue",
-        "number": 7,
-        "shape": "token",
-        "set": "SGP"
-    },
-    {
-        "card_name": "Construct",
-        "number": 8,
-        "shape": "token",
-        "set": "SGP"
-    },
-    {
-        "card_name": "Treasure",
-        "number": 9,
-        "shape": "token",
-        "set": "SGP"
-    },
-    {
-        "card_name": "Dog",
+        "card_name": "Eldrazi Scion",
         "number": 3,
         "shape": "token",
         "set": "SGP"
     },
     {
-        "card_name": "Human",
+        "card_name": "Clue",
+        "number": 8,
+        "shape": "token",
+        "set": "SGP"
+    },
+    {
+        "card_name": "Construct",
+        "number": 9,
+        "shape": "token",
+        "set": "SGP"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 10,
+        "shape": "token",
+        "set": "SGP"
+    },
+    {
+        "card_name": "Dog",
         "number": 4,
         "shape": "token",
         "set": "SGP"
     },
     {
-        "card_name": "Human Bard",
+        "card_name": "Human",
         "number": 5,
         "shape": "token",
         "set": "SGP"
     },
     {
-        "card_name": "Cultist",
+        "card_name": "Human Bard",
         "number": 6,
         "shape": "token",
         "set": "SGP"
     },
     {
-        "card_name": "e"
+        "card_name": "Cultist",
+        "number": 7,
+        "shape": "token",
+        "set": "SGP"
     },
     {
         "card_name": "er"

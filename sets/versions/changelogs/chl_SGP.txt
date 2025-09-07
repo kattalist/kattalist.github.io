@@ -1,4 +1,79 @@
-﻿VERSION 36 CHANGELOG
+﻿VERSION 37 CHANGELOG
+====================
+
+CA06 Reality Wanes added.
+RZ13 Brunn, Blunt Tactician added.
+Eldrazi Angel added.
+
+CA06 Thin the Veil removed.
+RZ13 Morgyn, Paradigm Breaker removed.
+
+CB10 Harrowing Transformation
+
+Eldrazi Scion
+
+UZ01 Splintering Edict
+rules_text: Choose one. If {C} was spent to cast this spell, instead choose one or more.
+• Fragment target attacking, blocking, or tapped creature. You gain 3 life. [i](Its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+• Counter target spell. => Choose one. If {C} was spent to cast this spell, instead choose any number.
+• Tap or untap up to one target creature. Draw a card.
+• Counter target spell.
+
+Cultist
+
+UU07 Mindbreak Shield
+rules_text: Until end of turn, target creature you control gains hexproof. The next time that creature would die this turn, remove all damage from it and fragment it instead. [i](To fragment a creature, its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => Target creature you control gains hexproof until end of turn. The next time that creature would die this turn, remove all damage from it and fragment it instead. [i](To fragment a creature, its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+
+UG07 Manifold Wreaker
+rules_text: Trample
+This creature enters with X +1/+1 counters on it.
+When this creature enters, you may remove any number of +1/+1 counters from it. When you do, it fights that many target creatures. => Trample
+This creature enters with X +1/+1 counters on it.
+When this creature enters, you may remove any number of counters from it. When you do, it fights that many target creatures.
+pt: 0/0 => 1/1
+
+UG13 For All of Calloran
+
+RW04 Eiara, Aegis Herald
+cost: {3}{W}{W} => {6}{W}{W}
+rules_text: Devoid [i](This card has no color.)[/i]
+Other creatures you control have ward {2}.
+{W}{W}, {T}: Fragment Eiara. Tokens created this way aren't legendary. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => Devoid [i](This card has no color.)[/i]
+Whenever you cast a spell, create a 4/4 colorless Eldrazi Angel creature token with flying.
+{W}{W}, {T}: Fragment Eiara. Tokens created this way aren't legendary. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+pt: 5/5 => 6/6
+
+RU02 Auspicious Coroners
+rules_text: Vigilance
+When this creature enters or another creature you control dies, investigate.
+{T}, Sacrifice a Clue: Draw a card, then discard a card. => Vigilance
+When this creature enters or another creature you control dies, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+{T}, Sacrifice a Clue: Draw a card, then discard a card.
+
+RU03 Scion of Insanity
+rules_text: At the beginning of your upkeep, if this card is in your hand, you may reveal it and pay {1}{U}. If you do, mill six cards, draw a card, and shuffle this card into your library.
+As long as there are twenty or fewer cards in your library, this creature is a 9/9 with flying, vigilance, and hexproof. => As long as there are twenty or fewer cards in your library, this creature has flying, vigilance, and hexproof and has base power and toughness 9/9.
+{1}{U}, Discard this card: Mill six cards, then draw a card. Shuffle this card into your library.
+
+MA03 Emrakul, the Sky Sundered
+rules_text: Flying, trample, protection from mana value 7 or less
+When you cast this spell, choose beginning phase, main phase, or combat phase. Until your next turn, each opponent skips each instance of each phase not chosen this way. [i](The beginning phase includes the untap, upkeep, and draw steps. That player doesn't skip the ending phase.)[/i] => When you cast this spell, choose beginning phase, main phase, or combat phase. Until your next turn, each opponent skips each instance of each phase not chosen this way. [i](The beginning phase includes the untap, upkeep, and draw steps. That player doesn't skip the ending phase.)[/i]
+Flying, trample, protection from mana value 7 or less
+
+Treasure
+
+Clue
+
+Human Bard
+
+Human
+
+Dog
+
+Construct
+
+
+VERSION 36 CHANGELOG
 ====================
 
 CW08 Mire Pathforger added.

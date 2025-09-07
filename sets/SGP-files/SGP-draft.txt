@@ -445,9 +445,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Eldrazi Scion",
-			"collector_number": "2",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/2_Eldrazi Scion.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/3_Eldrazi Scion.png"
 			}
 		},
 		{
@@ -771,13 +771,13 @@
 			}
 		},
 		{
-			"name": "CA06 Thin the Veil",
+			"name": "CA06 Reality Wanes",
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Sorcery",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/6_CA06 Thin the Veil.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/6_CA06 Reality Wanes.png"
 			}
 		},
 		{
@@ -955,9 +955,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Cultist",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/6_Cultist.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/7_Cultist.png"
 			}
 		},
 		{
@@ -1953,7 +1953,7 @@
 		{
 			"name": "RW04 Eiara, Aegis Herald",
 			"rarity": "rare",
-			"mana_cost": "{3}{W}{W}",
+			"mana_cost": "{6}{W}{W}",
 			"type": "Legendary Creature — Eldrazi Avatar",
 			"collector_number": "42",
 			"image_uris": {
@@ -2311,13 +2311,13 @@
 			}
 		},
 		{
-			"name": "RZ13 Morgyn, Paradigm Breaker",
+			"name": "RZ13 Brunn, Blunt Tactician",
 			"rarity": "rare",
 			"mana_cost": "{R}{G}{W}",
-			"type": "Legendary Creature — Human Rogue",
+			"type": "Legendary Creature — Human",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/221_RZ13 Morgyn, Paradigm Breaker.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/221_RZ13 Brunn, Blunt Tactician.png"
 			}
 		},
 		{
@@ -2825,9 +2825,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/9_Treasure.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/10_Treasure.png"
 			}
 		},
 		{
@@ -2845,9 +2845,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Clue",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/7_Clue.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/8_Clue.png"
 			}
 		},
 		{
@@ -2865,9 +2865,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Human Bard",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/5_Human Bard.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/6_Human Bard.png"
 			}
 		},
 		{
@@ -2875,9 +2875,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Human",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/4_Human.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/5_Human.png"
 			}
 		},
 		{
@@ -2885,9 +2885,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Dog",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/3_Dog.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/4_Dog.png"
 			}
 		},
 		{
@@ -2905,9 +2905,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Construct",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/8_Construct.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/9_Construct.png"
 			}
 		},
 		{
@@ -2979,6 +2979,16 @@
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/289_Forest 2.png"
 			}
+		},
+		{
+			"name": "Eldrazi Angel",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Eldrazi Angel",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/2_Eldrazi Angel.png"
+			}
 		}
 	]
 
@@ -3028,7 +3038,7 @@
 	1 MZ04 Efraim, High Alderman
 	2 RZ02 Revoke Will
 	2 RZ12 Reality Schism
-	2 RZ13 Morgyn, Paradigm Breaker
+	2 RZ13 Brunn, Blunt Tactician
 	2 RZ14 That Even Time Forgets
 	2 RZ15 Fate's Cruel Compulsion
 	1 MB02 Graven Confidant
@@ -3243,7 +3253,7 @@
 	8 CA02 Voices of the Severed
 	8 CA04 Old Ones Envoy
 	8 CA05 Rend
-	8 CA06 Thin the Veil
+	8 CA06 Reality Wanes
 	8 CA03 Incursive Voidmaw
 	8 CA07 Obsidian Reliquary
 	8 CA08 Arcwhip Emitter
@@ -3337,7 +3347,7 @@
 	12 CA02 Voices of the Severed
 	12 CA04 Old Ones Envoy
 	12 CA05 Rend
-	12 CA06 Thin the Veil
+	12 CA06 Reality Wanes
 	12 CA03 Incursive Voidmaw
 	12 CA07 Obsidian Reliquary
 	12 CA08 Arcwhip Emitter
@@ -3489,7 +3499,7 @@
 	1 MZ04 Efraim, High Alderman
 	2 RZ02 Revoke Will
 	2 RZ12 Reality Schism
-	2 RZ13 Morgyn, Paradigm Breaker
+	2 RZ13 Brunn, Blunt Tactician
 	2 RZ14 That Even Time Forgets
 	2 RZ15 Fate's Cruel Compulsion
 	1 MB02 Graven Confidant
@@ -3616,7 +3626,7 @@
 	6 CA02 Voices of the Severed
 	6 CA04 Old Ones Envoy
 	6 CA05 Rend
-	6 CA06 Thin the Veil
+	6 CA06 Reality Wanes
 	6 CA03 Incursive Voidmaw
 	6 CA07 Obsidian Reliquary
 	6 CA08 Arcwhip Emitter
@@ -3768,7 +3778,7 @@
 	4 MZ04 Efraim, High Alderman
 	7 RZ02 Revoke Will
 	7 RZ12 Reality Schism
-	7 RZ13 Morgyn, Paradigm Breaker
+	7 RZ13 Brunn, Blunt Tactician
 	7 RZ14 That Even Time Forgets
 	7 RZ15 Fate's Cruel Compulsion
 	4 MB02 Graven Confidant
