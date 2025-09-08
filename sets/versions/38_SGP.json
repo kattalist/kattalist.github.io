@@ -414,7 +414,7 @@
             "color_identity": "U",
             "cost": "{3}{U}{U}",
             "rules_text": "When this creature enters, target creature gets -6/-0 until this creature leaves the battlefield. If {C} was spent to cast this spell, draw a card.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]The new pinnacle of municipal defense was deployed in Winterfell shortly before the fall.[/i]",
             "pt": "3/3",
             "special_text": "",
             "shape": "normal",
@@ -471,7 +471,7 @@
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Target creature gets +1/+0 until end of turn and can't be blocked this turn.\nDraw a card.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]Getting in and out was all that mattered. The panache could be saved for later.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -710,30 +710,30 @@
             "notes": "Void count 1\n9 Aug 2025: Added conditional \"destroy creature dealt damage this turn\", but lowered from 3/3 to 3/2"
         },
         {
-            "card_name": "CB08 Soultaker Idol",
+            "card_name": "CB09 Soultaker Idol",
             "color": "",
             "rarity": "common",
             "type": "Creature \u2014 Eldrazi Horror",
-            "number": 102,
+            "number": 103,
             "color_identity": "B",
-            "cost": "{4}{B}",
+            "cost": "{5}{B}",
             "rules_text": "Devoid [i](This card has no color.)[/i]\nFlying\nWhen this creature enters, create a 1/1 colorless Eldrazi Scion creature token with \u201cSacrifice this creature: Add {C}.\u201d",
             "flavor_text": "[i]\u201cFear not the beings in the sky. As Kavalesk implores, they are here to save us.\u201d[/i]",
-            "pt": "4/3",
+            "pt": "5/4",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Fartuh Acer",
             "alias": "",
-            "notes": "Void count 2 (from the mill, not the sacrifice)\n11 Aug 2025: Totally changed card\n21 Aug 2025: Switched effect to Scion production on enters instead of Cultist and life loss on death"
+            "notes": "Void count 2 (from the mill, not the sacrifice)\n11 Aug 2025: Totally changed card\n21 Aug 2025: Switched effect to Scion production on enters instead of Cultist and life loss on death\n6 Sep 2025: Raised to 5/4 for 6 mana (up from 4/3 for 5 mana)"
         },
         {
-            "card_name": "CB09 Startouched Assassin",
+            "card_name": "CB08 Startouched Assassin",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Human Assassin Horror",
-            "number": 103,
+            "number": 102,
             "color_identity": "B",
             "cost": "{4}{B}",
             "rules_text": "When this creature enters, each opponent loses 2 life and you gain 2 life.\n{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]",
@@ -1394,23 +1394,23 @@
             "notes": "18 Jul 2025: 1G \u2014> 3G, +1/+1 \u2014> +3/+3, changed ability to sac outlet to give reac"
         },
         {
-            "card_name": "CA01 Chrysalis of Flesh",
+            "card_name": "CA01 Ancient Carapace",
             "color": "",
             "rarity": "common",
             "type": "Creature \u2014 Eldrazi Horror",
             "number": 1,
             "color_identity": "C",
             "cost": "{1}{C}",
-            "rules_text": "Whenever this creature attacks, target colorless creature gets either +1/+0 or +0/+1 until end of turn.",
-            "flavor_text": "[i][/i]",
-            "pt": "2/2",
+            "rules_text": "Defender",
+            "flavor_text": "[i]Grotesque statues line the ruins of a long-forgotten city on the floor of the western sea. Some have sworn to hear screams bubbling up from the deep.[/i]",
+            "pt": "3/3",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Fartuh Acer",
             "alias": "",
-            "notes": "19 Aug 2025: Bumped from 1/2 to 1/3\n20 Aug 2025: Made it just buff colorless creatures instead, because it was pretty useless before"
+            "notes": "19 Aug 2025: Bumped from 1/2 to 1/3\n20 Aug 2025: Made it just buff colorless creatures instead, because it was pretty useless before\n6 Sep 2025: Made 3/3, but totally switched effect to defender and nothing else"
         },
         {
             "card_name": "CA02 Voices of the Severed",
@@ -2154,14 +2154,14 @@
             "notes": "8 Aug 2025: Dropped to common and switched from 3/2 to 1/3, but changed effect to only give +1/+0 and lifelink to self\n\nplaytest notes: probably does not also need lifelink\n\n21 Aug 2025: Removed 1/0 and lifelink, but buffed to 2/3"
         },
         {
-            "card_name": "RZ06 Paragon of Opulence",
+            "card_name": "RZ06 Stylla, Opulence Paragon",
             "color": "WB",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Noble",
+            "type": "Legendary Creature \u2014 Human Noble",
             "number": 215,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "Whenever an opponent loses life on your turn outside of your combat phase, create a tapped Treasure token.\n{W}{W}{B}{B}, {T}: Target opponent loses 7 life and you gain 7 life. Spend only mana from Treasures to activate this ability.",
+            "rules_text": "At the beginning of combat on your turn, if an opponent lost life this turn, create a Treasure token.\n{3}, {T}: Target opponent loses 5 life and you gain 5 life. Spend only mana from Treasures to activate this ability.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -2170,7 +2170,7 @@
             "loyalty": "",
             "artist": "Tim Razumovsky",
             "alias": "",
-            "notes": "move to rare methinks\n\n6 Aug 2025: Changed ability cost from (W/B)(W/B)(W/B) to WWBB\n31 Aug 2025: Dropped to 1WB as a 3/2\n\nShould this be constructed viable? Maybe, in some kind of mardu drain/burn thing\n\nDoes this seem constructed viable? Maybe, but might be a bit too slow"
+            "notes": "move to rare methinks\n\n6 Aug 2025: Changed ability cost from (W/B)(W/B)(W/B) to WWBB\n31 Aug 2025: Dropped to 1WB as a 3/2\n\nShould this be constructed viable? Maybe, in some kind of mardu drain/burn thing\n\nDoes this seem constructed viable? Maybe, but might be a bit too slow\n\n7 Sep 2025: Only triggers once per turn now, but Treasure enters untapped, and effect reduced to 5 life swing from 3 mana"
         },
         {
             "card_name": "UW08 Triumphant Cavalier",
@@ -3035,8 +3035,8 @@
             "number": 200,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Search your library for up to two land cards that don't share names with lands you control, put them onto the battlefield tapped, then shuffle.\nInvestigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this artifact: Draw a card.\u201d)[/i]",
-            "flavor_text": "[i][/i]",
+            "rules_text": "Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",
+            "flavor_text": "[i]Out past Kaalham, there is a place where the air is strange, and the woods meld into an amorphous, psychadelic mire.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -3044,7 +3044,7 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
-            "notes": ""
+            "notes": "7 Sep 2025: Switched to just a functional reprint of Explosive Vegetation"
         },
         {
             "card_name": "UR13 For the Cause",
@@ -4139,14 +4139,14 @@
             "cost": "{G}{G}{G}",
             "rules_text": "Whenever this creature enters or attacks, choose one. If it entered, choose any number instead.\n\u2022 Investigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this artifact: Draw a card.\u201d)[/i]\n\u2022 You may play an additional land this turn.\n\u2022 You gain 3 life.",
             "flavor_text": "[i][/i]",
-            "pt": "4/4",
+            "pt": "3/3",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Svyato",
             "alias": "",
-            "notes": "25 Aug 2025: Made into toy for mono green\n8 lines\n\nShould this be constructed viable? Yes, in mono-G\n\nDoes this seem constructed viable? I think so \u2014 this is a lot of value for mono-G"
+            "notes": "25 Aug 2025: Made into toy for mono green\n7 Sep 2025: Reduced from 4/4 to 3/3\n8 lines\n\nShould this be constructed viable? Yes, in mono-G\n\nDoes this seem constructed viable? I think so \u2014 this is a lot of value for mono-G"
         },
         {
             "card_name": "RG01 Ovaan, Ghost Colossus",
@@ -4461,7 +4461,7 @@
             "color_identity": "B",
             "cost": "{1}{B}{B}",
             "rules_text": "At the beginning of your upkeep, mill a card, then you may pay life equal to its mana value. If you do, put it into your hand.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cSome of our brightest minds have stood in Zaila's opposition. She had each lain below the palace garden.\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
@@ -4757,7 +4757,7 @@
             "notes": "wordy and maybe unreasonable\n30 Aug 2025: Upped to 5 mana to draw 3\n\nShould this be constructed viable? Yes, as removal attached to card advantage in the lategame\n\nDoes this seem constructed viable? Yes, compared to other banish effects"
         },
         {
-            "card_name": "RA03 Slayer of Endless Form",
+            "card_name": "RA03 Endless-Form Slayer",
             "color": "",
             "rarity": "rare",
             "type": "Creature \u2014 Eldrazi Shapeshifter",
@@ -4973,7 +4973,7 @@
             "number": 209,
             "color_identity": "WBG",
             "cost": "{W}{B}{G}",
-            "rules_text": "Whenever a creature token you control enters, put a +1/+1 counter on Ravin.\nWhenever Ravin attacks, attacking tokens gain menace, lifelink, and vigilance until end of turn.",
+            "rules_text": "Whenever a creature token you control enters, put a +1/+1 counter on Ravin.\nWhenever Ravin attacks, attacking tokens gain menace and lifelink until end of turn. Untap them.",
             "flavor_text": "[i]\u201cI often wonder how we will rest, knowing we kept this from our people.\u201d[/i]",
             "pt": "4/3",
             "special_text": "",
@@ -5037,7 +5037,7 @@
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
-            "artist": "Anato Finnstark",
+            "artist": "Sam Perin",
             "alias": "",
             "notes": "Fuck tokens in particular\n18 Aug 2025: Switched from 1UU to UB"
         },

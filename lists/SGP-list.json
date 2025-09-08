@@ -882,7 +882,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "CB08 Soultaker Idol",
+        "card_name": "CB08 Startouched Assassin",
         "number": 102,
         "shape": "normal",
         "set": "SGP"
@@ -912,7 +912,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "CB09 Startouched Assassin",
+        "card_name": "CB09 Soultaker Idol",
         "number": 103,
         "shape": "normal",
         "set": "SGP"
@@ -1252,7 +1252,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "RZ06 Paragon of Opulence",
+        "card_name": "RZ06 Stylla, Opulence Paragon",
         "number": 215,
         "shape": "normal",
         "set": "SGP"
@@ -1442,7 +1442,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "RA03 Slayer of Endless Form",
+        "card_name": "RA03 Endless-Form Slayer",
         "number": 12,
         "shape": "normal",
         "set": "SGP"
@@ -1538,7 +1538,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "CA01 Chrysalis of Flesh",
+        "card_name": "CA01 Ancient Carapace",
         "number": 1,
         "shape": "normal",
         "set": "SGP"

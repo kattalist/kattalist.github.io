@@ -371,23 +371,23 @@
 			}
 		},
 		{
-			"name": "CB08 Soultaker Idol",
+			"name": "CB09 Soultaker Idol",
 			"rarity": "common",
-			"mana_cost": "{4}{B}",
+			"mana_cost": "{5}{B}",
 			"type": "Creature — Eldrazi Horror",
-			"collector_number": "102",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/102_CB08 Soultaker Idol.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/103_CB09 Soultaker Idol.png"
 			}
 		},
 		{
-			"name": "CB09 Startouched Assassin",
+			"name": "CB08 Startouched Assassin",
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Human Assassin Horror",
-			"collector_number": "103",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/103_CB09 Startouched Assassin.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/102_CB08 Startouched Assassin.png"
 			}
 		},
 		{
@@ -731,13 +731,13 @@
 			}
 		},
 		{
-			"name": "CA01 Chrysalis of Flesh",
+			"name": "CA01 Ancient Carapace",
 			"rarity": "common",
 			"mana_cost": "{1}{C}",
 			"type": "Creature — Eldrazi Horror",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/1_CA01 Chrysalis of Flesh.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/1_CA01 Ancient Carapace.png"
 			}
 		},
 		{
@@ -1131,13 +1131,13 @@
 			}
 		},
 		{
-			"name": "RZ06 Paragon of Opulence",
+			"name": "RZ06 Stylla, Opulence Paragon",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
-			"type": "Creature — Human Noble",
+			"type": "Legendary Creature — Human Noble",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/215_RZ06 Paragon of Opulence.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/215_RZ06 Stylla, Opulence Paragon.png"
 			}
 		},
 		{
@@ -2501,13 +2501,13 @@
 			}
 		},
 		{
-			"name": "RA03 Slayer of Endless Form",
+			"name": "RA03 Endless-Form Slayer",
 			"rarity": "rare",
 			"mana_cost": "{4}{C}",
 			"type": "Creature — Eldrazi Shapeshifter",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/12_RA03 Slayer of Endless Form.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/12_RA03 Endless-Form Slayer.png"
 			}
 		},
 		{
@@ -2993,7 +2993,7 @@
 	]
 
 [rare(1)]
-	2 RZ06 Paragon of Opulence
+	2 RZ06 Stylla, Opulence Paragon
 	1 MA01 Ulamog, the Earth Engulfed
 	1 MZ01 Zaila, Her Will Be Done
 	2 RG06 Ruinate
@@ -3057,7 +3057,7 @@
 	2 RL10 Flooded Grove
 	2 RA01 Thoughtscraper
 	2 RA02 Aspirant of Ulamog
-	2 RA03 Slayer of Endless Form
+	2 RA03 Endless-Form Slayer
 	2 RA05 Arbiter of the Scale
 	2 RA06 Supreme Desecrator
 	2 RA07 Scourge of Aeons
@@ -3215,8 +3215,8 @@
 	8 CB05 Inkrealm Stalker
 	8 CB06 Paradigm Enforcer
 	8 CB07 Speakeasy Brokers
-	8 CB08 Soultaker Idol
-	8 CB09 Startouched Assassin
+	8 CB09 Soultaker Idol
+	8 CB08 Startouched Assassin
 	8 CB13 Succumb
 	8 CB10 Harrowing Transformation
 	8 CB11 Learn From Loss
@@ -3249,7 +3249,7 @@
 	8 CG13 Eldritch Growth
 	8 CG12 Donnybrook
 	8 CG14 Unethical Enhancements
-	8 CA01 Chrysalis of Flesh
+	8 CA01 Ancient Carapace
 	8 CA02 Voices of the Severed
 	8 CA04 Old Ones Envoy
 	8 CA05 Rend
@@ -3308,8 +3308,8 @@
 	12 CB05 Inkrealm Stalker
 	12 CB06 Paradigm Enforcer
 	12 CB07 Speakeasy Brokers
-	12 CB08 Soultaker Idol
-	12 CB09 Startouched Assassin
+	12 CB09 Soultaker Idol
+	12 CB08 Startouched Assassin
 	12 CB13 Succumb
 	12 CB10 Harrowing Transformation
 	12 CB11 Learn From Loss
@@ -3343,7 +3343,7 @@
 	12 CG13 Eldritch Growth
 	12 CG12 Donnybrook
 	12 CG14 Unethical Enhancements
-	12 CA01 Chrysalis of Flesh
+	12 CA01 Ancient Carapace
 	12 CA02 Voices of the Severed
 	12 CA04 Old Ones Envoy
 	12 CA05 Rend
@@ -3381,7 +3381,7 @@
 	6 UW04 Thousand-Mind Cutthroat
 	6 UW05 North District Prior
 	12 CW05 Cabaret Seductress
-	2 RZ06 Paragon of Opulence
+	2 RZ06 Stylla, Opulence Paragon
 	6 UW08 Triumphant Cavalier
 	6 UW14 First-Class Skyship
 	6 UW09 Industry Kingpins
@@ -3518,7 +3518,7 @@
 	2 RL10 Flooded Grove
 	2 RA01 Thoughtscraper
 	2 RA02 Aspirant of Ulamog
-	2 RA03 Slayer of Endless Form
+	2 RA03 Endless-Form Slayer
 	2 RA05 Arbiter of the Scale
 	2 RA06 Supreme Desecrator
 	2 RA07 Scourge of Aeons
@@ -3587,8 +3587,8 @@
 	6 CB05 Inkrealm Stalker
 	6 CB06 Paradigm Enforcer
 	6 CB07 Speakeasy Brokers
-	6 CB08 Soultaker Idol
-	6 CB09 Startouched Assassin
+	6 CB09 Soultaker Idol
+	6 CB08 Startouched Assassin
 	6 CB13 Succumb
 	6 CB10 Harrowing Transformation
 	6 CB11 Learn From Loss
@@ -3622,7 +3622,7 @@
 	6 CG13 Eldritch Growth
 	6 CG12 Donnybrook
 	6 CG14 Unethical Enhancements
-	6 CA01 Chrysalis of Flesh
+	6 CA01 Ancient Carapace
 	6 CA02 Voices of the Severed
 	6 CA04 Old Ones Envoy
 	6 CA05 Rend
@@ -3660,7 +3660,7 @@
 	15 UW04 Thousand-Mind Cutthroat
 	15 UW05 North District Prior
 	6 CW05 Cabaret Seductress
-	7 RZ06 Paragon of Opulence
+	7 RZ06 Stylla, Opulence Paragon
 	15 UW08 Triumphant Cavalier
 	15 UW14 First-Class Skyship
 	15 UW09 Industry Kingpins
@@ -3797,7 +3797,7 @@
 	7 RL10 Flooded Grove
 	7 RA01 Thoughtscraper
 	7 RA02 Aspirant of Ulamog
-	7 RA03 Slayer of Endless Form
+	7 RA03 Endless-Form Slayer
 	7 RA05 Arbiter of the Scale
 	7 RA06 Supreme Desecrator
 	7 RA07 Scourge of Aeons

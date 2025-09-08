@@ -1,4 +1,40 @@
-﻿VERSION 37 CHANGELOG
+﻿VERSION 38 CHANGELOG
+====================
+
+CB09 Soultaker Idol added.
+CB08 Startouched Assassin added.
+CA01 Ancient Carapace added.
+RZ06 Stylla, Opulence Paragon added.
+RA03 Endless-Form Slayer added.
+
+CB08 Soultaker Idol removed.
+CB09 Startouched Assassin removed.
+CA01 Chrysalis of Flesh removed.
+RZ06 Paragon of Opulence removed.
+RA03 Slayer of Endless Form removed.
+
+CU06 Winterfell Walker
+
+CU08 Pass Unscathed
+
+UG12 Scour the Formless Scape
+rules_text: Search your library for up to two land cards that don't share names with lands you control, put them onto the battlefield tapped, then shuffle.
+Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+
+RG03 Curious Botanist
+pt: 4/4 => 3/3
+
+MB02 Graven Confidant
+
+MZ07 Ravin, Heir of Goldport
+rules_text: Whenever a creature token you control enters, put a +1/+1 counter on Ravin.
+Whenever Ravin attacks, attacking tokens gain menace, lifelink, and vigilance until end of turn. => Whenever a creature token you control enters, put a +1/+1 counter on Ravin.
+Whenever Ravin attacks, attacking tokens gain menace and lifelink until end of turn. Untap them.
+
+MZ05 Paranoia
+
+
+VERSION 37 CHANGELOG
 ====================
 
 CA06 Reality Wanes added.
