@@ -1,4 +1,573 @@
-﻿VERSION 38 CHANGELOG
+﻿VERSION 39 CHANGELOG
+====================
+
+Volunteer Firewatch added.
+Startouched Devout added.
+Mire Pathforger added.
+Pedigree Collector added.
+Rockpile Brutes added.
+Aerial Regulator added.
+Mournful Matriarch added.
+Zaila's Willbender added.
+Opalwing Cavalry added.
+Upgrade the Force added.
+Timely Intervention added.
+Aerial Augmentation added.
+Zeppelin Disaster added.
+Oligarch's Supercar added.
+Intrepid Aviator added.
+Diviner of Relics added.
+Task Force Operatives added.
+Startouched Analyst added.
+Winterfell Walker added.
+Mastbreaker added.
+Eldritch Rebuttal added.
+Pass Unscathed added.
+Impart Knowledge added.
+Taken by the Storm added.
+Hedron Imprisonment added.
+Duchy Flagship added.
+Zephyr Piercer added.
+Lamplighter of the End added.
+Luxuries Merchant added.
+Unwelcome Tenant added.
+Cruel Patrician added.
+Inkrealm Stalker added.
+Paradigm Enforcer added.
+Speakeasy Brokers added.
+Soultaker Idol added.
+Startouched Assassin added.
+Croak added.
+Harrowing Transformation added.
+Learn From Loss added.
+Compelled to Die added.
+Nightgrasp added.
+Eyekissed Invoker added.
+Hotwire Prodigy added.
+Steelsuit Consultant added.
+Colossus Showman added.
+Magma Scribe added.
+Startouched Blitzer added.
+Spire Defender added.
+Ruin Prowler added.
+Crimson Gladeguard added.
+In Eldritch Flame added.
+Commune with Silence added.
+Emergency Jettison added.
+Incendiary Charger added.
+Task Force Hotrod added.
+Wreckage Inquisitors added.
+Startouched Arborist added.
+Deathrite Mystic added.
+First Responders added.
+Streetway Incursion added.
+World Whisperer added.
+Precipice Recon added.
+Branchbound Speaker added.
+Starbreaker Juvenile added.
+Barksplitter Colossus added.
+A Hole in the Sky added.
+Eldritch Growth added.
+Donnybrook added.
+Unethical Enhancements added.
+Ancient Carapace added.
+Voices of the Severed added.
+Old Ones Envoy added.
+Rend added.
+Reality Wanes added.
+Incursive Voidmaw added.
+Obsidian Reliquary added.
+Arcwhip Emitter added.
+Pine Blitzer added.
+Corrupted Hedron added.
+Steelform Willshaper added.
+Splintering Edict added.
+Afflict Thought added.
+Obsessive Ritualist added.
+Restless Summoners added.
+Oathbound Stalwart added.
+Paid Off added.
+Stormquell Liner added.
+Sludge Trawlers added.
+Admired Aeronaut added.
+Lantha, Task Force Sergeant added.
+Raven Whisperer added.
+Black Site Enhancer added.
+Voidwing Kite added.
+Soulsiphon Initiate added.
+Voice of the Roaring Wind added.
+In Strength Entwined added.
+Karsten, the Spinner added.
+Smuggler's Hovercar added.
+Ravaged Eviscerator added.
+Artillery Commander added.
+Adaptive Agent added.
+Sky Force Retiree added.
+Scape Surveyor added.
+Steelwire Shaper added.
+Thousand-Mind Cutthroat added.
+North District Prior added.
+Cabaret Seductress added.
+Stylla, Opulence Paragon added.
+Triumphant Cavalier added.
+First-Class Skyship added.
+Industry Kingpins added.
+Leave No Trace added.
+Induced Catatonia added.
+Faculty of Engineering added.
+Strength of the Departed added.
+Watchman of the Deep added.
+Steelsuit Retrofitter added.
+Port Inspector added.
+Ego Devourer added.
+Adaptive Lieutenant added.
+Void Empyrean added.
+In the Nick of Time added.
+Fade added.
+Mindbreak Shield added.
+Ancestral Voidstone added.
+Remember the Titans added.
+Ego Death added.
+Wiped Clean added.
+Triumph, Taken by the Roil added.
+Shingle Crawler added.
+Viscera Channeler added.
+Forgotten Naturalist added.
+Yestergrove Relic added.
+Curio Broker added.
+Botanical Conference added.
+Manifold Chorus added.
+Savage Broodmother added.
+Willowvine Sentinel added.
+Bitten By the Void added.
+Occupation added.
+Blinding Immolation added.
+For All of Calloran added.
+Confidential Science added.
+Cataclysm Constable added.
+Karsten's Enforcer added.
+Festering Eyemass added.
+Flesh Shredder added.
+Corpse Inspectors added.
+Epitaph Lurkers added.
+Brethren Priestess added.
+Flamerush added.
+Quick and Painful added.
+Ancient Stirrings added.
+Scour the Formless Scape added.
+For the Cause added.
+Indoctrination added.
+Ashen Ravager added.
+Mutation Investigator added.
+Preemption Engineer added.
+Sacrifice Archivist added.
+Wildfire Aven added.
+Forgotten Lane Busker added.
+Pinefell Terror added.
+Stonebridge Ambush added.
+Devour the Broken added.
+Scalding Roil added.
+Watch the Docks added.
+Unnatural Torment added.
+Channel the Dark added.
+Pyretic Dreadnought added.
+Titan's Effigy added.
+Three-Eye Scrier added.
+Endward Harbinger added.
+Mesa Devourer added.
+Eternity Takes added.
+Prismatic Splinter added.
+Fateblur Cloak added.
+Winterfell Locomotive added.
+Hall of Innovation added.
+Promising Vista added.
+Vintage Fanatic added.
+Ulamog, the Earth Engulfed added.
+Zaila, Her Will Be Done added.
+Ruinate added.
+Banquet Sleuth added.
+Bear Witness added.
+Captivating Alto added.
+High Sergeant Liano added.
+Subjugation Herald added.
+Eiara, Aegis Herald added.
+Destined End added.
+Regulation Inspector added.
+Glyphbound Sharpshooter added.
+Auspicious Coroners added.
+Scion of Insanity added.
+Czaruun, Insight Herald added.
+Roiling Undertow added.
+Unparalleled Efficiency added.
+Haunted Starlet added.
+Insatiable Slasher added.
+Mortician's Carriage added.
+Teachings of Kavalesk added.
+Zommok, Grief Herald added.
+Esme, Lost to Avarice added.
+Moonlit Mutilator added.
+Collector of Souls added.
+Bullet Locomotive added.
+Dasek, Wrath Herald added.
+Up in Flames added.
+Visions of the Veil added.
+Gene Recombinators added.
+Curious Botanist added.
+Ovaan, Ghost Colossus added.
+Chasm Behemoth added.
+Vinrag, Expanse Herald added.
+Kavalesk, the Dark Exalted added.
+Grand Awakening added.
+Population Boom added.
+Olmin, Royal Liaison added.
+Clanston Innovator added.
+Something in the Soil added.
+Cirrus Behemoth added.
+Efraim, High Alderman added.
+Revoke Will added.
+Reality Schism added.
+Brunn, Blunt Tactician added.
+That Even Time Forgets added.
+Fate's Cruel Compulsion added.
+Graven Confidant added.
+Acolyte of Knowledge added.
+Mystic Gate added.
+Sunken Ruins added.
+Graven Cairns added.
+Fire-Lit Thicket added.
+Wooded Bastion added.
+Reality Cusp added.
+Lost to Endless Scripture added.
+Fetid Heath added.
+Cascade Bluffs added.
+Twilight Mire added.
+Rugged Prairie added.
+Flooded Grove added.
+Thoughtscraper added.
+Aspirant of Ulamog added.
+Endless-Form Slayer added.
+Arbiter of the Scale added.
+Supreme Desecrator added.
+Scourge of Aeons added.
+The West District Hangar added.
+Eldrazi Monolith added.
+Lantha's Journal added.
+Leonard, Experiment Zero added.
+Dream of Aeons Past added.
+Lightwire Swarm added.
+Derail added.
+Ravin, Heir of Goldport added.
+Fated Reunion added.
+Torvinald, Iron Eminence added.
+Paranoia added.
+Bloodlust Visionary added.
+Scour for Inspiration added.
+Jerald, Steel Virtuoso added.
+Eccentric Geneticist added.
+Baalakus, the Zenith added.
+Kozilek, the Bonds Unmade added.
+Emrakul, the Sky Sundered added.
+Keeper's Peninsula added.
+Dusk Vantage added.
+Lost Settlement added.
+Cliffrest Tributary added.
+Village Steeples added.
+Secluded Avenue added.
+Cataract Valley added.
+Outlands Hamlet added.
+Bronzeglade Peaks added.
+Lakewatch Ruins added.
+Forge in Anguish added.
+What Remains of Winterfell added.
+
+CW01 Volunteer Firewatch removed.
+CW02 Startouched Devout removed.
+CW08 Mire Pathforger removed.
+CW04 Pedigree Collector removed.
+CW06 Rockpile Brutes removed.
+CW07 Aerial Regulator removed.
+CW03 Mournful Matriarch removed.
+CW09 Zaila's Willbender removed.
+CW10 Opalwing Cavalry removed.
+UW06 Upgrade the Force removed.
+CW11 Timely Intervention removed.
+CW12 Aerial Augmentation removed.
+CW13 Zeppelin Disaster removed.
+CW14 Oligarch's Supercar removed.
+CU01 Intrepid Aviator removed.
+CU02 Diviner of Relics removed.
+CU03 Task Force Operatives removed.
+CU05 Startouched Analyst removed.
+CU06 Winterfell Walker removed.
+CU07 Mastbreaker removed.
+CU09 Eldritch Rebuttal removed.
+CU08 Pass Unscathed removed.
+CU11 Impart Knowledge removed.
+CU10 Taken by the Storm removed.
+CU12 Hedron Imprisonment removed.
+CU13 Duchy Flagship removed.
+CU14 Zephyr Piercer removed.
+CB01 Lamplighter of the End removed.
+CB02 Luxuries Merchant removed.
+CB03 Unwelcome Tenant removed.
+CB04 Cruel Patrician removed.
+CB05 Inkrealm Stalker removed.
+CB06 Paradigm Enforcer removed.
+CB07 Speakeasy Brokers removed.
+CB09 Soultaker Idol removed.
+CB08 Startouched Assassin removed.
+CB13 Succumb removed.
+CB10 Harrowing Transformation removed.
+CB11 Learn From Loss removed.
+CB12 Compelled to Die removed.
+CB14 Nightgrasp removed.
+CR02 Eyekissed Invoker removed.
+CR01 Hotwire Prodigy removed.
+CR03 Steelsuit Consultant removed.
+CR04 Colossus Showman removed.
+CR05 Magma Scribe removed.
+CR06 Startouched Blitzer removed.
+CR08 Spire Defender removed.
+CR09 Ruin Prowler removed.
+CR07 Crimson Gladeguard removed.
+UR09 In Eldritch Flame removed.
+CR11 Commune with Silence removed.
+CR12 Pyre removed.
+CR13 Incendiary Charger removed.
+CR14 Task Force Hotrod removed.
+CG01 Wreckage Inquisitors removed.
+CG05 Startouched Arborist removed.
+CG03 Deathrite Mystic removed.
+CG04 First Responders removed.
+CG07 Streetway Incursion removed.
+CG08 World Whisperer removed.
+CG06 Hirehand Gunner removed.
+CG02 Verge Drifter removed.
+CG09 Starbreaker Juvenile removed.
+CG10 Barksplitter Colossus removed.
+CG11 A Hole in the Sky removed.
+CG13 Eldritch Growth removed.
+CG12 Donnybrook removed.
+CG14 Unethical Enhancements removed.
+CA01 Ancient Carapace removed.
+CA02 Voices of the Severed removed.
+CA04 Old Ones Envoy removed.
+CA05 Rend removed.
+CA06 Reality Wanes removed.
+CA03 Incursive Voidmaw removed.
+CA07 Obsidian Reliquary removed.
+CA08 Arcwhip Emitter removed.
+CA09 Pine Blitzer removed.
+CA10 Corrupted Hedron removed.
+CA11 Steelform Willshaper removed.
+UZ01 Splintering Edict removed.
+UZ02 Afflict Thought removed.
+UZ03 Obsessive Ritualist removed.
+UZ04 Restless Summoners removed.
+UZ05 Oathbound Stalwart removed.
+UZ06 Paid Off removed.
+UZ09 Stormquell Liner removed.
+UZ08 Sludge Trawlers removed.
+UZ07 Admired Aeronaut removed.
+UZ10 Lantha, Task Force Sergeant removed.
+Cultist removed.
+CU04 Ravenfolk Adept removed.
+UZ11 Black Site Enhancer removed.
+UZ12 Voidwing Kite removed.
+UZ13 Soulsiphon Initiate removed.
+UZ14 Voice of the Roaring Wind removed.
+UZ15 In Strength Entwined removed.
+UZ16 Karsten, the Spinner removed.
+UZ17 Smuggler's Hovercar removed.
+UZ18 Ravaged Eviscerator removed.
+UZ19 Artillery Commander removed.
+UZ20 Adaptive Agent removed.
+UW01 Sky Force Retiree removed.
+UW02 Scape Surveyor removed.
+UW03 Steelwire Shaper removed.
+UW04 Thousand-Mind Cutthroat removed.
+UW05 North District Prior removed.
+CW05 Cabaret Seductress removed.
+RZ06 Stylla, Opulence Paragon removed.
+UW08 Triumphant Cavalier removed.
+UW14 First-Class Skyship removed.
+UW09 Industry Kingpins removed.
+UW10 Leave No Trace removed.
+UW11 Induced Catatonia removed.
+UW12 Faculty of Engineering removed.
+UW13 Strength of the Departed removed.
+UU01 Watchman of the Deep removed.
+UU02 Steelsuit Retrofitter removed.
+UU03 Port Inspector removed.
+UU04 Ego Devourer removed.
+UU05 Adaptive Lieutenant removed.
+UU06 Void Empyrean removed.
+UU09 In the Nick of Time removed.
+UU08 Fade removed.
+UU07 Mindbreak Shield removed.
+UU13 Ancestral Voidstone removed.
+UU11 Consult the Titans removed.
+UU10 Rippling Fracture removed.
+UU12 Wiped Clean removed.
+UU14 Triumph, Taken by the Roil removed.
+UB01 Shingle Crawler removed.
+UG02 Viscera Channeler removed.
+UG03 Forgotten Naturalist removed.
+UG04 Yestergrove Relic removed.
+UG05 Curio Broker removed.
+UG06 Botanical Conference removed.
+UG07 Manifold Wreaker removed.
+UG08 Savage Broodmother removed.
+UG09 Willowvine Sentinel removed.
+UG10 Bitten By the Void removed.
+UR11 Occupation removed.
+UR12 Blinding Immolation removed.
+UG13 For All of Calloran removed.
+UG14 Confidential Science removed.
+UG01 Cataclysm Constable removed.
+UB02 Karsten's Enforcer removed.
+UB03 Festering Eyemass removed.
+UB04 Flesh Shredder removed.
+UB05 Corpse Inspectors removed.
+UB06 Epitaph Lurkers removed.
+UB07 Brethren Priestess removed.
+UR08 Flamerush removed.
+UB12 Quick and Painful removed.
+UG11 Ancient Stirrings removed.
+UG12 Scour the Formless Scape removed.
+UR13 For the Cause removed.
+UB14 Indoctrination removed.
+UR01 Ashen Ravager removed.
+UR02 Mutation Investigator removed.
+UR03 Preemption Engineer removed.
+UR04 Sacrifice Archivist removed.
+UR05 Wildfire Aven removed.
+UR06 Forgotten Lane Busker removed.
+UR07 Pinefell Terror removed.
+UB08 Stonebridge Ambush removed.
+UB09 Devour the Broken removed.
+UR10 Scalding Roil removed.
+UB10 Watch the Docks removed.
+UB11 Unnatural Torment removed.
+UB13 Channel the Dark removed.
+UR14 Pyretic Dreadnought removed.
+UA01 Titan's Effigy removed.
+UA02 Three-Eye Scrier removed.
+UA03 Endward Harbinger removed.
+UA04 Mesa Devourer removed.
+UA05 Eternity Takes removed.
+UA07 Prismatic Splinter removed.
+UA06 Fateblur Cloak removed.
+UA08 Winterfell Locomotive removed.
+UA09 Hall of Innovation removed.
+UA10 Promising Vista removed.
+UW07 Vintage Fanatic removed.
+MA01 Ulamog, the Earth Engulfed removed.
+MZ01 Zaila, Her Will Be Done removed.
+RG06 Ruinate removed.
+RZ10 Banquet Sleuth removed.
+RA08 Bear Witness removed.
+RW03 Captivating Alto removed.
+RW02 High Sergeant Liano removed.
+MW02 Subjugation Herald removed.
+RW04 Eiara, Aegis Herald removed.
+RW06 Destined End removed.
+RW01 Regulation Inspector removed.
+RU01 Glyphbound Sharpshooter removed.
+RU02 Auspicious Coroners removed.
+RU03 Scion of Insanity removed.
+RU04 Czaruun, Insight Herald removed.
+RU05 Roiling Undertow removed.
+RU06 Unparalleled Efficiency removed.
+RB01 Haunted Starlet removed.
+RB02 Insatiable Slasher removed.
+RB05 Mortician's Carriage removed.
+RB06 Teachings of Kavalesk removed.
+RB04 Zommok, Grief Herald removed.
+RB03 Esme, Lost to Avarice removed.
+RR01 Moonlit Mutilator removed.
+RA04 Collector of Souls removed.
+RR02 Bullet Locomotive removed.
+RR03 Dasek, Wrath Herald removed.
+RR04 Up in Flames removed.
+RR05 Visions of the Veil removed.
+RG02 Gene Recombinators removed.
+RG03 Curious Botanist removed.
+RG01 Ovaan, Ghost Colossus removed.
+RG04 Chasm Behemoth removed.
+RG05 Vinrag, Expanse Herald removed.
+RZ03 Kavalesk, the Dark Exalted removed.
+MZ06 Grand Awakening removed.
+RZ05 Population Boom removed.
+RZ01 Olmin, Royal Liaison removed.
+RZ07 Clanston Innovator removed.
+RZ08 Something in the Soil removed.
+RZ09 Cirrus Behemoth removed.
+MZ04 Efraim, High Alderman removed.
+RZ02 Revoke Will removed.
+RZ12 Reality Schism removed.
+RZ13 Brunn, Blunt Tactician removed.
+RZ14 That Even Time Forgets removed.
+RZ15 Fate's Cruel Compulsion removed.
+MB02 Graven Confidant removed.
+MU02 Acolyte of Knowledge removed.
+RL01 Mystic Gate removed.
+RL02 Sunken Ruins removed.
+RL03 Graven Cairns removed.
+RL04 Fire-Lit Thicket removed.
+RL05 Wooded Bastion removed.
+RL11 Reality Cusp removed.
+MZ02 Lost to Endless Scripture removed.
+RL06 Fetid Heath removed.
+RL07 Cascade Bluffs removed.
+RL08 Twilight Mire removed.
+RL09 Rugged Prairie removed.
+RL10 Flooded Grove removed.
+RA01 Thoughtscraper removed.
+RA02 Aspirant of Ulamog removed.
+RA03 Endless-Form Slayer removed.
+RA05 Arbiter of the Scale removed.
+RA06 Supreme Desecrator removed.
+RA07 Scourge of Aeons removed.
+RR06 The West District Hangar removed.
+RA09 Eldrazi Monolith removed.
+RA10 Joyride, Heirloom Skydancer removed.
+MZ03 Leonard, Experiment Zero removed.
+RZ11 Dream of Aeons Past removed.
+MU01 Lightwire Swarm removed.
+RZ04 Derail removed.
+MZ07 Ravin, Heir of Goldport removed.
+RW05 Fated Reunion removed.
+MW01 Torvinald, Iron Eminence removed.
+MZ05 Paranoia removed.
+MB01 Bloodlust Visionary removed.
+MR01 Scour for Inspiration removed.
+MR02 Jerald, Steel Virtuoso removed.
+MG01 Eccentric Geneticist removed.
+MG02 Baalakus, the Zenith removed.
+MA02 Kozilek, the Bonds Unmade removed.
+MA03 Emrakul, the Sky Sundered removed.
+CL01 Keeper's Peninsula removed.
+CL02 Dusk Vantage removed.
+CL03 Lost Settlement removed.
+CL04 Cliffrest Tributary removed.
+CL05 Village Steeples removed.
+CL06 Secluded Avenue removed.
+CL07 Cataract Valley removed.
+CL08 Outlands Hamlet removed.
+CL09 Bronzeglade Peaks removed.
+CL10 Lakewatch Ruins removed.
+CR10 Forge in Anguish removed.
+RL12 What Remains of Winterfell removed.
+
+Treasure
+
+Clue
+
+Construct
+
+
+VERSION 38 CHANGELOG
 ====================
 
 CB09 Soultaker Idol added.
