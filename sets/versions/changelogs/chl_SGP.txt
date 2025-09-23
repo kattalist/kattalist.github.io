@@ -1,4 +1,12 @@
-﻿VERSION 40 CHANGELOG
+﻿VERSION 41 CHANGELOG
+====================
+
+
+
+Banquet Sleuth
+
+
+VERSION 40 CHANGELOG
 ====================
 
 Collaborate added.

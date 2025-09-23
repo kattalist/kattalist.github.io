@@ -3606,7 +3606,7 @@
             "color_identity": "UG",
             "cost": "{G}{U}",
             "rules_text": "This creature can't be blocked.\nThis creature gets +1/+1 for each Clue you've sacrificed this turn.",
-            "flavor_text": "[i]The liaison whispered platitudes to Zaila's advisors. Through their bugs, the Task Force heard answers.[/i]",
+            "flavor_text": "[i]The liaison whispered platitudes to Zaila's advisors. The Task Force heard haunting answers.[/i]",
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
@@ -5669,5 +5669,5 @@
             "notes": ""
         }
     ],
-    "version": 40
+    "version": 41
 }
