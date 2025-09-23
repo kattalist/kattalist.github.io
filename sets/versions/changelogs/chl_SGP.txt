@@ -1,4 +1,275 @@
-﻿VERSION 39 CHANGELOG
+﻿VERSION 40 CHANGELOG
+====================
+
+Collaborate added.
+Public Exhibition added.
+Evacuation Hotrod added.
+Game Hunters added.
+Holism Seeker added.
+Impact Surveyors added.
+Bread and Circuses added.
+North Salcman Vigil added.
+Inkrealm Drowner added.
+Ovaan, Starbreaker Ghost added.
+
+Impart Knowledge removed.
+Hedron Imprisonment removed.
+Task Force Hotrod removed.
+Deathrite Mystic removed.
+Forgotten Naturalist removed.
+Curio Broker removed.
+Indoctrination removed.
+Watch the Docks removed.
+Mesa Devourer removed.
+Ovaan, Ghost Colossus removed.
+
+Intrepid Aviator
+
+Diviner of Relics
+
+Startouched Analyst
+type: Creature — Zombie Scientist Horror => Creature — Human Scientist Horror
+
+Winterfell Walker
+
+Mastbreaker
+
+Eldritch Rebuttal
+
+Pass Unscathed
+
+Duchy Flagship
+
+Unwelcome Tenant
+
+Cruel Patrician
+
+Paradigm Enforcer
+
+Speakeasy Brokers
+
+Soultaker Idol
+
+Startouched Assassin
+
+Croak
+
+Harrowing Transformation
+
+Compelled to Die
+
+Eyekissed Invoker
+
+Hotwire Prodigy
+
+Steelsuit Consultant
+
+Magma Scribe
+
+Startouched Blitzer
+type: Creature — Human Horror => Creature — Elemental Horror
+
+Spire Defender
+
+Ruin Prowler
+
+In Eldritch Flame
+
+Incendiary Charger
+
+First Responders
+
+Starbreaker Juvenile
+type: Creature — Beast Horror => Creature — Horror
+
+A Hole in the Sky
+
+Eldritch Growth
+
+Donnybrook
+
+Reality Wanes
+
+Steelform Willshaper
+rules_text: Whenever this Vehicle attacks alone, it gains trample until end of turn.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => {2}: This Vehicle gains menace until end of turn.
+Crew 4 [i](Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Stormquell Liner
+
+Admired Aeronaut
+rules_text: Flying
+Whenever you activate an ability of a Vehicle for the first time each turn, untap up to one target creature you control. If you spent mana to activate that ability, instead add {R} and this creature gets +1/+1 until end of turn. => Flying
+Whenever you activate an ability of a Vehicle for the first time each turn, untap target creature you control. If you spent mana to activate that ability, instead add {R} and this creature gets +1/+1 until end of turn.
+
+Ravaged Eviscerator
+rules_text: Devoid [i](This card has no color.)[/i]
+When this creature enters or deals combat damage to a player, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+{1}, Sacrifice a creature: This creature gains deathtouch until end of turn. => Devoid [i](This card has no color.)[/i]
+Whenever this creature enters or deals combat damage to a player, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+{1}{C}: Put a +1/+1 counter on this creature.
+
+Scape Surveyor
+
+North District Prior
+rules_text: This creature enters with a +1/+1 counter on it for each creature you control.
+{3}{W}, {T}: Exile this creature. Return it to the battlefield under its owner's control at the beginning of the next end step. => This creature enters with a +1/+1 counter on it for each creature you control.
+{1}{W}, {T}: Exile this creature. Return it to the battlefield under its owner's control at the beginning of the next end step.
+
+Leave No Trace
+
+Port Inspector
+
+Ego Devourer
+rules_text: You may have this creature enter as a copy of any creature on the battlefield.
+{U}{U}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => You may have this creature enter as a copy of any creature on the battlefield, except it has this card's abilities.
+{U}{U}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+
+In the Nick of Time
+rules_text: Counter target spell. If that spell targeted one or more permanents you control, draw a card. => Counter target spell. If that spell targets one or more permanents you control, draw a card.
+
+Fade
+
+Mindbreak Shield
+
+Ego Death
+
+Shingle Crawler
+
+Occupation
+rules_text: Gain control of target Vehicle or creature until end of turn. Untap that permanent. It gains haste until end of turn, and it becomes an artifact creature until end of turn if it's a Vehicle. => Gain control of target Vehicle or creature until end of turn and untap it. It gains haste until end of turn, and it becomes an artifact creature until end of turn if it's a Vehicle.
+
+Blinding Immolation
+
+For All of Calloran
+
+Karsten's Enforcer
+
+Festering Eyemass
+
+Flesh Shredder
+
+Corpse Inspectors
+
+Epitaph Lurkers
+
+Brethren Priestess
+
+Flamerush
+
+Quick and Painful
+
+For the Cause
+
+Mutation Investigator
+
+Preemption Engineer
+
+Sacrifice Archivist
+rules_text: Menace
+Whenever this creature attacks, exile the top card of your library. 
+You may play cards exiled with this creature as long as the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => Menace
+Whenever this creature attacks, exile the top card of your library.
+You may play cards exiled with this creature as long as the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+
+Wildfire Aven
+type: Creature — Elemental => Creature — Elemental Bird
+
+Forgotten Lane Busker
+
+Pinefell Terror
+
+Stonebridge Ambush
+
+Devour the Broken
+
+Scalding Roil
+
+Unnatural Torment
+
+Channel the Dark
+rules_text: When this enchantment enters, each opponent discards a card, then loses 3 life unless they sacrifice a creature.
+Whenever you discard a card, you may pay {1}{B}. If you do, return that card and this enchantment to your hand. => When this enchantment enters, each opponent loses 3 life unless they sacrifice a creature. Then target player discards a card.
+Whenever you discard a card, you may pay {1}{B}. If you do, return that card and this enchantment to your hand.
+
+Pyretic Dreadnought
+
+Titan's Effigy
+
+Three-Eye Scrier
+type: Creature — Horror => Creature — Horror Shaman
+
+Endward Harbinger
+
+Eternity Takes
+
+Fateblur Cloak
+
+Vintage Fanatic
+
+Destined End
+rules_text: Cleave {2}{W}{W} [i](You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)[/i]
+Destroy all [token] creatures. => Cleave {1}{W}{W}{W} [i](You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)[/i]
+Destroy all [token] creatures.
+
+Glyphbound Sharpshooter
+
+Czaruun, Insight Herald
+
+Roiling Undertow
+rules_text: Each player chooses up to one creature they control and fragments it. [i](That player creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+Return all creatures not fragmented this way to their owners' hands. => Each player chooses up to one creature they control and fragments it. Return all creatures not fragmented this way to their owners' hands. [i](To fragment a creature, its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+
+Haunted Starlet
+
+Teachings of Kavalesk
+
+Esme, Lost to Avarice
+
+Moonlit Mutilator
+
+Collector of Souls
+rules_text: This creature can't be blocked except by three or more creatures.
+Whenever this creature becomes blocked by a creature with toughness 2 or less, gain control of that creature. You may have this creature assign its combat damage as though it weren't blocked by that creature. => This creature can't be blocked except by three or more creatures.
+Whenever this creature becomes blocked by a creature with toughness 2 or less, gain control of that creature. This creature assigns its combat damage as though it weren't blocked by that creature.
+
+Gene Recombinators
+
+Curious Botanist
+
+Vinrag, Expanse Herald
+cost: {3}{G}{G} => {4}{G}{G}
+
+Revoke Will
+
+Graven Confidant
+
+Mystic Gate
+
+Lightwire Swarm
+
+Bloodlust Visionary
+rules_text: Whenever a player sacrifices a nontoken permanent, you may pay 2 life. If you do, create a token that's a copy of that permanent.
+{1}{B}, Sacrifice a creature: You draw a card and lose 1 life. => Whenever a player sacrifices a nontoken permanent, you may pay 2 life. If you do, create a token that's a copy of that permanent.
+{B}, Sacrifice a creature: You draw a card and lose 1 life.
+
+Scour for Inspiration
+
+Jerald, Steel Virtuoso
+
+Eccentric Geneticist
+
+Baalakus, the Zenith
+rules_text: Trample, vigilance
+When Baalakus enters, draw cards equal to the greatest power among other creatures you control. If you would draw eight or more cards this way, instead draw twice that many cards and you have no maximum hand size for the rest of the game. => Trample, vigilance
+When Baalakus enters, draw X cards, where X is the greatest power among other creatures you control. If X is 8 or more, instead draw twice that many cards and you have no maximum hand size for the rest of the game.
+
+Kozilek, the Bonds Unmade
+
+Forge in Anguish
+
+
+VERSION 39 CHANGELOG
 ====================
 
 Volunteer Firewatch added.

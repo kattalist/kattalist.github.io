@@ -19,7 +19,7 @@
     },
     {
         "card_name": "Jerald, Steel Virtuoso",
-        "number": 147,
+        "number": 148,
         "shape": "normal",
         "set": "SGP"
     },
@@ -37,25 +37,25 @@
     },
     {
         "card_name": "Lightwire Swarm",
-        "number": 75,
+        "number": 74,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "Graven Confidant",
-        "number": 107,
+        "number": 108,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "Scour for Inspiration",
-        "number": 158,
+        "number": 159,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "Eccentric Geneticist",
-        "number": 180,
+        "number": 178,
         "shape": "normal",
         "set": "SGP"
     },
@@ -73,7 +73,7 @@
     },
     {
         "card_name": "Esme, Lost to Avarice",
-        "number": 104,
+        "number": 105,
         "shape": "normal",
         "set": "SGP"
     },
@@ -97,13 +97,13 @@
     },
     {
         "card_name": "Czaruun, Insight Herald",
-        "number": 63,
+        "number": 64,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "Haunted Starlet",
-        "number": 109,
+        "number": 110,
         "shape": "normal",
         "set": "SGP"
     },
@@ -115,7 +115,7 @@
     },
     {
         "card_name": "Curious Botanist",
-        "number": 177,
+        "number": 176,
         "shape": "normal",
         "set": "SGP"
     },
@@ -127,7 +127,7 @@
     },
     {
         "card_name": "Glyphbound Sharpshooter",
-        "number": 70,
+        "number": 71,
         "shape": "normal",
         "set": "SGP"
     },
@@ -139,13 +139,13 @@
     },
     {
         "card_name": "Moonlit Mutilator",
-        "number": 149,
+        "number": 150,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "Gene Recombinators",
-        "number": 185,
+        "number": 183,
         "shape": "normal",
         "set": "SGP"
     },
@@ -174,7 +174,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "Ovaan, Ghost Colossus",
+        "card_name": "Ovaan, Starbreaker Ghost",
         "number": 188,
         "shape": "normal",
         "set": "SGP"
@@ -193,7 +193,7 @@
     },
     {
         "card_name": "Teachings of Kavalesk",
-        "number": 126,
+        "number": 127,
         "shape": "normal",
         "set": "SGP"
     },
@@ -252,7 +252,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "Brethren Priestess",
+        "card_name": "Bread and Circuses",
         "number": 96,
         "shape": "normal",
         "set": "SGP"
@@ -282,7 +282,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "Channel the Dark",
+        "card_name": "Brethren Priestess",
         "number": 97,
         "shape": "normal",
         "set": "SGP"
@@ -307,19 +307,19 @@
     },
     {
         "card_name": "Ego Death",
-        "number": 66,
+        "number": 67,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "Corpse Inspectors",
-        "number": 99,
+        "card_name": "Channel the Dark",
+        "number": 98,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "Flamerush",
-        "number": 140,
+        "number": 141,
         "shape": "normal",
         "set": "SGP"
     },
@@ -337,19 +337,19 @@
     },
     {
         "card_name": "Ego Devourer",
-        "number": 67,
+        "number": 68,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "Devour the Broken",
-        "number": 102,
+        "card_name": "Corpse Inspectors",
+        "number": 100,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "For the Cause",
-        "number": 141,
+        "number": 142,
         "shape": "normal",
         "set": "SGP"
     },
@@ -367,19 +367,19 @@
     },
     {
         "card_name": "Fade",
-        "number": 69,
+        "number": 70,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "Epitaph Lurkers",
+        "card_name": "Devour the Broken",
         "number": 103,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "Forgotten Lane Busker",
-        "number": 143,
+        "number": 144,
         "shape": "normal",
         "set": "SGP"
     },
@@ -397,25 +397,25 @@
     },
     {
         "card_name": "In the Nick of Time",
-        "number": 73,
+        "number": 72,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "Festering Eyemass",
-        "number": 105,
+        "card_name": "Epitaph Lurkers",
+        "number": 104,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "In Eldritch Flame",
-        "number": 145,
+        "number": 146,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "Curio Broker",
-        "number": 176,
+        "card_name": "For All of Calloran",
+        "number": 181,
         "shape": "normal",
         "set": "SGP"
     },
@@ -427,25 +427,25 @@
     },
     {
         "card_name": "Mindbreak Shield",
-        "number": 77,
+        "number": 76,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "Flesh Shredder",
+        "card_name": "Festering Eyemass",
         "number": 106,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "Mutation Investigator",
-        "number": 150,
+        "number": 151,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "For All of Calloran",
-        "number": 183,
+        "card_name": "Holism Seeker",
+        "number": 185,
         "shape": "normal",
         "set": "SGP"
     },
@@ -457,25 +457,25 @@
     },
     {
         "card_name": "Port Inspector",
-        "number": 79,
+        "number": 78,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "Indoctrination",
-        "number": 110,
+        "card_name": "Flesh Shredder",
+        "number": 107,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "Occupation",
-        "number": 151,
+        "number": 152,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "Forgotten Naturalist",
-        "number": 184,
+        "card_name": "Impact Surveyors",
+        "number": 186,
         "shape": "normal",
         "set": "SGP"
     },
@@ -499,7 +499,7 @@
     },
     {
         "card_name": "Pinefell Terror",
-        "number": 152,
+        "number": 153,
         "shape": "normal",
         "set": "SGP"
     },
@@ -522,14 +522,14 @@
         "set": "SGP"
     },
     {
-        "card_name": "Quick and Painful",
-        "number": 120,
+        "card_name": "North Salcman Vigil",
+        "number": 119,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "Preemption Engineer",
-        "number": 153,
+        "number": 154,
         "shape": "normal",
         "set": "SGP"
     },
@@ -552,14 +552,14 @@
         "set": "SGP"
     },
     {
-        "card_name": "Shingle Crawler",
+        "card_name": "Quick and Painful",
         "number": 121,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "Pyretic Dreadnought",
-        "number": 154,
+        "number": 155,
         "shape": "normal",
         "set": "SGP"
     },
@@ -582,14 +582,14 @@
         "set": "SGP"
     },
     {
-        "card_name": "Stonebridge Ambush",
-        "number": 125,
+        "card_name": "Shingle Crawler",
+        "number": 122,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "Sacrifice Archivist",
-        "number": 156,
+        "number": 157,
         "shape": "normal",
         "set": "SGP"
     },
@@ -612,14 +612,14 @@
         "set": "SGP"
     },
     {
-        "card_name": "Unnatural Torment",
-        "number": 127,
+        "card_name": "Stonebridge Ambush",
+        "number": 126,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "Scalding Roil",
-        "number": 157,
+        "number": 158,
         "shape": "normal",
         "set": "SGP"
     },
@@ -642,8 +642,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Watch the Docks",
-        "number": 129,
+        "card_name": "Unnatural Torment",
+        "number": 128,
         "shape": "normal",
         "set": "SGP"
     },
@@ -666,14 +666,14 @@
         "set": "SGP"
     },
     {
-        "card_name": "Diviner of Relics",
-        "number": 64,
+        "card_name": "Collaborate",
+        "number": 63,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "Compelled to Die",
-        "number": 98,
+        "number": 99,
         "shape": "normal",
         "set": "SGP"
     },
@@ -696,14 +696,14 @@
         "set": "SGP"
     },
     {
-        "card_name": "Duchy Flagship",
+        "card_name": "Diviner of Relics",
         "number": 65,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "Croak",
-        "number": 100,
+        "number": 101,
         "shape": "normal",
         "set": "SGP"
     },
@@ -726,14 +726,14 @@
         "set": "SGP"
     },
     {
-        "card_name": "Eldritch Rebuttal",
-        "number": 68,
+        "card_name": "Duchy Flagship",
+        "number": 66,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "Cruel Patrician",
-        "number": 101,
+        "number": 102,
         "shape": "normal",
         "set": "SGP"
     },
@@ -744,8 +744,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Deathrite Mystic",
-        "number": 178,
+        "card_name": "Donnybrook",
+        "number": 177,
         "shape": "normal",
         "set": "SGP"
     },
@@ -756,14 +756,14 @@
         "set": "SGP"
     },
     {
-        "card_name": "Hedron Imprisonment",
-        "number": 71,
+        "card_name": "Eldritch Rebuttal",
+        "number": 69,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "Harrowing Transformation",
-        "number": 108,
+        "number": 109,
         "shape": "normal",
         "set": "SGP"
     },
@@ -774,7 +774,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "Donnybrook",
+        "card_name": "Eldritch Growth",
         "number": 179,
         "shape": "normal",
         "set": "SGP"
@@ -786,8 +786,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Impart Knowledge",
-        "number": 72,
+        "card_name": "Intrepid Aviator",
+        "number": 73,
         "shape": "normal",
         "set": "SGP"
     },
@@ -798,14 +798,14 @@
         "set": "SGP"
     },
     {
-        "card_name": "Eyekissed Invoker",
+        "card_name": "Evacuation Hotrod",
         "number": 139,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "Eldritch Growth",
-        "number": 181,
+        "card_name": "First Responders",
+        "number": 180,
         "shape": "normal",
         "set": "SGP"
     },
@@ -816,8 +816,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Intrepid Aviator",
-        "number": 74,
+        "card_name": "Mastbreaker",
+        "number": 75,
         "shape": "normal",
         "set": "SGP"
     },
@@ -828,13 +828,13 @@
         "set": "SGP"
     },
     {
-        "card_name": "Forge in Anguish",
-        "number": 142,
+        "card_name": "Eyekissed Invoker",
+        "number": 140,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "First Responders",
+        "card_name": "Game Hunters",
         "number": 182,
         "shape": "normal",
         "set": "SGP"
@@ -846,8 +846,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Mastbreaker",
-        "number": 76,
+        "card_name": "Pass Unscathed",
+        "number": 77,
         "shape": "normal",
         "set": "SGP"
     },
@@ -858,14 +858,14 @@
         "set": "SGP"
     },
     {
-        "card_name": "Hotwire Prodigy",
-        "number": 144,
+        "card_name": "Forge in Anguish",
+        "number": 143,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "A Hole in the Sky",
-        "number": 186,
+        "number": 184,
         "shape": "normal",
         "set": "SGP"
     },
@@ -876,8 +876,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Pass Unscathed",
-        "number": 78,
+        "card_name": "Public Exhibition",
+        "number": 79,
         "shape": "normal",
         "set": "SGP"
     },
@@ -888,8 +888,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Incendiary Charger",
-        "number": 146,
+        "card_name": "Hotwire Prodigy",
+        "number": 145,
         "shape": "normal",
         "set": "SGP"
     },
@@ -918,8 +918,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Magma Scribe",
-        "number": 148,
+        "card_name": "Incendiary Charger",
+        "number": 147,
         "shape": "normal",
         "set": "SGP"
     },
@@ -943,13 +943,13 @@
     },
     {
         "card_name": "Paradigm Enforcer",
-        "number": 119,
+        "number": 120,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "Ruin Prowler",
-        "number": 155,
+        "card_name": "Magma Scribe",
+        "number": 149,
         "shape": "normal",
         "set": "SGP"
     },
@@ -973,13 +973,13 @@
     },
     {
         "card_name": "Soultaker Idol",
-        "number": 122,
+        "number": 123,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "Spire Defender",
-        "number": 159,
+        "card_name": "Ruin Prowler",
+        "number": 156,
         "shape": "normal",
         "set": "SGP"
     },
@@ -1003,12 +1003,12 @@
     },
     {
         "card_name": "Speakeasy Brokers",
-        "number": 123,
+        "number": 124,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "Startouched Blitzer",
+        "card_name": "Spire Defender",
         "number": 160,
         "shape": "normal",
         "set": "SGP"
@@ -1033,12 +1033,12 @@
     },
     {
         "card_name": "Startouched Assassin",
-        "number": 124,
+        "number": 125,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "Steelsuit Consultant",
+        "card_name": "Startouched Blitzer",
         "number": 161,
         "shape": "normal",
         "set": "SGP"
@@ -1063,12 +1063,12 @@
     },
     {
         "card_name": "Unwelcome Tenant",
-        "number": 128,
+        "number": 129,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "Task Force Hotrod",
+        "card_name": "Steelsuit Consultant",
         "number": 162,
         "shape": "normal",
         "set": "SGP"
@@ -1419,7 +1419,7 @@
     },
     {
         "card_name": "Kozilek, the Bonds Unmade",
-        "number": 11,
+        "number": 12,
         "shape": "normal",
         "set": "SGP"
     },
@@ -1502,8 +1502,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Mesa Devourer",
-        "number": 12,
+        "card_name": "Inkrealm Drowner",
+        "number": 11,
         "shape": "normal",
         "set": "SGP"
     },
@@ -1856,31 +1856,31 @@
         "set": "SGP"
     },
     {
-        "card_name": "Island 2",
+        "card_name": "Island",
         "number": 283,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "Plains 2",
+        "card_name": "Plains",
         "number": 281,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "Swamp 2",
+        "card_name": "Swamp",
         "number": 285,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "Mountain 2",
+        "card_name": "Mountain",
         "number": 287,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "Forest 2",
+        "card_name": "Forest",
         "number": 289,
         "shape": "normal",
         "set": "SGP"
