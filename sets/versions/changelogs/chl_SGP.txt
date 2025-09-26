@@ -1,4 +1,218 @@
-﻿VERSION 41 CHANGELOG
+﻿VERSION 42 CHANGELOG
+====================
+
+
+
+Volunteer Firewatch
+rules_text: Vigilance
+[i]United [/i]— Whenever this creature attacks with one or more tokens, put a +1/+1 counter on it. => Vigilance
+[i]Coalition [/i]— Whenever this creature attacks with one or more tokens, put a +1/+1 counter on it.
+
+Startouched Devout
+rules_text: When this creature enters, put a +1/+1 counter on target creature.
+{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => When this creature enters, put a +1/+1 counter on target creature.
+{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+
+Pedigree Collector
+rules_text: When this creature enters, create a 1/1 white Dog creature token.
+[i]United [/i]— Whenever this creature attacks with one or more tokens, target attacking creature gets +1/+1 until end of turn. => When this creature enters, create a 1/1 white Dog creature token.
+[i]Coalition [/i]— Whenever this creature attacks with one or more tokens, target attacking creature gets +1/+1 until end of turn.
+
+Upgrade the Force
+rules_text: Create three 1/1 colorless Construct artifact creature tokens. Put a +1/+1 counter on each if you control a non-Construct token. => Create three 1/1 colorless Construct artifact creature tokens. Put a +1/+1 counter on each of them if you control a non-Construct token.
+
+Zeppelin Disaster
+rules_text: Choose one —
+• Exile target artifact or enchantment.
+• Fragment target creature with mana value 3 or less. [i](Its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => Choose one —
+• Exile target artifact or enchantment.
+• Fragment target creature with mana value 3 or less. [i](Its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+
+Startouched Analyst
+rules_text: When this creature enters, draw a card.
+{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => When this creature enters, draw a card.
+{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+
+Startouched Assassin
+rules_text: When this creature enters, each opponent loses 2 life and you gain 2 life.
+{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => When this creature enters, each opponent loses 2 life and you gain 2 life.
+{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+
+Startouched Blitzer
+rules_text: When this creature enters, it deals 1 damage to any target.
+{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => When this creature enters, it deals 1 damage to any target.
+{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+
+In Eldritch Flame
+rules_text: Target creature gets +2/+2 and gains trample until end of turn. Fragment up to one target creature blocking it. [i](Its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => Target creature gets +2/+2 and gains trample until end of turn. Fragment up to one target creature blocking it. [i](Its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+
+Startouched Arborist
+rules_text: When this creature enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => When this creature enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{1}{C}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+
+Branchbound Speaker
+rules_text: Vigilance
+[i]United — [/i]Whenever this creature attacks with one or more tokens, put a +1/+1 counter on target attacking token and untap it. => Vigilance
+[i]Coalition — [/i]Whenever this creature attacks with one or more tokens, put a +1/+1 counter on target attacking token and untap it.
+
+Rend
+rules_text: Fragment target creature. [i](Its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => Fragment target creature. [i](Its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+
+Oathbound Stalwart
+rules_text: Vigilance
+When this creature enters, create a 1/1 white Human Soldier creature token.
+[i]United [/i]— Whenever this creature attacks with one or more tokens, you may pay {G}{W}. If you do, create a 1/1 white Human Soldier creature token. => Vigilance
+When this creature enters, create a 1/1 white Human Soldier creature token.
+[i]Coalition [/i]— Whenever this creature attacks with one or more tokens, you may pay {G}{W}. If you do, create a 1/1 white Human Soldier creature token.
+
+Smuggler's Hovercar
+rules_text: Whenever this Vehicle attacks, draw a card, then discard a card unless it wasn't crewed this turn. It gains flying until end of turn.
+Autopilot {1}{U} [i]({1}{U}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Crew 1 => Whenever this Vehicle attacks, draw a card, then discard a card if it was crewed this turn. It gains flying until end of turn.
+Autopilot {1}{U} [i]({1}{U}: This Vehicle becomes an artifact creature until end of turn.)[/i]
+Crew 1
+
+Thousand-Mind Cutthroat
+rules_text: This creature has double strike if it shares a name with another creature you control.
+{3}{W}: Fragment this creature. Activate only outside of combat. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => This creature has double strike if it shares a name with another creature you control.
+{3}{W}: Fragment this creature. Activate only outside of combat. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+
+Triumphant Cavalier
+rules_text: Vigilance
+[i]United [/i]— Whenever this creature attacks with one or more tokens, creatures you control get +1/+1 until end of turn. => Vigilance
+[i]Coalition [/i]— Whenever this creature attacks with one or more tokens, creatures you control get +1/+1 until end of turn.
+
+Ego Devourer
+rules_text: You may have this creature enter as a copy of any creature on the battlefield, except it has this card's abilities.
+{U}{U}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => You may have this creature enter as a copy of any creature on the battlefield, except it has this card's abilities.
+{U}{U}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+
+Mindbreak Shield
+rules_text: Target creature you control gains hexproof until end of turn. The next time that creature would die this turn, remove all damage from it and fragment it instead. [i](To fragment a creature, its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => Target creature you control gains hexproof until end of turn. The next time that creature would die this turn, remove all damage from it and fragment it instead. [i](To fragment a creature, its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+
+Holism Seeker
+rules_text: When this creature enters, you may destroy target artifact or enchantment.
+{3}{G}{G}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => When this creature enters, you may destroy target artifact or enchantment.
+{3}{G}{G}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+
+Impact Surveyors
+rules_text: When this creature enters, if you sacrificed a permanent this turn, put a +1/+1 counter on this creature and create a Clue token. [i](It's an artifact with “{2}, Sacrifice this creature: Draw a card.”)[/i] => When this creature enters, if you sacrificed a permanent this turn, put a +1/+1 counter on this creature and investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+
+Botanical Conference
+rules_text: Vigilance, ward {1}
+[i]United[/i] — Whenever this creature attacks with one or more tokens, put a +1/+1 counter on target attacking creature you control. Then if attacking creatures you control have total power 8 or greater, draw a card. => Vigilance, ward {1}
+[i]Coalition[/i] — Whenever this creature attacks with one or more tokens, put a +1/+1 counter on target attacking creature you control. Then if attacking creatures you control have total power 8 or greater, draw a card.
+
+Stonebridge Ambush
+rules_text: As this creature enters, you may pay {B} and fragment it. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+When this creature enters, destroy target creature with equal or greater power. => As this creature enters, you may pay {B} and fragment it. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+When this creature enters, destroy target creature with equal or greater power.
+
+Ulamog, the Earth Engulfed
+rules_text: Indestructible
+Whenever Ulamog attacks, choose a card type, then search target opponent's hand, graveyard, and library for all cards of the chosen type and exile them. That player shuffles their library. => Indestructible
+Whenever Ulamog attacks, choose a card type, then search target opponent's hand, graveyard, and library for any number of cards of the chosen type and exile them. That player shuffles their library.
+
+Zaila, Her Will Be Done
+rules_text: [+1]: Draw a card. Zaila gains protection from mana value 3 or less until your next turn.
+[-2]: Fragment target creature. If you control that creature, put two +1/+1 counters on it.
+[-10]: Each opponent sacrifices a number of permanents equal to the greatest mana value among creatures you control. => [+1]: Draw a card, then choose a number. Zaila gains protection from mana value equal to the chosen number until your next turn.
+[-2]: Fragment target creature. If you control that creature, put two +1/+1 counters on it.
+[-10]: Each opponent sacrifices a number of permanents equal to the greatest mana value among creatures you control.
+special_text: [+1]: Draw a card. Zaila gains protection from mana value 3 or less until your next turn.
+[-2]: Fragment target creature. If you control that creature, put two +1/+1 counters on it.
+[-10]: Each opponent sacrifices a number of permanents equal to the greatest mana value among creatures you control. => [+1]: Draw a card, then choose a number. Zaila gains protection from mana value equal to the chosen number until your next turn.
+[-2]: Fragment target creature. If you control that creature, put two +1/+1 counters on it.
+[-10]: Each opponent sacrifices a number of permanents equal to the greatest mana value among creatures you control.
+
+Bear Witness
+rules_text: Fragment all creatures. [i](To fragment a creature, its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => Fragment all creatures. [i](To fragment a creature, its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+
+Captivating Alto
+rules_text: Lifelink
+When this creature enters, exile another target creature. Return it to the battlefield under its owner's control at the beginning of the next end step. If you control that creature, it enters with a +1/+1 counter on it. => Lifelink
+When this creature enters, exile up to one other target creature. Return it to the battlefield under its owner's control at the beginning of the next end step. If you control that creature, it enters with a +1/+1 counter on it.
+
+High Sergeant Liano
+rules_text: When Liano enters, create two 1/1 white Human creature tokens.
+[i]United [/i]— Whenever Liano attacks with one or more tokens, if all attacking creatures have base power 2 or less, draw a card. => When Liano enters, create two 1/1 white Human creature tokens.
+[i]Coalition [/i]— Whenever Liano attacks with one or more tokens, if all attacking creatures have base power 2 or less, draw a card.
+
+Eiara, Aegis Herald
+rules_text: Devoid [i](This card has no color.)[/i]
+Whenever you cast a spell, create a 4/4 colorless Eldrazi Angel creature token with flying.
+{W}{W}, {T}: Fragment Eiara. Tokens created this way aren't legendary. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => Devoid [i](This card has no color.)[/i]
+Whenever you cast a spell, create a 4/4 colorless Eldrazi Angel creature token with flying.
+{W}{W}, {T}: Fragment Eiara. Tokens created this way aren't legendary. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+
+Czaruun, Insight Herald
+rules_text: Devoid [i](This card has no color.)[/i]
+At the beginning of your upkeep, scry 1, then draw a card.
+{U}{U}, {T}: Fragment Czarun. Tokens created this way aren't legendary. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => Devoid [i](This card has no color.)[/i]
+At the beginning of your upkeep, scry 1, then draw a card.
+{U}{U}, {T}: Fragment Czarun. Tokens created this way aren't legendary. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+
+Roiling Undertow
+rules_text: Each player chooses up to one creature they control and fragments it. Return all creatures not fragmented this way to their owners' hands. [i](To fragment a creature, its controller creates a token that's a copy of it and puts a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => Each player chooses up to one creature they control and fragments it. Return all creatures not fragmented this way to their owners' hands. [i](To fragment a creature, its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+
+Zommok, Grief Herald
+rules_text: Devoid [i](This card has no color.)[/i]
+Creatures you don't control have “At the beginning of your upkeep, you lose 2 life.”
+{B}{B}, {T}: Fragment Zommok. Tokens created this way aren't legendary. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => Devoid [i](This card has no color.)[/i]
+Creatures you don't control have “At the beginning of your upkeep, you lose 2 life.”
+{B}{B}, {T}: Fragment Zommok. Tokens created this way aren't legendary. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+
+Moonlit Mutilator
+rules_text: Trample
+Discard a card: Add {R}{R}{R}. This mana can't be spent to cast spells. Activate only once each turn.
+{X}{R}: This creature gets +X/+0 until end of turn. => Trample
+{X}{R}: This creature gets +X/+0 until end of turn.
+Discard a card: This creature gets +2/+0 until end of turn. Activate only once each turn.
+
+Collector of Souls
+rules_text: This creature can't be blocked except by three or more creatures.
+Whenever this creature becomes blocked by a creature with toughness 2 or less, gain control of that creature. This creature assigns its combat damage as though it weren't blocked by that creature. => This creature can't be blocked except by three or more creatures.
+Whenever this creature becomes blocked by a creature with toughness 2 or less, gain control of that creature.
+
+Dasek, Wrath Herald
+rules_text: Devoid [i](This card has no color.)[/i]
+If a source you control would deal damage, it deals that much damage plus 1 instead.
+{R}{R}, {T}: Fragment Dasek. Tokens created this way aren't legendary. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => Devoid [i](This card has no color.)[/i]
+If a source you control would deal damage, it deals that much damage plus 1 instead.
+{R}{R}, {T}: Fragment Dasek. Tokens created this way aren't legendary. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+
+Gene Recombinators
+rules_text: {1}, Sacrifice two creatures: Create an X/X green Ooze creature token, where X is the combined power of the sacrificed creatures. Activate only as a sorcery.
+[i]United [/i]— Whenever this creature attacks with one or more tokens, populate. [i](Create a token that's a copy of a creature token you control.)[/i] => {1}, Sacrifice two creatures: Create an X/X green Ooze creature token, where X is the combined power of the sacrificed creatures. Activate only as a sorcery.
+[i]Coalition [/i]— Whenever this creature attacks with one or more tokens, populate. [i](Create a token that's a copy of a creature token you control.)[/i]
+
+Chasm Behemoth
+cost: {2}{G}{G} => {3}{G}{G}
+pt: 5/5 => 6/6
+
+Vinrag, Expanse Herald
+rules_text: Devoid [i](This card has no color.)[/i]
+Creatures you control get +2/+2.
+{G}{G}, {T}: Fragment Vinrag. Tokens created this way aren't legendary. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i] => Devoid [i](This card has no color.)[/i]
+Creatures you control get +2/+2.
+{G}{G}, {T}: Fragment Vinrag. Tokens created this way aren't legendary. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+
+Something in the Soil
+cost: {B}{G} => {1}{B}{G}
+
+Eldrazi Monolith
+rules_text: When this artifact enters, fragment target creature and draw a card. [i](Create a token that's a copy of it and put a shard counter on both. Creatures with shard counters are 1/1 and can't be fragmented.)[/i]
+Colorless spells you cast cost {2} less to cast. => When this artifact enters, fragment target creature and draw a card. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+Colorless spells you cast cost {2} less to cast.
+
+Leonard, Experiment Zero
+rules_text: When Leonard enters, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+[i]United [/i]— Whenever Leonard attacks with one or more tokens, you may have all attacking tokens become copies of target creature until end of turn. => When Leonard enters, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+[i]Coalition [/i]— Whenever Leonard attacks with one or more tokens, you may have all attacking tokens become copies of target creature until end of turn.
+
+
+VERSION 41 CHANGELOG
 ====================
 
 

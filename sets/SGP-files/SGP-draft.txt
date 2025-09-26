@@ -2183,7 +2183,7 @@
 		{
 			"name": "Chasm Behemoth",
 			"rarity": "rare",
-			"mana_cost": "{2}{G}{G}",
+			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Beast Horror",
 			"collector_number": "174",
 			"image_uris": {
@@ -2253,7 +2253,7 @@
 		{
 			"name": "Something in the Soil",
 			"rarity": "rare",
-			"mana_cost": "{B}{G}",
+			"mana_cost": "{1}{B}{G}",
 			"type": "Sorcery",
 			"collector_number": "235",
 			"image_uris": {
