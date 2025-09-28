@@ -1,4 +1,36 @@
-﻿VERSION 42 CHANGELOG
+﻿VERSION 43 CHANGELOG
+====================
+
+Never Seen Again added.
+Thopter added.
+Ooze added.
+
+Leave No Trace removed.
+
+Mire Pathforger
+
+Mournful Matriarch
+
+Oathbound Stalwart
+rules_text: Vigilance
+When this creature enters, create a 1/1 white Human Soldier creature token.
+[i]Coalition [/i]— Whenever this creature attacks with one or more tokens, you may pay {G}{W}. If you do, create a 1/1 white Human Soldier creature token. => Vigilance
+When this creature enters, create a 1/1 white Human creature token.
+[i]Coalition [/i]— Whenever this creature attacks with one or more tokens, you may pay {G}{W}. If you do, create a 1/1 white Human creature token.
+
+Aspirant of Ulamog
+rules_text: When this creature enters, exile up to one other target nonland permanent until this creature leaves the battlefield.
+{5}: Destroy this creature. Its controller draws three cards. Any player may activate this ability. => When this creature enters, exile up to one other target nonland permanent until this creature leaves the battlefield.
+{5}: Destroy this creature. Its controller draws two cards. Any player may activate this ability.
+
+Treasure
+
+Clue
+
+Construct
+
+
+VERSION 42 CHANGELOG
 ====================
 
 

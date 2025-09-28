@@ -360,8 +360,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Leave No Trace",
-        "number": 35,
+        "card_name": "Never Seen Again",
+        "number": 37,
         "shape": "normal",
         "set": "SGP"
     },
@@ -751,7 +751,7 @@
     },
     {
         "card_name": "Mire Pathforger",
-        "number": 36,
+        "number": 35,
         "shape": "normal",
         "set": "SGP"
     },
@@ -781,7 +781,7 @@
     },
     {
         "card_name": "Mournful Matriarch",
-        "number": 37,
+        "number": 36,
         "shape": "normal",
         "set": "SGP"
     },
@@ -1930,19 +1930,25 @@
     },
     {
         "card_name": "Clue",
-        "number": 7,
-        "shape": "token",
-        "set": "SGP"
-    },
-    {
-        "card_name": "Construct",
         "number": 8,
         "shape": "token",
         "set": "SGP"
     },
     {
-        "card_name": "Treasure",
+        "card_name": "Construct",
         "number": 9,
+        "shape": "token",
+        "set": "SGP"
+    },
+    {
+        "card_name": "Thopter",
+        "number": 10,
+        "shape": "token",
+        "set": "SGP"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 11,
         "shape": "token",
         "set": "SGP"
     },
@@ -1963,6 +1969,21 @@
         "number": 6,
         "shape": "token",
         "set": "SGP"
+    },
+    {
+        "card_name": "Ooze",
+        "number": 7,
+        "shape": "token",
+        "set": "SGP"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"

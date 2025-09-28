@@ -25,9 +25,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Eldrazi Horror",
-			"collector_number": "36",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/36_Mire Pathforger.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/35_Mire Pathforger.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Noble",
-			"collector_number": "37",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/37_Mournful Matriarch.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/36_Mournful Matriarch.png"
 			}
 		},
 		{
@@ -1161,13 +1161,13 @@
 			}
 		},
 		{
-			"name": "Leave No Trace",
+			"name": "Never Seen Again",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "35",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/35_Leave No Trace.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/37_Never Seen Again.png"
 			}
 		},
 		{
@@ -2815,9 +2815,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "9",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/9_Treasure.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/11_Treasure.png"
 			}
 		},
 		{
@@ -2835,9 +2835,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Clue",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/7_Clue.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/8_Clue.png"
 			}
 		},
 		{
@@ -2895,9 +2895,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Construct",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/8_Construct.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/9_Construct.png"
 			}
 		},
 		{
@@ -2978,6 +2978,26 @@
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/2_Eldrazi Angel.png"
+			}
+		},
+		{
+			"name": "Thopter",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Thopter",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/10_Thopter.png"
+			}
+		},
+		{
+			"name": "Ooze",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Ooze",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/7_Ooze.png"
 			}
 		}
 	]
@@ -3101,7 +3121,7 @@
 	4 Triumphant Cavalier
 	4 First-Class Skyship
 	4 Industry Kingpins
-	4 Leave No Trace
+	4 Never Seen Again
 	4 Induced Catatonia
 	4 Faculty of Engineering
 	4 Strength of the Departed
@@ -3375,7 +3395,7 @@
 	6 Triumphant Cavalier
 	6 First-Class Skyship
 	6 Industry Kingpins
-	6 Leave No Trace
+	6 Never Seen Again
 	6 Induced Catatonia
 	6 Faculty of Engineering
 	6 Strength of the Departed
@@ -3654,7 +3674,7 @@
 	15 Triumphant Cavalier
 	15 First-Class Skyship
 	15 Industry Kingpins
-	15 Leave No Trace
+	15 Never Seen Again
 	15 Induced Catatonia
 	15 Faculty of Engineering
 	15 Strength of the Departed
