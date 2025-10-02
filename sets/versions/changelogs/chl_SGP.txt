@@ -1,4 +1,152 @@
-﻿VERSION 43 CHANGELOG
+﻿VERSION 44 CHANGELOG
+====================
+
+
+
+Eldrazi Scion
+
+Emergency Jettison
+type: Instant => Sorcery
+
+Streetway Incursion
+rules_text: Choose one —
+• Create two 1/1 colorless Eldrazi Scion creature tokens with “Sacrifice this creature: Add {C}.”
+• Put two +1/+1 counters on each creature you control. => Choose one —
+• Create two 1/1 colorless Eldrazi Scion creature tokens with “Sacrifice this creature: Add {C}.”
+• Put a +1/+1 counter on each creature you control.
+
+Scape Surveyor
+rules_text: Flying
+When this creature enters, you may search your library for a land card named Wastes, reveal it, put it into your hand, then shuffle. => Flying
+When this creature enters, you may search your library for a basic Plains card or a land card named Wastes, reveal it, put it into your hand, then shuffle.
+
+Steelsuit Retrofitter
+rules_text: Flash
+As long as this creature entered this turn, it crews Vehicles as though its power were any number.
+{1}{U}: Target creature can't be blocked this turn. Activate only if this creature is tapped and didn't attack this turn. => Flash
+As long as this creature entered this turn, it crews Vehicles as though its power were 4 greater.
+{1}{U}: Target creature can't be blocked this turn. Activate only if this creature is tapped and didn't attack this turn.
+
+Shingle Crawler
+rules_text: Flying
+Whenever this creature deals combat damage to a player, each player discards a card.
+{2}{B}, Discard this card: Target player discards two cards. Activate only as a sorcery. => Flying
+When this creature enters, each player discards a card.
+{2}{B}, Discard this card: Target player discards two cards. Activate only as a sorcery.
+
+Flesh Shredder
+rules_text: When this creature enters, draw a card, then discard a card. If you discarded a nonland card this way, put a haste counter and a menace counter on it. => When this creature enters, draw a card, then discard a card. You lose 1 life. If you discarded a nonland card this way, put a menace counter on this creature and it gains haste until end of turn.
+
+Stonebridge Ambush
+type: Creature — Eldrazi Horror => Creature — Ooze Horror
+rules_text: As this creature enters, you may pay {B} and fragment it. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+When this creature enters, destroy target creature with equal or greater power. => When this creature enters, you may pay {B} and fragment it. Then destroy target creature with equal or greater power. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+
+Promising Vista
+
+Ulamog, the Earth Engulfed
+rules_text: Indestructible
+Whenever Ulamog attacks, choose a card type, then search target opponent's hand, graveyard, and library for any number of cards of the chosen type and exile them. That player shuffles their library. => Indestructible
+Whenever Ulamog attacks, choose a card type, then search target opponent's graveyard, hand, and library for all cards of the chosen type and exile them. That player shuffles their library.
+
+Zaila, Her Will Be Done
+rules_text: [+1]: Draw a card, then choose a number. Zaila gains protection from mana value equal to the chosen number until your next turn.
+[-2]: Fragment target creature. If you control that creature, put two +1/+1 counters on it.
+[-10]: Each opponent sacrifices a number of permanents equal to the greatest mana value among creatures you control. => [+1]: Draw a card. Add {C}{C}.
+[-2]: Put a splinter counter on target creature. That creature loses all abilities until the end of your next turn. [i](Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+[-7]: Create a 10/10 colorless Eldrazi creature token. Then you may have each player's life total become equal to the total power of creatures they control.
+special_text: [+1]: Draw a card, then choose a number. Zaila gains protection from mana value equal to the chosen number until your next turn.
+[-2]: Fragment target creature. If you control that creature, put two +1/+1 counters on it.
+[-10]: Each opponent sacrifices a number of permanents equal to the greatest mana value among creatures you control. => [+1]: Draw a card. Add {C}{C}.
+[-2]: Put a splinter counter on target creature. That creature loses all abilities until the end of your next turn. [i](Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+[-7]: Create a 10/10 colorless Eldrazi creature token. Then you may have each player's life total become equal to the total power of creatures they control.
+loyalty: 6 => 4
+
+Scion of Insanity
+rules_text: As long as there are twenty or fewer cards in your library, this creature has flying, vigilance, and hexproof and has base power and toughness 9/9.
+{1}{U}, Discard this card: Mill six cards, then draw a card. Shuffle this card into your library. => As long as there are ten or fewer cards in your library, this creature gets +5/+5 and has flying, vigilance, and hexproof.
+{1}{U}, Discard this card: Mill six cards, then draw a card. Shuffle this card into your library.
+
+Unparalleled Efficiency
+rules_text: Whenever a nontoken Vehicle you control enters, create a token that's a copy of it. If it doesn't have autopilot, it gains autopilot {3}.
+Whenever a Vehicle you control deals combat damage to a player, surveil 2 if it was crewed this turn. Otherwise, draw a card. => Whenever a nontoken Vehicle you control enters, create a token that's a copy of it.
+Vehicles you control have autopilot {3}. [i](They have “{3}: This Vehicle becomes an artifact creature until end of turn.”)[/i]
+Whenever a Vehicle you control deals combat damage to a player, surveil 2 if it was crewed this turn. Otherwise, draw a card.
+
+Gene Recombinators
+rules_text: {1}, Sacrifice two creatures: Create an X/X green Ooze creature token, where X is the combined power of the sacrificed creatures. Activate only as a sorcery.
+[i]Coalition [/i]— Whenever this creature attacks with one or more tokens, populate. [i](Create a token that's a copy of a creature token you control.)[/i] => {1}, Sacrifice two creatures: Create an X/X green Ooze creature token, where X is the total power of the sacrificed creatures. Activate only as a sorcery.
+[i]Coalition [/i]— Whenever this creature attacks with one or more tokens, populate. [i](Create a token that's a copy of a creature token you control.)[/i]
+
+Ovaan, Starbreaker Ghost
+
+Lost to Endless Scripture
+cost: {U}{U}{R}{R} => {2}{U}{U}{R}{R}
+rules_text: Lost to Endless Scripture deals 5 damage to you.
+Take an extra turn after this one. Exile Lost to Endless Scripture. => Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+Take an extra turn after this one. Exile Lost to Endless Scripture.
+
+Aspirant of Ulamog
+cost: {4} => {3}{C}
+rules_text: When this creature enters, exile up to one other target nonland permanent until this creature leaves the battlefield.
+{5}: Destroy this creature. Its controller draws two cards. Any player may activate this ability. => When this creature enters, exile up to one other target nonland permanent until this creature leaves the battlefield.
+{4}: Destroy this creature. Its controller draws two cards. Any player may activate this ability.
+pt: 4/4 => 3/3
+
+Derail
+rules_text: Choose one. You may choose another if you control a creature with mana value 4 or greater and another if you control a creature with mana value 6 or greater.
+• Derail deals 4 damage to any target.
+• Creatures can't block this turn.
+• Destroy target artifact or enchantment. => Choose one. You may choose another if you control a creature with mana value 4 or greater and another if you control a creature with mana value 6 or greater.
+• Derail deals 3 damage to any target.
+• Creatures can't block this turn.
+• Destroy target artifact or enchantment.
+
+Keeper's Peninsula
+
+Dusk Vantage
+
+Lost Settlement
+
+Cliffrest Tributary
+
+Village Steeples
+
+Secluded Avenue
+
+Cataract Valley
+rules_text: [b]This land enters tapped.
+{T}: Add {C}, {U}, or {R}.[/b] => This land enters tapped.[b]
+[/b]{T}: Add {C}, {U}, or {R}.
+
+Outlands Hamlet
+
+Bronzeglade Peaks
+
+Lakewatch Ruins
+
+Treasure
+
+Clue
+
+Human Bard
+
+Human
+
+Dog
+
+Eldrazi
+
+Construct
+
+Eldrazi Angel
+
+Thopter
+
+Ooze
+
+
+VERSION 43 CHANGELOG
 ====================
 
 Never Seen Again added.

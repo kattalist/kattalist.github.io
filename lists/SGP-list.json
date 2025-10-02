@@ -1820,20 +1820,20 @@
         "card_name": "er"
     },
     {
-        "card_name": "Mountain",
-        "number": 286,
+        "card_name": "Mountain_SGP",
+        "number": 287,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "Swamp",
-        "number": 284,
+        "card_name": "Swamp_SGP",
+        "number": 285,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "Forest",
-        "number": 288,
+        "card_name": "Forest_SGP",
+        "number": 289,
         "shape": "normal",
         "set": "SGP"
     },
@@ -1844,44 +1844,44 @@
         "set": "SGP"
     },
     {
-        "card_name": "Plains",
-        "number": 280,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "Island",
-        "number": 282,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "Island",
-        "number": 283,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "Plains",
+        "card_name": "Plains_SGP",
         "number": 281,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "Swamp",
-        "number": 285,
+        "card_name": "Island_SGP",
+        "number": 283,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "Mountain",
-        "number": 287,
+        "card_name": "Island Eldritch_SGP",
+        "number": 282,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "Forest",
-        "number": 289,
+        "card_name": "Plains Eldritch_SGP",
+        "number": 280,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "Swamp Eldritch_SGP",
+        "number": 284,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "Mountain Eldritch_SGP",
+        "number": 286,
+        "shape": "normal",
+        "set": "SGP"
+    },
+    {
+        "card_name": "Forest Eldritch_SGP",
+        "number": 288,
         "shape": "normal",
         "set": "SGP"
     },

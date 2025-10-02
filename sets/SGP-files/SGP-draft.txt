@@ -141,33 +141,33 @@
 			}
 		},
 		{
-			"name": "Mountain",
+			"name": "Mountain_SGP",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "286",
+			"collector_number": "287",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/286_Mountain.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/287_Mountain_SGP.png"
 			}
 		},
 		{
-			"name": "Swamp",
+			"name": "Swamp_SGP",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "284",
+			"collector_number": "285",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/284_Swamp.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/285_Swamp_SGP.png"
 			}
 		},
 		{
-			"name": "Forest",
+			"name": "Forest_SGP",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "288",
+			"collector_number": "289",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/288_Forest.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/289_Forest_SGP.png"
 			}
 		},
 		{
@@ -564,7 +564,7 @@
 			"name": "Emergency Jettison",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "138",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/138_Emergency Jettison.png"
@@ -1684,7 +1684,7 @@
 			"name": "Stonebridge Ambush",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
-			"type": "Creature — Eldrazi Horror",
+			"type": "Creature — Ooze Horror",
 			"collector_number": "126",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/126_Stonebridge Ambush.png"
@@ -2413,7 +2413,7 @@
 		{
 			"name": "Lost to Endless Scripture",
 			"rarity": "mythic",
-			"mana_cost": "{U}{U}{R}{R}",
+			"mana_cost": "{2}{U}{U}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "221",
 			"image_uris": {
@@ -2483,7 +2483,7 @@
 		{
 			"name": "Aspirant of Ulamog",
 			"rarity": "rare",
-			"mana_cost": "{4}",
+			"mana_cost": "{3}{C}",
 			"type": "Creature — Eldrazi",
 			"collector_number": "3",
 			"image_uris": {
@@ -2901,73 +2901,73 @@
 			}
 		},
 		{
-			"name": "Plains",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "280",
-			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/280_Plains.png"
-			}
-		},
-		{
-			"name": "Island",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Island",
-			"collector_number": "282",
-			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/282_Island.png"
-			}
-		},
-		{
-			"name": "Island",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Island",
-			"collector_number": "283",
-			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/283_Island.png"
-			}
-		},
-		{
-			"name": "Plains",
+			"name": "Plains_SGP",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/281_Plains.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/281_Plains_SGP.png"
 			}
 		},
 		{
-			"name": "Swamp",
+			"name": "Island_SGP",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/283_Island_SGP.png"
+			}
+		},
+		{
+			"name": "Island Eldritch_SGP",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/282_Island Eldritch_SGP.png"
+			}
+		},
+		{
+			"name": "Plains Eldritch_SGP",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/280_Plains Eldritch_SGP.png"
+			}
+		},
+		{
+			"name": "Swamp Eldritch_SGP",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "285",
+			"collector_number": "284",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/285_Swamp.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/284_Swamp Eldritch_SGP.png"
 			}
 		},
 		{
-			"name": "Mountain",
+			"name": "Mountain Eldritch_SGP",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "287",
+			"collector_number": "286",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/287_Mountain.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/286_Mountain Eldritch_SGP.png"
 			}
 		},
 		{
-			"name": "Forest",
+			"name": "Forest Eldritch_SGP",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "289",
+			"collector_number": "288",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/289_Forest.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/288_Forest Eldritch_SGP.png"
 			}
 		},
 		{

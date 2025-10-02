@@ -281,11 +281,11 @@
             "image_type": "png"
         },
         {
-            "card_name": "Mountain",
+            "card_name": "Mountain_SGP",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2013 Mountain",
-            "number": 286,
+            "number": 287,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -297,15 +297,15 @@
             "loyalty": "",
             "artist": "Darwin Cellis",
             "alias": "",
-            "notes": "",
+            "notes": "!exportname Mountain_SGP",
             "image_type": "png"
         },
         {
-            "card_name": "Swamp",
+            "card_name": "Swamp_SGP",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2013 Swamp",
-            "number": 284,
+            "number": 285,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -317,15 +317,15 @@
             "loyalty": "",
             "artist": "Timo Peter",
             "alias": "",
-            "notes": "",
+            "notes": "!exportname Swamp_SGP",
             "image_type": "png"
         },
         {
-            "card_name": "Forest",
+            "card_name": "Forest_SGP",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2013 Forest",
-            "number": 288,
+            "number": 289,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -337,7 +337,7 @@
             "loyalty": "",
             "artist": "Vertigo Studios",
             "alias": "",
-            "notes": "",
+            "notes": "!exportname Forest_SGP",
             "image_type": "png"
         },
         {
@@ -897,7 +897,7 @@
             "loyalty": "",
             "artist": "Bogdan Rezunenko",
             "alias": "",
-            "notes": "",
+            "notes": "!related Never Seen Again;Bitten By the Void;Haunted Starlet;Ravaged Eviscerator;Unwelcome Tenant;Eldritch Growth;Titan's Effigy;Epitaph Lurkers;Forgotten Lane Busker;Leonard, Experiment Zero;Streetway Incursion;Incursive Voidmaw;Savage Broodmother;Soultaker Idol",
             "image_type": "png"
         },
         {
@@ -1124,7 +1124,7 @@
             "card_name": "Emergency Jettison",
             "color": "R",
             "rarity": "common",
-            "type": "Instant",
+            "type": "Sorcery",
             "number": 138,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -1268,7 +1268,7 @@
             "number": 195,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Choose one \u2013\n\u2022 Create two 1/1 colorless Eldrazi Scion creature tokens with \u201cSacrifice this creature: Add {C}.\u201d\n\u2022 Put two +1/+1 counters on each creature you control.",
+            "rules_text": "Choose one \u2013\n\u2022 Create two 1/1 colorless Eldrazi Scion creature tokens with \u201cSacrifice this creature: Add {C}.\u201d\n\u2022 Put a +1/+1 counter on each creature you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2148,7 +2148,7 @@
             "number": 44,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Flying\nWhen this creature enters, you may search your library for a land card named Wastes, reveal it, put it into your hand, then shuffle.",
+            "rules_text": "Flying\nWhen this creature enters, you may search your library for a basic Plains card or a land card named Wastes, reveal it, put it into your hand, then shuffle.",
             "flavor_text": "[i]As the front advances, maps must be redrawn again and again.[/i]",
             "pt": "1/3",
             "special_text": "",
@@ -2157,7 +2157,7 @@
             "loyalty": "",
             "artist": "Nina Wojcik",
             "alias": "",
-            "notes": "22 Aug 2025: Shifted around to potential Scion producer, and reduced from 2/3 to 1/3",
+            "notes": "22 Aug 2025: Shifted around to potential Scion producer, and reduced from 2/3 to 1/3\n1 Oct 2025: Can also get Plains",
             "image_type": "png"
         },
         {
@@ -2428,7 +2428,7 @@
             "number": 85,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Flash\nAs long as this creature entered this turn, it crews Vehicles as though its power were any number.\n{1}{U}: Target creature can't be blocked this turn. Activate only if this creature is tapped and didn't attack this turn.",
+            "rules_text": "Flash\nAs long as this creature entered this turn, it crews Vehicles as though its power were 4 greater.\n{1}{U}: Target creature can't be blocked this turn. Activate only if this creature is tapped and didn't attack this turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -2437,7 +2437,7 @@
             "loyalty": "",
             "artist": "Viko Menezes",
             "alias": "",
-            "notes": "",
+            "notes": "1 Oct 2025: Any number \u2014> 4 greater",
             "image_type": "png"
         },
         {
@@ -2688,7 +2688,7 @@
             "number": 122,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Flying\nWhenever this creature deals combat damage to a player, each player discards a card.\n{2}{B}, Discard this card: Target player discards two cards. Activate only as a sorcery.",
+            "rules_text": "Flying\nWhen this creature enters, each player discards a card.\n{2}{B}, Discard this card: Target player discards two cards. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2697,7 +2697,7 @@
             "loyalty": "",
             "artist": "Brian Valeza",
             "alias": "",
-            "notes": "8 Aug 2025: Changed counter trigger off void to just be AA\n9 Aug 2025: Multiple counters can be stacked now, but costs 2B instead of 1B\n19 Aug 2025: Switched to just +1/+1 counters, but removed \"target player discards\" mode\n20 Aug 2025: Added Mind Rot as discard effect (black didn't have a channel effect yet)",
+            "notes": "8 Aug 2025: Changed counter trigger off void to just be AA\n9 Aug 2025: Multiple counters can be stacked now, but costs 2B instead of 1B\n19 Aug 2025: Switched to just +1/+1 counters, but removed \"target player discards\" mode\n20 Aug 2025: Added Mind Rot as discard effect (black didn't have a channel effect yet)\n1 Oct 2025: Switched \"each player discards\" to enters only",
             "image_type": "png"
         },
         {
@@ -3028,7 +3028,7 @@
             "number": 107,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "When this creature enters, draw a card, then discard a card. If you discarded a nonland card this way, put a haste counter and a menace counter on it.",
+            "rules_text": "When this creature enters, draw a card, then discard a card. You lose 1 life. If you discarded a nonland card this way, put a menace counter on this creature and it gains haste until end of turn.",
             "flavor_text": "[i]The city sewers have been carved out into vile, murky catacombs, in which all manner of dangers lie.[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -3364,11 +3364,11 @@
             "card_name": "Stonebridge Ambush",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Eldrazi Horror",
+            "type": "Creature \u2013 Ooze Horror",
             "number": 126,
             "color_identity": "B",
             "cost": "{4}{B}",
-            "rules_text": "As this creature enters, you may pay {B} and fragment it. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]\nWhen this creature enters, destroy target creature with equal or greater power.",
+            "rules_text": "When this creature enters, you may pay {B} and fragment it. Then destroy target creature with equal or greater power. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -3697,7 +3697,7 @@
             "loyalty": "",
             "artist": "Artem Chebokha",
             "alias": "",
-            "notes": "9 Aug 2025: You now have to shock yourself to get mana",
+            "notes": "9 Aug 2025: You now have to shock yourself to get mana\n\n!tapped",
             "image_type": "png"
         },
         {
@@ -3728,7 +3728,7 @@
             "number": 21,
             "color_identity": "C",
             "cost": "{11}",
-            "rules_text": "Indestructible\nWhenever Ulamog attacks, choose a card type, then search target opponent's hand, graveyard, and library for any number of cards of the chosen type and exile them. That player shuffles their library.",
+            "rules_text": "Indestructible\nWhenever Ulamog attacks, choose a card type, then search target opponent's graveyard, hand, and library for all cards of the chosen type and exile them. That player shuffles their library.",
             "flavor_text": "[i][/i]",
             "pt": "10/10",
             "special_text": "",
@@ -3748,13 +3748,13 @@
             "number": 243,
             "color_identity": "WU",
             "cost": "{3}{W}{U}",
-            "rules_text": "[+1]: Draw a card, then choose a number. Zaila gains protection from mana value equal to the chosen number until your next turn.\n[-2]: Fragment target creature. If you control that creature, put two +1/+1 counters on it.\n[-10]: Each opponent sacrifices a number of permanents equal to the greatest mana value among creatures you control.",
+            "rules_text": "[+1]: Draw a card. Add {C}{C}.\n[-2]: Put a splinter counter on target creature. That creature loses all abilities until the end of your next turn. [i](Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]\n[-7]: Create a 10/10 colorless Eldrazi creature token. Then you may have each player's life total become equal to the total power of creatures they control.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[+1]: Draw a card, then choose a number. Zaila gains protection from mana value equal to the chosen number until your next turn.\n[-2]: Fragment target creature. If you control that creature, put two +1/+1 counters on it.\n[-10]: Each opponent sacrifices a number of permanents equal to the greatest mana value among creatures you control.",
+            "special_text": "[+1]: Draw a card. Add {C}{C}.\n[-2]: Put a splinter counter on target creature. That creature loses all abilities until the end of your next turn. [i](Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]\n[-7]: Create a 10/10 colorless Eldrazi creature token. Then you may have each player's life total become equal to the total power of creatures they control.",
             "shape": "planeswalker",
             "set": "SGP",
-            "loyalty": "6",
+            "loyalty": "4",
             "artist": "Anato Finnstark",
             "alias": "",
             "notes": "18 Aug 2025: Juggled effects (idk how to make planeswalkers)",
@@ -3988,7 +3988,7 @@
             "number": 83,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
-            "rules_text": "As long as there are twenty or fewer cards in your library, this creature has flying, vigilance, and hexproof and has base power and toughness 9/9.\n{1}{U}, Discard this card: Mill six cards, then draw a card. Shuffle this card into your library.",
+            "rules_text": "As long as there are ten or fewer cards in your library, this creature gets +5/+5 and has flying, vigilance, and hexproof.\n{1}{U}, Discard this card: Mill six cards, then draw a card. Shuffle this card into your library.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -4048,7 +4048,7 @@
             "number": 89,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
-            "rules_text": "Whenever a nontoken Vehicle you control enters, create a token that's a copy of it. If it doesn't have autopilot, it gains autopilot {3}.\nWhenever a Vehicle you control deals combat damage to a player, surveil 2 if it was crewed this turn. Otherwise, draw a card.",
+            "rules_text": "Whenever a nontoken Vehicle you control enters, create a token that's a copy of it.\nVehicles you control have autopilot {3}. [i](They have \u201c{3}: This Vehicle becomes an artifact creature until end of turn.\u201d)[/i]\nWhenever a Vehicle you control deals combat damage to a player, surveil 2 if it was crewed this turn. Otherwise, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4308,7 +4308,7 @@
             "number": 183,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "{1}, Sacrifice two creatures: Create an X/X green Ooze creature token, where X is the combined power of the sacrificed creatures. Activate only as a sorcery.\n[i]Coalition [/i]\u2013 Whenever this creature attacks with one or more tokens, populate. [i](Create a token that's a copy of a creature token you control.)[/i]",
+            "rules_text": "{1}, Sacrifice two creatures: Create an X/X green Ooze creature token, where X is the total power of the sacrificed creatures. Activate only as a sorcery.\n[i]Coalition [/i]\u2013 Whenever this creature attacks with one or more tokens, populate. [i](Create a token that's a copy of a creature token you control.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -4357,7 +4357,7 @@
             "loyalty": "",
             "artist": "Jorge Jacinto",
             "alias": "",
-            "notes": "",
+            "notes": "!tapped",
             "image_type": "png"
         },
         {
@@ -4827,8 +4827,8 @@
             "type": "Sorcery",
             "number": 221,
             "color_identity": "UR",
-            "cost": "{U}{U}{R}{R}",
-            "rules_text": "Lost to Endless Scripture deals 5 damage to you.\nTake an extra turn after this one. Exile Lost to Endless Scripture.",
+            "cost": "{2}{U}{U}{R}{R}",
+            "rules_text": "Exile the top two cards of your library. Until the end of your next turn, you may play those cards.\nTake an extra turn after this one. Exile Lost to Endless Scripture.",
             "flavor_text": "[i]Zaila studied Kavalesk's writings in secret. They warped her into the perfect conduit. [/i]",
             "pt": "",
             "special_text": "",
@@ -4967,17 +4967,17 @@
             "type": "Creature \u2013 Eldrazi",
             "number": 3,
             "color_identity": "C",
-            "cost": "{4}",
-            "rules_text": "When this creature enters, exile up to one other target nonland permanent until this creature leaves the battlefield.\n{5}: Destroy this creature. Its controller draws two cards. Any player may activate this ability.",
+            "cost": "{3}{C}",
+            "rules_text": "When this creature enters, exile up to one other target nonland permanent until this creature leaves the battlefield.\n{4}: Destroy this creature. Its controller draws two cards. Any player may activate this ability.",
             "flavor_text": "[i][/i]",
-            "pt": "4/4",
+            "pt": "3/3",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Aerozopher",
             "alias": "",
-            "notes": "wordy and maybe unreasonable\n30 Aug 2025: Upped to 5 mana to draw 3\n\nShould this be constructed viable? Yes, as removal attached to card advantage in the lategame\n\nDoes this seem constructed viable? Yes, compared to other banish effects\n\n27 Sep 2025: Nerfed draw 3 to draw 2",
+            "notes": "wordy and maybe unreasonable\n30 Aug 2025: Upped to 5 mana to draw 3\n\nShould this be constructed viable? Yes, as removal attached to card advantage in the lategame\n\nDoes this seem constructed viable? Yes, compared to other banish effects\n\n27 Sep 2025: Nerfed draw 3 to draw 2\n29 Sep 2025: Made 3C instead of 4, reduced buyout cost from 5 to 4, and dropped from 4/4 to 3/3",
             "image_type": "png"
         },
         {
@@ -5188,7 +5188,7 @@
             "number": 212,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
-            "rules_text": "Choose one. You may choose another if you control a creature with mana value 4 or greater and another if you control a creature with mana value 6 or greater.\n\u2022 Derail deals 4 damage to any target.\n\u2022 Creatures can't block this turn.\n\u2022 Destroy target artifact or enchantment.",
+            "rules_text": "Choose one. You may choose another if you control a creature with mana value 4 or greater and another if you control a creature with mana value 6 or greater.\n\u2022 Derail deals 3 damage to any target.\n\u2022 Creatures can't block this turn.\n\u2022 Destroy target artifact or enchantment.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5437,7 +5437,7 @@
             "loyalty": "",
             "artist": "Andreas Rocha",
             "alias": "",
-            "notes": "",
+            "notes": "!tapped",
             "image_type": "png"
         },
         {
@@ -5457,7 +5457,7 @@
             "loyalty": "",
             "artist": "Andreas Rocha",
             "alias": "",
-            "notes": "",
+            "notes": "!tapped",
             "image_type": "png"
         },
         {
@@ -5477,7 +5477,7 @@
             "loyalty": "",
             "artist": "Andreas Rocha",
             "alias": "",
-            "notes": "",
+            "notes": "!tapped",
             "image_type": "png"
         },
         {
@@ -5497,7 +5497,7 @@
             "loyalty": "",
             "artist": "Philipp A Urlich",
             "alias": "",
-            "notes": "",
+            "notes": "!tapped",
             "image_type": "png"
         },
         {
@@ -5517,7 +5517,7 @@
             "loyalty": "",
             "artist": "Andreas Rocha",
             "alias": "",
-            "notes": "",
+            "notes": "!tapped",
             "image_type": "png"
         },
         {
@@ -5537,7 +5537,7 @@
             "loyalty": "",
             "artist": "Andreas Rocha",
             "alias": "",
-            "notes": "",
+            "notes": "!tapped",
             "image_type": "png"
         },
         {
@@ -5548,7 +5548,7 @@
             "number": 257,
             "color_identity": "UR",
             "cost": "",
-            "rules_text": "[b]This land enters tapped.\n{T}: Add {C}, {U}, or {R}.[/b]",
+            "rules_text": "This land enters tapped.[b]\n[/b]{T}: Add {C}, {U}, or {R}.",
             "flavor_text": "[i]\u201cThat would entrance her psyche so\nTo call upon the depths below\u201d\n\u2014 Lament to Zaila, lines 13-14[/i]",
             "pt": "",
             "special_text": "",
@@ -5557,7 +5557,7 @@
             "loyalty": "",
             "artist": "Andreas Rocha",
             "alias": "",
-            "notes": "",
+            "notes": "!tapped",
             "image_type": "png"
         },
         {
@@ -5577,7 +5577,7 @@
             "loyalty": "",
             "artist": "Andreas Rocha",
             "alias": "",
-            "notes": "",
+            "notes": "!tapped",
             "image_type": "png"
         },
         {
@@ -5597,7 +5597,7 @@
             "loyalty": "",
             "artist": "Philipp A Urlich",
             "alias": "",
-            "notes": "",
+            "notes": "!tapped",
             "image_type": "png"
         },
         {
@@ -5617,7 +5617,7 @@
             "loyalty": "",
             "artist": "Andreas Rocha",
             "alias": "",
-            "notes": "",
+            "notes": "!tapped",
             "image_type": "png"
         },
         {
@@ -5637,7 +5637,7 @@
             "loyalty": "",
             "artist": "Michael Katchan",
             "alias": "",
-            "notes": "",
+            "notes": "!related Colossus Showman;Stylla, Opulence Paragon;Speakeasy Brokers",
             "image_type": "png"
         },
         {
@@ -5677,7 +5677,7 @@
             "loyalty": "",
             "artist": "Romana Kendelic",
             "alias": "",
-            "notes": "",
+            "notes": "!related Wreckage Inquisitors;Cataclysm Constable;Confidential Science;Donnybrook;Fade;Mournful Matriarch;Public Exhibition;Auspicious Coroners;Curious Botanist;First Responders;Lantha, Task Force Sergeant;Port Inspector;Task Force Operatives;Yestergrove Relic;Impact Surveyors",
             "image_type": "png"
         },
         {
@@ -5717,7 +5717,7 @@
             "loyalty": "",
             "artist": "Tim Razumovsky",
             "alias": "",
-            "notes": "",
+            "notes": "!related Industry Kingpins",
             "image_type": "png"
         },
         {
@@ -5737,7 +5737,7 @@
             "loyalty": "",
             "artist": "Joseph Feely",
             "alias": "",
-            "notes": "",
+            "notes": "!related Oathbound Stalwart;Brunn, Blunt Tactician;High Sergeant Liano",
             "image_type": "png"
         },
         {
@@ -5757,7 +5757,7 @@
             "loyalty": "",
             "artist": "Edwin Henry Landseer",
             "alias": "",
-            "notes": "",
+            "notes": "!related Pedigree Collector",
             "image_type": "png"
         },
         {
@@ -5777,7 +5777,7 @@
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
-            "notes": "",
+            "notes": "!related Titan's Effigy;Zaila, Her Will Be Done",
             "image_type": "png"
         },
         {
@@ -5797,71 +5797,11 @@
             "loyalty": "",
             "artist": "Nicholas Maxson",
             "alias": "",
-            "notes": "",
+            "notes": "!related Upgrade the Force",
             "image_type": "png"
         },
         {
-            "card_name": "Plains",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2013 Plains",
-            "number": 280,
-            "color_identity": "W",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "SGP",
-            "loyalty": "",
-            "artist": "Vlad Marica",
-            "alias": "",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Island",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2013 Island",
-            "number": 282,
-            "color_identity": "U",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "SGP",
-            "loyalty": "",
-            "artist": "Andy Walsh",
-            "alias": "",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Island",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2013 Island",
-            "number": 283,
-            "color_identity": "U",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "SGP",
-            "loyalty": "",
-            "artist": "Jorge Jacinto",
-            "alias": "",
-            "notes": "",
-            "image_type": "png"
-        },
-        {
-            "card_name": "Plains",
+            "card_name": "Plains_SGP",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2013 Plains",
@@ -5875,17 +5815,77 @@
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
-            "artist": "Guillem H Pongiluppi",
+            "artist": "Vlad Marica",
             "alias": "",
-            "notes": "",
+            "notes": "!exportname Plains_SGP",
             "image_type": "png"
         },
         {
-            "card_name": "Swamp",
+            "card_name": "Island_SGP",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2013 Island",
+            "number": 283,
+            "color_identity": "U",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SGP",
+            "loyalty": "",
+            "artist": "Andy Walsh",
+            "alias": "",
+            "notes": "!exportname Island_SGP",
+            "image_type": "png"
+        },
+        {
+            "card_name": "Island Eldritch_SGP",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2013 Island",
+            "number": 282,
+            "color_identity": "U",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SGP",
+            "loyalty": "",
+            "artist": "Jorge Jacinto",
+            "alias": "",
+            "notes": "!exportname Island Eldritch_SGP",
+            "image_type": "png"
+        },
+        {
+            "card_name": "Plains Eldritch_SGP",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2013 Plains",
+            "number": 280,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "SGP",
+            "loyalty": "",
+            "artist": "Guillem H Pongiluppi",
+            "alias": "",
+            "notes": "!exportname Plains Eldritch_SGP",
+            "image_type": "png"
+        },
+        {
+            "card_name": "Swamp Eldritch_SGP",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2013 Swamp",
-            "number": 285,
+            "number": 284,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -5897,15 +5897,15 @@
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
-            "notes": "",
+            "notes": "!exportname Swamp Eldritch_SGP",
             "image_type": "png"
         },
         {
-            "card_name": "Mountain",
+            "card_name": "Mountain Eldritch_SGP",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2013 Mountain",
-            "number": 287,
+            "number": 286,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -5917,15 +5917,15 @@
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
-            "notes": "",
+            "notes": "!exportname Mountain Eldritch_SGP",
             "image_type": "png"
         },
         {
-            "card_name": "Forest",
+            "card_name": "Forest Eldritch_SGP",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2013 Forest",
-            "number": 289,
+            "number": 288,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -5937,7 +5937,7 @@
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
-            "notes": "",
+            "notes": "!exportname Forest Eldritch_SGP",
             "image_type": "png"
         },
         {
@@ -5957,7 +5957,7 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
-            "notes": "",
+            "notes": "!related Eiara, Aegis Herald",
             "image_type": "png"
         },
         {
@@ -5977,7 +5977,7 @@
             "loyalty": "",
             "artist": "Craig Smoothy",
             "alias": "",
-            "notes": "",
+            "notes": "!related Lightwire Swarm",
             "image_type": "png"
         },
         {
@@ -5997,7 +5997,7 @@
             "loyalty": "",
             "artist": "Adrian Kubiak",
             "alias": "",
-            "notes": "",
+            "notes": "!related Gene Recombinators",
             "image_type": "png"
         }
     ]
