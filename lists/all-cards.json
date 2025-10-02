@@ -5288,7 +5288,7 @@
             "number": 95,
             "color_identity": "B",
             "cost": "{B}{B}",
-            "rules_text": "Whenever a player sacrifices a nontoken permanent, you may pay 2 life. If you do, create a token that's a copy of that permanent.\n{B}, Sacrifice a creature: You draw a card and lose 1 life.",
+            "rules_text": "Whenever a player sacrifices a nonland, nontoken permanent, you may pay 2 life. If you do, create a token that's a copy of that permanent.\n{B}, Sacrifice a creature: You draw a card and lose 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",

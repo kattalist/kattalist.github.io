@@ -1,4 +1,15 @@
-﻿VERSION 44 CHANGELOG
+﻿VERSION 45 CHANGELOG
+====================
+
+
+
+Bloodlust Visionary
+rules_text: Whenever a player sacrifices a nontoken permanent, you may pay 2 life. If you do, create a token that's a copy of that permanent.
+{B}, Sacrifice a creature: You draw a card and lose 1 life. => Whenever a player sacrifices a nonland, nontoken permanent, you may pay 2 life. If you do, create a token that's a copy of that permanent.
+{B}, Sacrifice a creature: You draw a card and lose 1 life.
+
+
+VERSION 44 CHANGELOG
 ====================
 
 
