@@ -1,4 +1,207 @@
-﻿VERSION 45 CHANGELOG
+﻿VERSION 46 CHANGELOG
+====================
+
+Frossenhold Walker added.
+Rush of Clarity added.
+Frossenhold Locomotive added.
+Salar, Calloran's Defiance added.
+Greytide Spectre added.
+What Remains of Frossenhold added.
+
+Winterfell Walker removed.
+Mindbreak Shield removed.
+Winterfell Locomotive removed.
+Up in Flames removed.
+Paranoia removed.
+What Remains of Winterfell removed.
+
+Intrepid Aviator
+
+Task Force Operatives
+
+Startouched Analyst
+
+Mastbreaker
+
+Taken by the Storm
+
+Luxuries Merchant
+
+Eyekissed Invoker
+
+Hotwire Prodigy
+
+Steelsuit Consultant
+
+Magma Scribe
+
+Startouched Blitzer
+
+Spire Defender
+
+Ruin Prowler
+
+In Eldritch Flame
+
+Emergency Jettison
+
+Incendiary Charger
+
+Evacuation Hotrod
+
+Donnybrook
+cost: {1}{G} => {G}
+
+Obsidian Reliquary
+
+Pine Blitzer
+
+Corrupted Hedron
+
+Steelform Willshaper
+
+Afflict Thought
+rules_text: Target opponent reveals their hand. You choose a nonland card from it. Exile that card. If the void called this turn, draw a card. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => Target opponent reveals their hand. You choose a nonland card from it. Exile that card. If the void called this turn, surveil 2. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+
+Restless Summoners
+
+Ravaged Eviscerator
+
+Strength of the Departed
+
+Watchman of the Deep
+
+Steelsuit Retrofitter
+
+Void Empyrean
+
+In the Nick of Time
+
+Triumph, Taken by the Roil
+
+Occupation
+
+Flamerush
+
+For the Cause
+
+Mutation Investigator
+
+Preemption Engineer
+
+Sacrifice Archivist
+
+Forgotten Lane Busker
+
+Pinefell Terror
+
+Scalding Roil
+
+Pyretic Dreadnought
+
+Prismatic Splinter
+
+Ulamog, the Earth Engulfed
+rules_text: Indestructible
+Whenever Ulamog attacks, choose a card type, then search target opponent's graveyard, hand, and library for all cards of the chosen type and exile them. That player shuffles their library. => Indestructible
+Whenever Ulamog attacks, search target opponent's graveyard, hand, and library for up to seven cards and exile them. That player shuffles their library.
+
+Glyphbound Sharpshooter
+rules_text: Whenever you surveil, you may mill a card. If an instant or sorcery card is milled this way, you may cast it from your graveyard this turn. => Whenever you surveil for the first time each turn, you may mill a card. If an instant or sorcery card is milled this way, you may cast it from your graveyard this turn.
+
+Auspicious Coroners
+rules_text: Vigilance
+Whenever another creature you control dies, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+{T}, Sacrifice a Clue: Draw a card, then discard a card. => Vigilance
+Whenever another creature you control dies, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+{T}, Sacrifice a Clue: Draw two cards, then discard a card.
+
+Scion of Insanity
+rules_text: As long as there are ten or fewer cards in your library, this creature gets +5/+5 and has flying, vigilance, and hexproof.
+{1}{U}, Discard this card: Mill six cards, then draw a card. Shuffle this card into your library. => Flying, hexproof
+As long as the number of cards in your library is less than half the minimum deck size, this creature gets +3/+3.
+{1}{U}, Discard this card: Mill three cards, then draw a card. Shuffle this card into your library.
+
+Unparalleled Efficiency
+
+Haunted Starlet
+rules_text: Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+Whenever an opponent loses life for the first time each turn, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.” You lose 1 life. => Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+Whenever you extort for the first time each turn, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.” You lose 1 life.
+
+Insatiable Slasher
+pt: 3/2 => 2/2
+
+Esme, Lost to Avarice
+rules_text: Whenever the void calls for the first time each turn, each opponent loses 2 life and you gain 2 life. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+{3}{B}: Esme becomes a 0/0 Horror in addition to its other types. Put a +1/+1 counter on it for each card in your graveyard. Activate only once. => Whenever the void calls for the first time each turn, each opponent loses 2 life and you gain 2 life. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+{3}{B}: Esme becomes a 0/0 Horror in addition to its other types. Put a +1/+1 counter on it for each card in your graveyard. Activate only as a sorcery and only once.
+
+Moonlit Mutilator
+
+Derail
+cost: {1}{R}{G} => {1}{R}{R}{R}
+rules_text: Choose one. You may choose another if you control a creature with mana value 4 or greater and another if you control a creature with mana value 6 or greater.
+• Derail deals 3 damage to any target.
+• Creatures can't block this turn.
+• Destroy target artifact or enchantment. => Destroy all artifacts. Derail deals damage to each opponent equal to the number of artifacts they controlled that were destroyed this way.
+
+Ovaan, Starbreaker Ghost
+pt: 6/6 => 7/7
+
+Grand Awakening
+
+Population Boom
+
+Clanston Innovator
+pt: 1/2 => 2/2
+
+Efraim, High Alderman
+
+Revoke Will
+
+Reality Schism
+
+Fate's Cruel Compulsion
+
+Twilight Mire
+
+Flooded Grove
+
+Lantha's Journal
+cost: {2} => {1}
+rules_text: {1}, {T}: Draw a card, then discard a card. Put a page counter on Lantha's Journal.
+{2}, {T}, Remove X page counters from Lantha's Journal: You may cast target card with mana value X or less from your graveyard without paying its mana cost. Activate only as a sorcery. => {2}, {T}: Draw a card, then discard a card. Put a page counter on Lantha's Journal.
+{2}, {T}, Remove X page counters from Lantha's Journal: You may cast target card with mana value X or less from your graveyard without paying its mana cost. Activate only as a sorcery.
+
+Lightwire Swarm
+
+Ravin, Heir of Goldport
+
+Bloodlust Visionary
+cost: {B}{B} => {2}{B}{B}
+rules_text: Whenever a player sacrifices a nonland, nontoken permanent, you may pay 2 life. If you do, create a token that's a copy of that permanent.
+{B}, Sacrifice a creature: You draw a card and lose 1 life. => Menace
+Whenever you sacrifice a creature, if that creature dying causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+{B}{B}, Sacrifice another creature: You draw two cards and lose 2 life.
+pt: 2/1 => 4/4
+
+Scour for Inspiration
+type: Sorcery => Instant
+rules_text: Name a card, then exile cards from the top of your library until you exile a card with the chosen name. You may play that card this turn. Scour for Inspiration deals damage to you equal to the number of land cards exiled this way. => Choose a card name. Exile cards from the top of your library until you exile a card with the chosen name. You may play that card this turn. Scour for Inspiration deals damage to you equal to the number of land cards exiled this way.
+
+Jerald, Steel Virtuoso
+rules_text: {1}{R}: Artifact creatures you control get +1/+0 until end of turn.
+{2}{R}: Artifact creatures you control gain first strike and menace until end of turn.
+{3}{R}{R}: Artifact creatures you control gain double strike and trample until end of turn. => When Jerald enters, create a 1/1 colorless Thopter artifact creature token with flying.
+{1}{R}: Artifact creatures you control get +1/+0 and gain haste until end of turn.
+{3}{R}{R}: Artifact creatures you control gain double strike and trample until end of turn.
+pt: 3/2 => 2/2
+
+Forge in Anguish
+
+
+VERSION 45 CHANGELOG
 ====================
 
 
