@@ -1,4 +1,321 @@
-﻿VERSION 46 CHANGELOG
+﻿VERSION 47 CHANGELOG
+====================
+
+Aviary Whisperer added.
+Malformed Initiate added.
+Concerning Discoveries added.
+Golden Guard Cavalier added.
+Inkrealm Breacher added.
+Blood Soliloquy added.
+Stelver, the Eyes and Ears added.
+Devonia, Lost Ministrix added.
+Children of the Heralds added.
+
+Raven Whisperer removed.
+Soulsiphon Initiate removed.
+Adaptive Agent removed.
+Triumphant Cavalier removed.
+Triumph, Taken by the Roil removed.
+Devour the Broken removed.
+Banquet Sleuth removed.
+Glyphbound Sharpshooter removed.
+Arbiter of the Scale removed.
+
+Startouched Devout
+
+Mire Pathforger
+
+Pedigree Collector
+
+Rockpile Brutes
+
+Mournful Matriarch
+
+Opalwing Cavalry
+
+Timely Intervention
+
+Oligarch's Supercar
+
+Intrepid Aviator
+
+Diviner of Relics
+
+Task Force Operatives
+
+Startouched Analyst
+
+Frossenhold Walker
+
+Mastbreaker
+
+Eldritch Rebuttal
+
+Pass Unscathed
+
+Collaborate
+
+Taken by the Storm
+
+Public Exhibition
+
+Duchy Flagship
+
+Cruel Patrician
+
+Croak
+
+Compelled to Die
+
+Colossus Showman
+rules_text: When this creature enters, create a tapped Treasure token.
+This creature gets +2/+2 and has menace as long as you've cast a spell with mana value 4 or greater this turn. => When this creature enters, create a tapped Treasure token.
+This creature gets +1/+1 and has menace as long as you've cast a spell with mana value 4 or greater this turn.
+pt: 2/2 => 3/3
+
+Branchbound Speaker
+
+Splintering Edict
+rules_text: Choose one. If {C} was spent to cast this spell, instead choose any number.
+• Tap or untap up to one target creature. Draw a card.
+• Counter target spell. => Choose one. If {C} was spent to cast this spell, instead choose any number.
+• You may tap or untap up to one target creature. Put a stun counter on each creature tapped this way.
+• Counter target spell.
+
+Afflict Thought
+
+Restless Summoners
+cost: {1}{R}{G} => {R}{G}
+rules_text: {T}: Add one mana of any type. [i](The types of mana are {C}, {W}, {U}, {B}, {R}, and {G}.)[/i]
+Whenever you cast a spell with mana value 4 or greater, untap this creature. => {T}: Add one mana of any type. [i](The types of mana are {C}, {W}, {U}, {B}, {R}, and {G}.)[/i]
+Whenever you cast a spell with mana value 6 or greater, untap this creature.
+pt: 1/3 => 1/2
+
+Admired Aeronaut
+
+Lantha, Task Force Sergeant
+rules_text: Activated abilities of artifacts you control cost {1} less to activate. This effect can't reduce the amount of mana you pay to activate an ability to less than one mana.
+{3}, {T}: Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => Activated abilities of artifacts you control cost {1} less to activate. This effect can't reduce the amount of mana you pay to activate an ability to less than one mana.
+{2}, {T}: Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+
+Black Site Enhancer
+rules_text: Vigilance
+{T}: Add {C}. When this mana is spent to cast an instant, sorcery, or colorless spell, scry 1. => Vigilance
+Colorless spells you cast cost {1} less to cast.
+
+In Strength Entwined
+
+Karsten, the Spinner
+cost: {2}{W}{B} => {1}{W}{B}
+pt: 3/3 => 2/3
+
+Artillery Commander
+
+Sky Force Retiree
+
+Scape Surveyor
+
+Steelwire Shaper
+
+Thousand-Mind Cutthroat
+
+North District Prior
+
+Stylla, Opulence Paragon
+rules_text: At the beginning of combat on your turn, if an opponent lost life this turn, create a Treasure token.
+{3}, {T}: Target opponent loses 5 life and you gain 5 life. Spend only mana from Treasures to activate this ability. => At the beginning of combat on your turn, if an opponent lost life this turn, create a Treasure token.
+{3}, {T}: Target opponent loses 5 life and you gain 5 life. Spend only mana from Treasures to activate this ability, and activate only as a sorcery.
+
+Industry Kingpins
+
+Never Seen Again
+
+Induced Catatonia
+
+Strength of the Departed
+
+Steelsuit Retrofitter
+
+Port Inspector
+
+Ego Devourer
+
+Void Empyrean
+rules_text: Devoid [i](This card has no color.)[/i]
+Flying
+When this creature enters, return up to two target creatures you don't control to their owners' hands, then surveil 3. => Devoid [i](This card has no color.)[/i]
+Flying
+When this creature enters, return up to two target creatures you don't control to their owners' hands. Surveil 3.
+
+In the Nick of Time
+
+Fade
+
+Rush of Clarity
+
+Remember the Titans
+
+Ego Death
+
+Wiped Clean
+rules_text: Devoid [i](This card has no color.)[/i]
+Enchant nonland permanent
+When this Aura enters the battlefield, draw a card if {C} was spent to cast it.
+Enchanted permanent loses all abilities. => Devoid [i](This card has no color.)[/i]
+Enchant nonland permanent
+When this Aura enters, draw a card if {C} was spent to cast it.
+Enchanted permanent loses all abilities.
+
+Viscera Channeler
+rules_text: Whenever an Eldrazi enters under your control, put a +1/+1 counter on this creature.
+{3}{G}, {T}: Mill X cards, where X is this creature's power. You may put a creature card from among the cards milled this way into your hand. => Whenever an Eldrazi you control enters, put a +1/+1 counter on this creature.
+{3}{G}, {T}: Mill X cards, where X is this creature's power. You may put a creature card from among the cards milled this way into your hand.
+
+Corpse Inspectors
+
+Brethren Priestess
+
+Scour the Formless Scape
+cost: {3}{G} => {3}{G}{G}
+rules_text: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. => Search your library for up to two land cards, put them onto the battlefield tapped, then shuffle.
+Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+
+Bread and Circuses
+
+Stonebridge Ambush
+rules_text: When this creature enters, you may pay {B} and fragment it. Then destroy target creature with equal or greater power. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i] => As this creature enters, you may pay {B}. If you do, when it enters, fragment it. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+When this creature enters, destroy target creature with equal or greater power.
+
+Scalding Roil
+type: Instant => Sorcery
+rules_text: Scalding Roil deals 2 damage to each creature and 2 damage to you. => Scalding Roil deals 2 damage to each creature. Creatures you control gain first strike until end of turn.
+
+Channel the Dark
+
+Inkrealm Drowner
+rules_text: When this creature enters, tap all creatures target player controls. Put a stun counter on each of up to two of those creatures.
+Trample => When you cast this spell, tap all creatures target player controls. Put a stun counter on each of up to two of those creatures.
+Trample
+
+Eternity Takes
+cost: {4} => {1}{C}
+rules_text: Exile target creature. Then you may reveal a creature card with mana value 6 or greater from your hand. When you do, exile target creature. => As an additional cost to cast this spell, pay {2}, choose a creature you control with mana value 6 or greater, or reveal a creature card with mana value 6 or greater from your hand.
+Exile target nonland permanent.
+
+Bear Witness
+
+High Sergeant Liano
+
+Subjugation Herald
+
+Regulation Inspector
+
+Scion of Insanity
+
+Czaruun, Insight Herald
+
+Roiling Undertow
+
+Unparalleled Efficiency
+rules_text: Whenever a nontoken Vehicle you control enters, create a token that's a copy of it.
+Vehicles you control have autopilot {3}. [i](They have “{3}: This Vehicle becomes an artifact creature until end of turn.”)[/i]
+Whenever a Vehicle you control deals combat damage to a player, surveil 2 if it was crewed this turn. Otherwise, draw a card. => When this enchantment enters, for each Vehicle you control, create a token that's a copy of it.
+Vehicles you control have autopilot {2}. [i](They have “{2}: This Vehicle becomes an artifact creature until end of turn.”)[/i]
+Whenever you activate an ability of a Vehicle you control, up to one other target Vehicle becomes an artifact creature until end of turn.
+
+Mortician's Carriage
+pt: 6/6 => 7/7
+
+Esme, Lost to Avarice
+rules_text: Whenever the void calls for the first time each turn, each opponent loses 2 life and you gain 2 life. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+{3}{B}: Esme becomes a 0/0 Horror in addition to its other types. Put a +1/+1 counter on it for each card in your graveyard. Activate only as a sorcery and only once. => Whenever the void calls for the first time each turn, each opponent loses 1 life and you gain 1 life. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+{4}{B}{B}: If there are seven or more cards in your graveyard, Esme gains flying and becomes a 7/7 Horror in addition to its other types. Activate only as a sorcery.
+pt: 2/2 => 3/3
+
+Visions of the Veil
+cost: {3}{R} => {2}{R}
+rules_text: Enchant creature
+Enchanted creature has double strike.
+Whenever enchanted creature deals combat damage to a player, you may discard your hand. If you do, draw two cards. => Enchant creature
+Enchanted creature has double strike. If the void called this turn, it also gets +1/+0. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+{R}, Discard this card: Exile the top two cards of your library. Until the end of your next turn, you may play one of those cards.
+
+Curious Botanist
+rules_text: Whenever this creature enters or attacks, choose one. If it entered, choose any number instead.
+• Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+• You may play an additional land this turn.
+• You gain 3 life. => Whenever this creature enters or attacks, choose one. If it entered, choose up to two instead.
+• Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+• You may play an additional land this turn.
+• You gain 3 life.
+
+Ovaan, Starbreaker Ghost
+pt: 7/7 => 8/8
+
+Chasm Behemoth
+rules_text: Trample, vigilance
+Ward—Sacrifice an artifact or creature. => Trample, vigilance
+Ward—Sacrifice a noncreature permanent.
+
+Kavalesk, the Dark Exalted
+
+Grand Awakening
+
+Clanston Innovator
+pt: 2/2 => 1/2
+
+Something in the Soil
+rules_text: You get a soil counter. Then mill X cards, where X is twice the number of soil counters you have. You may return a permanent card with mana value X or less from your graveyard to the battlefield.
+A deck can have any number of cards named Something in the Soil. => You get a soil counter. Then mill X cards, where X is twice the number of soil counters you have. When you do, you may return a permanent card with mana value X or less from your graveyard to the battlefield.
+A deck can have any number of cards named Something in the Soil.
+
+Cirrus Behemoth
+
+Efraim, High Alderman
+
+Brunn, Blunt Tactician
+
+That Even Time Forgets
+rules_text: Destroy target nonland permanent. => Destroy target nonland permanent. Its controller loses 2 life.
+
+Fate's Cruel Compulsion
+
+Lost to Endless Scripture
+
+Aspirant of Ulamog
+
+The West District Hangar
+cost: {3}{R} => {2}{R}
+
+Leonard, Experiment Zero
+
+Lightwire Swarm
+cost: {1}{U} => {2}{U}
+
+Ravin, Heir of Goldport
+cost: {W}{B}{G} => {2}{W}{B}{G}
+rules_text: Whenever a creature token you control enters, put a +1/+1 counter on Ravin.
+Whenever Ravin attacks, attacking tokens gain menace and lifelink until end of turn. Untap them. => Vigilance, trample
+Whenever another creature you control enters, you gain 2 life.
+Whenever a creature you control dies, each opponent loses 2 life.
+pt: 4/3 => 4/5
+
+Torvinald, Iron Eminence
+
+Greytide Spectre
+
+Bloodlust Visionary
+
+Jerald, Steel Virtuoso
+pt: 2/2 => 1/1
+
+Baalakus, the Zenith
+type: Legendary Creature — Beast Horror => Legendary Creature — Elemental Horror
+
+Forge in Anguish
+
+
+VERSION 46 CHANGELOG
 ====================
 
 Frossenhold Walker added.
