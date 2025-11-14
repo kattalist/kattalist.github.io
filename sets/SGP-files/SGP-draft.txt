@@ -1013,7 +1013,7 @@
 		{
 			"name": "Karsten, the Spinner",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{B}",
+			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Creature — Human Noble",
 			"collector_number": "216",
 			"image_uris": {
