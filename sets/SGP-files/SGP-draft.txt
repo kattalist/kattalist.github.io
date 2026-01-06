@@ -5,19 +5,19 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Human",
-			"collector_number": "56",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/56_Volunteer Firewatch.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/59_Volunteer Firewatch.png"
 			}
 		},
 		{
-			"name": "Startouched Devout",
+			"name": "Startouched Reverend",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Artifact Creature — Construct Horror",
-			"collector_number": "47",
+			"type": "Creature — Human Cleric",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/47_Startouched Devout.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/53_Startouched Reverend.png"
 			}
 		},
 		{
@@ -25,9 +25,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Eldrazi Horror",
-			"collector_number": "36",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/36_Mire Pathforger.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/42_Mire Pathforger.png"
 			}
 		},
 		{
@@ -35,29 +35,29 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Noble",
-			"collector_number": "42",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/42_Pedigree Collector.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/47_Pedigree Collector.png"
 			}
 		},
 		{
 			"name": "Rockpile Brutes",
 			"rarity": "common",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "44",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/44_Rockpile Brutes.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/49_Rockpile Brutes.png"
 			}
 		},
 		{
-			"name": "Aerial Regulator",
+			"name": "Sky Force Admiral",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "24",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/24_Aerial Regulator.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/51_Sky Force Admiral.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Noble",
-			"collector_number": "37",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/37_Mournful Matriarch.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/43_Mournful Matriarch.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Horror Soldier",
-			"collector_number": "57",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/57_Zaila's Willbender.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/63_Zaila's Willbender.png"
 			}
 		},
 		{
@@ -85,19 +85,19 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Griffin",
-			"collector_number": "41",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/41_Opalwing Cavalry.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/46_Opalwing Cavalry.png"
 			}
 		},
 		{
-			"name": "Upgrade the Force",
+			"name": "Flagship Auto-Enforcer",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
-			"type": "Sorcery",
-			"collector_number": "54",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/54_Upgrade the Force.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/37_Flagship Auto-Enforcer.png"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "52",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/52_Timely Intervention.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/56_Timely Intervention.png"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "23",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/23_Aerial Augmentation.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/30_Aerial Augmentation.png"
 			}
 		},
 		{
@@ -125,19 +125,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "58",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/58_Zeppelin Disaster.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/64_Zeppelin Disaster.png"
 			}
 		},
 		{
-			"name": "Oligarch's Supercar",
+			"name": "Personal Wingsuit",
 			"rarity": "common",
-			"mana_cost": "{2}{W}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "40",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/40_Oligarch's Supercar.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/253_Personal Wingsuit.png"
 			}
 		},
 		{
@@ -171,13 +171,13 @@
 			}
 		},
 		{
-			"name": "Intrepid Aviator",
+			"name": "Gloompool Heron",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Creature — Human Pilot",
-			"collector_number": "76",
+			"type": "Creature — Bird",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/76_Intrepid Aviator.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/81_Gloompool Heron.png"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Scholar",
-			"collector_number": "67",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/67_Diviner of Relics.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/74_Diviner of Relics.png"
 			}
 		},
 		{
@@ -195,19 +195,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Detective",
-			"collector_number": "89",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/89_Task Force Operatives.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/95_Task Force Operatives.png"
 			}
 		},
 		{
 			"name": "Startouched Analyst",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
-			"type": "Creature — Human Scientist Horror",
-			"collector_number": "86",
+			"type": "Creature — Human Scientist",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/86_Startouched Analyst.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/93_Startouched Analyst.png"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "73",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/73_Frossenhold Walker.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/80_Frossenhold Walker.png"
 			}
 		},
 		{
@@ -225,9 +225,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{U}",
 			"type": "Creature — Kraken Horror",
-			"collector_number": "78",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/78_Mastbreaker.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/87_Mastbreaker.png"
 			}
 		},
 		{
@@ -235,19 +235,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "71",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/71_Eldritch Rebuttal.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/77_Eldritch Rebuttal.png"
 			}
 		},
 		{
-			"name": "Pass Unscathed",
+			"name": "Innovation Thief",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Instant",
-			"collector_number": "79",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/79_Pass Unscathed.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/83_Innovation Thief.png"
 			}
 		},
 		{
@@ -255,19 +255,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "64",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/64_Collaborate.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/71_Collaborate.png"
 			}
 		},
 		{
 			"name": "Taken by the Storm",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "88",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/88_Taken by the Storm.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/94_Taken by the Storm.png"
 			}
 		},
 		{
@@ -275,49 +275,49 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "81",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/81_Public Exhibition.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/89_Public Exhibition.png"
 			}
 		},
 		{
-			"name": "Duchy Flagship",
-			"rarity": "common",
-			"mana_cost": "{2}{U}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "68",
-			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/68_Duchy Flagship.png"
-			}
-		},
-		{
-			"name": "Zephyr Piercer",
+			"name": "Writheform",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "94",
+			"type": "Instant",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/94_Zephyr Piercer.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/98_Writheform.png"
+			}
+		},
+		{
+			"name": "Black Site Asylum",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Clue",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/70_Black Site Asylum.png"
 			}
 		},
 		{
 			"name": "Lamplighter of the End",
 			"rarity": "common",
-			"mana_cost": "{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "114",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/114_Lamplighter of the End.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/117_Lamplighter of the End.png"
 			}
 		},
 		{
 			"name": "Luxuries Merchant",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{B}",
 			"type": "Creature — Human",
-			"collector_number": "116",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/116_Luxuries Merchant.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/119_Luxuries Merchant.png"
 			}
 		},
 		{
@@ -325,9 +325,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Eldrazi Horror",
-			"collector_number": "129",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/129_Unwelcome Tenant.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/133_Unwelcome Tenant.png"
 			}
 		},
 		{
@@ -335,9 +335,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Noble",
-			"collector_number": "103",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/103_Cruel Patrician.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/106_Cruel Patrician.png"
 			}
 		},
 		{
@@ -345,19 +345,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Nightmare Horror",
-			"collector_number": "111",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/111_Inkrealm Stalker.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/115_Inkrealm Stalker.png"
 			}
 		},
 		{
-			"name": "Paradigm Enforcer",
+			"name": "Marshwreck Gang",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Human Noble",
+			"type": "Creature — Fish Horror",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/120_Paradigm Enforcer.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/120_Marshwreck Gang.png"
 			}
 		},
 		{
@@ -365,9 +365,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "124",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/124_Speakeasy Brokers.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/126_Speakeasy Brokers.png"
 			}
 		},
 		{
@@ -375,19 +375,19 @@
 			"rarity": "common",
 			"mana_cost": "{5}{B}",
 			"type": "Creature — Eldrazi Horror",
-			"collector_number": "123",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/123_Soultaker Idol.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/125_Soultaker Idol.png"
 			}
 		},
 		{
 			"name": "Startouched Assassin",
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
-			"type": "Creature — Human Assassin Horror",
-			"collector_number": "125",
+			"type": "Creature — Horror Assassin",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/125_Startouched Assassin.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/127_Startouched Assassin.png"
 			}
 		},
 		{
@@ -395,9 +395,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Instant",
-			"collector_number": "102",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/102_Croak.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/105_Croak.png"
 			}
 		},
 		{
@@ -405,9 +405,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "109",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/109_Harrowing Transformation.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/113_Harrowing Transformation.png"
 			}
 		},
 		{
@@ -415,9 +415,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "115",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/115_Learn From Loss.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/118_Learn From Loss.png"
 			}
 		},
 		{
@@ -425,9 +425,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "100",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/100_Compelled to Die.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/103_Compelled to Die.png"
 			}
 		},
 		{
@@ -435,9 +435,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "118",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/118_Nightgrasp.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/121_Nightgrasp.png"
 			}
 		},
 		{
@@ -455,9 +455,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "141",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/141_Eyekissed Invoker.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/142_Eyekissed Invoker.png"
 			}
 		},
 		{
@@ -475,19 +475,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Orc Artificer",
-			"collector_number": "163",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/163_Steelsuit Consultant.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/161_Steelsuit Consultant.png"
 			}
 		},
 		{
-			"name": "Colossus Showman",
+			"name": "Unsettling Showman",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Bard",
-			"collector_number": "134",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/134_Colossus Showman.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/163_Unsettling Showman.png"
 			}
 		},
 		{
@@ -495,39 +495,39 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Elemental Warlock",
-			"collector_number": "150",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/150_Magma Scribe.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/152_Magma Scribe.png"
 			}
 		},
 		{
-			"name": "Startouched Blitzer",
+			"name": "Startouched Epigone",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Elemental Horror",
-			"collector_number": "162",
+			"type": "Creature — Human Warlock",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/162_Startouched Blitzer.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/159_Startouched Epigone.png"
 			}
 		},
 		{
-			"name": "Spire Defender",
+			"name": "Iron Triumphant",
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "161",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/161_Spire Defender.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/149_Iron Triumphant.png"
 			}
 		},
 		{
-			"name": "Ruin Prowler",
+			"name": "Mantle Breacher",
 			"rarity": "common",
-			"mana_cost": "{5}{R}",
-			"type": "Creature — Griffin Horror",
-			"collector_number": "157",
+			"mana_cost": "{5}{C}",
+			"type": "Creature — Eldrazi",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/157_Ruin Prowler.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/16_Mantle Breacher.png"
 			}
 		},
 		{
@@ -535,19 +535,19 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Beast Warlock",
-			"collector_number": "136",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/136_Crimson Gladeguard.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/138_Crimson Gladeguard.png"
 			}
 		},
 		{
-			"name": "In Eldritch Flame",
+			"name": "Steelsoul Ignition",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "147",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/147_In Eldritch Flame.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/160_Steelsoul Ignition.png"
 			}
 		},
 		{
@@ -555,39 +555,39 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "135",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/135_Commune with Silence.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/137_Commune with Silence.png"
 			}
 		},
 		{
-			"name": "Emergency Jettison",
+			"name": "Jettison",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/151_Jettison.png"
+			}
+		},
+		{
+			"name": "Cutting-Edge Munitions",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/139_Emergency Jettison.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/139_Cutting-Edge Munitions.png"
 			}
 		},
 		{
-			"name": "Incendiary Charger",
-			"rarity": "common",
-			"mana_cost": "{3}{R}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "148",
+			"name": "Willbreaker Lance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/148_Incendiary Charger.png"
-			}
-		},
-		{
-			"name": "Evacuation Hotrod",
-			"rarity": "common",
-			"mana_cost": "{2}{R}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "140",
-			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/140_Evacuation Hotrod.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/166_Willbreaker Lance.png"
 			}
 		},
 		{
@@ -605,9 +605,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elemental Horror",
-			"collector_number": "194",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/194_Startouched Arborist.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/195_Startouched Arborist.png"
 			}
 		},
 		{
@@ -635,16 +635,16 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
-			"collector_number": "195",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/195_Streetway Incursion.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/196_Streetway Incursion.png"
 			}
 		},
 		{
 			"name": "World Whisperer",
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
-			"type": "Creature — Beast",
+			"type": "Creature — Eldrazi Spider",
 			"collector_number": "200",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/200_World Whisperer.png"
@@ -675,9 +675,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Horror",
-			"collector_number": "193",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/193_Starbreaker Juvenile.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/194_Starbreaker Juvenile.png"
 			}
 		},
 		{
@@ -695,15 +695,15 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "184",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/184_A Hole in the Sky.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/185_A Hole in the Sky.png"
 			}
 		},
 		{
 			"name": "Eldritch Growth",
 			"rarity": "common",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
 			"collector_number": "179",
 			"image_uris": {
@@ -725,16 +725,16 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "196",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/196_Unethical Enhancements.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/197_Unethical Enhancements.png"
 			}
 		},
 		{
 			"name": "Ancient Carapace",
 			"rarity": "common",
 			"mana_cost": "{1}{C}",
-			"type": "Creature — Eldrazi Horror",
+			"type": "Creature — Eldrazi",
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/1_Ancient Carapace.png"
@@ -745,9 +745,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{C}",
 			"type": "Creature — Eldrazi Horror",
-			"collector_number": "22",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/22_Voices of the Severed.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/27_Voices of the Severed.png"
 			}
 		},
 		{
@@ -755,9 +755,9 @@
 			"rarity": "common",
 			"mana_cost": "{7}",
 			"type": "Creature — Eldrazi Horror",
-			"collector_number": "13",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/13_Old Ones Envoy.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/17_Old Ones Envoy.png"
 			}
 		},
 		{
@@ -765,19 +765,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{C}",
 			"type": "Instant",
-			"collector_number": "15",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/15_Rend.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/19_Rend.png"
 			}
 		},
 		{
 			"name": "Reality Wanes",
 			"rarity": "common",
-			"mana_cost": "{1}",
+			"mana_cost": "{2}",
 			"type": "Sorcery",
-			"collector_number": "14",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/14_Reality Wanes.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/18_Reality Wanes.png"
 			}
 		},
 		{
@@ -785,9 +785,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}",
 			"type": "Creature — Eldrazi Horror",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/10_Incursive Voidmaw.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/11_Incursive Voidmaw.png"
 			}
 		},
 		{
@@ -795,29 +795,29 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "251",
-			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/251_Obsidian Reliquary.png"
-			}
-		},
-		{
-			"name": "Arcwhip Emitter",
-			"rarity": "common",
-			"mana_cost": "{2}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "245",
-			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/245_Arcwhip Emitter.png"
-			}
-		},
-		{
-			"name": "Pine Blitzer",
-			"rarity": "common",
-			"mana_cost": "{3}",
-			"type": "Artifact — Vehicle",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/252_Pine Blitzer.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/252_Obsidian Reliquary.png"
+			}
+		},
+		{
+			"name": "Nook Dagger",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/251_Nook Dagger.png"
+			}
+		},
+		{
+			"name": "Elden Crucible",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Clue",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/33_Elden Crucible.png"
 			}
 		},
 		{
@@ -825,19 +825,19 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "246",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/246_Corrupted Hedron.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/245_Corrupted Hedron.png"
 			}
 		},
 		{
-			"name": "Steelform Willshaper",
+			"name": "Harvest Tenders",
 			"rarity": "common",
 			"mana_cost": "{5}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "254",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/254_Steelform Willshaper.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/249_Harvest Tenders.png"
 			}
 		},
 		{
@@ -845,9 +845,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Instant",
-			"collector_number": "236",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/236_Splintering Edict.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/237_Splintering Edict.png"
 			}
 		},
 		{
@@ -855,9 +855,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Sorcery",
-			"collector_number": "204",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/204_Afflict Thought.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/203_Afflict Thought.png"
 			}
 		},
 		{
@@ -865,9 +865,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "223",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/223_Obsessive Ritualist.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/226_Obsessive Ritualist.png"
 			}
 		},
 		{
@@ -875,9 +875,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Creature — Zombie Warlock",
-			"collector_number": "230",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/230_Restless Summoners.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/232_Restless Summoners.png"
 			}
 		},
 		{
@@ -885,29 +885,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "222",
-			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/222_Oathbound Stalwart.png"
-			}
-		},
-		{
-			"name": "Paid Off",
-			"rarity": "uncommon",
-			"mana_cost": "{W}{B}",
-			"type": "Enchantment — Aura",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/225_Paid Off.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/225_Oathbound Stalwart.png"
 			}
 		},
 		{
-			"name": "Stormquell Liner",
+			"name": "Discerning Patron",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}{W}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "238",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/238_Stormquell Liner.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/209_Discerning Patron.png"
+			}
+		},
+		{
+			"name": "Inspiring Orrery",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Artifact",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/218_Inspiring Orrery.png"
 			}
 		},
 		{
@@ -915,19 +915,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Artifact Creature — Construct Horror",
-			"collector_number": "233",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/233_Sludge Trawlers.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/234_Sludge Trawlers.png"
 			}
 		},
 		{
-			"name": "Admired Aeronaut",
+			"name": "Spirewisp Wanderer",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{R}",
-			"type": "Creature — Human Pilot",
-			"collector_number": "203",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Spirit Cleric",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/203_Admired Aeronaut.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/236_Spirewisp Wanderer.png"
 			}
 		},
 		{
@@ -935,9 +935,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Human Detective",
-			"collector_number": "218",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/218_Lantha, Task Force Sergeant.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/221_Lantha, Task Force Sergeant.png"
 			}
 		},
 		{
@@ -955,9 +955,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Bird Wizard",
-			"collector_number": "63",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/63_Aviary Whisperer.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/69_Aviary Whisperer.png"
 			}
 		},
 		{
@@ -965,9 +965,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Human Scientist",
-			"collector_number": "206",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/206_Black Site Enhancer.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/205_Black Site Enhancer.png"
 			}
 		},
 		{
@@ -985,9 +985,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Creature — Horror Warlock",
-			"collector_number": "221",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/221_Malformed Initiate.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/224_Malformed Initiate.png"
 			}
 		},
 		{
@@ -1005,29 +1005,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Enchantment",
-			"collector_number": "215",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/215_In Strength Entwined.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/217_In Strength Entwined.png"
 			}
 		},
 		{
 			"name": "Karsten, the Spinner",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}{B}",
-			"type": "Legendary Creature — Human Noble",
-			"collector_number": "216",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/216_Karsten, the Spinner.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/219_Karsten, the Spinner.png"
 			}
 		},
 		{
-			"name": "Smuggler's Hovercar",
+			"name": "Tormented Eulogist",
 			"rarity": "uncommon",
-			"mana_cost": "{U}{R}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "234",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Bard",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/234_Smuggler's Hovercar.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/162_Tormented Eulogist.png"
 			}
 		},
 		{
@@ -1035,19 +1035,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Eldrazi Horror",
-			"collector_number": "227",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/227_Ravaged Eviscerator.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/229_Ravaged Eviscerator.png"
 			}
 		},
 		{
 			"name": "Artillery Commander",
 			"rarity": "uncommon",
-			"mana_cost": "{R}{W}",
+			"mana_cost": "{1}{R}{W}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "205",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/205_Artillery Commander.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/204_Artillery Commander.png"
 			}
 		},
 		{
@@ -1055,9 +1055,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Enchantment",
-			"collector_number": "210",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/210_Concerning Discoveries.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/208_Concerning Discoveries.png"
 			}
 		},
 		{
@@ -1065,9 +1065,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "46",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/46_Sky Force Retiree.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/52_Sky Force Retiree.png"
 			}
 		},
 		{
@@ -1075,19 +1075,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Pilot",
-			"collector_number": "45",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/45_Scape Surveyor.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/50_Scape Surveyor.png"
 			}
 		},
 		{
-			"name": "Steelwire Shaper",
+			"name": "Warcurse Ruminant",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Artificer",
-			"collector_number": "48",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/48_Steelwire Shaper.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/60_Warcurse Ruminant.png"
 			}
 		},
 		{
@@ -1095,9 +1095,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Assassin Horror",
-			"collector_number": "51",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/51_Thousand-Mind Cutthroat.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/55_Thousand-Mind Cutthroat.png"
 			}
 		},
 		{
@@ -1105,9 +1105,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "39",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/39_North District Prior.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/45_North District Prior.png"
 			}
 		},
 		{
@@ -1115,9 +1115,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Bard",
-			"collector_number": "25",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/25_Cabaret Seductress.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/31_Cabaret Seductress.png"
 			}
 		},
 		{
@@ -1131,23 +1131,23 @@
 			}
 		},
 		{
-			"name": "Golden Guard Cavalier",
+			"name": "Frontline Cavalier",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "32",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/32_Golden Guard Cavalier.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/38_Frontline Cavalier.png"
 			}
 		},
 		{
-			"name": "First-Class Skyship",
+			"name": "West District Chassis",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{W}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "31",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/31_First-Class Skyship.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/61_West District Chassis.png"
 			}
 		},
 		{
@@ -1155,9 +1155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{W}",
 			"type": "Creature — Human Noble",
-			"collector_number": "35",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/35_Industry Kingpins.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/41_Industry Kingpins.png"
 			}
 		},
 		{
@@ -1165,9 +1165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "38",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/38_Never Seen Again.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/44_Never Seen Again.png"
 			}
 		},
 		{
@@ -1175,9 +1175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "34",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/34_Induced Catatonia.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/40_Induced Catatonia.png"
 			}
 		},
 		{
@@ -1185,19 +1185,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
-			"collector_number": "29",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/29_Faculty of Engineering.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/35_Faculty of Engineering.png"
 			}
 		},
 		{
-			"name": "Strength of the Departed",
+			"name": "Yawning Spawnbed",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Enchantment — Aura",
-			"collector_number": "49",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Wall",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/49_Strength of the Departed.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/62_Yawning Spawnbed.png"
 			}
 		},
 		{
@@ -1205,19 +1205,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "92",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/92_Watchman of the Deep.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/96_Watchman of the Deep.png"
 			}
 		},
 		{
-			"name": "Steelsuit Retrofitter",
+			"name": "Inspired Retrofitter",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "87",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/87_Steelsuit Retrofitter.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/84_Inspired Retrofitter.png"
 			}
 		},
 		{
@@ -1225,9 +1225,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Detective",
-			"collector_number": "80",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/80_Port Inspector.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/88_Port Inspector.png"
 			}
 		},
 		{
@@ -1235,9 +1235,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Shapeshifter Horror",
-			"collector_number": "70",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/70_Ego Devourer.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/76_Ego Devourer.png"
 			}
 		},
 		{
@@ -1245,19 +1245,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}",
 			"type": "Artifact Creature — Construct Detective",
-			"collector_number": "60",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/60_Adaptive Lieutenant.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/65_Adaptive Lieutenant.png"
 			}
 		},
 		{
 			"name": "Void Empyrean",
 			"rarity": "uncommon",
-			"mana_cost": "{5}{U}{U}",
+			"mana_cost": "{5}{C}{C}",
 			"type": "Creature — Eldrazi Horror",
-			"collector_number": "91",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/91_Void Empyrean.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/28_Void Empyrean.png"
 			}
 		},
 		{
@@ -1265,9 +1265,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "74",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/74_In the Nick of Time.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/82_In the Nick of Time.png"
 			}
 		},
 		{
@@ -1275,9 +1275,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "72",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/72_Fade.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/78_Fade.png"
 			}
 		},
 		{
@@ -1285,9 +1285,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "84",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/84_Rush of Clarity.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/91_Rush of Clarity.png"
 			}
 		},
 		{
@@ -1295,19 +1295,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact",
-			"collector_number": "61",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/61_Ancestral Voidstone.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/67_Ancestral Voidstone.png"
 			}
 		},
 		{
-			"name": "Remember the Titans",
+			"name": "Deepwater Whispers",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "82",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/82_Remember the Titans.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/72_Deepwater Whispers.png"
 			}
 		},
 		{
@@ -1315,9 +1315,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "69",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/69_Ego Death.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/75_Ego Death.png"
 			}
 		},
 		{
@@ -1325,19 +1325,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "93",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/93_Wiped Clean.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/97_Wiped Clean.png"
 			}
 		},
 		{
-			"name": "Inkrealm Breacher",
+			"name": "Analyze",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "75",
+			"type": "Instant",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/75_Inkrealm Breacher.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/66_Analyze.png"
 			}
 		},
 		{
@@ -1345,9 +1345,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Bat Horror",
-			"collector_number": "122",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/122_Shingle Crawler.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/124_Shingle Crawler.png"
 			}
 		},
 		{
@@ -1365,9 +1365,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "185",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/185_Holism Seeker.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/186_Holism Seeker.png"
 			}
 		},
 		{
@@ -1385,9 +1385,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Detective",
-			"collector_number": "186",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/186_Impact Surveyors.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/187_Impact Surveyors.png"
 			}
 		},
 		{
@@ -1405,9 +1405,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{G}{G}",
 			"type": "Creature — Nightmare Hydra",
-			"collector_number": "187",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/187_Manifold Chorus.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/188_Manifold Chorus.png"
 			}
 		},
 		{
@@ -1445,19 +1445,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "153",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/153_Occupation.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/154_Occupation.png"
 			}
 		},
 		{
 			"name": "Blinding Immolation",
-			"rarity": "uncommon",
-			"mana_cost": "{5}{R}",
-			"type": "Sorcery",
-			"collector_number": "132",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/132_Blinding Immolation.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/135_Blinding Immolation.png"
 			}
 		},
 		{
@@ -1491,13 +1491,13 @@
 			}
 		},
 		{
-			"name": "Karsten's Enforcer",
+			"name": "Undercity Prole",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Assassin",
-			"collector_number": "113",
+			"type": "Creature — Human Citizen",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/113_Karsten's Enforcer.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/131_Undercity Prole.png"
 			}
 		},
 		{
@@ -1505,9 +1505,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Eldrazi Ooze",
-			"collector_number": "106",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/106_Festering Eyemass.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/109_Festering Eyemass.png"
 			}
 		},
 		{
@@ -1515,9 +1515,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Bird Horror",
-			"collector_number": "107",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/107_Flesh Shredder.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/110_Flesh Shredder.png"
 			}
 		},
 		{
@@ -1525,9 +1525,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Human Bird Cleric",
-			"collector_number": "101",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/101_Corpse Inspectors.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/104_Corpse Inspectors.png"
 			}
 		},
 		{
@@ -1535,9 +1535,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Spirit Warlock",
-			"collector_number": "104",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/104_Epitaph Lurkers.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/107_Epitaph Lurkers.png"
 			}
 		},
 		{
@@ -1545,9 +1545,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Zombie Warlock",
-			"collector_number": "98",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/98_Brethren Priestess.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/101_Brethren Priestess.png"
 			}
 		},
 		{
@@ -1555,9 +1555,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "142",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/142_Flamerush.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/143_Flamerush.png"
 			}
 		},
 		{
@@ -1565,9 +1565,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "121",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/121_Quick and Painful.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/123_Quick and Painful.png"
 			}
 		},
 		{
@@ -1595,19 +1595,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
-			"collector_number": "143",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/143_For the Cause.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/144_For the Cause.png"
 			}
 		},
 		{
-			"name": "Bread and Circuses",
+			"name": "Glorious Elegy",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{B}",
-			"type": "Enchantment",
-			"collector_number": "97",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/97_Bread and Circuses.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/111_Glorious Elegy.png"
 			}
 		},
 		{
@@ -1615,9 +1615,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Beast Horror",
-			"collector_number": "131",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/131_Ashen Ravager.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/134_Ashen Ravager.png"
 			}
 		},
 		{
@@ -1625,19 +1625,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Scientist",
-			"collector_number": "152",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/152_Mutation Investigator.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/153_Mutation Investigator.png"
 			}
 		},
 		{
 			"name": "Preemption Engineer",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Artificer",
-			"collector_number": "155",
+			"type": "Creature — Elf Artificer",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/155_Preemption Engineer.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/156_Preemption Engineer.png"
 			}
 		},
 		{
@@ -1645,9 +1645,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "158",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/158_Sacrifice Archivist.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/157_Sacrifice Archivist.png"
 			}
 		},
 		{
@@ -1655,19 +1655,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Elemental Bird",
-			"collector_number": "166",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/166_Wildfire Aven.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/165_Wildfire Aven.png"
 			}
 		},
 		{
-			"name": "Forgotten Lane Busker",
+			"name": "Forgotten Fableweaver",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{2}{U}{R}",
 			"type": "Creature — Human Bard Horror",
-			"collector_number": "145",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/145_Forgotten Lane Busker.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/214_Forgotten Fableweaver.png"
 			}
 		},
 		{
@@ -1675,19 +1675,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Beast",
-			"collector_number": "154",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/154_Pinefell Terror.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/155_Pinefell Terror.png"
 			}
 		},
 		{
 			"name": "Stonebridge Ambush",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{B}",
+			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Ooze Horror",
-			"collector_number": "126",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/126_Stonebridge Ambush.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/128_Stonebridge Ambush.png"
 			}
 		},
 		{
@@ -1695,19 +1695,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "95",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/95_Blood Soliloquy.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/99_Blood Soliloquy.png"
 			}
 		},
 		{
-			"name": "Scalding Roil",
+			"name": "In Eldritch Flame",
 			"rarity": "uncommon",
-			"mana_cost": "{R}{R}",
-			"type": "Sorcery",
-			"collector_number": "159",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/159_Scalding Roil.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/148_In Eldritch Flame.png"
 			}
 		},
 		{
@@ -1715,9 +1715,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "119",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/119_North Salcman Vigil.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/122_North Salcman Vigil.png"
 			}
 		},
 		{
@@ -1725,9 +1725,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "128",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/128_Unnatural Torment.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/132_Unnatural Torment.png"
 			}
 		},
 		{
@@ -1735,19 +1735,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "99",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/99_Channel the Dark.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/102_Channel the Dark.png"
 			}
 		},
 		{
-			"name": "Pyretic Dreadnought",
+			"name": "Scape Render",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{R}{R}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "156",
+			"mana_cost": "{4}{C}{C}",
+			"type": "Creature — Eldrazi",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/156_Pyretic Dreadnought.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/20_Scape Render.png"
 			}
 		},
 		{
@@ -1755,9 +1755,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Creature — Eldrazi",
-			"collector_number": "20",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/20_Titan's Effigy.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/25_Titan's Effigy.png"
 			}
 		},
 		{
@@ -1765,9 +1765,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Creature — Horror Shaman",
-			"collector_number": "19",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/19_Three-Eye Scrier.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/24_Three-Eye Scrier.png"
 			}
 		},
 		{
@@ -1775,9 +1775,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{C}",
 			"type": "Creature — Eldrazi Angel",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/8_Endward Harbinger.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/9_Endward Harbinger.png"
 			}
 		},
 		{
@@ -1785,9 +1785,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{C}{C}",
 			"type": "Creature — Eldrazi Leviathan",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/11_Inkrealm Drowner.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/12_Inkrealm Drowner.png"
 			}
 		},
 		{
@@ -1795,9 +1795,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{C}",
 			"type": "Instant",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/9_Eternity Takes.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/10_Eternity Takes.png"
 			}
 		},
 		{
@@ -1805,9 +1805,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "253",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/253_Prismatic Splinter.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/254_Prismatic Splinter.png"
 			}
 		},
 		{
@@ -1815,9 +1815,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "248",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/248_Fateblur Cloak.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/247_Fateblur Cloak.png"
 			}
 		},
 		{
@@ -1825,9 +1825,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "249",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/249_Frossenhold Locomotive.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/248_Frossenhold Locomotive.png"
 			}
 		},
 		{
@@ -1855,9 +1855,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Noble",
-			"collector_number": "55",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/55_Vintage Fanatic.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/58_Vintage Fanatic.png"
 			}
 		},
 		{
@@ -1865,9 +1865,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{11}",
 			"type": "Legendary Creature — Eldrazi",
-			"collector_number": "21",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/21_Ulamog, the Earth Engulfed.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/26_Ulamog, the Earth Engulfed.png"
 			}
 		},
 		{
@@ -1895,9 +1895,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Legendary Creature — Human Detective",
-			"collector_number": "237",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/237_Stelver, the Eyes and Ears.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/238_Stelver, the Eyes and Ears.png"
 			}
 		},
 		{
@@ -1911,13 +1911,13 @@
 			}
 		},
 		{
-			"name": "Captivating Alto",
+			"name": "Zaila's Arbiter",
 			"rarity": "rare",
-			"mana_cost": "{3}{W}",
-			"type": "Creature — Human Bard",
-			"collector_number": "26",
+			"mana_cost": "{2}{C}",
+			"type": "Creature — Eldrazi Angel",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/26_Captivating Alto.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/29_Zaila's Arbiter.png"
 			}
 		},
 		{
@@ -1925,9 +1925,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "33",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/33_High Sergeant Liano.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/39_High Sergeant Liano.png"
 			}
 		},
 		{
@@ -1935,39 +1935,39 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Creature — Eldrazi Avatar",
-			"collector_number": "50",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/50_Subjugation Herald.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/54_Subjugation Herald.png"
 			}
 		},
 		{
-			"name": "Eiara, Aegis Herald",
+			"name": "Evelline, Ark of Salvation",
 			"rarity": "rare",
-			"mana_cost": "{6}{W}{W}",
-			"type": "Legendary Creature — Eldrazi Avatar",
-			"collector_number": "28",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/28_Eiara, Aegis Herald.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/34_Evelline, Ark of Salvation.png"
 			}
 		},
 		{
 			"name": "Destined End",
 			"rarity": "rare",
-			"mana_cost": "{1}{W}{W}",
+			"mana_cost": "{3}{W}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "27",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/27_Destined End.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/32_Destined End.png"
 			}
 		},
 		{
 			"name": "Regulation Inspector",
 			"rarity": "rare",
-			"mana_cost": "{W}{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "43",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/43_Regulation Inspector.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/48_Regulation Inspector.png"
 			}
 		},
 		{
@@ -1975,9 +1975,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Human Eldrazi Advisor",
-			"collector_number": "66",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/66_Devonia, Lost Ministrix.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/73_Devonia, Lost Ministrix.png"
 			}
 		},
 		{
@@ -1985,9 +1985,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Detective",
-			"collector_number": "62",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/62_Auspicious Coroners.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/68_Auspicious Coroners.png"
 			}
 		},
 		{
@@ -1995,19 +1995,19 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Avatar",
-			"collector_number": "85",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/85_Scion of Insanity.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/92_Scion of Insanity.png"
 			}
 		},
 		{
-			"name": "Czaruun, Insight Herald",
+			"name": "Inkrealm Guardian",
 			"rarity": "rare",
-			"mana_cost": "{3}{U}{U}",
-			"type": "Legendary Creature — Eldrazi Avatar",
-			"collector_number": "65",
+			"mana_cost": "{7}{C}",
+			"type": "Creature — Eldrazi Leviathan",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/65_Czaruun, Insight Herald.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/13_Inkrealm Guardian.png"
 			}
 		},
 		{
@@ -2015,19 +2015,19 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "83",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/83_Roiling Undertow.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/90_Roiling Undertow.png"
 			}
 		},
 		{
-			"name": "Unparalleled Efficiency",
+			"name": "Friede, Weave Dancer",
 			"rarity": "rare",
-			"mana_cost": "{2}{U}{U}",
-			"type": "Enchantment",
-			"collector_number": "90",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Human Bard",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/90_Unparalleled Efficiency.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/79_Friede, Weave Dancer.png"
 			}
 		},
 		{
@@ -2035,9 +2035,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Bard",
-			"collector_number": "110",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/110_Haunted Starlet.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/114_Haunted Starlet.png"
 			}
 		},
 		{
@@ -2045,19 +2045,19 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{B}",
 			"type": "Creature — Spirit Assassin",
-			"collector_number": "112",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/112_Insatiable Slasher.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/116_Insatiable Slasher.png"
 			}
 		},
 		{
-			"name": "Mortician's Carriage",
+			"name": "Strike Suppressor",
 			"rarity": "rare",
-			"mana_cost": "{4}{B}{B}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "117",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/117_Mortician's Carriage.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/129_Strike Suppressor.png"
 			}
 		},
 		{
@@ -2065,19 +2065,19 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "127",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/127_Teachings of Kavalesk.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/130_Teachings of Kavalesk.png"
 			}
 		},
 		{
-			"name": "Zommok, Grief Herald",
+			"name": "Emrakul's Nullscribe",
 			"rarity": "rare",
-			"mana_cost": "{5}{B}{B}",
-			"type": "Legendary Creature — Eldrazi Avatar",
-			"collector_number": "130",
+			"mana_cost": "{3}{C}{C}",
+			"type": "Creature — Eldrazi",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/130_Zommok, Grief Herald.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/8_Emrakul's Nullscribe.png"
 			}
 		},
 		{
@@ -2085,29 +2085,29 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "105",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/105_Esme, Lost to Avarice.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/108_Esme, Lost to Avarice.png"
 			}
 		},
 		{
-			"name": "Moonlit Mutilator",
+			"name": "Ichor Winnower",
 			"rarity": "rare",
-			"mana_cost": "{R}",
-			"type": "Creature — Human Warlock",
-			"collector_number": "151",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Eldrazi",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/151_Moonlit Mutilator.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/147_Ichor Winnower.png"
 			}
 		},
 		{
 			"name": "Collector of Souls",
 			"rarity": "rare",
 			"mana_cost": "{7}",
-			"type": "Creature — Eldrazi Horror",
-			"collector_number": "5",
+			"type": "Creature — Eldrazi",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/5_Collector of Souls.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/6_Collector of Souls.png"
 			}
 		},
 		{
@@ -2115,19 +2115,19 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "133",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/133_Bullet Locomotive.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/136_Bullet Locomotive.png"
 			}
 		},
 		{
-			"name": "Dasek, Wrath Herald",
+			"name": "Bender of Will",
 			"rarity": "rare",
-			"mana_cost": "{2}{R}{R}",
-			"type": "Legendary Creature — Eldrazi Avatar",
-			"collector_number": "137",
+			"mana_cost": "{3}{C}",
+			"type": "Creature — Eldrazi",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/137_Dasek, Wrath Herald.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/4_Bender of Will.png"
 			}
 		},
 		{
@@ -2135,19 +2135,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "138",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/138_Derail.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/141_Derail.png"
 			}
 		},
 		{
-			"name": "Visions of the Veil",
+			"name": "Deathscorn Aspect",
 			"rarity": "rare",
-			"mana_cost": "{2}{R}",
-			"type": "Enchantment — Aura",
-			"collector_number": "164",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Horror Warlock",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/164_Visions of the Veil.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/140_Deathscorn Aspect.png"
 			}
 		},
 		{
@@ -2163,7 +2163,7 @@
 		{
 			"name": "Curious Botanist",
 			"rarity": "rare",
-			"mana_cost": "{G}{G}{G}",
+			"mana_cost": "{1}{G}{G}",
 			"type": "Artifact Creature — Construct",
 			"collector_number": "176",
 			"image_uris": {
@@ -2171,13 +2171,13 @@
 			}
 		},
 		{
-			"name": "Ovaan, Starbreaker Ghost",
+			"name": "Starbreaker Ghost",
 			"rarity": "rare",
 			"mana_cost": "{G}{G}",
-			"type": "Legendary Creature — Spirit Horror",
-			"collector_number": "188",
+			"type": "Creature — Eldrazi Horror",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/188_Ovaan, Starbreaker Ghost.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/193_Starbreaker Ghost.png"
 			}
 		},
 		{
@@ -2191,13 +2191,13 @@
 			}
 		},
 		{
-			"name": "Vinrag, Expanse Herald",
+			"name": "Herald of the Expanse",
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Legendary Creature — Eldrazi Avatar",
-			"collector_number": "197",
+			"type": "Creature — Eldrazi Avatar",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/197_Vinrag, Expanse Herald.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/184_Herald of the Expanse.png"
 			}
 		},
 		{
@@ -2205,9 +2205,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Spirit Horror",
-			"collector_number": "217",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/217_Kavalesk, the Dark Exalted.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/220_Kavalesk, the Dark Exalted.png"
 			}
 		},
 		{
@@ -2215,19 +2215,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{X}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "213",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/213_Grand Awakening.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/215_Grand Awakening.png"
 			}
 		},
 		{
 			"name": "Population Boom",
 			"rarity": "rare",
-			"mana_cost": "{3}{G}{W}",
+			"mana_cost": "{2}{G}{W}",
 			"type": "Enchantment",
-			"collector_number": "226",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/226_Population Boom.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/228_Population Boom.png"
 			}
 		},
 		{
@@ -2235,9 +2235,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Advisor Horror",
-			"collector_number": "224",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/224_Olmin, Royal Liaison.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/227_Olmin, Royal Liaison.png"
 			}
 		},
 		{
@@ -2245,9 +2245,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "209",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/209_Clanston Innovator.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/207_Clanston Innovator.png"
 			}
 		},
 		{
@@ -2261,13 +2261,13 @@
 			}
 		},
 		{
-			"name": "Cirrus Behemoth",
+			"name": "Elisa, Hand of Torvinald",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "208",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/208_Cirrus Behemoth.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/211_Elisa, Hand of Torvinald.png"
 			}
 		},
 		{
@@ -2275,19 +2275,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{B}",
 			"type": "Legendary Creature — Human Advisor",
-			"collector_number": "211",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/211_Efraim, High Alderman.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/210_Efraim, High Alderman.png"
 			}
 		},
 		{
-			"name": "Revoke Will",
+			"name": "Essence Ripper",
 			"rarity": "rare",
-			"mana_cost": "{U}{B}",
-			"type": "Instant",
-			"collector_number": "231",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/231_Revoke Will.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/212_Essence Ripper.png"
 			}
 		},
 		{
@@ -2295,9 +2295,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}{W}",
 			"type": "Sorcery",
-			"collector_number": "229",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/229_Reality Schism.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/231_Reality Schism.png"
 			}
 		},
 		{
@@ -2305,9 +2305,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}{W}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "207",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/207_Brunn, Blunt Tactician.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/206_Brunn, Blunt Tactician.png"
 			}
 		},
 		{
@@ -2325,9 +2325,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{G}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "212",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/212_Fate's Cruel Compulsion.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/213_Fate's Cruel Compulsion.png"
 			}
 		},
 		{
@@ -2335,19 +2335,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "108",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/108_Graven Confidant.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/112_Graven Confidant.png"
 			}
 		},
 		{
-			"name": "Acolyte of Knowledge",
+			"name": "Lostlands Oracle",
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Spirit Warlock",
-			"collector_number": "59",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/59_Acolyte of Knowledge.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/86_Lostlands Oracle.png"
 			}
 		},
 		{
@@ -2415,9 +2415,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "220",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/220_Lost to Endless Scripture.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/223_Lost to Endless Scripture.png"
 			}
 		},
 		{
@@ -2475,9 +2475,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Creature — Eldrazi Horror",
-			"collector_number": "18",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/18_Thoughtscraper.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/23_Thoughtscraper.png"
 			}
 		},
 		{
@@ -2491,13 +2491,13 @@
 			}
 		},
 		{
-			"name": "Endless-Form Slayer",
+			"name": "Living Apogee",
 			"rarity": "rare",
-			"mana_cost": "{4}{C}",
-			"type": "Creature — Eldrazi Shapeshifter",
-			"collector_number": "7",
+			"mana_cost": "{2}{C}{C}",
+			"type": "Creature — Eldrazi Avatar",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/7_Endless-Form Slayer.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/15_Living Apogee.png"
 			}
 		},
 		{
@@ -2505,9 +2505,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{C}",
 			"type": "Creature — Eldrazi Cleric",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/4_Children of the Heralds.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/5_Children of the Heralds.png"
 			}
 		},
 		{
@@ -2515,9 +2515,9 @@
 			"rarity": "rare",
 			"mana_cost": "{9}",
 			"type": "Creature — Eldrazi",
-			"collector_number": "17",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/17_Supreme Desecrator.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/22_Supreme Desecrator.png"
 			}
 		},
 		{
@@ -2525,9 +2525,9 @@
 			"rarity": "rare",
 			"mana_cost": "{11}",
 			"type": "Creature — Eldrazi Angel",
-			"collector_number": "16",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/16_Scourge of Aeons.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/21_Scourge of Aeons.png"
 			}
 		},
 		{
@@ -2535,9 +2535,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Artifact",
-			"collector_number": "165",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/165_The West District Hangar.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/164_The West District Hangar.png"
 			}
 		},
 		{
@@ -2545,9 +2545,9 @@
 			"rarity": "rare",
 			"mana_cost": "{6}",
 			"type": "Artifact",
-			"collector_number": "247",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/247_Eldrazi Monolith.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/246_Eldrazi Monolith.png"
 			}
 		},
 		{
@@ -2565,9 +2565,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Horror",
-			"collector_number": "219",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/219_Leonard, Experiment Zero.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/222_Leonard, Experiment Zero.png"
 			}
 		},
 		{
@@ -2585,9 +2585,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "77",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/77_Lightwire Swarm.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/85_Lightwire Swarm.png"
 			}
 		},
 		{
@@ -2595,9 +2595,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{G}",
 			"type": "Legendary Creature — Elk Spirit",
-			"collector_number": "232",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/232_Salar, Calloran's Defiance.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/233_Salar, Calloran's Defiance.png"
 			}
 		},
 		{
@@ -2605,9 +2605,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{B}{G}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "228",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/228_Ravin, Heir of Goldport.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/230_Ravin, Heir of Goldport.png"
 			}
 		},
 		{
@@ -2615,9 +2615,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "30",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/30_Fated Reunion.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/36_Fated Reunion.png"
 			}
 		},
 		{
@@ -2625,19 +2625,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Artifact Creature — Construct",
-			"collector_number": "53",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/53_Torvinald, Iron Eminence.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/57_Torvinald, Iron Eminence.png"
 			}
 		},
 		{
-			"name": "Greytide Spectre",
+			"name": "Greytide Specter",
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{U}{B}{B}",
-			"type": "Creature — Shade Horror",
-			"collector_number": "214",
+			"type": "Creature — Specter Horror",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/214_Greytide Spectre.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/216_Greytide Specter.png"
 			}
 		},
 		{
@@ -2645,19 +2645,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "96",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/96_Bloodlust Visionary.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/100_Bloodlust Visionary.png"
 			}
 		},
 		{
 			"name": "Scour for Inspiration",
 			"rarity": "mythic",
-			"mana_cost": "{R}",
-			"type": "Instant",
-			"collector_number": "160",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/160_Scour for Inspiration.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/158_Scour for Inspiration.png"
 			}
 		},
 		{
@@ -2665,9 +2665,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "149",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/149_Jerald, Steel Virtuoso.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/150_Jerald, Steel Virtuoso.png"
 			}
 		},
 		{
@@ -2695,9 +2695,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{12}",
 			"type": "Legendary Creature — Eldrazi",
-			"collector_number": "12",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/12_Kozilek, the Bonds Unmade.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/14_Kozilek, the Bonds Unmade.png"
 			}
 		},
 		{
@@ -2705,9 +2705,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{14}",
 			"type": "Legendary Creature — Eldrazi",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/6_Emrakul, the Sky Sundered.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/7_Emrakul, the Sky Sundered.png"
 			}
 		},
 		{
@@ -2815,19 +2815,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "11",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/11_Treasure.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/14_Treasure.png"
 			}
 		},
 		{
 			"name": "Forge in Anguish",
 			"rarity": "common",
-			"mana_cost": "{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "144",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/144_Forge in Anguish.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/145_Forge in Anguish.png"
 			}
 		},
 		{
@@ -2835,16 +2835,16 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Clue",
-			"collector_number": "8",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/8_Clue.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/11_Clue.png"
 			}
 		},
 		{
 			"name": "What Remains of Frossenhold",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Legendary Land",
+			"type": "Land",
 			"collector_number": "277",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/277_What Remains of Frossenhold.png"
@@ -2855,9 +2855,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Human Bard",
-			"collector_number": "6",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/6_Human Bard.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/10_Human Bard.png"
 			}
 		},
 		{
@@ -2895,9 +2895,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Construct",
-			"collector_number": "9",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/9_Construct.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/12_Construct.png"
 			}
 		},
 		{
@@ -2985,9 +2985,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Thopter",
-			"collector_number": "10",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/10_Thopter.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/13_Thopter.png"
 			}
 		},
 		{
@@ -2995,9 +2995,119 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Ooze",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/8_Ooze.png"
+			}
+		},
+		{
+			"name": "In Strength Entwined",
+			"rarity": "special",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/296_In Strength Entwined.png"
+			}
+		},
+		{
+			"name": "Dream of Aeons Past",
+			"rarity": "special",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/294_Dream of Aeons Past.png"
+			}
+		},
+		{
+			"name": "Gene Recombinators",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scientist",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/293_Gene Recombinators.png"
+			}
+		},
+		{
+			"name": "Ooze",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Ooze",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/9_Ooze.png"
+			}
+		},
+		{
+			"name": "Rend",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Instant",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/291_Rend.png"
+			}
+		},
+		{
+			"name": "Blood Soliloquy",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/292_Blood Soliloquy.png"
+			}
+		},
+		{
+			"name": "Grand Awakening",
+			"rarity": "special",
+			"mana_cost": "{X}{X}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/295_Grand Awakening.png"
+			}
+		},
+		{
+			"name": "Obsessive Ritualist",
+			"rarity": "special",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/297_Obsessive Ritualist.png"
+			}
+		},
+		{
+			"name": "Bear Witness",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Sorcery",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/290_Bear Witness.png"
+			}
+		},
+		{
+			"name": "Bird",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bird",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/6_Bird.png"
+			}
+		},
+		{
+			"name": "Jellyfish Horror",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Jellyfish Horror",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/7_Ooze.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/7_Jellyfish Horror.png"
 			}
 		}
 	]
@@ -3009,50 +3119,50 @@
 	2 Ruinate
 	2 Stelver, the Eyes and Ears
 	2 Bear Witness
-	2 Captivating Alto
+	2 Zaila's Arbiter
 	2 High Sergeant Liano
 	1 Subjugation Herald
-	2 Eiara, Aegis Herald
+	2 Evelline, Ark of Salvation
 	2 Destined End
 	2 Regulation Inspector
 	2 Devonia, Lost Ministrix
 	2 Auspicious Coroners
 	2 Scion of Insanity
-	2 Czaruun, Insight Herald
+	2 Inkrealm Guardian
 	2 Roiling Undertow
-	2 Unparalleled Efficiency
+	2 Friede, Weave Dancer
 	2 Haunted Starlet
 	2 Insatiable Slasher
-	2 Mortician's Carriage
+	2 Strike Suppressor
 	2 Teachings of Kavalesk
-	2 Zommok, Grief Herald
+	2 Emrakul's Nullscribe
 	2 Esme, Lost to Avarice
-	2 Moonlit Mutilator
+	2 Ichor Winnower
 	2 Collector of Souls
 	2 Bullet Locomotive
-	2 Dasek, Wrath Herald
+	2 Bender of Will
 	2 Derail
-	2 Visions of the Veil
+	2 Deathscorn Aspect
 	2 Gene Recombinators
 	2 Curious Botanist
-	2 Ovaan, Starbreaker Ghost
+	2 Starbreaker Ghost
 	2 Chasm Behemoth
-	2 Vinrag, Expanse Herald
+	2 Herald of the Expanse
 	2 Kavalesk, the Dark Exalted
 	1 Grand Awakening
 	2 Population Boom
 	2 Olmin, Royal Liaison
 	2 Clanston Innovator
 	2 Something in the Soil
-	2 Cirrus Behemoth
+	2 Elisa, Hand of Torvinald
 	1 Efraim, High Alderman
-	2 Revoke Will
+	2 Essence Ripper
 	2 Reality Schism
 	2 Brunn, Blunt Tactician
 	2 That Even Time Forgets
 	2 Fate's Cruel Compulsion
 	1 Graven Confidant
-	1 Acolyte of Knowledge
+	1 Lostlands Oracle
 	2 Mystic Gate
 	2 Sunken Ruins
 	2 Graven Cairns
@@ -3067,7 +3177,7 @@
 	2 Flooded Grove
 	2 Thoughtscraper
 	2 Aspirant of Ulamog
-	2 Endless-Form Slayer
+	2 Living Apogee
 	2 Children of the Heralds
 	2 Supreme Desecrator
 	2 Scourge of Aeons
@@ -3081,7 +3191,7 @@
 	1 Ravin, Heir of Goldport
 	2 Fated Reunion
 	1 Torvinald, Iron Eminence
-	1 Greytide Spectre
+	1 Greytide Specter
 	1 Bloodlust Visionary
 	1 Scour for Inspiration
 	1 Jerald, Steel Virtuoso
@@ -3091,17 +3201,18 @@
 	1 Emrakul, the Sky Sundered
 	2 What Remains of Frossenhold
 [uncommon(3)]
-	4 Upgrade the Force
-	4 In Eldritch Flame
+	4 Flagship Auto-Enforcer
+	4 Steelsoul Ignition
+	4 Willbreaker Lance
 	4 Splintering Edict
 	4 Afflict Thought
 	4 Obsessive Ritualist
 	4 Restless Summoners
 	4 Oathbound Stalwart
-	4 Paid Off
-	4 Stormquell Liner
+	4 Discerning Patron
+	4 Inspiring Orrery
 	4 Sludge Trawlers
-	4 Admired Aeronaut
+	4 Spirewisp Wanderer
 	4 Lantha, Task Force Sergeant
 	4 Black Site Enhancer
 	4 Voidwing Kite
@@ -3109,24 +3220,24 @@
 	4 Voice of the Roaring Wind
 	4 In Strength Entwined
 	4 Karsten, the Spinner
-	4 Smuggler's Hovercar
+	4 Tormented Eulogist
 	4 Ravaged Eviscerator
 	4 Artillery Commander
 	4 Concerning Discoveries
 	4 Sky Force Retiree
 	4 Scape Surveyor
-	4 Steelwire Shaper
+	4 Warcurse Ruminant
 	4 Thousand-Mind Cutthroat
 	4 North District Prior
-	4 Golden Guard Cavalier
-	4 First-Class Skyship
+	4 Frontline Cavalier
+	4 West District Chassis
 	4 Industry Kingpins
 	4 Never Seen Again
 	4 Induced Catatonia
 	4 Faculty of Engineering
-	4 Strength of the Departed
+	4 Yawning Spawnbed
 	4 Watchman of the Deep
-	4 Steelsuit Retrofitter
+	4 Inspired Retrofitter
 	4 Port Inspector
 	4 Ego Devourer
 	4 Adaptive Lieutenant
@@ -3135,10 +3246,10 @@
 	4 Fade
 	4 Rush of Clarity
 	4 Ancestral Voidstone
-	4 Remember the Titans
+	4 Deepwater Whispers
 	4 Ego Death
 	4 Wiped Clean
-	4 Inkrealm Breacher
+	4 Analyze
 	4 Shingle Crawler
 	4 Viscera Channeler
 	4 Holism Seeker
@@ -3150,11 +3261,10 @@
 	4 Willowvine Sentinel
 	4 Bitten By the Void
 	4 Occupation
-	4 Blinding Immolation
 	4 For All of Calloran
 	4 Confidential Science
 	4 Cataclysm Constable
-	4 Karsten's Enforcer
+	4 Undercity Prole
 	4 Festering Eyemass
 	4 Flesh Shredder
 	4 Corpse Inspectors
@@ -3165,21 +3275,21 @@
 	4 Ancient Stirrings
 	4 Scour the Formless Scape
 	4 For the Cause
-	4 Bread and Circuses
+	4 Glorious Elegy
 	4 Ashen Ravager
 	4 Mutation Investigator
 	4 Preemption Engineer
 	4 Sacrifice Archivist
 	4 Wildfire Aven
-	4 Forgotten Lane Busker
+	4 Forgotten Fableweaver
 	4 Pinefell Terror
 	4 Stonebridge Ambush
 	4 Blood Soliloquy
-	4 Scalding Roil
+	4 In Eldritch Flame
 	4 North Salcman Vigil
 	4 Unnatural Torment
 	4 Channel the Dark
-	4 Pyretic Dreadnought
+	4 Scape Render
 	4 Titan's Effigy
 	4 Three-Eye Scrier
 	4 Endward Harbinger
@@ -3193,37 +3303,37 @@
 	4 Vintage Fanatic
 [common(7)]
 	8 Volunteer Firewatch
-	8 Startouched Devout
+	8 Startouched Reverend
 	8 Mire Pathforger
 	8 Pedigree Collector
 	8 Rockpile Brutes
-	8 Aerial Regulator
+	8 Sky Force Admiral
 	8 Mournful Matriarch
 	8 Zaila's Willbender
 	8 Opalwing Cavalry
 	8 Timely Intervention
 	8 Aerial Augmentation
 	8 Zeppelin Disaster
-	8 Oligarch's Supercar
-	8 Intrepid Aviator
+	8 Personal Wingsuit
+	8 Gloompool Heron
 	8 Diviner of Relics
 	8 Task Force Operatives
 	8 Startouched Analyst
 	8 Frossenhold Walker
 	8 Mastbreaker
 	8 Eldritch Rebuttal
-	8 Pass Unscathed
+	8 Innovation Thief
 	8 Collaborate
 	8 Taken by the Storm
 	8 Public Exhibition
-	8 Duchy Flagship
-	8 Zephyr Piercer
+	8 Writheform
+	8 Black Site Asylum
 	8 Lamplighter of the End
 	8 Luxuries Merchant
 	8 Unwelcome Tenant
 	8 Cruel Patrician
 	8 Inkrealm Stalker
-	8 Paradigm Enforcer
+	8 Marshwreck Gang
 	8 Speakeasy Brokers
 	8 Soultaker Idol
 	8 Startouched Assassin
@@ -3235,16 +3345,15 @@
 	8 Eyekissed Invoker
 	8 Hotwire Prodigy
 	8 Steelsuit Consultant
-	8 Colossus Showman
+	8 Unsettling Showman
 	8 Magma Scribe
-	8 Startouched Blitzer
-	8 Spire Defender
-	8 Ruin Prowler
+	8 Startouched Epigone
+	8 Iron Triumphant
+	8 Mantle Breacher
 	8 Crimson Gladeguard
 	8 Commune with Silence
-	8 Emergency Jettison
-	8 Incendiary Charger
-	8 Evacuation Hotrod
+	8 Jettison
+	8 Cutting-Edge Munitions
 	8 Wreckage Inquisitors
 	8 Startouched Arborist
 	8 Game Hunters
@@ -3266,12 +3375,13 @@
 	8 Reality Wanes
 	8 Incursive Voidmaw
 	8 Obsidian Reliquary
-	8 Arcwhip Emitter
-	8 Pine Blitzer
+	8 Nook Dagger
+	8 Elden Crucible
 	8 Corrupted Hedron
-	8 Steelform Willshaper
+	8 Harvest Tenders
 	8 Aviary Whisperer
 	8 Cabaret Seductress
+	8 Blinding Immolation
 	8 Keeper's Peninsula
 	8 Dusk Vantage
 	8 Lost Settlement
@@ -3285,38 +3395,38 @@
 	8 Forge in Anguish
 [foil(1)]
 	12 Volunteer Firewatch
-	12 Startouched Devout
+	12 Startouched Reverend
 	12 Mire Pathforger
 	12 Pedigree Collector
 	12 Rockpile Brutes
-	12 Aerial Regulator
+	12 Sky Force Admiral
 	12 Mournful Matriarch
 	12 Zaila's Willbender
 	12 Opalwing Cavalry
-	6 Upgrade the Force
+	6 Flagship Auto-Enforcer
 	12 Timely Intervention
 	12 Aerial Augmentation
 	12 Zeppelin Disaster
-	12 Oligarch's Supercar
-	12 Intrepid Aviator
+	12 Personal Wingsuit
+	12 Gloompool Heron
 	12 Diviner of Relics
 	12 Task Force Operatives
 	12 Startouched Analyst
 	12 Frossenhold Walker
 	12 Mastbreaker
 	12 Eldritch Rebuttal
-	12 Pass Unscathed
+	12 Innovation Thief
 	12 Collaborate
 	12 Taken by the Storm
 	12 Public Exhibition
-	12 Duchy Flagship
-	12 Zephyr Piercer
+	12 Writheform
+	12 Black Site Asylum
 	12 Lamplighter of the End
 	12 Luxuries Merchant
 	12 Unwelcome Tenant
 	12 Cruel Patrician
 	12 Inkrealm Stalker
-	12 Paradigm Enforcer
+	12 Marshwreck Gang
 	12 Speakeasy Brokers
 	12 Soultaker Idol
 	12 Startouched Assassin
@@ -3328,17 +3438,17 @@
 	12 Eyekissed Invoker
 	12 Hotwire Prodigy
 	12 Steelsuit Consultant
-	12 Colossus Showman
+	12 Unsettling Showman
 	12 Magma Scribe
-	12 Startouched Blitzer
-	12 Spire Defender
-	12 Ruin Prowler
+	12 Startouched Epigone
+	12 Iron Triumphant
+	12 Mantle Breacher
 	12 Crimson Gladeguard
-	6 In Eldritch Flame
+	6 Steelsoul Ignition
 	12 Commune with Silence
-	12 Emergency Jettison
-	12 Incendiary Charger
-	12 Evacuation Hotrod
+	12 Jettison
+	12 Cutting-Edge Munitions
+	6 Willbreaker Lance
 	12 Wreckage Inquisitors
 	12 Startouched Arborist
 	12 Game Hunters
@@ -3360,19 +3470,19 @@
 	12 Reality Wanes
 	12 Incursive Voidmaw
 	12 Obsidian Reliquary
-	12 Arcwhip Emitter
-	12 Pine Blitzer
+	12 Nook Dagger
+	12 Elden Crucible
 	12 Corrupted Hedron
-	12 Steelform Willshaper
+	12 Harvest Tenders
 	6 Splintering Edict
 	6 Afflict Thought
 	6 Obsessive Ritualist
 	6 Restless Summoners
 	6 Oathbound Stalwart
-	6 Paid Off
-	6 Stormquell Liner
+	6 Discerning Patron
+	6 Inspiring Orrery
 	6 Sludge Trawlers
-	6 Admired Aeronaut
+	6 Spirewisp Wanderer
 	6 Lantha, Task Force Sergeant
 	12 Aviary Whisperer
 	6 Black Site Enhancer
@@ -3381,26 +3491,26 @@
 	6 Voice of the Roaring Wind
 	6 In Strength Entwined
 	6 Karsten, the Spinner
-	6 Smuggler's Hovercar
+	6 Tormented Eulogist
 	6 Ravaged Eviscerator
 	6 Artillery Commander
 	6 Concerning Discoveries
 	6 Sky Force Retiree
 	6 Scape Surveyor
-	6 Steelwire Shaper
+	6 Warcurse Ruminant
 	6 Thousand-Mind Cutthroat
 	6 North District Prior
 	12 Cabaret Seductress
 	2 Stylla, Opulence Paragon
-	6 Golden Guard Cavalier
-	6 First-Class Skyship
+	6 Frontline Cavalier
+	6 West District Chassis
 	6 Industry Kingpins
 	6 Never Seen Again
 	6 Induced Catatonia
 	6 Faculty of Engineering
-	6 Strength of the Departed
+	6 Yawning Spawnbed
 	6 Watchman of the Deep
-	6 Steelsuit Retrofitter
+	6 Inspired Retrofitter
 	6 Port Inspector
 	6 Ego Devourer
 	6 Adaptive Lieutenant
@@ -3409,10 +3519,10 @@
 	6 Fade
 	6 Rush of Clarity
 	6 Ancestral Voidstone
-	6 Remember the Titans
+	6 Deepwater Whispers
 	6 Ego Death
 	6 Wiped Clean
-	6 Inkrealm Breacher
+	6 Analyze
 	6 Shingle Crawler
 	6 Viscera Channeler
 	6 Holism Seeker
@@ -3424,11 +3534,11 @@
 	6 Willowvine Sentinel
 	6 Bitten By the Void
 	6 Occupation
-	6 Blinding Immolation
+	12 Blinding Immolation
 	6 For All of Calloran
 	6 Confidential Science
 	6 Cataclysm Constable
-	6 Karsten's Enforcer
+	6 Undercity Prole
 	6 Festering Eyemass
 	6 Flesh Shredder
 	6 Corpse Inspectors
@@ -3439,21 +3549,21 @@
 	6 Ancient Stirrings
 	6 Scour the Formless Scape
 	6 For the Cause
-	6 Bread and Circuses
+	6 Glorious Elegy
 	6 Ashen Ravager
 	6 Mutation Investigator
 	6 Preemption Engineer
 	6 Sacrifice Archivist
 	6 Wildfire Aven
-	6 Forgotten Lane Busker
+	6 Forgotten Fableweaver
 	6 Pinefell Terror
 	6 Stonebridge Ambush
 	6 Blood Soliloquy
-	6 Scalding Roil
+	6 In Eldritch Flame
 	6 North Salcman Vigil
 	6 Unnatural Torment
 	6 Channel the Dark
-	6 Pyretic Dreadnought
+	6 Scape Render
 	6 Titan's Effigy
 	6 Three-Eye Scrier
 	6 Endward Harbinger
@@ -3470,50 +3580,50 @@
 	2 Ruinate
 	2 Stelver, the Eyes and Ears
 	2 Bear Witness
-	2 Captivating Alto
+	2 Zaila's Arbiter
 	2 High Sergeant Liano
 	1 Subjugation Herald
-	2 Eiara, Aegis Herald
+	2 Evelline, Ark of Salvation
 	2 Destined End
 	2 Regulation Inspector
 	2 Devonia, Lost Ministrix
 	2 Auspicious Coroners
 	2 Scion of Insanity
-	2 Czaruun, Insight Herald
+	2 Inkrealm Guardian
 	2 Roiling Undertow
-	2 Unparalleled Efficiency
+	2 Friede, Weave Dancer
 	2 Haunted Starlet
 	2 Insatiable Slasher
-	2 Mortician's Carriage
+	2 Strike Suppressor
 	2 Teachings of Kavalesk
-	2 Zommok, Grief Herald
+	2 Emrakul's Nullscribe
 	2 Esme, Lost to Avarice
-	2 Moonlit Mutilator
+	2 Ichor Winnower
 	2 Collector of Souls
 	2 Bullet Locomotive
-	2 Dasek, Wrath Herald
+	2 Bender of Will
 	2 Derail
-	2 Visions of the Veil
+	2 Deathscorn Aspect
 	2 Gene Recombinators
 	2 Curious Botanist
-	2 Ovaan, Starbreaker Ghost
+	2 Starbreaker Ghost
 	2 Chasm Behemoth
-	2 Vinrag, Expanse Herald
+	2 Herald of the Expanse
 	2 Kavalesk, the Dark Exalted
 	1 Grand Awakening
 	2 Population Boom
 	2 Olmin, Royal Liaison
 	2 Clanston Innovator
 	2 Something in the Soil
-	2 Cirrus Behemoth
+	2 Elisa, Hand of Torvinald
 	1 Efraim, High Alderman
-	2 Revoke Will
+	2 Essence Ripper
 	2 Reality Schism
 	2 Brunn, Blunt Tactician
 	2 That Even Time Forgets
 	2 Fate's Cruel Compulsion
 	1 Graven Confidant
-	1 Acolyte of Knowledge
+	1 Lostlands Oracle
 	2 Mystic Gate
 	2 Sunken Ruins
 	2 Graven Cairns
@@ -3528,7 +3638,7 @@
 	2 Flooded Grove
 	2 Thoughtscraper
 	2 Aspirant of Ulamog
-	2 Endless-Form Slayer
+	2 Living Apogee
 	2 Children of the Heralds
 	2 Supreme Desecrator
 	2 Scourge of Aeons
@@ -3542,7 +3652,7 @@
 	1 Ravin, Heir of Goldport
 	2 Fated Reunion
 	1 Torvinald, Iron Eminence
-	1 Greytide Spectre
+	1 Greytide Specter
 	1 Bloodlust Visionary
 	1 Scour for Inspiration
 	1 Jerald, Steel Virtuoso
@@ -3564,38 +3674,38 @@
 	2 What Remains of Frossenhold
 [wildcard(1)]
 	6 Volunteer Firewatch
-	6 Startouched Devout
+	6 Startouched Reverend
 	6 Mire Pathforger
 	6 Pedigree Collector
 	6 Rockpile Brutes
-	6 Aerial Regulator
+	6 Sky Force Admiral
 	6 Mournful Matriarch
 	6 Zaila's Willbender
 	6 Opalwing Cavalry
-	15 Upgrade the Force
+	15 Flagship Auto-Enforcer
 	6 Timely Intervention
 	6 Aerial Augmentation
 	6 Zeppelin Disaster
-	6 Oligarch's Supercar
-	6 Intrepid Aviator
+	6 Personal Wingsuit
+	6 Gloompool Heron
 	6 Diviner of Relics
 	6 Task Force Operatives
 	6 Startouched Analyst
 	6 Frossenhold Walker
 	6 Mastbreaker
 	6 Eldritch Rebuttal
-	6 Pass Unscathed
+	6 Innovation Thief
 	6 Collaborate
 	6 Taken by the Storm
 	6 Public Exhibition
-	6 Duchy Flagship
-	6 Zephyr Piercer
+	6 Writheform
+	6 Black Site Asylum
 	6 Lamplighter of the End
 	6 Luxuries Merchant
 	6 Unwelcome Tenant
 	6 Cruel Patrician
 	6 Inkrealm Stalker
-	6 Paradigm Enforcer
+	6 Marshwreck Gang
 	6 Speakeasy Brokers
 	6 Soultaker Idol
 	6 Startouched Assassin
@@ -3607,17 +3717,17 @@
 	6 Eyekissed Invoker
 	6 Hotwire Prodigy
 	6 Steelsuit Consultant
-	6 Colossus Showman
+	6 Unsettling Showman
 	6 Magma Scribe
-	6 Startouched Blitzer
-	6 Spire Defender
-	6 Ruin Prowler
+	6 Startouched Epigone
+	6 Iron Triumphant
+	6 Mantle Breacher
 	6 Crimson Gladeguard
-	15 In Eldritch Flame
+	15 Steelsoul Ignition
 	6 Commune with Silence
-	6 Emergency Jettison
-	6 Incendiary Charger
-	6 Evacuation Hotrod
+	6 Jettison
+	6 Cutting-Edge Munitions
+	15 Willbreaker Lance
 	6 Wreckage Inquisitors
 	6 Startouched Arborist
 	6 Game Hunters
@@ -3639,19 +3749,19 @@
 	6 Reality Wanes
 	6 Incursive Voidmaw
 	6 Obsidian Reliquary
-	6 Arcwhip Emitter
-	6 Pine Blitzer
+	6 Nook Dagger
+	6 Elden Crucible
 	6 Corrupted Hedron
-	6 Steelform Willshaper
+	6 Harvest Tenders
 	15 Splintering Edict
 	15 Afflict Thought
 	15 Obsessive Ritualist
 	15 Restless Summoners
 	15 Oathbound Stalwart
-	15 Paid Off
-	15 Stormquell Liner
+	15 Discerning Patron
+	15 Inspiring Orrery
 	15 Sludge Trawlers
-	15 Admired Aeronaut
+	15 Spirewisp Wanderer
 	15 Lantha, Task Force Sergeant
 	6 Aviary Whisperer
 	15 Black Site Enhancer
@@ -3660,26 +3770,26 @@
 	15 Voice of the Roaring Wind
 	15 In Strength Entwined
 	15 Karsten, the Spinner
-	15 Smuggler's Hovercar
+	15 Tormented Eulogist
 	15 Ravaged Eviscerator
 	15 Artillery Commander
 	15 Concerning Discoveries
 	15 Sky Force Retiree
 	15 Scape Surveyor
-	15 Steelwire Shaper
+	15 Warcurse Ruminant
 	15 Thousand-Mind Cutthroat
 	15 North District Prior
 	6 Cabaret Seductress
 	7 Stylla, Opulence Paragon
-	15 Golden Guard Cavalier
-	15 First-Class Skyship
+	15 Frontline Cavalier
+	15 West District Chassis
 	15 Industry Kingpins
 	15 Never Seen Again
 	15 Induced Catatonia
 	15 Faculty of Engineering
-	15 Strength of the Departed
+	15 Yawning Spawnbed
 	15 Watchman of the Deep
-	15 Steelsuit Retrofitter
+	15 Inspired Retrofitter
 	15 Port Inspector
 	15 Ego Devourer
 	15 Adaptive Lieutenant
@@ -3688,10 +3798,10 @@
 	15 Fade
 	15 Rush of Clarity
 	15 Ancestral Voidstone
-	15 Remember the Titans
+	15 Deepwater Whispers
 	15 Ego Death
 	15 Wiped Clean
-	15 Inkrealm Breacher
+	15 Analyze
 	15 Shingle Crawler
 	15 Viscera Channeler
 	15 Holism Seeker
@@ -3703,11 +3813,11 @@
 	15 Willowvine Sentinel
 	15 Bitten By the Void
 	15 Occupation
-	15 Blinding Immolation
+	6 Blinding Immolation
 	15 For All of Calloran
 	15 Confidential Science
 	15 Cataclysm Constable
-	15 Karsten's Enforcer
+	15 Undercity Prole
 	15 Festering Eyemass
 	15 Flesh Shredder
 	15 Corpse Inspectors
@@ -3718,21 +3828,21 @@
 	15 Ancient Stirrings
 	15 Scour the Formless Scape
 	15 For the Cause
-	15 Bread and Circuses
+	15 Glorious Elegy
 	15 Ashen Ravager
 	15 Mutation Investigator
 	15 Preemption Engineer
 	15 Sacrifice Archivist
 	15 Wildfire Aven
-	15 Forgotten Lane Busker
+	15 Forgotten Fableweaver
 	15 Pinefell Terror
 	15 Stonebridge Ambush
 	15 Blood Soliloquy
-	15 Scalding Roil
+	15 In Eldritch Flame
 	15 North Salcman Vigil
 	15 Unnatural Torment
 	15 Channel the Dark
-	15 Pyretic Dreadnought
+	15 Scape Render
 	15 Titan's Effigy
 	15 Three-Eye Scrier
 	15 Endward Harbinger
@@ -3749,50 +3859,50 @@
 	7 Ruinate
 	7 Stelver, the Eyes and Ears
 	7 Bear Witness
-	7 Captivating Alto
+	7 Zaila's Arbiter
 	7 High Sergeant Liano
 	4 Subjugation Herald
-	7 Eiara, Aegis Herald
+	7 Evelline, Ark of Salvation
 	7 Destined End
 	7 Regulation Inspector
 	7 Devonia, Lost Ministrix
 	7 Auspicious Coroners
 	7 Scion of Insanity
-	7 Czaruun, Insight Herald
+	7 Inkrealm Guardian
 	7 Roiling Undertow
-	7 Unparalleled Efficiency
+	7 Friede, Weave Dancer
 	7 Haunted Starlet
 	7 Insatiable Slasher
-	7 Mortician's Carriage
+	7 Strike Suppressor
 	7 Teachings of Kavalesk
-	7 Zommok, Grief Herald
+	7 Emrakul's Nullscribe
 	7 Esme, Lost to Avarice
-	7 Moonlit Mutilator
+	7 Ichor Winnower
 	7 Collector of Souls
 	7 Bullet Locomotive
-	7 Dasek, Wrath Herald
+	7 Bender of Will
 	7 Derail
-	7 Visions of the Veil
+	7 Deathscorn Aspect
 	7 Gene Recombinators
 	7 Curious Botanist
-	7 Ovaan, Starbreaker Ghost
+	7 Starbreaker Ghost
 	7 Chasm Behemoth
-	7 Vinrag, Expanse Herald
+	7 Herald of the Expanse
 	7 Kavalesk, the Dark Exalted
 	4 Grand Awakening
 	7 Population Boom
 	7 Olmin, Royal Liaison
 	7 Clanston Innovator
 	7 Something in the Soil
-	7 Cirrus Behemoth
+	7 Elisa, Hand of Torvinald
 	4 Efraim, High Alderman
-	7 Revoke Will
+	7 Essence Ripper
 	7 Reality Schism
 	7 Brunn, Blunt Tactician
 	7 That Even Time Forgets
 	7 Fate's Cruel Compulsion
 	4 Graven Confidant
-	4 Acolyte of Knowledge
+	4 Lostlands Oracle
 	7 Mystic Gate
 	7 Sunken Ruins
 	7 Graven Cairns
@@ -3807,7 +3917,7 @@
 	7 Flooded Grove
 	7 Thoughtscraper
 	7 Aspirant of Ulamog
-	7 Endless-Form Slayer
+	7 Living Apogee
 	7 Children of the Heralds
 	7 Supreme Desecrator
 	7 Scourge of Aeons
@@ -3821,7 +3931,7 @@
 	4 Ravin, Heir of Goldport
 	7 Fated Reunion
 	4 Torvinald, Iron Eminence
-	4 Greytide Spectre
+	4 Greytide Specter
 	4 Bloodlust Visionary
 	4 Scour for Inspiration
 	4 Jerald, Steel Virtuoso
