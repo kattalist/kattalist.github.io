@@ -465,9 +465,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Pilot",
-			"collector_number": "146",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/146_Hotwire Prodigy.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/147_Hotwire Prodigy.png"
 			}
 		},
 		{
@@ -495,9 +495,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Elemental Warlock",
-			"collector_number": "152",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/152_Magma Scribe.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/153_Magma Scribe.png"
 			}
 		},
 		{
@@ -515,9 +515,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "149",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/149_Iron Triumphant.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/150_Iron Triumphant.png"
 			}
 		},
 		{
@@ -565,9 +565,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "151",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/151_Jettison.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/152_Jettison.png"
 			}
 		},
 		{
@@ -1445,9 +1445,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "154",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/154_Occupation.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/155_Occupation.png"
 			}
 		},
 		{
@@ -1625,9 +1625,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Scientist",
-			"collector_number": "153",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/153_Mutation Investigator.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/154_Mutation Investigator.png"
 			}
 		},
 		{
@@ -1635,9 +1635,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Elf Artificer",
-			"collector_number": "156",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/156_Preemption Engineer.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/157_Preemption Engineer.png"
 			}
 		},
 		{
@@ -1645,9 +1645,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "157",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/157_Sacrifice Archivist.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/158_Sacrifice Archivist.png"
 			}
 		},
 		{
@@ -1675,9 +1675,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Beast",
-			"collector_number": "155",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/155_Pinefell Terror.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/156_Pinefell Terror.png"
 			}
 		},
 		{
@@ -1705,9 +1705,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "148",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/148_In Eldritch Flame.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/149_In Eldritch Flame.png"
 			}
 		},
 		{
@@ -2095,9 +2095,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Eldrazi",
-			"collector_number": "147",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/147_Ichor Winnower.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/148_Ichor Winnower.png"
 			}
 		},
 		{
@@ -2651,13 +2651,13 @@
 			}
 		},
 		{
-			"name": "Scour for Inspiration",
+			"name": "Forever to Rust",
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "158",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/158_Scour for Inspiration.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/145_Forever to Rust.png"
 			}
 		},
 		{
@@ -2665,9 +2665,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "150",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/150_Jerald, Steel Virtuoso.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/151_Jerald, Steel Virtuoso.png"
 			}
 		},
 		{
@@ -2825,9 +2825,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "145",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/145_Forge in Anguish.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/146_Forge in Anguish.png"
 			}
 		},
 		{
@@ -3193,7 +3193,7 @@
 	1 Torvinald, Iron Eminence
 	1 Greytide Specter
 	1 Bloodlust Visionary
-	1 Scour for Inspiration
+	1 Forever to Rust
 	1 Jerald, Steel Virtuoso
 	1 Eccentric Geneticist
 	1 Baalakus, the Zenith
@@ -3654,7 +3654,7 @@
 	1 Torvinald, Iron Eminence
 	1 Greytide Specter
 	1 Bloodlust Visionary
-	1 Scour for Inspiration
+	1 Forever to Rust
 	1 Jerald, Steel Virtuoso
 	1 Eccentric Geneticist
 	1 Baalakus, the Zenith
@@ -3933,7 +3933,7 @@
 	4 Torvinald, Iron Eminence
 	4 Greytide Specter
 	4 Bloodlust Visionary
-	4 Scour for Inspiration
+	4 Forever to Rust
 	4 Jerald, Steel Virtuoso
 	4 Eccentric Geneticist
 	4 Baalakus, the Zenith

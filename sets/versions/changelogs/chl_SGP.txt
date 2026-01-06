@@ -1,4 +1,38 @@
-﻿VERSION 49 CHANGELOG
+﻿VERSION 50 CHANGELOG
+====================
+
+Forever to Rust added.
+
+Scour for Inspiration removed.
+
+Hotwire Prodigy
+
+Magma Scribe
+
+Iron Triumphant
+
+Jettison
+
+Occupation
+
+Mutation Investigator
+
+Preemption Engineer
+
+Sacrifice Archivist
+
+Pinefell Terror
+
+In Eldritch Flame
+
+Ichor Winnower
+
+Jerald, Steel Virtuoso
+
+Forge in Anguish
+
+
+VERSION 49 CHANGELOG
 ====================
 
 Startouched Reverend added.

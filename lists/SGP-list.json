@@ -18,8 +18,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Jerald, Steel Virtuoso",
-        "number": 150,
+        "card_name": "Forever to Rust",
+        "number": 145,
         "shape": "normal",
         "set": "SGP"
     },
@@ -48,8 +48,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Scour for Inspiration",
-        "number": 158,
+        "card_name": "Jerald, Steel Virtuoso",
+        "number": 151,
         "shape": "normal",
         "set": "SGP"
     },
@@ -169,7 +169,7 @@
     },
     {
         "card_name": "Ichor Winnower",
-        "number": 147,
+        "number": 148,
         "shape": "normal",
         "set": "SGP"
     },
@@ -319,7 +319,7 @@
     },
     {
         "card_name": "In Eldritch Flame",
-        "number": 148,
+        "number": 149,
         "shape": "normal",
         "set": "SGP"
     },
@@ -349,7 +349,7 @@
     },
     {
         "card_name": "Mutation Investigator",
-        "number": 153,
+        "number": 154,
         "shape": "normal",
         "set": "SGP"
     },
@@ -379,7 +379,7 @@
     },
     {
         "card_name": "Occupation",
-        "number": 154,
+        "number": 155,
         "shape": "normal",
         "set": "SGP"
     },
@@ -409,7 +409,7 @@
     },
     {
         "card_name": "Pinefell Terror",
-        "number": 155,
+        "number": 156,
         "shape": "normal",
         "set": "SGP"
     },
@@ -439,7 +439,7 @@
     },
     {
         "card_name": "Preemption Engineer",
-        "number": 156,
+        "number": 157,
         "shape": "normal",
         "set": "SGP"
     },
@@ -469,7 +469,7 @@
     },
     {
         "card_name": "Sacrifice Archivist",
-        "number": 157,
+        "number": 158,
         "shape": "normal",
         "set": "SGP"
     },
@@ -769,7 +769,7 @@
     },
     {
         "card_name": "Forge in Anguish",
-        "number": 145,
+        "number": 146,
         "shape": "normal",
         "set": "SGP"
     },
@@ -799,7 +799,7 @@
     },
     {
         "card_name": "Hotwire Prodigy",
-        "number": 146,
+        "number": 147,
         "shape": "normal",
         "set": "SGP"
     },
@@ -829,7 +829,7 @@
     },
     {
         "card_name": "Iron Triumphant",
-        "number": 149,
+        "number": 150,
         "shape": "normal",
         "set": "SGP"
     },
@@ -859,7 +859,7 @@
     },
     {
         "card_name": "Jettison",
-        "number": 151,
+        "number": 152,
         "shape": "normal",
         "set": "SGP"
     },
@@ -889,7 +889,7 @@
     },
     {
         "card_name": "Magma Scribe",
-        "number": 152,
+        "number": 153,
         "shape": "normal",
         "set": "SGP"
     },
