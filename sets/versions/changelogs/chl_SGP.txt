@@ -1,4 +1,401 @@
-﻿VERSION 50 CHANGELOG
+﻿VERSION 51 CHANGELOG
+====================
+
+Startouched Acolyte added.
+Eavesdrop added.
+
+Startouched Assassin removed.
+Analyze removed.
+
+Volunteer Firewatch
+
+Startouched Reverend
+
+Mire Pathforger
+
+Pedigree Collector
+
+Rockpile Brutes
+
+Sky Force Admiral
+
+Mournful Matriarch
+
+Zaila's Willbender
+
+Opalwing Cavalry
+
+Flagship Auto-Enforcer
+
+Timely Intervention
+
+Aerial Augmentation
+
+Zeppelin Disaster
+
+Gloompool Heron
+
+Task Force Operatives
+
+Startouched Analyst
+
+Frossenhold Walker
+
+Mastbreaker
+
+Eldritch Rebuttal
+
+Innovation Thief
+
+Taken by the Storm
+
+Public Exhibition
+
+Writheform
+
+Lamplighter of the End
+
+Luxuries Merchant
+
+Unwelcome Tenant
+
+Cruel Patrician
+
+Inkrealm Stalker
+
+Marshwreck Gang
+
+Speakeasy Brokers
+pt: 3/2 => 2/3
+
+Soultaker Idol
+
+Croak
+
+Harrowing Transformation
+
+Learn From Loss
+
+Compelled to Die
+
+Nightgrasp
+
+Eyekissed Invoker
+
+Hotwire Prodigy
+
+Steelsuit Consultant
+
+Unsettling Showman
+
+Magma Scribe
+
+Startouched Epigone
+
+Iron Triumphant
+
+Crimson Gladeguard
+
+Steelsoul Ignition
+
+Commune with Silence
+
+Jettison
+
+Cutting-Edge Munitions
+
+Willbreaker Lance
+
+Game Hunters
+
+First Responders
+
+Precipice Recon
+
+Branchbound Speaker
+
+Barksplitter Colossus
+
+A Hole in the Sky
+
+Eldritch Growth
+
+Donnybrook
+
+Voices of the Severed
+
+Elden Crucible
+
+Aviary Whisperer
+rules_text: Flying
+When this creature enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{2}{U}, Discard this card: Counter target noncreature spell. Surveil 1. => Flying
+When this creature enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{2}{U}, Discard this card: Counter target noncreature spell.
+
+Tormented Eulogist
+rules_text: Haste
+This creature gets +2/+0 and has trample as long as you've cast a noncreature spell this turn.
+At the beginning of your end step, if this creature doesn't have double strike and you've spent six or more mana to cast spells this turn, put a double strike counter on this creature. => Haste
+This creature gets +2/+0 as long as you've cast a noncreature spell this turn.
+This creature has double strike as long as you've spent six or more mana to cast spells this turn.
+
+Sky Force Retiree
+rules_text: Whenever a creature token you control enters, this creature gets +1/+1 until end of turn.
+At the beginning of combat on your turn, if this creature's power is 4 or greater, it gains flying until end of turn. => This creature gets +1/+1 as long as a token you control entered this turn.
+[i]Coalition [/i]— Whenever this creature attacks with one or more tokens, it gains flying until end of turn.
+
+Scape Surveyor
+
+Warcurse Ruminant
+
+Thousand-Mind Cutthroat
+rules_text: Double strike
+When this creature enters, if it's a token, put three +1/+1 counters on it.
+{5}{C}: Fragment this creature. [i](Its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i] => Double strike
+When this creature enters, if it's a token, put two +1/+1 counters on it.
+{4}{C}, {T}: Fragment this creature. Activate only as a sorcery. [i](Its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+pt: 2/3 => 2/2
+
+North District Prior
+
+Cabaret Seductress
+
+Frontline Cavalier
+
+West District Chassis
+
+Industry Kingpins
+
+Never Seen Again
+
+Induced Catatonia
+
+Faculty of Engineering
+
+Yawning Spawnbed
+
+Watchman of the Deep
+
+Inspired Retrofitter
+
+Port Inspector
+
+Ego Devourer
+
+Adaptive Lieutenant
+
+Void Empyrean
+
+In the Nick of Time
+
+Fade
+
+Rush of Clarity
+
+Ego Death
+
+Wiped Clean
+
+Shingle Crawler
+
+Holism Seeker
+
+Impact Surveyors
+
+Botanical Conference
+
+Manifold Chorus
+
+Savage Broodmother
+
+Bitten By the Void
+
+Occupation
+
+Blinding Immolation
+
+For All of Calloran
+
+Confidential Science
+
+Cataclysm Constable
+
+Undercity Prole
+
+Festering Eyemass
+
+Flesh Shredder
+
+Corpse Inspectors
+
+Epitaph Lurkers
+
+Brethren Priestess
+
+Flamerush
+
+Quick and Painful
+
+Ancient Stirrings
+
+Scour the Formless Scape
+
+For the Cause
+
+Glorious Elegy
+
+Ashen Ravager
+
+Mutation Investigator
+
+Preemption Engineer
+
+Sacrifice Archivist
+
+Wildfire Aven
+
+Pinefell Terror
+
+Stonebridge Ambush
+
+Blood Soliloquy
+
+In Eldritch Flame
+
+North Salcman Vigil
+
+Unnatural Torment
+
+Channel the Dark
+
+Titan's Effigy
+
+Three-Eye Scrier
+
+Vintage Fanatic
+
+Ulamog, the Earth Engulfed
+
+Ruinate
+
+Zaila's Arbiter
+
+High Sergeant Liano
+
+Subjugation Herald
+
+Evelline, Ark of Salvation
+
+Destined End
+
+Regulation Inspector
+
+Scion of Insanity
+
+Roiling Undertow
+
+Friede, Weave Dancer
+
+Haunted Starlet
+
+Insatiable Slasher
+
+Strike Suppressor
+
+Teachings of Kavalesk
+
+Emrakul's Nullscribe
+cost: {3}{C}{C} => {4}{C}
+
+Esme, Lost to Avarice
+
+Ichor Winnower
+rules_text: Devoid [i](This card has no color.)[/i]
+Haste
+Whenever you spend an even amount of mana to cast a spell, this creature deals 1 damage to any target. [i](Zero is even.)[/i]
+If a creature dealt damage by this creature would die this turn, exile it instead. => Devoid [i](This card has no color.)[/i]
+Haste
+If a player would gain life, they gain that much life minus 1 instead.
+Whenever you spend an odd amount of mana to cast a spell, this creature deals 1 damage to target player.
+pt: 2/3 => 1/3
+
+Bullet Locomotive
+
+Derail
+
+Deathscorn Aspect
+pt: 6/5 => 5/5
+
+Gene Recombinators
+pt: 3/3 => 3/4
+
+Curious Botanist
+
+Starbreaker Ghost
+type: Creature — Eldrazi Horror => Creature — Eldrazi
+cost: {G}{G} => {3}{C}
+rules_text: Devoid [i](This card has no color.)[/i]
+Trample, vigilance
+This creature enters tapped with four stun counters on it.
+Whenever you spend four or more mana to cast a spell, untap this creature. => Trample
+Whenever you cast this spell or spend six or more mana to cast another spell, create a 3/3 green Beast creature token.
+pt: 8/8 => 3/2
+
+Chasm Behemoth
+
+Herald of the Expanse
+
+Elisa, Hand of Torvinald
+rules_text: Haste
+At the beginning of combat on your turn, target noncreature artifact you control becomes a 4/3 artifact creature with haste and indestructible until end of turn. => Haste
+At the beginning of combat on your turn, target noncreature artifact you control becomes a 4/3 artifact creature with haste until end of turn.
+
+Graven Confidant
+
+Lostlands Oracle
+
+Thoughtscraper
+
+Living Apogee
+cost: {2}{C}{C} => {3}{C}{C}
+
+Supreme Desecrator
+
+The West District Hangar
+
+Lightwire Swarm
+
+Salar, Calloran's Defiance
+rules_text: Trample, haste
+At the beginning of your second main phase, if you've spent six or more mana this turn, untap all creatures you control. After this phase, there's an additional combat phase. => Trample
+At the beginning of your second main phase, if you've spent six or more mana this turn, untap all creatures you control. After this phase, there's an additional combat phase.
+pt: 5/5 => 6/5
+
+Fated Reunion
+
+Torvinald, Iron Eminence
+
+Bloodlust Visionary
+
+Forever to Rust
+rules_text: Whenever a creature you control dies, if it was attacking, create a token that's a copy of it, except it's an artifact. [i](It's no longer a creature.)[/i]
+At the beginning of your end step, if an artifact you control entered this turn, distribute two +1/+1 counters among creatures you control. => Whenever a creature you control dies, if it was attacking, create a token that's a copy of it, except it's an artifact. Sacrifice it at the beginning of your next end step. [i](It's no longer a creature.)[/i]
+At the beginning of your end step, if an artifact you control entered this turn, distribute two +1/+1 counters among creatures you control.
+
+Jerald, Steel Virtuoso
+
+Eccentric Geneticist
+
+Baalakus, the Zenith
+
+Forge in Anguish
+
+Gene Recombinators
+pt: 3/3 => 3/4
+
+
+VERSION 50 CHANGELOG
 ====================
 
 Forever to Rust added.
