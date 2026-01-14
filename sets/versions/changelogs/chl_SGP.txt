@@ -1,4 +1,280 @@
-﻿VERSION 51 CHANGELOG
+﻿VERSION 52 CHANGELOG
+====================
+
+Overzealous Recon added.
+Highforged Overseer added.
+Moonstone Splinter added.
+Starblood Tides added.
+Lore Interwoven added.
+West District Hangar added.
+Skyshaper added.
+
+Hotwire Prodigy removed.
+Precipice Recon removed.
+Prismatic Splinter removed.
+Reality Schism removed.
+Fate's Cruel Compulsion removed.
+The West District Hangar removed.
+Dream of Aeons Past removed.
+Dream of Aeons Past removed.
+Obsessive Ritualist removed.
+
+Volunteer Firewatch
+
+Startouched Reverend
+
+Mire Pathforger
+
+Pedigree Collector
+
+Rockpile Brutes
+rules_text: {2}{W}, {T}: Tap target creature. If {C} was spent to activate this, put a stun counter on it. => {2}{W}, {T}: Tap target creature. If {C} was spent to activate this ability, put a stun counter on it.
+
+Sky Force Admiral
+
+Mournful Matriarch
+
+Opalwing Cavalry
+
+Timely Intervention
+
+Personal Wingsuit
+
+Warcurse Ruminant
+cost: {1}{W} => {R}
+rules_text: When this creature enters, you may pay {1}. If you do, create a token that's a copy of target token you control.
+{W}, Sacrifice another creature or artifact: This creature gains indestructible until end of turn. Tap it. => Haste
+When this creature dies, you may discard a card. If you do, draw a card.
+pt: 3/1 => 1/1
+
+Steelsuit Consultant
+
+Unsettling Showman
+
+Magma Scribe
+
+Startouched Epigone
+
+Iron Triumphant
+
+Steelsoul Ignition
+
+Jettison
+
+Wreckage Inquisitors
+rules_text: This creature gets +1/+1 as long as you control a token.
+{3}{G}: Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => When this creature enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+pt: 1/1 => 1/2
+
+World Whisperer
+pt: 5/5 => 4/4
+
+Eldritch Growth
+rules_text: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.” => Search your library for two basic Forest cards and/or land cards named Wastes, put them onto the battlefield, then shuffle.
+
+Obsidian Reliquary
+
+Nook Dagger
+cost: {1} => {2}
+rules_text: When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +0/+1 and has deathtouch.
+Equip {1} [i]({1}: Attach to target creature you control. Equip only as a sorcery.)[/i] => When this Equipment enters, attach it to target creature you control. That creature gains deathtouch until end of turn.
+Equipped creature gets +1/+1.
+Equip {1} [i]({1}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Corrupted Hedron
+type: Artifact => Artifact — Clue
+cost: {4} => {1}
+rules_text: When this artifact enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+{T}: Add {C}{C}. => {2}, Sacrifice this artifact: Draw a card.
+{7}{C}, Sacrifice this artifact: Create a 10/10 colorless Eldrazi creature token.
+
+Restless Summoners
+
+Inspiring Orrery
+
+Lantha, Task Force Sergeant
+
+Voidwing Kite
+
+Voice of the Roaring Wind
+
+In Strength Entwined
+
+Karsten, the Spinner
+
+Tormented Eulogist
+
+Artillery Commander
+rules_text: This creature has first strike during your turn.
+When this creature enters, exile the top card of your library. You may play it this turn.
+Whenever one or more artifacts you control enter, this creature gets +1/+0 and gains your choice of haste or trample until end of turn. => This creature has first strike during your turn.
+When this creature enters, exile the top card of your library. You may play it this turn.
+Whenever one or more other artifacts you control enter, this creature gets +1/+0 and gains your choice of haste or trample until end of turn.
+
+Sky Force Retiree
+
+Scape Surveyor
+
+Thousand-Mind Cutthroat
+
+North District Prior
+
+Stylla, Opulence Paragon
+
+Industry Kingpins
+
+Never Seen Again
+
+Induced Catatonia
+
+Faculty of Engineering
+
+Yawning Spawnbed
+
+Wiped Clean
+rules_text: Devoid [i](This card has no color.)[/i]
+Enchant nonland permanent
+When this Aura enters, draw a card if {C} was spent to cast it.
+Enchanted permanent loses all abilities. => Enchant nonland permanent
+When this Aura enters, draw a card if {C} was spent to cast it.
+Enchanted permanent loses all abilities.
+
+Holism Seeker
+rules_text: When this creature enters, you may destroy target artifact or enchantment.
+{3}{G}{G}, {T}: Fragment this creature. [i](Its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i] => When this creature enters, you may destroy target artifact or enchantment.
+{3}{C}, {T}: Fragment this creature. [i](Its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+
+Yestergrove Relic
+pt: 2/2 => 3/2
+
+Impact Surveyors
+rules_text: When this creature enters, if you sacrificed a permanent this turn, put a +1/+1 counter on this creature and investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => When this creature enters, create a token that's a copy of target token you control.
+{2}, Sacrifice an artifact or creature: Create a 3/2 colorless Eldrazi Horror creature token. Activate only as a sorcery.
+
+Occupation
+
+Scour the Formless Scape
+cost: {3}{G}{G} => {2}{G}
+rules_text: Search your library for up to two land cards, put them onto the battlefield tapped, then shuffle.
+Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => Search your library for a land card, put it onto the battlefield tapped, then shuffle.
+Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+
+Mutation Investigator
+
+Preemption Engineer
+
+Sacrifice Archivist
+
+Forgotten Fableweaver
+
+Pinefell Terror
+
+In Eldritch Flame
+
+Frossenhold Locomotive
+type: Artifact — Vehicle => Artifact Creature
+rules_text: Trample
+Whenever a creature crews this Vehicle, put a stun counter on that creature.
+Crew 2 => This creature attacks each turn if able.
+
+Vintage Fanatic
+
+Zaila, Her Will Be Done
+
+Stelver, the Eyes and Ears
+
+Subjugation Herald
+
+Regulation Inspector
+
+Devonia, Lost Ministrix
+rules_text: Devoid [i](This card has no color.)[/i]
+When Devonia enters, mill two cards.
+Exile four cards from your graveyard: You may cast target instant or sorcery card with mana value 2 or less from your graveyard without paying its mana cost. If that spell would be put into a graveyard, exile it instead. Activate only as a sorcery and only once each turn. => Devoid [i](This card has no color.)[/i]
+When Devonia enters, mill two cards.
+Once each turn, when the void calls, you may exile target instant or sorcery card from your graveyard and cast a copy of it. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+
+Strike Suppressor
+rules_text: Flash
+When this creature enters, you may pay {B}. If you do, creatures get -1/-1 until end of turn.
+Whenever an opponent attacks with or creates one or more creature tokens, that player loses that much life. => Flash
+When this creature enters, creatures get -1/-1 until end of turn.
+Whenever an opponent attacks with or creates one or more creature tokens, that player loses that much life and you gain that much life.
+
+Ichor Winnower
+type: Creature — Eldrazi => Creature — Eldrazi Cleric
+rules_text: Devoid [i](This card has no color.)[/i]
+Haste
+If a player would gain life, they gain that much life minus 1 instead.
+Whenever you spend an odd amount of mana to cast a spell, this creature deals 1 damage to target player. => Devoid [i](This card has no color.)[/i]
+Haste
+Whenever you spend an odd amount of mana to cast a spell, this creature deals 1 damage to target player.
+pt: 1/3 => 2/3
+
+Deathscorn Aspect
+rules_text: Trample, haste
+At the beginning of your upkeep, discard a card, then you may pay {2}. If you do, draw a card. => Trample, haste
+When this creature enters, discard a card, then draw a card.
+At the beginning of your end step, sacrifice this creature unless the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+pt: 5/5 => 4/4
+
+Starbreaker Ghost
+rules_text: Trample
+Whenever you cast this spell or spend six or more mana to cast another spell, create a 3/3 green Beast creature token. => Trample
+Whenever you spend six or more mana to cast another spell, create a 3/2 colorless Eldrazi Horror creature token.
+pt: 3/2 => 4/3
+
+Chasm Behemoth
+rules_text: Trample, vigilance
+Ward—Sacrifice a noncreature permanent. => Vigilance, trample
+Ward—Sacrifice a noncreature permanent.
+
+Kavalesk, the Dark Exalted
+
+Grand Awakening
+
+Essence Ripper
+rules_text: Deathtouch
+When this creature enters and at the beginning of your upkeep, target player mills two cards. Until your next turn, whenever an opponent casts a spell with the same mana value as a card milled this way, counter that spell unless its controller pays 3 life, sacrifices a nonland permanent, or discards a card. => When this creature enters, exile the top three cards of each player's library.
+Discard a card: Until end of turn, you may play target card exiled with this creature. You may spend mana as though it were mana of any type to cast spells this way.
+
+Brunn, Blunt Tactician
+rules_text: Vigilance
+Whenever Brunn becomes blocked, it deals damage equal to the number of creature tokens you control to up to one target creature blocking it.
+{1}{W}, {T}: Create a 1/1 white Human creature token. => Vigilance, haste
+Whenever Brunn attacks, put a +1/+1 counter on it. Then if it's attacking with three or more other creatures, attacking creatures get +1/+0 until end of turn. Then if it's attacking with six or more other creatures, Brunn deals damage to target player equal to its power.
+pt: 3/3 => 3/2
+
+That Even Time Forgets
+
+Leonard, Experiment Zero
+
+Salar, Calloran's Defiance
+
+Fated Reunion
+type: Instant => Sorcery
+cost: {2}{W} => {1}{W}
+rules_text: Search your library for a creature card with the same mana value as a creature you control, reveal it, put it into your hand, then shuffle. If that card has mana value 3 or less, put it onto the battlefield tapped instead. => Reveal the top six cards of your library. Put a creature card that shares a mana value with a creature you control from among them into your hand. If that card has mana value 3 or less, put it onto the battlefield instead. Put the rest on the bottom of your library in a random order.
+
+Torvinald, Iron Eminence
+
+Greytide Specter
+
+Jerald, Steel Virtuoso
+
+Baalakus, the Zenith
+rules_text: Trample, vigilance
+When Baalakus enters, draw X cards, where X is the greatest power among other creatures you control. If X is 8 or more, instead draw twice that many cards and you have no maximum hand size for the rest of the game. => Vigilance, trample
+When Baalakus enters, draw X cards, where X is the greatest power among other creatures you control. If X is 8 or more, instead draw twice that many cards and you have no maximum hand size for the rest of the game.
+
+In Strength Entwined
+
+Grand Awakening
+
+
+VERSION 51 CHANGELOG
 ====================
 
 Startouched Acolyte added.
