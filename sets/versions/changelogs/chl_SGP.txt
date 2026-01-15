@@ -1,4 +1,57 @@
-﻿VERSION 52 CHANGELOG
+﻿VERSION 53 CHANGELOG
+====================
+
+Impure Creation added.
+Skittering Swarmlord added.
+
+Frossenhold Locomotive removed.
+That Even Time Forgets removed.
+
+Harvest Tenders
+
+Splintering Edict
+
+Sludge Trawlers
+
+Spirewisp Wanderer
+
+Stylla, Opulence Paragon
+
+Scape Render
+rules_text: Trample
+Whenever you cast this spell or spend six or more mana to cast another spell, this card deals 3 damage to target player. => Trample
+Whenever you cast this spell or spend six or more mana to cast another spell, this card deals 2 damage to target player.
+
+Zaila, Her Will Be Done
+rules_text: [+1]: Draw a card. Add {C}{C}.
+[-2]: Put a splinter counter on target creature. That creature loses all abilities until the end of your next turn. [i](Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+[-7]: Create a 10/10 colorless Eldrazi creature token. Then you may have each player's life total become equal to the total power of creatures they control. => [+1]: Draw a card. Add {C}{C}.
+[-2]: Exile target creature.
+[-7]: Create a 10/10 colorless Eldrazi creature token. Then you may have each player's life total become equal to the total power of creatures they control plus 1.
+special_text: [+1]: Draw a card. Add {C}{C}.
+[-2]: Put a splinter counter on target creature. That creature loses all abilities until the end of your next turn. [i](Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+[-7]: Create a 10/10 colorless Eldrazi creature token. Then you may have each player's life total become equal to the total power of creatures they control. => [+1]: Draw a card. Add {C}{C}.
+[-2]: Exile target creature.
+[-7]: Create a 10/10 colorless Eldrazi creature token. Then you may have each player's life total become equal to the total power of creatures they control plus 1.
+
+Stelver, the Eyes and Ears
+
+Something in the Soil
+
+Starblood Tides
+rules_text: Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way. If you discarded one or fewer cards or seven or more cards this way, create a 3/2 colorless Eldrazi Horror creature token. => Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way. If you discarded more cards than an opponent this way, create a 3/2 colorless Eldrazi Horror creature token.
+
+Lore Interwoven
+rules_text: When this enchantment enters, untap up to three lands.
+Creature spells you cast cost {1} less to cast for each noncreature spell you've cast this turn.
+Noncreature spells you cast cost {1} less to cast for each creature spell you've cast this turn. => When this enchantment enters, untap up to three lands.
+Creature spells you cast cost one mana of any type less to cast for each noncreature spell you've cast this turn.
+Noncreature spells you cast cost one mana of any type less to cast for each creature spell you've cast this turn.
+
+Skyshaper
+
+
+VERSION 52 CHANGELOG
 ====================
 
 Overzealous Recon added.

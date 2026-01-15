@@ -1145,7 +1145,7 @@
     },
     {
         "card_name": "Splintering Edict",
-        "number": 237,
+        "number": 238,
         "shape": "normal",
         "set": "SGP"
     },
@@ -1195,8 +1195,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Something in the Soil",
-        "number": 235,
+        "card_name": "Skittering Swarmlord",
+        "number": 233,
         "shape": "normal",
         "set": "SGP"
     },
@@ -1214,7 +1214,7 @@
     },
     {
         "card_name": "Stylla, Opulence Paragon",
-        "number": 240,
+        "number": 241,
         "shape": "normal",
         "set": "SGP"
     },
@@ -1225,8 +1225,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Ravaged Eviscerator",
-        "number": 229,
+        "card_name": "Something in the Soil",
+        "number": 236,
         "shape": "normal",
         "set": "SGP"
     },
@@ -1238,7 +1238,7 @@
     },
     {
         "card_name": "Stelver, the Eyes and Ears",
-        "number": 239,
+        "number": 240,
         "shape": "normal",
         "set": "SGP"
     },
@@ -1255,8 +1255,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Sludge Trawlers",
-        "number": 234,
+        "card_name": "Ravaged Eviscerator",
+        "number": 229,
         "shape": "normal",
         "set": "SGP"
     },
@@ -1280,12 +1280,15 @@
     },
     {
         "card_name": "Spirewisp Wanderer",
-        "number": 236,
+        "number": 237,
         "shape": "normal",
         "set": "SGP"
     },
     {
-        "card_name": "e"
+        "card_name": "Sludge Trawlers",
+        "number": 235,
+        "shape": "normal",
+        "set": "SGP"
     },
     {
         "card_name": "e"
@@ -1331,33 +1334,15 @@
     },
     {
         "card_name": "Skyshaper",
-        "number": 233,
+        "number": 234,
         "shape": "normal",
         "set": "SGP"
     },
     {
         "card_name": "Starblood Tides",
-        "number": 238,
+        "number": 239,
         "shape": "normal",
         "set": "SGP"
-    },
-    {
-        "card_name": "That Even Time Forgets",
-        "number": 241,
-        "shape": "normal",
-        "set": "SGP"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1523,8 +1508,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Frossenhold Locomotive",
-        "number": 248,
+        "card_name": "Impure Creation",
+        "number": 249,
         "shape": "normal",
         "set": "SGP"
     },
@@ -1578,7 +1563,7 @@
     },
     {
         "card_name": "Harvest Tenders",
-        "number": 249,
+        "number": 248,
         "shape": "normal",
         "set": "SGP"
     },
