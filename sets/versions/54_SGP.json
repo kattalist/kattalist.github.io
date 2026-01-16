@@ -1,7 +1,7 @@
 ﻿{
     "name": "Stirrings in Goldport",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "play booster",
     "unpreviewed": "card back",
@@ -6027,6 +6027,5 @@
             "alias": "",
             "notes": ""
         }
-    ],
-    "version": 54
+    ]
 }

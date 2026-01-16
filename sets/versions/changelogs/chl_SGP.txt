@@ -1,4 +1,108 @@
-﻿VERSION 53 CHANGELOG
+﻿VERSION 54 CHANGELOG
+====================
+
+Grand Triarch added.
+Insatiate Slasher added.
+Fathomless Invocations added.
+
+Subjugation Herald removed.
+Insatiable Slasher removed.
+Teachings of Kavalesk removed.
+
+Startouched Reverend
+
+Mire Pathforger
+
+Pedigree Collector
+
+Rockpile Brutes
+
+Sky Force Admiral
+
+Mournful Matriarch
+
+Opalwing Cavalry
+
+Lamplighter of the End
+
+Luxuries Merchant
+
+Inkrealm Stalker
+
+Marshwreck Gang
+
+Speakeasy Brokers
+
+Soultaker Idol
+
+Startouched Acolyte
+
+Harrowing Transformation
+
+Learn From Loss
+
+Nightgrasp
+
+Starbreaker Juvenile
+rules_text: Vigilance, reach
+Whenever you cast a spell with mana value 4 or greater, if this creature has no counters on it, put two +1/+1 counters on it. => Vigilance, reach
+Whenever you spend four or more mana to cast another spell, if this creature has no counters on it, put two +1/+1 counters on it.
+
+Sky Force Retiree
+
+Scape Surveyor
+
+Highforged Overseer
+
+North District Prior
+
+Industry Kingpins
+
+Never Seen Again
+
+Induced Catatonia
+
+Deepwater Whispers
+
+Shingle Crawler
+
+Manifold Chorus
+rules_text: Trample
+This creature enters with X +1/+1 counters on it.
+When this creature enters, you may remove any number of counters from it. When you do, it fights that many target creatures. => Trample
+This creature enters with X +1/+1 counters on it.
+When this creature enters, you may sacrifice a creature. If you do, this creature fights target creature you don't control.
+
+Festering Eyemass
+
+Flesh Shredder
+
+Quick and Painful
+
+Glorious Elegy
+
+Stonebridge Ambush
+
+North Salcman Vigil
+
+High Sergeant Liano
+
+Regulation Inspector
+
+Haunted Starlet
+
+Strike Suppressor
+
+Brunn, Blunt Tactician
+pt: 3/2 => 2/2
+
+Graven Confidant
+
+Jellyfish Horror
+pt: 4/4 => */4
+
+
+VERSION 53 CHANGELOG
 ====================
 
 Impure Creation added.

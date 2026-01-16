@@ -1,7 +1,7 @@
 ﻿[
     {
-        "card_name": "Subjugation Herald",
-        "number": 56,
+        "card_name": "Grand Triarch",
+        "number": 40,
         "shape": "normal",
         "set": "SGP"
     },
@@ -43,7 +43,7 @@
     },
     {
         "card_name": "Graven Confidant",
-        "number": 113,
+        "number": 114,
         "shape": "normal",
         "set": "SGP"
     },
@@ -102,8 +102,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Haunted Starlet",
-        "number": 115,
+        "card_name": "Fathomless Invocations",
+        "number": 110,
         "shape": "normal",
         "set": "SGP"
     },
@@ -132,8 +132,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Insatiable Slasher",
-        "number": 117,
+        "card_name": "Haunted Starlet",
+        "number": 116,
         "shape": "normal",
         "set": "SGP"
     },
@@ -151,7 +151,7 @@
     },
     {
         "card_name": "High Sergeant Liano",
-        "number": 40,
+        "number": 41,
         "shape": "normal",
         "set": "SGP"
     },
@@ -162,8 +162,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Strike Suppressor",
-        "number": 130,
+        "card_name": "Insatiate Slasher",
+        "number": 118,
         "shape": "normal",
         "set": "SGP"
     },
@@ -181,7 +181,7 @@
     },
     {
         "card_name": "Regulation Inspector",
-        "number": 50,
+        "number": 51,
         "shape": "normal",
         "set": "SGP"
     },
@@ -192,7 +192,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "Teachings of Kavalesk",
+        "card_name": "Strike Suppressor",
         "number": 131,
         "shape": "normal",
         "set": "SGP"
@@ -301,7 +301,7 @@
     },
     {
         "card_name": "Highforged Overseer",
-        "number": 41,
+        "number": 42,
         "shape": "normal",
         "set": "SGP"
     },
@@ -331,7 +331,7 @@
     },
     {
         "card_name": "Induced Catatonia",
-        "number": 42,
+        "number": 43,
         "shape": "normal",
         "set": "SGP"
     },
@@ -343,7 +343,7 @@
     },
     {
         "card_name": "Festering Eyemass",
-        "number": 110,
+        "number": 111,
         "shape": "normal",
         "set": "SGP"
     },
@@ -361,7 +361,7 @@
     },
     {
         "card_name": "Industry Kingpins",
-        "number": 43,
+        "number": 44,
         "shape": "normal",
         "set": "SGP"
     },
@@ -373,7 +373,7 @@
     },
     {
         "card_name": "Flesh Shredder",
-        "number": 111,
+        "number": 112,
         "shape": "normal",
         "set": "SGP"
     },
@@ -391,7 +391,7 @@
     },
     {
         "card_name": "Never Seen Again",
-        "number": 46,
+        "number": 47,
         "shape": "normal",
         "set": "SGP"
     },
@@ -403,7 +403,7 @@
     },
     {
         "card_name": "Glorious Elegy",
-        "number": 112,
+        "number": 113,
         "shape": "normal",
         "set": "SGP"
     },
@@ -421,7 +421,7 @@
     },
     {
         "card_name": "North District Prior",
-        "number": 47,
+        "number": 48,
         "shape": "normal",
         "set": "SGP"
     },
@@ -433,7 +433,7 @@
     },
     {
         "card_name": "North Salcman Vigil",
-        "number": 123,
+        "number": 124,
         "shape": "normal",
         "set": "SGP"
     },
@@ -451,7 +451,7 @@
     },
     {
         "card_name": "Scape Surveyor",
-        "number": 52,
+        "number": 53,
         "shape": "normal",
         "set": "SGP"
     },
@@ -463,7 +463,7 @@
     },
     {
         "card_name": "Quick and Painful",
-        "number": 124,
+        "number": 125,
         "shape": "normal",
         "set": "SGP"
     },
@@ -481,7 +481,7 @@
     },
     {
         "card_name": "Sky Force Retiree",
-        "number": 54,
+        "number": 55,
         "shape": "normal",
         "set": "SGP"
     },
@@ -493,7 +493,7 @@
     },
     {
         "card_name": "Shingle Crawler",
-        "number": 125,
+        "number": 126,
         "shape": "normal",
         "set": "SGP"
     },
@@ -523,7 +523,7 @@
     },
     {
         "card_name": "Stonebridge Ambush",
-        "number": 129,
+        "number": 130,
         "shape": "normal",
         "set": "SGP"
     },
@@ -703,7 +703,7 @@
     },
     {
         "card_name": "Harrowing Transformation",
-        "number": 114,
+        "number": 115,
         "shape": "normal",
         "set": "SGP"
     },
@@ -721,7 +721,7 @@
     },
     {
         "card_name": "Mire Pathforger",
-        "number": 44,
+        "number": 45,
         "shape": "normal",
         "set": "SGP"
     },
@@ -733,7 +733,7 @@
     },
     {
         "card_name": "Inkrealm Stalker",
-        "number": 116,
+        "number": 117,
         "shape": "normal",
         "set": "SGP"
     },
@@ -751,7 +751,7 @@
     },
     {
         "card_name": "Mournful Matriarch",
-        "number": 45,
+        "number": 46,
         "shape": "normal",
         "set": "SGP"
     },
@@ -763,7 +763,7 @@
     },
     {
         "card_name": "Lamplighter of the End",
-        "number": 118,
+        "number": 119,
         "shape": "normal",
         "set": "SGP"
     },
@@ -781,7 +781,7 @@
     },
     {
         "card_name": "Opalwing Cavalry",
-        "number": 48,
+        "number": 49,
         "shape": "normal",
         "set": "SGP"
     },
@@ -793,7 +793,7 @@
     },
     {
         "card_name": "Learn From Loss",
-        "number": 119,
+        "number": 120,
         "shape": "normal",
         "set": "SGP"
     },
@@ -811,7 +811,7 @@
     },
     {
         "card_name": "Pedigree Collector",
-        "number": 49,
+        "number": 50,
         "shape": "normal",
         "set": "SGP"
     },
@@ -823,7 +823,7 @@
     },
     {
         "card_name": "Luxuries Merchant",
-        "number": 120,
+        "number": 121,
         "shape": "normal",
         "set": "SGP"
     },
@@ -841,7 +841,7 @@
     },
     {
         "card_name": "Rockpile Brutes",
-        "number": 51,
+        "number": 52,
         "shape": "normal",
         "set": "SGP"
     },
@@ -853,7 +853,7 @@
     },
     {
         "card_name": "Marshwreck Gang",
-        "number": 121,
+        "number": 122,
         "shape": "normal",
         "set": "SGP"
     },
@@ -871,7 +871,7 @@
     },
     {
         "card_name": "Sky Force Admiral",
-        "number": 53,
+        "number": 54,
         "shape": "normal",
         "set": "SGP"
     },
@@ -883,7 +883,7 @@
     },
     {
         "card_name": "Nightgrasp",
-        "number": 122,
+        "number": 123,
         "shape": "normal",
         "set": "SGP"
     },
@@ -901,7 +901,7 @@
     },
     {
         "card_name": "Startouched Reverend",
-        "number": 55,
+        "number": 56,
         "shape": "normal",
         "set": "SGP"
     },
@@ -913,7 +913,7 @@
     },
     {
         "card_name": "Soultaker Idol",
-        "number": 126,
+        "number": 127,
         "shape": "normal",
         "set": "SGP"
     },
@@ -943,7 +943,7 @@
     },
     {
         "card_name": "Speakeasy Brokers",
-        "number": 127,
+        "number": 128,
         "shape": "normal",
         "set": "SGP"
     },
@@ -973,7 +973,7 @@
     },
     {
         "card_name": "Startouched Acolyte",
-        "number": 128,
+        "number": 129,
         "shape": "normal",
         "set": "SGP"
     },
