@@ -1761,13 +1761,13 @@
 			}
 		},
 		{
-			"name": "Three-Eye Scrier",
+			"name": "Three-Eye Observer",
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Creature — Horror Shaman",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/25_Three-Eye Scrier.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/25_Three-Eye Observer.png"
 			}
 		},
 		{
@@ -3001,73 +3001,63 @@
 			}
 		},
 		{
-			"name": "In Strength Entwined",
+			"name": "In Strength Entwined_Promo",
 			"rarity": "special",
 			"mana_cost": "{G}{W}",
 			"type": "Enchantment",
-			"collector_number": "295",
+			"collector_number": "294",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/295_In Strength Entwined.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/294_In Strength Entwined_Promo.png"
 			}
 		},
 		{
-			"name": "Gene Recombinators",
+			"name": "Gene Recombinators_Promo",
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Scientist",
-			"collector_number": "293",
+			"collector_number": "292",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/293_Gene Recombinators.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/292_Gene Recombinators_Promo.png"
 			}
 		},
 		{
-			"name": "Ooze",
+			"name": "Ooze_Promo",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Creature — Ooze",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/10_Ooze.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/10_Ooze_Promo.png"
 			}
 		},
 		{
-			"name": "Rend",
+			"name": "Rend_Promo",
 			"rarity": "special",
 			"mana_cost": "{1}{C}",
 			"type": "Instant",
 			"collector_number": "291",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/291_Rend.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/291_Rend_Promo.png"
 			}
 		},
 		{
-			"name": "Blood Soliloquy",
-			"rarity": "special",
-			"mana_cost": "{B}",
-			"type": "Instant",
-			"collector_number": "292",
-			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/292_Blood Soliloquy.png"
-			}
-		},
-		{
-			"name": "Grand Awakening",
+			"name": "Grand Awakening_Promo",
 			"rarity": "special",
 			"mana_cost": "{X}{X}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "294",
+			"collector_number": "293",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/294_Grand Awakening.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/293_Grand Awakening_Promo.png"
 			}
 		},
 		{
-			"name": "Bear Witness",
+			"name": "Bear Witness_Promo",
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Sorcery",
 			"collector_number": "290",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/290_Bear Witness.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/290_Bear Witness_Promo.png"
 			}
 		},
 		{
@@ -3291,7 +3281,7 @@
 	4 Channel the Dark
 	4 Scape Render
 	4 Titan's Effigy
-	4 Three-Eye Scrier
+	4 Three-Eye Observer
 	4 Endward Harbinger
 	4 Inkrealm Drowner
 	4 Eternity Takes
@@ -3565,7 +3555,7 @@
 	6 Channel the Dark
 	6 Scape Render
 	6 Titan's Effigy
-	6 Three-Eye Scrier
+	6 Three-Eye Observer
 	6 Endward Harbinger
 	6 Inkrealm Drowner
 	6 Eternity Takes
@@ -3844,7 +3834,7 @@
 	15 Channel the Dark
 	15 Scape Render
 	15 Titan's Effigy
-	15 Three-Eye Scrier
+	15 Three-Eye Observer
 	15 Endward Harbinger
 	15 Inkrealm Drowner
 	15 Eternity Takes

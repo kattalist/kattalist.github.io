@@ -1,4 +1,48 @@
-﻿VERSION 56 CHANGELOG
+﻿VERSION 57 CHANGELOG
+====================
+
+Three-Eye Observer added.
+In Strength Entwined_Promo added.
+Gene Recombinators_Promo added.
+Ooze_Promo added.
+Rend_Promo added.
+Grand Awakening_Promo added.
+Bear Witness_Promo added.
+
+Three-Eye Scrier removed.
+In Strength Entwined removed.
+Gene Recombinators removed.
+Ooze removed.
+Rend removed.
+Blood Soliloquy removed.
+Grand Awakening removed.
+Bear Witness removed.
+
+Kavalesk, the Dark Exalted
+
+Something in the Soil
+
+Lore Interwoven
+rules_text: When this enchantment enters, untap up to three lands.
+Creature spells you cast cost one mana of any type less to cast for each noncreature spell you've cast this turn.
+Noncreature spells you cast cost one mana of any type less to cast for each creature spell you've cast this turn. => When this enchantment enters, untap up to three lands.
+Creature spells you cast cost {1} less to cast for each noncreature spell you've cast this turn.
+Noncreature spells you cast cost {1} less to cast for each creature spell you've cast this turn.
+
+Kozilek, the Bonds Unmade
+rules_text: Indestructible
+Your maximum hand size is twelve.
+Whenever Kozilek attacks, if you have seven or fewer cards in your hand, draw five cards and add five {C}. Until end of turn, you don't lose this mana as steps and phases end. => Ward {X}, where X is the number of cards you've drawn this turn plus 2.
+Your maximum hand size is twelve.
+Whenever Kozilek attacks, if you have seven or fewer cards in your hand, draw five cards and add five {C}. Until end of turn, you don't lose this mana as steps and phases end.
+
+Emrakul, the Sky Sundered
+rules_text: When you cast this spell, choose beginning phase, main phase, or combat phase. Until your next turn, each opponent skips each instance of each phase not chosen this way. [i](The beginning phase includes the untap, upkeep, and draw steps. That player doesn't skip the ending phase.)[/i]
+Flying, trample, protection from mana value 7 or less => When you cast this spell, choose beginning phase, main phase, or combat phase. Until your next turn, each opponent skips each instance of each phase not chosen this way. [i](The beginning phase includes the untap, upkeep, and draw steps. That player doesn't skip the ending phase.)[/i]
+Flying, trample, protection from mana value 4 or less
+
+
+VERSION 56 CHANGELOG
 ====================
 
 

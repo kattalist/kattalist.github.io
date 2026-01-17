@@ -3431,7 +3431,7 @@
             "notes": "10 Aug 2025: Switched to totally unblockable\n12 Aug 2025: Made AA more expensive (5C from 3C), but made only your things unblockable\n23 Aug 2025: Totally switched to Scion maker and late-game sink\n\nOptions: 6, T, Sac: 7/7 or 8, T, Sac: 10/10"
         },
         {
-            "card_name": "Three-Eye Scrier",
+            "card_name": "Three-Eye Observer",
             "color": "",
             "rarity": "uncommon",
             "type": "Creature \u2014 Horror Shaman",
@@ -3447,7 +3447,7 @@
             "loyalty": "",
             "artist": "Dariusz Kieliszek",
             "alias": "",
-            "notes": "23 Aug 2025: Bumped from 2/2 to 3/3\n27 Aug 2025: Removed semi-pointless mill\n\nMAY 2026:\n- Calling it a \"Scrier\" and surveilling instead is too weird"
+            "notes": "23 Aug 2025: Bumped from 2/2 to 3/3\n27 Aug 2025: Removed semi-pointless mill\n\nMAY 2026:\n- Calling it a \"Scrier\" and surveilling instead is too weird\n16 Jan 2026: Renamed"
         },
         {
             "card_name": "Endward Harbinger",
@@ -4343,7 +4343,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "10 Aug 2025: Consider if this should hit other things in graveyard or not (say flashback)\n\nShould this be constructed viable? Yes, as a buildaround\n\nDoes this seem constructed viable? Yes, since this is a cost reduction plus a sac outlet\n\nMAY 2026:\n- Understatted, but also the effect should probably do something a bit better (even though it's currently funny)\n14 Dec 2025: Buffed from 3/3 to 4/5, removed ability to play lands\n15 Dec 2025: Reworked ability to be discard cost instead of sac"
+            "notes": "10 Aug 2025: Consider if this should hit other things in graveyard or not (say flashback)\n\nShould this be constructed viable? Yes, as a buildaround\n\nDoes this seem constructed viable? Yes, since this is a cost reduction plus a sac outlet\n\nMAY 2026:\n- Understatted, but also the effect should probably do something a bit better (even though it's currently funny)\n14 Dec 2025: Buffed from 3/3 to 4/5, removed ability to play lands\n15 Dec 2025: Reworked ability to be discard cost instead of sac\n\n!tag wishlist"
         },
         {
             "card_name": "Grand Awakening",
@@ -4438,7 +4438,7 @@
             "loyalty": "",
             "artist": "Clara Tessier",
             "alias": "",
-            "notes": "Should this be constructed viable? Yes, as a buildaround\n\nDoes this seem constructed viable? Depends on how easily an Eldrazi titan can be cheated into play (using soil counters should help make this reasonable)\n\nFT 2: Trigger in between mill and return\n\nMAY 2026:\n- Well-liked"
+            "notes": "Should this be constructed viable? Yes, as a buildaround\n\nDoes this seem constructed viable? Depends on how easily an Eldrazi titan can be cheated into play (using soil counters should help make this reasonable)\n\nFT 2: Trigger in between mill and return\n\nMAY 2026:\n- Well-liked\n\n!tag wishlist"
         },
         {
             "card_name": "Elisa, Hand of Torvinald",
@@ -4562,8 +4562,8 @@
             "number": 222,
             "color_identity": "URG",
             "cost": "{1}{G}{U}{R}",
-            "rules_text": "When this enchantment enters, untap up to three lands.\nCreature spells you cast cost one mana of any type less to cast for each noncreature spell you've cast this turn.\nNoncreature spells you cast cost one mana of any type less to cast for each creature spell you've cast this turn.",
-            "flavor_text": "[i][/i]",
+            "rules_text": "When this enchantment enters, untap up to three lands.\nCreature spells you cast cost {1} less to cast for each noncreature spell you've cast this turn.\nNoncreature spells you cast cost {1} less to cast for each creature spell you've cast this turn.",
+            "flavor_text": "[i]Every fable, deity, and pantheon on Calloran bore the titans' ancient mark.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -5275,7 +5275,7 @@
             "number": 14,
             "color_identity": "C",
             "cost": "{12}",
-            "rules_text": "Indestructible\nYour maximum hand size is twelve.\nWhenever Kozilek attacks, if you have seven or fewer cards in your hand, draw five cards and add five {C}. Until end of turn, you don't lose this mana as steps and phases end.",
+            "rules_text": "Ward {X}, where X is the number of cards you've drawn this turn plus 2.\nYour maximum hand size is twelve.\nWhenever Kozilek attacks, if you have seven or fewer cards in your hand, draw five cards and add five {C}. Until end of turn, you don't lose this mana as steps and phases end.",
             "flavor_text": "[i][/i]",
             "pt": "12/12",
             "special_text": "",
@@ -5294,7 +5294,7 @@
             "number": 7,
             "color_identity": "C",
             "cost": "{14}",
-            "rules_text": "When you cast this spell, choose beginning phase, main phase, or combat phase. Until your next turn, each opponent skips each instance of each phase not chosen this way. [i](The beginning phase includes the untap, upkeep, and draw steps. That player doesn't skip the ending phase.)[/i]\nFlying, trample, protection from mana value 7 or less",
+            "rules_text": "When you cast this spell, choose beginning phase, main phase, or combat phase. Until your next turn, each opponent skips each instance of each phase not chosen this way. [i](The beginning phase includes the untap, upkeep, and draw steps. That player doesn't skip the ending phase.)[/i]\nFlying, trample, protection from mana value 4 or less",
             "flavor_text": "[i][/i]",
             "pt": "14/14",
             "special_text": "",
@@ -5303,7 +5303,7 @@
             "loyalty": "",
             "artist": "Sebastian Franchini",
             "alias": "",
-            "notes": "6 Aug 2025: Edited rules text so players would still get an ending phase (otherwise things get weird)\n10 Aug 2025: Reworded slightly to pack into 8 lines\n\n8 lines\n\nMAY 2026:\n- Protection may be a bit too messed up"
+            "notes": "6 Aug 2025: Edited rules text so players would still get an ending phase (otherwise things get weird)\n10 Aug 2025: Reworded slightly to pack into 8 lines\n\n8 lines\n\nMAY 2026:\n- Protection may be a bit too messed up\n16 Jan 2026: Reduced protection to mana value 4"
         },
         {
             "card_name": "Keeper's Peninsula",
@@ -5857,11 +5857,11 @@
             "notes": "!related Gene Recombinators"
         },
         {
-            "card_name": "In Strength Entwined",
+            "card_name": "In Strength Entwined_Promo",
             "color": "WG",
             "rarity": "special",
             "type": "Enchantment",
-            "number": 295,
+            "number": 294,
             "color_identity": "WG",
             "cost": "{G}{W}",
             "rules_text": "Whenever a creature token you control enters, put a +1/+1 counter on it.",
@@ -5873,14 +5873,14 @@
             "loyalty": "",
             "artist": "Joseph Feely",
             "alias": "",
-            "notes": ""
+            "notes": "!exportname In Strength Entwined_Promo"
         },
         {
-            "card_name": "Gene Recombinators",
+            "card_name": "Gene Recombinators_Promo",
             "color": "G",
             "rarity": "special",
             "type": "Creature \u2014 Human Scientist",
-            "number": 293,
+            "number": 292,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "{1}, Sacrifice two creatures: Create an X/X green Ooze creature token, where X is the total power of the sacrificed creatures. Activate only as a sorcery.\n[i]Coalition[/i] \u2013 Whenever this creature attacks with one or more tokens, populate. [i](Create a token that's a copy of a creature token you control.)[/i]",
@@ -5892,10 +5892,10 @@
             "loyalty": "",
             "artist": "Velzar Jyseoppwigu",
             "alias": "",
-            "notes": ""
+            "notes": "!exportname Gene Recombinators_Promo"
         },
         {
-            "card_name": "Ooze",
+            "card_name": "Ooze_Promo",
             "color": "G",
             "rarity": "special",
             "type": "Creature \u2014 Ooze",
@@ -5911,10 +5911,10 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
-            "notes": ""
+            "notes": "!exportname Ooze_Promo"
         },
         {
-            "card_name": "Rend",
+            "card_name": "Rend_Promo",
             "color": "",
             "rarity": "special",
             "type": "Instant",
@@ -5930,33 +5930,14 @@
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
-            "notes": ""
+            "notes": "!exportname Rend_Promo"
         },
         {
-            "card_name": "Blood Soliloquy",
-            "color": "B",
-            "rarity": "special",
-            "type": "Instant",
-            "number": 292,
-            "color_identity": "B",
-            "cost": "{B}",
-            "rules_text": "As an additional cost to cast this spell, sacrifice a creature or discard a card.\nTarget creature gets -3/-3 until end of turn.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "SGP",
-            "loyalty": "",
-            "artist": "Dima Dmitriy",
-            "alias": "",
-            "notes": ""
-        },
-        {
-            "card_name": "Grand Awakening",
+            "card_name": "Grand Awakening_Promo",
             "color": "RG",
             "rarity": "special",
             "type": "Sorcery",
-            "number": 294,
+            "number": 293,
             "color_identity": "RG",
             "cost": "{X}{X}{R}{G}",
             "rules_text": "Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. Create X tokens that are copies of it, except they aren't legendary and have haste and \u201cSacrifice this token at the beginning of your next end step.\u201d",
@@ -5968,10 +5949,10 @@
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
-            "notes": ""
+            "notes": "!exportname Grand Awakening_Promo"
         },
         {
-            "card_name": "Bear Witness",
+            "card_name": "Bear Witness_Promo",
             "color": "",
             "rarity": "special",
             "type": "Sorcery",
@@ -5987,7 +5968,7 @@
             "loyalty": "",
             "artist": "Nino Is",
             "alias": "",
-            "notes": ""
+            "notes": "!exportname Bear Witness_Promo"
         },
         {
             "card_name": "Bird",
