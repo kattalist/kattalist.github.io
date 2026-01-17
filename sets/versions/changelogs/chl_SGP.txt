@@ -1,4 +1,151 @@
-﻿VERSION 54 CHANGELOG
+﻿VERSION 55 CHANGELOG
+====================
+
+Formless Scape added.
+Jaded Coroners added.
+Eldrazi Horror added.
+Golem added.
+
+Scour the Formless Scape removed.
+Auspicious Coroners removed.
+
+Gloompool Heron
+
+Diviner of Relics
+
+Frossenhold Walker
+
+Eldritch Rebuttal
+
+Innovation Thief
+
+Collaborate
+
+Black Site Asylum
+
+Eldrazi Scion
+
+Game Hunters
+
+Overzealous Recon
+
+A Hole in the Sky
+
+Eldritch Growth
+rules_text: Search your library for two basic Forest cards and/or land cards named Wastes, put them onto the battlefield, then shuffle. => Search your library for two basic land cards, put them onto the battlefield tapped, then shuffle. Untap each land named Wastes put onto the battlefield this way.
+
+Unethical Enhancements
+type: Enchantment — Aura => Instant
+cost: {2}{G} => {1}{G}
+rules_text: Enchant creature
+When this Aura enters, if it's attached to a token, draw a card.
+Enchanted creature gets +2/+2 and has trample. => Target creature gets +2/+2 and gains trample until end of turn. If it's a token, it also gains indestructible until end of turn.
+
+Aviary Whisperer
+
+Inspired Retrofitter
+
+Ego Devourer
+
+In the Nick of Time
+
+Fade
+
+Deepwater Whispers
+
+Ego Death
+
+Eavesdrop
+
+Holism Seeker
+
+Yestergrove Relic
+rules_text: When this creature enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+You may reveal the second card you draw each turn. Whenever you reveal a land card this way, put it onto the battlefield tapped. => When this creature enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+{1}{G}, Sacrifice a Clue: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Activate only once each turn.
+
+Impact Surveyors
+
+Botanical Conference
+pt: 3/4 => 4/4
+
+Manifold Chorus
+rules_text: Trample
+This creature enters with X +1/+1 counters on it.
+When this creature enters, you may sacrifice a creature. If you do, this creature fights target creature you don't control. => Trample
+This creature enters with X +1/+1 counters on it.
+When this creature enters, you may sacrifice a creature. When you do, this creature fights target creature you don't control.
+
+Savage Broodmother
+
+Flesh Shredder
+rules_text: When this creature enters, draw a card, then discard a card. You lose 1 life. If you discarded a nonland card this way, put a menace counter on this creature and it gains haste until end of turn. => As an additional cost to cast this spell, you may sacrifice a creature or discard a card. If you do, this creature enters with two +1/+1 counters on it.
+Menace
+
+Corpse Inspectors
+rules_text: Whenever this creature attacks, choose up to one —
+• Mill two cards. If you do, this creature gets +1/+1 until end of turn.
+• Discard a card. If you do, put a +1/+1 counter on this creature. => Whenever this creature attacks, mill three cards, then choose one —
+• Return a creature card milled this way to your hand.
+• This creature gets +1/+1 and gains lifelink until end of turn.
+
+Channel the Dark
+cost: {2}{B} => {B}{B}
+
+Ruinate
+
+Zaila's Arbiter
+rules_text: Flying
+When you cast this spell, exile another target nonland permanent. For as long as it remains exiled, its owner may cast it by paying {3} rather than its mana cost. => Flying
+When you cast this spell, exile up to one target nonland permanent. For as long as it remains exiled, its owner may cast it by paying {3} rather than its mana cost.
+
+Devonia, Lost Ministrix
+
+Friede, Weave Dancer
+
+Gene Recombinators
+
+Starbreaker Ghost
+
+Herald of the Expanse
+
+Clanston Innovator
+
+Skyshaper
+
+Forever to Rust
+rules_text: Whenever a creature you control dies, if it was attacking, create a token that's a copy of it, except it's an artifact. Sacrifice it at the beginning of your next end step. [i](It's no longer a creature.)[/i]
+At the beginning of your end step, if an artifact you control entered this turn, distribute two +1/+1 counters among creatures you control. => Whenever a creature you control dies, if it was attacking, create a token that's a copy of it, except it's an artifact. Sacrifice it at the beginning of the next end step. [i](It's no longer a creature.)[/i]
+At the beginning of your end step, if an artifact you control entered this turn, put a +1/+1 counter on target creature you control.
+
+Treasure
+
+Clue
+
+Human Bard
+
+Human
+
+Dog
+
+Eldrazi
+
+Construct
+
+Eldrazi Angel
+
+Thopter
+
+Ooze
+
+Ooze
+
+Bird
+
+Jellyfish Horror
+
+
+VERSION 54 CHANGELOG
 ====================
 
 Grand Triarch added.

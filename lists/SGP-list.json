@@ -66,8 +66,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Auspicious Coroners",
-        "number": 68,
+        "card_name": "Devonia, Lost Ministrix",
+        "number": 72,
         "shape": "normal",
         "set": "SGP"
     },
@@ -96,8 +96,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Devonia, Lost Ministrix",
-        "number": 73,
+        "card_name": "Friede, Weave Dancer",
+        "number": 79,
         "shape": "normal",
         "set": "SGP"
     },
@@ -126,8 +126,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Friede, Weave Dancer",
-        "number": 80,
+        "card_name": "Jaded Coroners",
+        "number": 85,
         "shape": "normal",
         "set": "SGP"
     },
@@ -145,7 +145,7 @@
     },
     {
         "card_name": "Herald of the Expanse",
-        "number": 185,
+        "number": 186,
         "shape": "normal",
         "set": "SGP"
     },
@@ -175,7 +175,7 @@
     },
     {
         "card_name": "Ruinate",
-        "number": 191,
+        "number": 192,
         "shape": "normal",
         "set": "SGP"
     },
@@ -277,7 +277,7 @@
     },
     {
         "card_name": "Deepwater Whispers",
-        "number": 72,
+        "number": 71,
         "shape": "normal",
         "set": "SGP"
     },
@@ -307,7 +307,7 @@
     },
     {
         "card_name": "Ego Death",
-        "number": 76,
+        "number": 75,
         "shape": "normal",
         "set": "SGP"
     },
@@ -337,7 +337,7 @@
     },
     {
         "card_name": "Ego Devourer",
-        "number": 77,
+        "number": 76,
         "shape": "normal",
         "set": "SGP"
     },
@@ -367,7 +367,7 @@
     },
     {
         "card_name": "Fade",
-        "number": 79,
+        "number": 78,
         "shape": "normal",
         "set": "SGP"
     },
@@ -397,7 +397,7 @@
     },
     {
         "card_name": "In the Nick of Time",
-        "number": 83,
+        "number": 82,
         "shape": "normal",
         "set": "SGP"
     },
@@ -415,7 +415,7 @@
     },
     {
         "card_name": "Holism Seeker",
-        "number": 187,
+        "number": 188,
         "shape": "normal",
         "set": "SGP"
     },
@@ -427,7 +427,7 @@
     },
     {
         "card_name": "Inspired Retrofitter",
-        "number": 85,
+        "number": 84,
         "shape": "normal",
         "set": "SGP"
     },
@@ -445,7 +445,7 @@
     },
     {
         "card_name": "Impact Surveyors",
-        "number": 188,
+        "number": 189,
         "shape": "normal",
         "set": "SGP"
     },
@@ -475,7 +475,7 @@
     },
     {
         "card_name": "Manifold Chorus",
-        "number": 189,
+        "number": 190,
         "shape": "normal",
         "set": "SGP"
     },
@@ -505,7 +505,7 @@
     },
     {
         "card_name": "Savage Broodmother",
-        "number": 192,
+        "number": 193,
         "shape": "normal",
         "set": "SGP"
     },
@@ -607,7 +607,7 @@
     },
     {
         "card_name": "Aviary Whisperer",
-        "number": 69,
+        "number": 68,
         "shape": "normal",
         "set": "SGP"
     },
@@ -637,7 +637,7 @@
     },
     {
         "card_name": "Black Site Asylum",
-        "number": 70,
+        "number": 69,
         "shape": "normal",
         "set": "SGP"
     },
@@ -667,7 +667,7 @@
     },
     {
         "card_name": "Collaborate",
-        "number": 71,
+        "number": 70,
         "shape": "normal",
         "set": "SGP"
     },
@@ -697,7 +697,7 @@
     },
     {
         "card_name": "Diviner of Relics",
-        "number": 74,
+        "number": 73,
         "shape": "normal",
         "set": "SGP"
     },
@@ -727,7 +727,7 @@
     },
     {
         "card_name": "Eavesdrop",
-        "number": 75,
+        "number": 74,
         "shape": "normal",
         "set": "SGP"
     },
@@ -744,7 +744,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "Game Hunters",
+        "card_name": "Formless Scape",
         "number": 183,
         "shape": "normal",
         "set": "SGP"
@@ -757,7 +757,7 @@
     },
     {
         "card_name": "Eldritch Rebuttal",
-        "number": 78,
+        "number": 77,
         "shape": "normal",
         "set": "SGP"
     },
@@ -774,8 +774,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "A Hole in the Sky",
-        "number": 186,
+        "card_name": "Game Hunters",
+        "number": 184,
         "shape": "normal",
         "set": "SGP"
     },
@@ -787,7 +787,7 @@
     },
     {
         "card_name": "Frossenhold Walker",
-        "number": 81,
+        "number": 80,
         "shape": "normal",
         "set": "SGP"
     },
@@ -804,8 +804,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Overzealous Recon",
-        "number": 190,
+        "card_name": "A Hole in the Sky",
+        "number": 187,
         "shape": "normal",
         "set": "SGP"
     },
@@ -817,7 +817,7 @@
     },
     {
         "card_name": "Gloompool Heron",
-        "number": 82,
+        "number": 81,
         "shape": "adventure",
         "set": "SGP"
     },
@@ -834,8 +834,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Scour the Formless Scape",
-        "number": 193,
+        "card_name": "Overzealous Recon",
+        "number": 191,
         "shape": "normal",
         "set": "SGP"
     },
@@ -847,7 +847,7 @@
     },
     {
         "card_name": "Innovation Thief",
-        "number": 84,
+        "number": 83,
         "shape": "normal",
         "set": "SGP"
     },
@@ -1908,55 +1908,61 @@
         "set": "SGP"
     },
     {
-        "card_name": "Clue",
-        "number": 11,
-        "shape": "token",
-        "set": "SGP"
-    },
-    {
-        "card_name": "Construct",
-        "number": 12,
-        "shape": "token",
-        "set": "SGP"
-    },
-    {
-        "card_name": "Thopter",
-        "number": 13,
-        "shape": "token",
-        "set": "SGP"
-    },
-    {
-        "card_name": "Treasure",
-        "number": 14,
-        "shape": "token",
-        "set": "SGP"
-    },
-    {
-        "card_name": "Dog",
+        "card_name": "Eldrazi Scion",
         "number": 4,
         "shape": "token",
         "set": "SGP"
     },
     {
-        "card_name": "Human",
+        "card_name": "Clue",
+        "number": 12,
+        "shape": "token",
+        "set": "SGP"
+    },
+    {
+        "card_name": "Construct",
+        "number": 13,
+        "shape": "token",
+        "set": "SGP"
+    },
+    {
+        "card_name": "Golem",
+        "number": 14,
+        "shape": "token",
+        "set": "SGP"
+    },
+    {
+        "card_name": "Thopter",
+        "number": 15,
+        "shape": "token",
+        "set": "SGP"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 16,
+        "shape": "token",
+        "set": "SGP"
+    },
+    {
+        "card_name": "Dog",
         "number": 5,
         "shape": "token",
         "set": "SGP"
     },
     {
-        "card_name": "Bird",
+        "card_name": "Human",
         "number": 6,
         "shape": "token",
         "set": "SGP"
     },
     {
-        "card_name": "Jellyfish Horror",
+        "card_name": "Bird",
         "number": 7,
         "shape": "token",
         "set": "SGP"
     },
     {
-        "card_name": "Ooze",
+        "card_name": "Jellyfish Horror",
         "number": 8,
         "shape": "token",
         "set": "SGP"
@@ -1968,16 +1974,16 @@
         "set": "SGP"
     },
     {
-        "card_name": "Human Bard",
+        "card_name": "Ooze",
         "number": 10,
         "shape": "token",
         "set": "SGP"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
+        "card_name": "Human Bard",
+        "number": 11,
+        "shape": "token",
+        "set": "SGP"
     },
     {
         "card_name": "er"
