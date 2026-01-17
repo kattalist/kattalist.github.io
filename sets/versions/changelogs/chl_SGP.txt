@@ -1,4 +1,14 @@
-﻿VERSION 55 CHANGELOG
+﻿VERSION 56 CHANGELOG
+====================
+
+
+
+Unethical Enhancements
+
+Eternity Takes
+
+
+VERSION 55 CHANGELOG
 ====================
 
 Formless Scape added.

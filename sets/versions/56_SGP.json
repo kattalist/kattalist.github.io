@@ -1413,7 +1413,7 @@
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Target creature gets +2/+2 and gains trample until end of turn. If it's a token, it also gains indestructible until end of turn.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cThey do not speak your language. They cannot read your thoughts. Under no circumstances should you listen to them.\u201d[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -3502,7 +3502,7 @@
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
-            "artist": "Denis Kornev",
+            "artist": "Diana Franco",
             "alias": "",
             "notes": "MAY 2026:\n- Mixed opinions, maybe too dangerous"
         },
