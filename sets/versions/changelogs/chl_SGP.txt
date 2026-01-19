@@ -1,4 +1,202 @@
-﻿VERSION 58 CHANGELOG
+﻿VERSION 59 CHANGELOG
+====================
+
+Darkwood Assailants added.
+Exander, Half-Forgotten added.
+
+
+Personal Wingsuit
+
+Obsidian Reliquary
+
+Nook Dagger
+
+Corrupted Hedron
+
+Harvest Tenders
+
+Splintering Edict
+
+Obsessive Ritualist
+
+Restless Summoners
+
+Oathbound Stalwart
+
+Discerning Patron
+
+Inspiring Orrery
+
+Sludge Trawlers
+
+Spirewisp Wanderer
+
+Lantha, Task Force Sergeant
+
+Voidwing Kite
+
+Malformed Initiate
+rules_text: At the beginning of your upkeep, you may pay {BR} and discard a card. If you do, put a +1/+1 counter on this creature and it gains menace until end of turn.
+When this creature dies, it deals damage equal to its power to any target. => At the beginning of your upkeep, you may discard a card. If you do, put a +1/+1 counter on this creature and it gains menace until end of turn.
+When this creature dies, it deals damage equal to its power to any target.
+
+Voice of the Roaring Wind
+
+In Strength Entwined
+
+Karsten, the Spinner
+
+Ravaged Eviscerator
+
+Stylla, Opulence Paragon
+
+Flamerush
+rules_text: Flamerush deals 2 damage divided as you choose among up to two targets. => This spell costs {1} more to cast for each target beyond the first.
+Flamerush deals 3 damage divided as you choose among one or more target creatures.
+
+Forgotten Fableweaver
+
+Moonstone Splinter
+
+Fateblur Cloak
+
+Impure Creation
+
+Hall of Innovation
+
+Promising Vista
+
+Zaila, Her Will Be Done
+
+Stelver, the Eyes and Ears
+rules_text: Flash
+When Stelver enters, investigate twice. For each player, you may return target creature that player controls to its owner's hand. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Sacrifice a Clue: Until end of turn, you may cast creature spells as though they had flash. => Flash
+When Stelver enters, investigate twice. For each player, you may return a creature that player controls to its owner's hand. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Sacrifice a Clue: Until end of turn, you may cast creature spells as though they had flash.
+pt: 3/4 => 4/4
+
+Zaila's Arbiter
+rules_text: Flying
+When you cast this spell, exile up to one target nonland permanent. For as long as it remains exiled, its owner may cast it by paying {3} rather than its mana cost. => Flash
+Flying
+When you cast this spell, exile up to one target nonland permanent. While it's exiled, its owner may cast it for its mana cost plus {2}.
+
+Grand Triarch
+pt: 3/3 => 4/4
+
+Ichor Winnower
+rules_text: Devoid [i](This card has no color.)[/i]
+Haste
+Whenever you spend an odd amount of mana to cast a spell, this creature deals 1 damage to target player. => Devoid [i](This card has no color.)[/i]
+Haste
+Whenever you spend an odd amount of mana to cast a spell, this creature deals 1 damage to any target. This ability may target a creature only once each turn.
+
+Deathscorn Aspect
+cost: {1}{R}{R} => {2}{R}{R}
+rules_text: Trample, haste
+When this creature enters, discard a card, then draw a card.
+At the beginning of your end step, sacrifice this creature unless the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => Trample, haste
+When this creature enters, you may discard a card. If you do, draw a card.
+At the beginning of your end step, sacrifice this creature unless the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+pt: 4/4 => 5/5
+
+Kavalesk, the Dark Exalted
+
+Grand Awakening
+
+Population Boom
+
+Olmin, Royal Liaison
+
+Something in the Soil
+
+Elisa, Hand of Torvinald
+
+Efraim, High Alderman
+
+Essence Ripper
+
+Starblood Tides
+
+Skittering Swarmlord
+
+Lore Interwoven
+
+Mystic Gate
+
+Sunken Ruins
+
+Graven Cairns
+
+Fire-Lit Thicket
+
+Wooded Bastion
+
+Reality Cusp
+
+Lost to Endless Scripture
+
+Fetid Heath
+
+Cascade Bluffs
+
+Twilight Mire
+
+Rugged Prairie
+
+Flooded Grove
+
+Eldrazi Monolith
+
+Lantha's Journal
+
+Leonard, Experiment Zero
+
+Skyshaper
+
+Salar, Calloran's Defiance
+
+Ravin, Heir of Goldport
+
+Greytide Specter
+
+Keeper's Peninsula
+
+Dusk Vantage
+
+Lost Settlement
+
+Cliffrest Tributary
+
+Village Steeples
+
+Secluded Avenue
+
+Cataract Valley
+
+Outlands Hamlet
+
+Bronzeglade Peaks
+
+Lakewatch Ruins
+
+What Remains of Frossenhold
+
+In Strength Entwined_Promo
+
+Gene Recombinators_Promo
+
+Rend_Promo
+
+Grand Awakening_Promo
+
+Bear Witness_Promo
+
+Esme, Lost to Avarice
+
+
+VERSION 58 CHANGELOG
 ====================
 
 Esme, Lost to Avarice added.
