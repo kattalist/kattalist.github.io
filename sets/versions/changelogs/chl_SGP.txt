@@ -1,4 +1,54 @@
-﻿VERSION 57 CHANGELOG
+﻿VERSION 58 CHANGELOG
+====================
+
+Esme, Lost to Avarice added.
+Construct added.
+
+
+Mournful Matriarch
+rules_text: When this creature dies, choose one —
+• You gain 2 life.
+• Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => Whenever another creature you control enters, you gain 1 life.
+
+Public Exhibition
+cost: {1}{U} => {U}
+
+Black Site Asylum
+rules_text: Flash
+When this artifact enters, return target creature an opponent controls to its owner's hand.
+{2}, Sacrifice this artifact: Draw a card. => Flash
+When this artifact enters, tap target creature an opponent controls and put two stun counters on it.
+{2}, Sacrifice this artifact: Draw a card.
+
+Undercity Prole
+rules_text: Deathtouch
+Creatures you control with power 2 or less have menace. => Deathtouch
+Whenever a creature you control with power 2 or less attacks, it gains menace until end of turn.
+
+Esme, Lost to Avarice
+rules_text: Whenever the void calls for the first time each turn, each opponent loses 1 life and you gain 1 life. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+{3}{B}{B}: If there are seven or more cards in your graveyard, Esme gains flying and becomes a 7/7 Horror in addition to its other types. Activate only as a sorcery. => Once each turn, when the void calls, each opponent loses 1 life and you gain 1 life. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+{3}{B}{B}: If there are seven or more cards in your graveyard, Esme gains flying and becomes a 7/7 Horror in addition to its other types. Activate only as a sorcery.
+
+West District Hangar
+rules_text: Artifact creatures you control have haste.
+At the beginning of your upkeep, create a 0/0 colorless Construct artifact creature token with “This creature gets +1/+1 for each artifact you control.” Sacrifice it at the beginning of the next end step. => Artifact creatures you control have haste.
+When this artifact enters and at the beginning of your upkeep, create a 0/0 colorless Construct artifact creature token with “This creature gets +1/+1 for each artifact you control.” Sacrifice it at the beginning of the next end step.
+
+Treasure
+
+Thopter
+
+In Strength Entwined_Promo
+
+Gene Recombinators_Promo
+
+Grand Awakening_Promo
+
+Golem
+
+
+VERSION 57 CHANGELOG
 ====================
 
 Three-Eye Observer added.

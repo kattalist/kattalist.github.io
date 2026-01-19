@@ -273,7 +273,7 @@
 		{
 			"name": "Public Exhibition",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "90",
 			"image_uris": {
@@ -2815,9 +2815,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/16_Treasure.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/17_Treasure.png"
 			}
 		},
 		{
@@ -2985,9 +2985,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Thopter",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/15_Thopter.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/16_Thopter.png"
 			}
 		},
 		{
@@ -3005,9 +3005,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}{W}",
 			"type": "Enchantment",
-			"collector_number": "294",
+			"collector_number": "295",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/294_In Strength Entwined_Promo.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/295_In Strength Entwined_Promo.png"
 			}
 		},
 		{
@@ -3015,9 +3015,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Scientist",
-			"collector_number": "292",
+			"collector_number": "293",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/292_Gene Recombinators_Promo.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/293_Gene Recombinators_Promo.png"
 			}
 		},
 		{
@@ -3045,9 +3045,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}{X}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "293",
+			"collector_number": "294",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/293_Grand Awakening_Promo.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/294_Grand Awakening_Promo.png"
 			}
 		},
 		{
@@ -3095,9 +3095,29 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Golem",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/15_Golem.png"
+			}
+		},
+		{
+			"name": "Esme, Lost to Avarice",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/SGP-files/img/292_Esme, Lost to Avarice.png"
+			}
+		},
+		{
+			"name": "Construct",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Construct",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/14_Golem.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/14_Construct.png"
 			}
 		}
 	]
