@@ -18,8 +18,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Forever to Rust",
-        "number": 146,
+        "card_name": "Jerald, Steel Virtuoso",
+        "number": 150,
         "shape": "normal",
         "set": "SGP"
     },
@@ -31,7 +31,7 @@
     },
     {
         "card_name": "Torvinald, Iron Eminence",
-        "number": 59,
+        "number": 58,
         "shape": "normal",
         "set": "SGP"
     },
@@ -48,8 +48,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Jerald, Steel Virtuoso",
-        "number": 151,
+        "card_name": "A World Worth Fighting For",
+        "number": 167,
         "shape": "normal",
         "set": "SGP"
     },
@@ -109,7 +109,7 @@
     },
     {
         "card_name": "Deathscorn Aspect",
-        "number": 141,
+        "number": 142,
         "shape": "normal",
         "set": "SGP"
     },
@@ -138,8 +138,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Derail",
-        "number": 142,
+        "card_name": "Ichor Winnower",
+        "number": 147,
         "shape": "normal",
         "set": "SGP"
     },
@@ -168,7 +168,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "Ichor Winnower",
+        "card_name": "In Eldritch Flame",
         "number": 148,
         "shape": "normal",
         "set": "SGP"
@@ -180,8 +180,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Regulation Inspector",
-        "number": 51,
+        "card_name": "Wharf Inspector",
+        "number": 62,
         "shape": "normal",
         "set": "SGP"
     },
@@ -199,7 +199,7 @@
     },
     {
         "card_name": "West District Hangar",
-        "number": 165,
+        "number": 164,
         "shape": "normal",
         "set": "SGP"
     },
@@ -258,8 +258,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "Flamerush",
-        "number": 144,
+        "card_name": "Careening Steam Engine",
+        "number": 138,
         "shape": "normal",
         "set": "SGP"
     },
@@ -288,8 +288,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "For the Cause",
-        "number": 145,
+        "card_name": "Flamerush",
+        "number": 144,
         "shape": "normal",
         "set": "SGP"
     },
@@ -318,8 +318,8 @@
         "set": "SGP"
     },
     {
-        "card_name": "In Eldritch Flame",
-        "number": 149,
+        "card_name": "For the Cause",
+        "number": 145,
         "shape": "normal",
         "set": "SGP"
     },
@@ -349,7 +349,7 @@
     },
     {
         "card_name": "Mutation Investigator",
-        "number": 154,
+        "number": 153,
         "shape": "normal",
         "set": "SGP"
     },
@@ -379,7 +379,7 @@
     },
     {
         "card_name": "Occupation",
-        "number": 155,
+        "number": 154,
         "shape": "normal",
         "set": "SGP"
     },
@@ -409,7 +409,7 @@
     },
     {
         "card_name": "Pinefell Terror",
-        "number": 156,
+        "number": 155,
         "shape": "normal",
         "set": "SGP"
     },
@@ -439,7 +439,7 @@
     },
     {
         "card_name": "Preemption Engineer",
-        "number": 157,
+        "number": 156,
         "shape": "normal",
         "set": "SGP"
     },
@@ -451,7 +451,7 @@
     },
     {
         "card_name": "Scape Surveyor",
-        "number": 53,
+        "number": 52,
         "shape": "normal",
         "set": "SGP"
     },
@@ -469,7 +469,7 @@
     },
     {
         "card_name": "Sacrifice Archivist",
-        "number": 158,
+        "number": 157,
         "shape": "normal",
         "set": "SGP"
     },
@@ -481,7 +481,7 @@
     },
     {
         "card_name": "Sky Force Retiree",
-        "number": 55,
+        "number": 54,
         "shape": "normal",
         "set": "SGP"
     },
@@ -499,7 +499,7 @@
     },
     {
         "card_name": "Steelsoul Ignition",
-        "number": 160,
+        "number": 159,
         "shape": "normal",
         "set": "SGP"
     },
@@ -511,7 +511,7 @@
     },
     {
         "card_name": "Thousand-Mind Cutthroat",
-        "number": 57,
+        "number": 56,
         "shape": "normal",
         "set": "SGP"
     },
@@ -529,7 +529,7 @@
     },
     {
         "card_name": "Tormented Eulogist",
-        "number": 162,
+        "number": 161,
         "shape": "normal",
         "set": "SGP"
     },
@@ -541,7 +541,7 @@
     },
     {
         "card_name": "Vintage Fanatic",
-        "number": 60,
+        "number": 59,
         "shape": "normal",
         "set": "SGP"
     },
@@ -559,7 +559,7 @@
     },
     {
         "card_name": "Wildfire Aven",
-        "number": 166,
+        "number": 165,
         "shape": "normal",
         "set": "SGP"
     },
@@ -571,7 +571,7 @@
     },
     {
         "card_name": "West District Chassis",
-        "number": 62,
+        "number": 61,
         "shape": "normal",
         "set": "SGP"
     },
@@ -589,7 +589,7 @@
     },
     {
         "card_name": "Willbreaker Lance",
-        "number": 167,
+        "number": 166,
         "shape": "normal",
         "set": "SGP"
     },
@@ -649,7 +649,7 @@
     },
     {
         "card_name": "Commune with Silence",
-        "number": 138,
+        "number": 139,
         "shape": "normal",
         "set": "SGP"
     },
@@ -679,7 +679,7 @@
     },
     {
         "card_name": "Crimson Gladeguard",
-        "number": 139,
+        "number": 140,
         "shape": "normal",
         "set": "SGP"
     },
@@ -709,7 +709,7 @@
     },
     {
         "card_name": "Cutting-Edge Munitions",
-        "number": 140,
+        "number": 141,
         "shape": "normal",
         "set": "SGP"
     },
@@ -769,7 +769,7 @@
     },
     {
         "card_name": "Forge in Anguish",
-        "number": 147,
+        "number": 146,
         "shape": "normal",
         "set": "SGP"
     },
@@ -799,7 +799,7 @@
     },
     {
         "card_name": "Iron Triumphant",
-        "number": 150,
+        "number": 149,
         "shape": "normal",
         "set": "SGP"
     },
@@ -829,7 +829,7 @@
     },
     {
         "card_name": "Jettison",
-        "number": 152,
+        "number": 151,
         "shape": "normal",
         "set": "SGP"
     },
@@ -841,7 +841,7 @@
     },
     {
         "card_name": "Rockpile Brutes",
-        "number": 52,
+        "number": 51,
         "shape": "normal",
         "set": "SGP"
     },
@@ -859,7 +859,7 @@
     },
     {
         "card_name": "Magma Scribe",
-        "number": 153,
+        "number": 152,
         "shape": "normal",
         "set": "SGP"
     },
@@ -871,7 +871,7 @@
     },
     {
         "card_name": "Sky Force Admiral",
-        "number": 54,
+        "number": 53,
         "shape": "normal",
         "set": "SGP"
     },
@@ -889,7 +889,7 @@
     },
     {
         "card_name": "Startouched Epigone",
-        "number": 159,
+        "number": 158,
         "shape": "normal",
         "set": "SGP"
     },
@@ -901,7 +901,7 @@
     },
     {
         "card_name": "Startouched Reverend",
-        "number": 56,
+        "number": 55,
         "shape": "normal",
         "set": "SGP"
     },
@@ -919,7 +919,7 @@
     },
     {
         "card_name": "Steelsuit Consultant",
-        "number": 161,
+        "number": 160,
         "shape": "normal",
         "set": "SGP"
     },
@@ -931,7 +931,7 @@
     },
     {
         "card_name": "Timely Intervention",
-        "number": 58,
+        "number": 57,
         "shape": "normal",
         "set": "SGP"
     },
@@ -949,7 +949,7 @@
     },
     {
         "card_name": "Unsettling Showman",
-        "number": 163,
+        "number": 162,
         "shape": "normal",
         "set": "SGP"
     },
@@ -961,7 +961,7 @@
     },
     {
         "card_name": "Volunteer Firewatch",
-        "number": 61,
+        "number": 60,
         "shape": "normal",
         "set": "SGP"
     },
@@ -979,7 +979,7 @@
     },
     {
         "card_name": "Warcurse Ruminant",
-        "number": 164,
+        "number": 163,
         "shape": "normal",
         "set": "SGP"
     },
@@ -1243,7 +1243,7 @@
         "set": "SGP"
     },
     {
-        "card_name": "Darkwood Assailants",
+        "card_name": "Darkwood Guerillas",
         "number": 209,
         "shape": "normal",
         "set": "SGP"

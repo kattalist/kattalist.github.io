@@ -1,4 +1,211 @@
-﻿VERSION 59 CHANGELOG
+﻿VERSION 60 CHANGELOG
+====================
+
+Wharf Inspector added.
+Careening Steam Engine added.
+A World Worth Fighting For added.
+Darkwood Guerillas added.
+
+Regulation Inspector removed.
+Derail removed.
+Forever to Rust removed.
+Darkwood Assailants removed.
+
+Volunteer Firewatch
+
+Startouched Reverend
+
+Rockpile Brutes
+
+Sky Force Admiral
+
+Timely Intervention
+
+Warcurse Ruminant
+
+Steelsuit Consultant
+
+Unsettling Showman
+
+Magma Scribe
+
+Startouched Epigone
+
+Iron Triumphant
+
+Crimson Gladeguard
+
+Steelsoul Ignition
+
+Commune with Silence
+
+Jettison
+
+Cutting-Edge Munitions
+rules_text: When this artifact enters or leaves the battlefield, exile the top card of your library. You may play cards exiled this way until the end of your next turn.
+{2}{R}, Sacrifice this artifact or discard this card: It deals 4 damage to target creature. Activate only as a sorcery. => When this artifact enters or leaves the battlefield, exile the top card of your library. You may play it until the end of your next turn.
+{2}{R}, Sacrifice this artifact or discard this card: It deals 4 damage to target creature. Activate only as a sorcery.
+
+Willbreaker Lance
+
+Obsessive Ritualist
+cost: {B}{R} => {1}{B}{R}
+rules_text: When this creature enters, you may pay {1} and discard a card. If you do, draw a card.
+As long as the void called this turn, this creature gets +1/+1 and has deathtouch and haste. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => When this creature enters, you may discard a card. If you do, draw a card.
+As long as the void called this turn, this creature gets +1/+1 and has deathtouch and haste. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+pt: 2/2 => 3/2
+
+Restless Summoners
+pt: 1/2 => 2/3
+
+Inspiring Orrery
+cost: {2}{R}{W} => {R}{W}
+rules_text: When this artifact enters, create three 1/1 colorless Construct artifact creature tokens.
+Whenever you attack with three or more artifact creatures, this artifact deals 2 damage to target player. You gain 2 life. => When this artifact enters, it deals 2 damage to any target and you gain 2 life.
+Whenever you cast another artifact spell, this artifact becomes a 3/3 artifact creature with haste until end of turn.
+
+Tormented Eulogist
+rules_text: Haste
+This creature gets +2/+0 as long as you've cast a noncreature spell this turn.
+This creature has double strike as long as you've spent six or more mana to cast spells this turn. => Haste
+This creature gets +2/+0 as long as you've cast a noncreature spell this turn.
+This creature has trample as long as you've spent six or more mana to cast spells this turn.
+
+Artillery Commander
+cost: {1}{R}{W} => {R}{W}
+rules_text: This creature has first strike during your turn.
+When this creature enters, exile the top card of your library. You may play it this turn.
+Whenever one or more other artifacts you control enter, this creature gets +1/+0 and gains your choice of haste or trample until end of turn. => Vigilance, haste
+
+Sky Force Retiree
+cost: {W} => {1}{W}
+pt: 2/1 => 2/2
+
+Scape Surveyor
+
+Highforged Overseer
+cost: {1}{W} => {W}
+rules_text: When this creature enters, you may pay {1}. If you do, create a token that's a copy of target token you control.
+{W}, Sacrifice another creature or artifact: This creature gains indestructible until end of turn. Tap it. => Vigilance
+Whenever another nontoken artifact you control enters, you may pay {1}. When you do, put a +1/+1 counter on target creature you control.
+pt: 3/1 => 2/1
+
+Thousand-Mind Cutthroat
+
+West District Chassis
+rules_text: When this Equipment enters, you may pay {2}. If you do, create a 1/1 white Human creature token and attach this Equipment to it.
+Equipped creature gets +1/+1 for each token you control and has flying.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i] => When this Equipment enters, you may pay {2}. If you do, create a 1/1 white Human creature token and attach this Equipment to it.
+Equipped creature gets +1/+1 for each creature you control and has flying.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Faculty of Engineering
+type: Enchantment => Artifact
+rules_text: When this enchantment enters, look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Creatures you control have vigilance. => When this artifact enters, look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Creatures you control have vigilance.
+
+Yawning Spawnbed
+rules_text: Defender
+Whenever you cast a colorless spell, put a +1/+1 counter on this creature.
+As long as this creature has two or more counters on it, it can attack as though it didn't have defender. => Defender
+Whenever you cast a colorless spell, put a +1/+1 counter on this creature.
+As long as this creature has one or more counters on it, it can attack as though it didn't have defender.
+
+Occupation
+
+Mutation Investigator
+
+Preemption Engineer
+
+Sacrifice Archivist
+
+Wildfire Aven
+
+Pinefell Terror
+
+In Eldritch Flame
+
+Titan's Effigy
+rules_text: When this creature enters, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.” => When you cast this spell, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+
+Impure Creation
+rules_text: This creature attacks each combat if able. => Menace
+This creature attacks each combat if able.
+
+Vintage Fanatic
+
+Ruinate
+
+Destined End
+rules_text: Until end of turn, creatures dying don't cause abilities to trigger.
+Destroy all nonland permanents. => Until end of turn, abilities don't trigger.
+Destroy all nonland permanents.
+
+Esme, Lost to Avarice
+rules_text: Once each turn, when the void calls, each opponent loses 1 life and you gain 1 life. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+{3}{B}{B}: If there are seven or more cards in your graveyard, Esme gains flying and becomes a 7/7 Horror in addition to its other types. Activate only as a sorcery. => Once each turn, when the void calls, each opponent loses 1 life and you gain 1 life. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+{3}{B}{B}: If there are seven or more cards in your graveyard, Esme gains flying and becomes a 7/7 Horror in addition to her other types. Activate only as a sorcery.
+
+Ichor Winnower
+
+Bullet Locomotive
+rules_text: This Vehicle has haste and is an artifact creature as long as it entered this turn.
+Whenever this Vehicle attacks, if it was crewed this turn, it gets +1/+0 and gains trample and “Sacrifice this Vehicle at end of combat.”
+Crew 1 => This Vehicle has haste and is an artifact creature as long as it entered this turn.
+{R}{R}: Until end of turn, this Vehicle becomes an artifact creature, gets +2/+0, and gains trample and “Sacrifice this Vehicle at end of combat.”
+Crew 1
+
+Deathscorn Aspect
+
+Kavalesk, the Dark Exalted
+
+Something in the Soil
+
+Elisa, Hand of Torvinald
+rules_text: Haste
+At the beginning of combat on your turn, target noncreature artifact you control becomes a 4/3 artifact creature with haste until end of turn. => Haste
+When Elisa enters, put two +1/+1 counters, a flying counter, and a lifelink counter on target artifact you control. You may have it become a 0/0 artifact creature. [i](This effect lasts indefinitely.)[/i]
+{2}{R}{W}, Tap two untapped artifacts you control: Exile Elisa, then return her to the battlefield under her owner's control. Activate only as a sorcery.
+pt: 4/3 => 3/3
+
+Efraim, High Alderman
+rules_text: Lifelink
+At the beginning of your end step, if you gained 3 or more life this turn, return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter and a lifelink counter on it. => Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+At the beginning of your end step, if you gained 3 or more life this turn, return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter and an extort counter on it.
+
+Brunn, Blunt Tactician
+rules_text: Vigilance, haste
+Whenever Brunn attacks, put a +1/+1 counter on it. Then if it's attacking with three or more other creatures, attacking creatures get +1/+0 until end of turn. Then if it's attacking with six or more other creatures, Brunn deals damage to target player equal to its power. => Vigilance, haste
+Whenever Brunn attacks, put a +1/+1 counter on him. Then if he's attacking with three or more other creatures, attacking creatures get +1/+0 until end of turn. Then if he's attacking with six or more other creatures, Brunn deals damage to target player equal to his power.
+
+West District Hangar
+
+Torvinald, Iron Eminence
+
+Jerald, Steel Virtuoso
+
+Eccentric Geneticist
+
+Forge in Anguish
+
+Construct
+
+Esme, Lost to Avarice
+rules_text: Once each turn, when the void calls, each opponent loses 1 life and you gain 1 life. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+{3}{B}{B}: If there are seven or more cards in your graveyard, Esme gains flying and becomes a 7/7 Horror in addition to its other types. Activate only as a sorcery. => Once each turn, when the void calls, each opponent loses 1 life and you gain 1 life. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+{3}{B}{B}: If there are seven or more cards in your graveyard, Esme gains flying and becomes a 7/7 Horror in addition to her other types. Activate only as a sorcery.
+
+Exander, Half-Forgotten
+cost: {1}{B}{R} => {B}{R}
+rules_text: Double strike, menace
+Whenever you cast a spell, you may discard a card. If you do, Exander gets +1/+0 until end of turn.
+Whenever Exander deals combat damage to a player, discard your hand, then draw three cards. => Menace
+Once each turn, when the void calls, put a +1/+1 counter on Exander. Then if his power is 5 or greater, each opponent discards a card. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+pt: 1/3 => 2/2
+
+
+VERSION 59 CHANGELOG
 ====================
 
 Darkwood Assailants added.
