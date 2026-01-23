@@ -447,7 +447,7 @@
 			"type": "Token Creature — Eldrazi Scion",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/4_Eldrazi Scion.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/4t_Eldrazi Scion.png"
 			}
 		},
 		{
@@ -2817,7 +2817,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/17_Treasure.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/17t_Treasure.png"
 			}
 		},
 		{
@@ -2837,7 +2837,7 @@
 			"type": "Token Artifact — Clue",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/12_Clue.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/12t_Clue.png"
 			}
 		},
 		{
@@ -2857,7 +2857,7 @@
 			"type": "Token Creature — Human Bard",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/11_Human Bard.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/11t_Human Bard.png"
 			}
 		},
 		{
@@ -2867,7 +2867,7 @@
 			"type": "Token Creature — Human",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/6_Human.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/6t_Human.png"
 			}
 		},
 		{
@@ -2877,7 +2877,7 @@
 			"type": "Token Creature — Dog",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/5_Dog.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/5t_Dog.png"
 			}
 		},
 		{
@@ -2887,7 +2887,7 @@
 			"type": "Token Creature — Eldrazi",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/1_Eldrazi.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/1t_Eldrazi.png"
 			}
 		},
 		{
@@ -2897,7 +2897,7 @@
 			"type": "Token Artifact Creature — Construct",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/13_Construct.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/13t_Construct.png"
 			}
 		},
 		{
@@ -2977,7 +2977,7 @@
 			"type": "Token Creature — Eldrazi Angel",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/2_Eldrazi Angel.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/2t_Eldrazi Angel.png"
 			}
 		},
 		{
@@ -2987,7 +2987,7 @@
 			"type": "Token Artifact Creature — Thopter",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/16_Thopter.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/16t_Thopter.png"
 			}
 		},
 		{
@@ -2997,7 +2997,7 @@
 			"type": "Token Creature — Ooze",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/9_Ooze.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/9t_Ooze.png"
 			}
 		},
 		{
@@ -3027,7 +3027,7 @@
 			"type": "Creature — Ooze",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/10_Ooze_Promo.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/10t_Ooze_Promo.png"
 			}
 		},
 		{
@@ -3067,7 +3067,7 @@
 			"type": "Token Creature — Bird",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/7_Bird.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/7t_Bird.png"
 			}
 		},
 		{
@@ -3077,7 +3077,7 @@
 			"type": "Token Creature — Jellyfish Horror",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/8_Jellyfish Horror.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/8t_Jellyfish Horror.png"
 			}
 		},
 		{
@@ -3087,7 +3087,7 @@
 			"type": "Token Creature — Eldrazi Horror",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/3_Eldrazi Horror.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/3t_Eldrazi Horror.png"
 			}
 		},
 		{
@@ -3097,7 +3097,7 @@
 			"type": "Token Artifact Creature — Golem",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/15_Golem.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/15t_Golem.png"
 			}
 		},
 		{
@@ -3117,7 +3117,7 @@
 			"type": "Token Artifact Creature — Construct",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/14_Construct.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/14t_Construct.png"
 			}
 		},
 		{
@@ -3333,7 +3333,99 @@
 	4 Promising Vista
 	4 Vintage Fanatic
 	4 Careening Steam Engine
-[common(7)]
+[common(6)]
+	8 Volunteer Firewatch
+	8 Startouched Reverend
+	8 Mire Pathforger
+	8 Pedigree Collector
+	8 Rockpile Brutes
+	8 Sky Force Admiral
+	8 Mournful Matriarch
+	8 Zaila's Willbender
+	8 Opalwing Cavalry
+	8 Timely Intervention
+	8 Aerial Augmentation
+	8 Zeppelin Disaster
+	8 Personal Wingsuit
+	8 Gloompool Heron
+	8 Diviner of Relics
+	8 Task Force Operatives
+	8 Startouched Analyst
+	8 Frossenhold Walker
+	8 Mastbreaker
+	8 Eldritch Rebuttal
+	8 Innovation Thief
+	8 Collaborate
+	8 Taken by the Storm
+	8 Public Exhibition
+	8 Black Site Asylum
+	8 Lamplighter of the End
+	8 Luxuries Merchant
+	8 Unwelcome Tenant
+	8 Cruel Patrician
+	8 Inkrealm Stalker
+	8 Marshwreck Gang
+	8 Speakeasy Brokers
+	8 Soultaker Idol
+	8 Startouched Acolyte
+	8 Croak
+	8 Harrowing Transformation
+	8 Learn From Loss
+	8 Compelled to Die
+	8 Nightgrasp
+	8 Eyekissed Invoker
+	8 Warcurse Ruminant
+	8 Steelsuit Consultant
+	8 Unsettling Showman
+	8 Magma Scribe
+	8 Startouched Epigone
+	8 Iron Triumphant
+	8 Mantle Breacher
+	8 Crimson Gladeguard
+	8 Commune with Silence
+	8 Jettison
+	8 Cutting-Edge Munitions
+	8 Wreckage Inquisitors
+	8 Startouched Arborist
+	8 Game Hunters
+	8 First Responders
+	8 Streetway Incursion
+	8 World Whisperer
+	8 Overzealous Recon
+	8 Branchbound Speaker
+	8 Starbreaker Juvenile
+	8 Barksplitter Colossus
+	8 A Hole in the Sky
+	8 Donnybrook
+	8 Unethical Enhancements
+	8 Ancient Carapace
+	8 Voices of the Severed
+	8 Old Ones Envoy
+	8 Rend
+	8 Reality Wanes
+	8 Incursive Voidmaw
+	8 Obsidian Reliquary
+	8 Nook Dagger
+	8 Elden Crucible
+	8 Corrupted Hedron
+	8 Harvest Tenders
+	8 Aviary Whisperer
+	8 Cabaret Seductress
+	8 Eavesdrop
+	8 Blinding Immolation
+	8 Formless Scape
+	8 Keeper's Peninsula
+	8 Dusk Vantage
+	8 Lost Settlement
+	8 Cliffrest Tributary
+	8 Village Steeples
+	8 Secluded Avenue
+	8 Cataract Valley
+	8 Outlands Hamlet
+	8 Bronzeglade Peaks
+	8 Lakewatch Ruins
+	8 Forge in Anguish
+[common | masterpiece(1)]
 	8 Volunteer Firewatch
 	8 Startouched Reverend
 	8 Mire Pathforger
