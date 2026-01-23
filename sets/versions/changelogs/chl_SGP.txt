@@ -1,4 +1,143 @@
-﻿VERSION 60 CHANGELOG
+﻿VERSION 61 CHANGELOG
+====================
+
+
+
+Personal Wingsuit
+rules_text: When this artifact enters, draw a card.
+Equipped creature gets +1/+1 and has flying.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i] => When this Equipment enters, draw a card.
+Equipped creature gets +1/+1 and has flying.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Public Exhibition
+cost: {U} => {1}{U}
+
+Iron Triumphant
+pt: 5/4 => 4/4
+
+Jettison
+rules_text: Choose one —
+• You may sacrifice target creature. If you do, it deals damage equal to its power to any target.
+• Destroy target artifact. => Choose one —
+• Target creature you control deals damage equal to its power to any target. Then sacrifice it.
+• Destroy target artifact.
+
+Cutting-Edge Munitions
+cost: {1}{R} => {2}{R}
+rules_text: When this artifact enters or leaves the battlefield, exile the top card of your library. You may play it until the end of your next turn.
+{2}{R}, Sacrifice this artifact or discard this card: It deals 4 damage to target creature. Activate only as a sorcery. => When this artifact enters, it deals 4 damage to any target.
+{1}{R}, Discard a card, Sacrifice this artifact: Exile the top card of your library. You may play it this turn.
+
+Old Ones Envoy
+rules_text: This spell costs {1} less to cast for each colorless nonland permanent you control. => This spell costs {1} less to cast for each colorless nonland permanent you control, to a maximum of {3}.
+
+Voidwing Kite
+rules_text: Flying
+At the beginning of your draw step, you may draw an additional card. If you do, you discard a card and lose 1 life. => Flying
+At the beginning of your draw step, draw a card, then discard a card. You lose 1 life.
+
+Malformed Initiate
+rules_text: At the beginning of your upkeep, you may discard a card. If you do, put a +1/+1 counter on this creature and it gains menace until end of turn.
+When this creature dies, it deals damage equal to its power to any target. => At the beginning of your upkeep, you may {BR} and discard a card. If you do, put a +1/+1 counter on this creature and it gains menace until end of turn.
+When this creature dies, it deals damage equal to its power to any target.
+
+In Strength Entwined
+rules_text: Whenever a creature token you control enters, put a +1/+1 counter on it. => Creature tokens you control get +1/+1.
+
+Stylla, Opulence Paragon
+rules_text: Once each turn, when another creature you control enters, create a tapped Treasure token. If that creature has power 2 or less, untap that token.
+{3}, {T}: Target opponent loses 5 life and you gain 5 life. Spend only mana from Treasures to activate this ability, and activate only as a sorcery. => Once each turn, when another creature you control enters, create a tapped Treasure token. If that creature has power 2 or less, untap that token.
+pt: 3/2 => 3/3
+
+Never Seen Again
+type: Instant => Sorcery
+
+Rush of Clarity
+rules_text: Target creature you control and all creatures with the same name as that creature gain hexproof until end of turn. Untap those creatures. => Untap target creature you control. It gains hexproof until end of turn.
+
+Undercity Prole
+rules_text: Deathtouch
+Whenever a creature you control with power 2 or less attacks, it gains menace until end of turn. => Deathtouch
+Whenever a creature you control with power 2 or less attacks, it gains deathtouch until end of turn.
+
+Eternity Takes
+rules_text: As an additional cost to cast this spell, pay {2}, choose a creature you control with mana value 6 or greater, or reveal a creature card with mana value 6 or greater from your hand.
+Exile target nonland permanent. => As an additional cost to cast this spell, pay {2} or behold a creature with mana value 6 or greater. [i](Choose a creature you control with mana value 6 or greater or reveal a creature card with mana value 6 or greater from your hand.)[/i]
+Exile target nonland permanent.
+
+Vintage Fanatic
+rules_text: When this creature enters, you may return another target creature you control to its owner's hand. 
+Once each turn, when a creature you control with power 2 or less enters, you gain 1 life and draw a card. => When this creature enters, you may return another target creature you control to its owner's hand. 
+Once each turn, when a creature you control with power 2 or less enters, draw a card.
+
+Zaila's Arbiter
+rules_text: Flash
+Flying
+When you cast this spell, exile up to one target nonland permanent. While it's exiled, its owner may cast it for its mana cost plus {2}. => Flash
+Flying
+When you cast this spell, exile up to one target nonland permanent. While it's exiled, its owner may cast it for {2} rather than its mana cost.
+
+Wharf Inspector
+rules_text: Noncreature spells cost {1} more to cast.
+{3}, {T}: Fragment this creature. [i](Its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i] => Vigilance
+As this creature enters, choose a noncreature card type.
+Spells of the chosen type cost {1} more to cast.
+pt: 1/3 => 1/2
+
+Ichor Winnower
+rules_text: Devoid [i](This card has no color.)[/i]
+Haste
+Whenever you spend an odd amount of mana to cast a spell, this creature deals 1 damage to any target. This ability may target a creature only once each turn. => Devoid [i](This card has no color.)[/i]
+Haste
+Whenever you spend an odd amount of mana to cast a spell, this creature deals 1 damage to target player.
+
+Deathscorn Aspect
+pt: 5/5 => 5/4
+
+Population Boom
+rules_text: If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+{4}{G}{W}: Until end of turn, creatures you control have base power and toughness equal to the number of creatures you control. => If one or more tokens would be created under your control, twice that many of those tokens are created instead.
+{4}{G}{W}: Until end of turn, creatures you control have base power and toughness equal to the number of creatures you control.
+
+Efraim, High Alderman
+pt: 2/3 => 2/2
+
+Graven Confidant
+pt: 3/4 => 3/3
+
+Lostlands Oracle
+rules_text: Flying
+If you would create one or more tokens, draw that many cards instead. => Flying
+If you would create one or more tokens, draw that many cards instead. Do this only three times each turn.
+
+Living Apogee
+rules_text: This creature's power and toughness are each equal to 1 plus the total power of Eldrazi you control not named Living Apogee. => At the beginning of combat on your turn, you may have this creature's power and toughness become equal to the total power of Eldrazi you control not named Living Apogee until end of turn.
+pt: 1+*/1+* => 4/4
+
+Scourge of Aeons
+pt: 9/11 => 11/11
+
+West District Hangar
+rules_text: Artifact creatures you control have haste.
+When this artifact enters and at the beginning of your upkeep, create a 0/0 colorless Construct artifact creature token with “This creature gets +1/+1 for each artifact you control.” Sacrifice it at the beginning of the next end step. => When this artifact enters and at the beginning of your upkeep, create a 0/0 colorless Construct artifact creature token with “This creature gets +1/+1 for each artifact you control.” Sacrifice it at the beginning of the next end step.
+Artifact creatures you control have haste.
+
+Bloodlust Visionary
+rules_text: Menace
+Whenever you sacrifice a creature, if that creature dying causes a triggered ability of it or a permanent you control to trigger, that ability triggers an additional time.
+{B}{B}, Sacrifice another creature: You draw two cards and lose 2 life. => If sacrificing a creature you control or a creature you control dying due to being sacrificed causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+{B}{B}, Sacrifice another creature: You draw two cards and lose 2 life.
+
+Kozilek, the Bonds Unmade
+rules_text: Ward {X}, where X is the number of cards you've drawn this turn plus 2.
+Your maximum hand size is twelve.
+Whenever Kozilek attacks, if you have seven or fewer cards in your hand, draw five cards and add five {C}. Until end of turn, you don't lose this mana as steps and phases end. => Ward—Discard two cards.
+Your maximum hand size is twelve.
+Whenever Kozilek attacks, if you have seven or fewer cards in your hand, draw five cards and add five {C}. Until end of turn, you don't lose this mana as steps and phases end.
+
+
+VERSION 60 CHANGELOG
 ====================
 
 Wharf Inspector added.

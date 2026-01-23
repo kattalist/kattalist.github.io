@@ -261,7 +261,7 @@
             "number": 256,
             "color_identity": "C",
             "cost": "{3}",
-            "rules_text": "When this artifact enters, draw a card.\nEquipped creature gets +1/+1 and has flying.\nEquip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]",
+            "rules_text": "When this Equipment enters, draw a card.\nEquipped creature gets +1/+1 and has flying.\nEquip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]",
             "flavor_text": "[i]For some, the prospect of piloting a half-ton hovercar was as daunting as it was thrilling. For them, Liesa designed the [/i]Falconskin.[i][/i]",
             "pt": "",
             "special_text": "",
@@ -536,7 +536,7 @@
             "type": "Enchantment \u2014 Aura",
             "number": 90,
             "color_identity": "U",
-            "cost": "{U}",
+            "cost": "{1}{U}",
             "rules_text": "Enchant creature or artifact\nEnchanted permanent is a colorless Clue artifact with \u201c{2}, Sacrifice this artifact: Draw a card.\u201d It loses all other types and abilities.",
             "flavor_text": "[i]All who saw it thought the city's new art installation to be quite evocative.[/i]",
             "pt": "",
@@ -546,7 +546,7 @@
             "loyalty": "",
             "artist": "Lukasz Dudasz",
             "alias": "",
-            "notes": "9 Aug 2025: Modified to hit artifacts, so now vehicles can get hit if they aren't creatures\n\nMAY 2026:\n18 Jan 2026: Reduced cost from 1U to U"
+            "notes": "9 Aug 2025: Modified to hit artifacts, so now vehicles can get hit if they aren't creatures\n\nMAY 2026:\n18 Jan 2026: Reduced cost from 1U to U\n23 Jan 2026: Increased cost back to 1U"
         },
         {
             "card_name": "Writheform",
@@ -995,14 +995,14 @@
             "cost": "{4}{R}",
             "rules_text": "This spell costs {2} less to cast if you control two or more artifacts.",
             "flavor_text": "[i]\u201cShow your thanks, citizen. The Golden Guard works tirelessly to defend you.\u201d[/i]",
-            "pt": "5/4",
+            "pt": "4/4",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Nicholas Maxson",
             "alias": "",
-            "notes": "15 Jul 2025: Went from 3R to 4R cost, but totally reworked effect (now reanimates artifact or Vehicle for one turn on entering)\n17 Jul 2025: Changed to tutor from library and added reach, but reduced to 3/4\n13 Aug 2025: Changed effect, removed reach, and made a vehicle\n\nChange this card effects\n\nMAY 2026:\nRework to RW Artifacts instead of RW Vehicles\n1 Jan 2026: New design for artifact aggro"
+            "notes": "15 Jul 2025: Went from 3R to 4R cost, but totally reworked effect (now reanimates artifact or Vehicle for one turn on entering)\n17 Jul 2025: Changed to tutor from library and added reach, but reduced to 3/4\n13 Aug 2025: Changed effect, removed reach, and made a vehicle\n\nChange this card effects\n\nMAY 2026:\nRework to RW Artifacts instead of RW Vehicles\n1 Jan 2026: New design for artifact aggro\n\nPRE-FT9:\n23 Jan 2026: Reduced from 5/4 to 3"
         },
         {
             "card_name": "Mantle Breacher",
@@ -1098,7 +1098,7 @@
             "number": 151,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Choose one \u2014\n\u2022 You may sacrifice target creature. If you do, it deals damage equal to its power to any target.\n\u2022 Destroy target artifact.",
+            "rules_text": "Choose one \u2014\n\u2022 Target creature you control deals damage equal to its power to any target. Then sacrifice it.\n\u2022 Destroy target artifact.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1107,7 +1107,7 @@
             "loyalty": "",
             "artist": "Patrick Jensen",
             "alias": "",
-            "notes": "15 Jul 2025: Switched to modal\n\nMAY 2026:\nRework to RW Artifacts instead of RW Vehicles\n26 Dec 2025: Switched first mode to fling instead of combat trick\n30 Dec 2025: Made an instant"
+            "notes": "15 Jul 2025: Switched to modal\n\nMAY 2026:\nRework to RW Artifacts instead of RW Vehicles\n26 Dec 2025: Switched first mode to fling instead of combat trick\n30 Dec 2025: Made an instant\n\nPRE-FT9:\n23 Jan 2026: Wording fix"
         },
         {
             "card_name": "Cutting-Edge Munitions",
@@ -1116,8 +1116,8 @@
             "type": "Artifact",
             "number": 141,
             "color_identity": "R",
-            "cost": "{1}{R}",
-            "rules_text": "When this artifact enters or leaves the battlefield, exile the top card of your library. You may play it until the end of your next turn.\n{2}{R}, Sacrifice this artifact or discard this card: It deals 4 damage to target creature. Activate only as a sorcery.",
+            "cost": "{2}{R}",
+            "rules_text": "When this artifact enters, it deals 4 damage to any target.\n{1}{R}, Discard a card, Sacrifice this artifact: Exile the top card of your library. You may play it this turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1126,7 +1126,7 @@
             "loyalty": "",
             "artist": "Eeshan Vaidya",
             "alias": "",
-            "notes": "15 Jul 2025: Switched to 6 dmg burn ability and crew 2 from crew 3, also switched cost from 2RR to 3R\n\n17 Jul 2025: Reduced cost for ability from 2R to 1R\n\n12 Aug 2025: Gave flying\n\nMAY 2026:\n- Too dangerous for limited\nRework to RW Artifacts instead of RW Vehicles\n30 Dec 2025: Filled slot with removal artifact"
+            "notes": "15 Jul 2025: Switched to 6 dmg burn ability and crew 2 from crew 3, also switched cost from 2RR to 3R\n\n17 Jul 2025: Reduced cost for ability from 2R to 1R\n\n12 Aug 2025: Gave flying\n\nMAY 2026:\n- Too dangerous for limited\nRework to RW Artifacts instead of RW Vehicles\n30 Dec 2025: Filled slot with removal artifact\n\nPRE-FT9:\n23 Jan 2026: Reversed effects"
         },
         {
             "card_name": "Willbreaker Lance",
@@ -1469,7 +1469,7 @@
             "number": 17,
             "color_identity": "C",
             "cost": "{7}",
-            "rules_text": "This spell costs {1} less to cast for each colorless nonland permanent you control.",
+            "rules_text": "This spell costs {1} less to cast for each colorless nonland permanent you control, to a maximum of {3}.",
             "flavor_text": "[i]\u201cThey are indebted to them, or perhaps carved from the same flesh. Their identity is beyond what we could possibly divine...\u201d\n\u2014 Excerpt from Lantha's journal[/i]",
             "pt": "5/5",
             "special_text": "",
@@ -1478,7 +1478,7 @@
             "loyalty": "",
             "artist": "Peter Morbacher",
             "alias": "",
-            "notes": ""
+            "notes": "PRE-FT9:\n23 Jan 2026: Capped cost reduction at {4}"
         },
         {
             "card_name": "Rend",
@@ -1897,7 +1897,7 @@
             "number": 245,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
-            "rules_text": "Flying\nAt the beginning of your draw step, you may draw an additional card. If you do, you discard a card and lose 1 life.",
+            "rules_text": "Flying\nAt the beginning of your draw step, draw a card, then discard a card. You lose 1 life.",
             "flavor_text": "[i]Its feathers are starless midnight. Its gaze is something darker.[/i]",
             "pt": "3/4",
             "special_text": "",
@@ -1906,7 +1906,7 @@
             "loyalty": "",
             "artist": "Maxime Chiasson",
             "alias": "",
-            "notes": "19 Jul 2025: Raised cost from 1 life to 2 life for loot\n28 Aug 2025: Reduced life cost from 2 life to 1\nNEEDS FT"
+            "notes": "19 Jul 2025: Raised cost from 1 life to 2 life for loot\n28 Aug 2025: Reduced life cost from 2 life to 1\nNEEDS FT\n\nPRE-FT9:\n23 Jan 2026: Reworded"
         },
         {
             "card_name": "Malformed Initiate",
@@ -1916,7 +1916,7 @@
             "number": 226,
             "color_identity": "BR",
             "cost": "{B}{R}",
-            "rules_text": "At the beginning of your upkeep, you may discard a card. If you do, put a +1/+1 counter on this creature and it gains menace until end of turn.\nWhen this creature dies, it deals damage equal to its power to any target.",
+            "rules_text": "At the beginning of your upkeep, you may {BR} and discard a card. If you do, put a +1/+1 counter on this creature and it gains menace until end of turn.\nWhen this creature dies, it deals damage equal to its power to any target.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -1925,7 +1925,7 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
             "alias": "",
-            "notes": "4 Aug 2025: Removed removal ability and switched to pump attack trigger\n\nMAY 2026:\n- Bit clunky next to Obsessive Ritualist\n21 Dec 2025: Moved trigger to beginning of upkeep\n18 Jan 2026: No longer a mana cost"
+            "notes": "4 Aug 2025: Removed removal ability and switched to pump attack trigger\n\nMAY 2026:\n- Bit clunky next to Obsessive Ritualist\n21 Dec 2025: Moved trigger to beginning of upkeep\n18 Jan 2026: No longer a mana cost\n\nPRE-FT9:\n23 Jan 2026: Reintroduced mana cost"
         },
         {
             "card_name": "Voice of the Roaring Wind",
@@ -1954,7 +1954,7 @@
             "number": 218,
             "color_identity": "WG",
             "cost": "{G}{W}",
-            "rules_text": "Whenever a creature token you control enters, put a +1/+1 counter on it.",
+            "rules_text": "Creature tokens you control get +1/+1.",
             "flavor_text": "[i]\u201cDedicated to Gareth and Wilhemina, who brought out the best in each other.\u201d\n\u2014Tideview Park bench inscription[/i]",
             "pt": "",
             "special_text": "",
@@ -1963,7 +1963,7 @@
             "loyalty": "",
             "artist": "Jason Scheier",
             "alias": "",
-            "notes": "1 Aug 2025: Nerfed lifegain from 3 to 2\n8 Aug 2025: Raised mana value from 2 to 3 (now 1GW)\n23 Aug 2025: No more lifegain, now down to 2 mana"
+            "notes": "1 Aug 2025: Nerfed lifegain from 3 to 2\n8 Aug 2025: Raised mana value from 2 to 3 (now 1GW)\n23 Aug 2025: No more lifegain, now down to 2 mana\n\nMAY 2026:\n23 Jan 2026 \u2014 Switched to proper anthem"
         },
         {
             "card_name": "Karsten, the Spinner",
@@ -2182,16 +2182,16 @@
             "number": 243,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "Once each turn, when another creature you control enters, create a tapped Treasure token. If that creature has power 2 or less, untap that token.\n{3}, {T}: Target opponent loses 5 life and you gain 5 life. Spend only mana from Treasures to activate this ability, and activate only as a sorcery.",
+            "rules_text": "Once each turn, when another creature you control enters, create a tapped Treasure token. If that creature has power 2 or less, untap that token.",
             "flavor_text": "[i]\u201cSomeday you may be as fortunate as I.\u201d[/i]",
-            "pt": "3/2",
+            "pt": "3/3",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Tim Razumovsky",
             "alias": "",
-            "notes": "move to rare methinks\n\n6 Aug 2025: Changed ability cost from (W/B)(W/B)(W/B) to WWBB\n31 Aug 2025: Dropped to 1WB as a 3/2\n\nShould this be constructed viable? Maybe, in some kind of mardu drain/burn thing\n\nDoes this seem constructed viable? Maybe, but might be a bit too slow\n\n7 Sep 2025: Only triggers once per turn now, but Treasure enters untapped, and effect reduced to 5 life swing from 3 mana\n\nMAY 2026:\n- Redesign to work with flicker and fragment"
+            "notes": "move to rare methinks\n\n6 Aug 2025: Changed ability cost from (W/B)(W/B)(W/B) to WWBB\n31 Aug 2025: Dropped to 1WB as a 3/2\n\nShould this be constructed viable? Maybe, in some kind of mardu drain/burn thing\n\nDoes this seem constructed viable? Maybe, but might be a bit too slow\n\n7 Sep 2025: Only triggers once per turn now, but Treasure enters untapped, and effect reduced to 5 life swing from 3 mana\n\nMAY 2026:\n- Redesign to work with flicker and fragment\n\nPRE-FT9:\n23 Jan 2026: Removed drain thing"
         },
         {
             "card_name": "Frontline Cavalier",
@@ -2254,7 +2254,7 @@
             "card_name": "Never Seen Again",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Instant",
+            "type": "Sorcery",
             "number": 47,
             "color_identity": "W",
             "cost": "{W}",
@@ -2267,7 +2267,7 @@
             "loyalty": "",
             "artist": "Lilla Horvath",
             "alias": "",
-            "notes": "This is a tough one, because afaik REV has never had 1-mana unconditional exile (Let Them Eat Cake was close, but only 3 mana value or less)\n\nClosest comparison is Consipicuous Homicide; this exiles and gives a second Clue, but is also instant speed\n\nMAY 2026:\n\n- Cut to 1 scion\n14 Dec 2025: Cut to one Scion"
+            "notes": "This is a tough one, because afaik REV has never had 1-mana unconditional exile (Let Them Eat Cake was close, but only 3 mana value or less)\n\nClosest comparison is Consipicuous Homicide; this exiles and gives a second Clue, but is also instant speed\n\nMAY 2026:\n\n- Cut to 1 scion\n14 Dec 2025: Cut to one Scion\n\nPRE-FT9:\n23 Jan 2026: Made sorcery"
         },
         {
             "card_name": "Induced Catatonia",
@@ -2496,7 +2496,7 @@
             "number": 92,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Target creature you control and all creatures with the same name as that creature gain hexproof until end of turn. Untap those creatures.",
+            "rules_text": "Untap target creature you control. It gains hexproof until end of turn.",
             "flavor_text": "[i]In his final scrawlings before disappearing forever, Detective Stelver left behind the key to understanding the incursions.[/i]",
             "pt": "",
             "special_text": "",
@@ -2895,7 +2895,7 @@
             "number": 132,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Deathtouch\nWhenever a creature you control with power 2 or less attacks, it gains menace until end of turn.",
+            "rules_text": "Deathtouch\nWhenever a creature you control with power 2 or less attacks, it gains deathtouch until end of turn.",
             "flavor_text": "[i]\u201cYa kick us onto the streets, empty our pockets, and still try to tell us what we should be doin'? That don't fly \u2018round here.\u201d[/i]",
             "pt": "1/2",
             "special_text": "",
@@ -2904,7 +2904,7 @@
             "loyalty": "",
             "artist": "Kael Ngu",
             "alias": "",
-            "notes": "23 Aug 2025: Dropped lifelink\n\nMAY 2026:\nRework to WB Flicker instead of WB Extort\n20 Dec 2025: Redesigned slot into \"power 2 or less\" support\n17 Jan 2026: Fixed wording to work within the rules"
+            "notes": "23 Aug 2025: Dropped lifelink\n\nMAY 2026:\nRework to WB Flicker instead of WB Extort\n20 Dec 2025: Redesigned slot into \"power 2 or less\" support\n17 Jan 2026: Fixed wording to work within the rules\n\nPRE-FT9:\n23 Jan 2026: Gives deathtouch instead of menace"
         },
         {
             "card_name": "Festering Eyemass",
@@ -3495,7 +3495,7 @@
             "number": 10,
             "color_identity": "C",
             "cost": "{1}{C}",
-            "rules_text": "As an additional cost to cast this spell, pay {2}, choose a creature you control with mana value 6 or greater, or reveal a creature card with mana value 6 or greater from your hand.\nExile target nonland permanent.",
+            "rules_text": "As an additional cost to cast this spell, pay {2} or behold a creature with mana value 6 or greater. [i](Choose a creature you control with mana value 6 or greater or reveal a creature card with mana value 6 or greater from your hand.)[/i]\nExile target nonland permanent.",
             "flavor_text": "[i]Silence, prayer, escape \u2014 all futile.[/i]",
             "pt": "",
             "special_text": "",
@@ -3504,7 +3504,7 @@
             "loyalty": "",
             "artist": "Diana Franco",
             "alias": "",
-            "notes": "MAY 2026:\n- Mixed opinions, maybe too dangerous"
+            "notes": "MAY 2026:\n- Mixed opinions, maybe too dangerous\n\nPRE-FT9:\n23 Jan 2026: Changed to behold wording"
         },
         {
             "card_name": "Moonstone Splinter",
@@ -3609,7 +3609,7 @@
             "number": 59,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "When this creature enters, you may return another target creature you control to its owner's hand. \nOnce each turn, when a creature you control with power 2 or less enters, you gain 1 life and draw a card.",
+            "rules_text": "When this creature enters, you may return another target creature you control to its owner's hand. \nOnce each turn, when a creature you control with power 2 or less enters, draw a card.",
             "flavor_text": "[i]\u201cYou've got it wrong with \u2018newest this, newest that.' People [/i]love[i] the classics.\u201d[/i]",
             "pt": "4/3",
             "special_text": "",
@@ -3618,7 +3618,7 @@
             "loyalty": "",
             "artist": "Asce",
             "alias": "",
-            "notes": "9 Aug 2025: Switched to bounce + extort enabler\n\nMAY 2026:\n- Feels weird\nRework to WB Flicker instead of WB Extort"
+            "notes": "9 Aug 2025: Switched to bounce + extort enabler\n\nMAY 2026:\n- Feels weird\nRework to WB Flicker instead of WB Extort\n23 Jan 2026: Removed lifegain"
         },
         {
             "card_name": "Ulamog, the Earth Engulfed",
@@ -3723,7 +3723,7 @@
             "number": 30,
             "color_identity": "W",
             "cost": "{2}{C}",
-            "rules_text": "Flash\nFlying\nWhen you cast this spell, exile up to one target nonland permanent. While it's exiled, its owner may cast it for its mana cost plus {2}.",
+            "rules_text": "Flash\nFlying\nWhen you cast this spell, exile up to one target nonland permanent. While it's exiled, its owner may cast it for {2} rather than its mana cost.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3742,7 +3742,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "18 Aug 2025: Bumped from 2/2 to 3/2\n19 Aug 2025: Completely changed card to blinker/removal effect\n30 Aug 2025: Now only blinks (no banish)\n\nShould this be constructed viable? Yes, in flicker decks\n\n25 Sep 2025: Target \u2014> up to one other target (thx Chip)\n\nMAY 2026:\n\n- Jack up power level quite a bit\n14 Dec 2025: Reduced from 3W to 2W (REVISIT)\n- Rework to WB Flicker instead of WB Extort (kind of there already but juice up)"
+            "notes": "18 Aug 2025: Bumped from 2/2 to 3/2\n19 Aug 2025: Completely changed card to blinker/removal effect\n30 Aug 2025: Now only blinks (no banish)\n\nShould this be constructed viable? Yes, in flicker decks\n\n25 Sep 2025: Target \u2014> up to one other target (thx Chip)\n\nMAY 2026:\n\n- Jack up power level quite a bit\n14 Dec 2025: Reduced from 3W to 2W (REVISIT)\n- Rework to WB Flicker instead of WB Extort (kind of there already but juice up)\n\nPRE-FT9:\n23 Jan 2026: Can cast from exile for {2} instead of mana value + 2"
         },
         {
             "card_name": "High Sergeant Liano",
@@ -3828,16 +3828,16 @@
             "number": 62,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Noncreature spells cost {1} more to cast.\n{3}, {T}: Fragment this creature. [i](Its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]",
+            "rules_text": "Vigilance\nAs this creature enters, choose a noncreature card type.\nSpells of the chosen type cost {1} more to cast.",
             "flavor_text": "[i][/i]",
-            "pt": "1/3",
+            "pt": "1/2",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Adam Lane",
             "alias": "",
-            "notes": "16 Aug 2025: Reduced 5/10 to 3/6\n18 Aug 2025: Totally changed to token producer\n24 Aug 2025: Reduced token production from 3 to 2\n\nShould this be constructed viable? Yes, as a sideboard card\n\nMAY 2026\n\n- Make 1W (or maybe switch to \"nonland permanents\")\n14 Dec 2025: Switched to 1W from WW\n22 Jan 2026: Switching to Thalia effect"
+            "notes": "16 Aug 2025: Reduced 5/10 to 3/6\n18 Aug 2025: Totally changed to token producer\n24 Aug 2025: Reduced token production from 3 to 2\n\nShould this be constructed viable? Yes, as a sideboard card\n\nMAY 2026\n\n- Make 1W (or maybe switch to \"nonland permanents\")\n14 Dec 2025: Switched to 1W from WW\n22 Jan 2026: Switching to Thalia effect\n\nPRE-FT9:\n23 Jan 2026: Removed fragment; now, Thalia effect only hits one card type"
         },
         {
             "card_name": "Devonia, Lost Ministrix",
@@ -4095,7 +4095,7 @@
             "number": 147,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Devoid [i](This card has no color.)[/i]\nHaste\nWhenever you spend an odd amount of mana to cast a spell, this creature deals 1 damage to any target. This ability may target a creature only once each turn.",
+            "rules_text": "Devoid [i](This card has no color.)[/i]\nHaste\nWhenever you spend an odd amount of mana to cast a spell, this creature deals 1 damage to target player.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -4202,14 +4202,14 @@
             "cost": "{2}{R}{R}",
             "rules_text": "Trample, haste\nWhen this creature enters, you may discard a card. If you do, draw a card.\nAt the beginning of your end step, sacrifice this creature unless the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "5/5",
+            "pt": "5/4",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Wesley Gardner",
             "alias": "",
-            "notes": "Should this be constructed viable? Probably not\n\nMAY 2026:\n- Front half is quite bad\n27 Dec 2025: Totally switched slot to Regisaur-alike\n19 Jan 2026: Buffed to 4-mana 5/5"
+            "notes": "Should this be constructed viable? Probably not\n\nMAY 2026:\n- Front half is quite bad\n27 Dec 2025: Totally switched slot to Regisaur-alike\n19 Jan 2026: Buffed to 4-mana 5/5\n\nPRE-FT9\n23 Jan 2026: Reduced to 5/4"
         },
         {
             "card_name": "Gene Recombinators",
@@ -4372,7 +4372,7 @@
             "number": 230,
             "color_identity": "WG",
             "cost": "{2}{G}{W}",
-            "rules_text": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.\n{4}{G}{W}: Until end of turn, creatures you control have base power and toughness equal to the number of creatures you control.",
+            "rules_text": "If one or more tokens would be created under your control, twice that many of those tokens are created instead.\n{4}{G}{W}: Until end of turn, creatures you control have base power and toughness equal to the number of creatures you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4381,7 +4381,7 @@
             "loyalty": "",
             "artist": "Pete Amarchee",
             "alias": "",
-            "notes": "Should this be constructed viable? Maybe?? Not this design but this slot feels like it should be playable\n\nDoes this seem constructed viable? No, too slow right now\n\nMAY 2026:\n- Maybe can be lowered to 4\n14 Dec 2025: Now costs 2GW from 3GW"
+            "notes": "Should this be constructed viable? Maybe?? Not this design but this slot feels like it should be playable\n\nDoes this seem constructed viable? No, too slow right now\n\nMAY 2026:\n- Maybe can be lowered to 4\n14 Dec 2025: Now costs 2GW from 3GW\n\nPRE-FT9:\n23 Jan 2026: Reworded"
         },
         {
             "card_name": "Olmin, Royal Liaison",
@@ -4469,14 +4469,14 @@
             "cost": "{W}{B}",
             "rules_text": "Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]\nAt the beginning of your end step, if you gained 3 or more life this turn, return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter and an extort counter on it.",
             "flavor_text": "[i][/i]",
-            "pt": "2/3",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Rene Aigner",
             "alias": "",
-            "notes": "MAY 2026:\nthis design was really well liked\n20 Dec 2025: Switched extort to lifelink, and made a 2/3\n21 Jan 2026: Extort cameo, just so the design can stay exactly the same"
+            "notes": "MAY 2026:\nthis design was really well liked\n20 Dec 2025: Switched extort to lifelink, and made a 2/3\n21 Jan 2026: Extort cameo, just so the design can stay exactly the same\n\nPRE-FT9:\n23 Jan 2026: Dropped from 2/3 back to 2/2"
         },
         {
             "card_name": "Essence Ripper",
@@ -4583,14 +4583,14 @@
             "cost": "{1}{B}{B}",
             "rules_text": "Lifelink\nAt the beginning of your upkeep, mill a card, then you may pay life equal to its mana value. If you do, put it into your hand.",
             "flavor_text": "[i]\u201cSome of our brightest minds have stood in Zaila's opposition. She had each lain below the palace garden.\u201d[/i]",
-            "pt": "3/4",
+            "pt": "3/3",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Laura Sava",
             "alias": "",
-            "notes": "6 Aug 2025: Raised from 2/1 to 2/2\n\nMAY 2026:\nSauce more maybe\n14 Dec 2025: Upped from 2/2 to 3/3\n5 Jan 2026: Upped from 3/3 to 3/4 and added lifelink"
+            "notes": "6 Aug 2025: Raised from 2/1 to 2/2\n\nMAY 2026:\nSauce more maybe\n14 Dec 2025: Upped from 2/2 to 3/3\n5 Jan 2026: Upped from 3/3 to 3/4 and added lifelink\n\nPRE-FT9:\n23 Jan 2026: Dropped back to 3/3"
         },
         {
             "card_name": "Lostlands Oracle",
@@ -4600,7 +4600,7 @@
             "number": 87,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
-            "rules_text": "Flying\nIf you would create one or more tokens, draw that many cards instead.",
+            "rules_text": "Flying\nIf you would create one or more tokens, draw that many cards instead. Do this only three times each turn.",
             "flavor_text": "[i]\u201cAnd Kavalesk sought a mystic far beyond the western sea, and there discovered the secrets of the universe...\u201d\n\u2014 Recovered Brethren scripture[/i]",
             "pt": "3/5",
             "special_text": "",
@@ -4609,7 +4609,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": "MAY 2026:\n\n- Give flying and make body better\n14 Dec 2025: Now has flying, and also big body improvement (3/5 from 2/2)"
+            "notes": "MAY 2026:\n\n- Give flying and make body better\n14 Dec 2025: Now has flying, and also big body improvement (3/5 from 2/2)\n\nPRE-FT9:\n23 Jan 2026: Now only triggers 3x per turn"
         },
         {
             "card_name": "Mystic Gate",
@@ -4885,9 +4885,9 @@
             "number": 15,
             "color_identity": "C",
             "cost": "{3}{C}{C}",
-            "rules_text": "This creature's power and toughness are each equal to 1 plus the total power of Eldrazi you control not named Living Apogee.",
+            "rules_text": "At the beginning of combat on your turn, you may have this creature's power and toughness become equal to the total power of Eldrazi you control not named Living Apogee until end of turn.",
             "flavor_text": "[i][/i]",
-            "pt": "1+*/1+*",
+            "pt": "4/4",
             "special_text": "",
             "shape": "adventure",
             "set": "SGP",
@@ -4904,7 +4904,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "14 Aug 2025: Removed double strike (weird when first strike is also there)\n\nShould this be constructed viable? Probably not, since it's just a french vanilla\n\nMAY 2026:\n- Not that interesting in practice, since you just pick indestructible every time\n19 Dec 2025: Replaced with Living Apogee\n6 Jan 2026: Moved from 4 to 5, and moved Mythos from 5 to 6"
+            "notes": "14 Aug 2025: Removed double strike (weird when first strike is also there)\n\nShould this be constructed viable? Probably not, since it's just a french vanilla\n\nMAY 2026:\n- Not that interesting in practice, since you just pick indestructible every time\n19 Dec 2025: Replaced with Living Apogee\n6 Jan 2026: Moved from 4 to 5, and moved Mythos from 5 to 6\n\nPRE-FT9:\n23 Jan 2026: Reworded"
         },
         {
             "card_name": "Children of the Heralds",
@@ -4954,14 +4954,14 @@
             "cost": "{11}",
             "rules_text": "Flying, trample\nThis creature enters with three doom counters on it.\nAt the beginning of your upkeep, remove a doom counter from this creature. If you do, destroy all other nonland permanents with mana value greater than or equal to the number of doom counters on it.",
             "flavor_text": "[i][/i]",
-            "pt": "9/11",
+            "pt": "11/11",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
-            "notes": "8 lines\n\nShould this be constructed viable? No, very expensive and also annoying to deal with\n\nMAY 2026:\n- Maybe don't hit lands\n14 Dec 2025: Changed to no longer hit lands"
+            "notes": "8 lines\n\nShould this be constructed viable? No, very expensive and also annoying to deal with\n\nMAY 2026:\n- Maybe don't hit lands\n14 Dec 2025: Changed to no longer hit lands\n\nPRE-FT9:\n23 Jan 2026: Switched to 11/11"
         },
         {
             "card_name": "West District Hangar",
@@ -4971,7 +4971,7 @@
             "number": 164,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Artifact creatures you control have haste.\nWhen this artifact enters and at the beginning of your upkeep, create a 0/0 colorless Construct artifact creature token with \u201cThis creature gets +1/+1 for each artifact you control.\u201d Sacrifice it at the beginning of the next end step.",
+            "rules_text": "When this artifact enters and at the beginning of your upkeep, create a 0/0 colorless Construct artifact creature token with \u201cThis creature gets +1/+1 for each artifact you control.\u201d Sacrifice it at the beginning of the next end step.\nArtifact creatures you control have haste.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4980,7 +4980,7 @@
             "loyalty": "",
             "artist": "Ede Laszlo",
             "alias": "",
-            "notes": "Should this be constructed viable? If Vehicles are viable, then yes\n\nDoes this seem constructed viable? Probably not, since Vehicles are generally slow and this is a bit win-more\n\nMAY 2026:\nRework to RW Artifacts instead of RW Vehicles\n26 Dec 2025: Gave overall menace ability instead of crew thing\n5 Jan 2026: Replaced effect with temporary karnstruct\n9 Jan 2026: No longer legendary and no longer gives ward\n18 Jan 2026: Now also gives Construct on enters"
+            "notes": "Should this be constructed viable? If Vehicles are viable, then yes\n\nDoes this seem constructed viable? Probably not, since Vehicles are generally slow and this is a bit win-more\n\nMAY 2026:\nRework to RW Artifacts instead of RW Vehicles\n26 Dec 2025: Gave overall menace ability instead of crew thing\n5 Jan 2026: Replaced effect with temporary karnstruct\n9 Jan 2026: No longer legendary and no longer gives ward\n18 Jan 2026: Now also gives Construct on enters\n\nPRE-FT9:\n23 Jan 2026: Templating fix"
         },
         {
             "card_name": "Eldrazi Monolith",
@@ -5180,7 +5180,7 @@
             "number": 101,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "Menace\nWhenever you sacrifice a creature, if that creature dying causes a triggered ability of it or a permanent you control to trigger, that ability triggers an additional time.\n{B}{B}, Sacrifice another creature: You draw two cards and lose 2 life.",
+            "rules_text": "If sacrificing a creature you control or a creature you control dying due to being sacrificed causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.\n{B}{B}, Sacrifice another creature: You draw two cards and lose 2 life.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -5189,7 +5189,7 @@
             "loyalty": "",
             "artist": "Imad Awan",
             "alias": "",
-            "notes": "28 Aug 2025: Reduced life payment from 3 to 2\n21 Sep 2025: Reduced ability cost from 1B to B\n\nFT Week 1 change: moved up to 4 mana value, made a 4/3, switched to only copy your things, and beefed up ability to cost BB but draw 2 / lose 2\n\nMAY 2026:\n24 Dec 2025: Made a wording change to retrigger the sacrificed creature's abilities"
+            "notes": "28 Aug 2025: Reduced life payment from 3 to 2\n21 Sep 2025: Reduced ability cost from 1B to B\n\nFT Week 1 change: moved up to 4 mana value, made a 4/3, switched to only copy your things, and beefed up ability to cost BB but draw 2 / lose 2\n\nMAY 2026:\n24 Dec 2025: Made a wording change to retrigger the sacrificed creature's abilities\n\nPRE-FT9:\n23 Jan 2026: Reworded and removed menace"
         },
         {
             "card_name": "A World Worth Fighting For",
@@ -5275,7 +5275,7 @@
             "number": 14,
             "color_identity": "C",
             "cost": "{12}",
-            "rules_text": "Ward {X}, where X is the number of cards you've drawn this turn plus 2.\nYour maximum hand size is twelve.\nWhenever Kozilek attacks, if you have seven or fewer cards in your hand, draw five cards and add five {C}. Until end of turn, you don't lose this mana as steps and phases end.",
+            "rules_text": "Ward\u2014Discard two cards.\nYour maximum hand size is twelve.\nWhenever Kozilek attacks, if you have seven or fewer cards in your hand, draw five cards and add five {C}. Until end of turn, you don't lose this mana as steps and phases end.",
             "flavor_text": "[i][/i]",
             "pt": "12/12",
             "special_text": "",
@@ -6123,5 +6123,5 @@
             "notes": ""
         }
     ],
-    "version": 60
+    "version": 61
 }

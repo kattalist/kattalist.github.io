@@ -273,7 +273,7 @@
 		{
 			"name": "Public Exhibition",
 			"rarity": "common",
-			"mana_cost": "{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "90",
 			"image_uris": {
@@ -573,7 +573,7 @@
 		{
 			"name": "Cutting-Edge Munitions",
 			"rarity": "common",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Artifact",
 			"collector_number": "141",
 			"image_uris": {
@@ -1164,7 +1164,7 @@
 			"name": "Never Seen Again",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "47",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/47_Never Seen Again.png"
