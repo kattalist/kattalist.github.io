@@ -9,7 +9,7 @@
     },
     {
         "card_name": "Lightwire Swarm",
-        "number": 86,
+        "number": 85,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -49,7 +49,7 @@
     },
     {
         "card_name": "Lostlands Oracle",
-        "number": 87,
+        "number": 86,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -129,7 +129,7 @@
     },
     {
         "card_name": "Friede, Weave Dancer",
-        "number": 79,
+        "number": 78,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -169,7 +169,7 @@
     },
     {
         "card_name": "Jaded Coroners",
-        "number": 85,
+        "number": 84,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -408,7 +408,7 @@
         "position": ""
     },
     {
-        "card_name": "Ego Death",
+        "card_name": "Ego Devourer",
         "number": 75,
         "shape": "normal",
         "set": "SGP",
@@ -448,8 +448,8 @@
         "position": ""
     },
     {
-        "card_name": "Ego Devourer",
-        "number": 76,
+        "card_name": "Fade",
+        "number": 77,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -488,8 +488,8 @@
         "position": ""
     },
     {
-        "card_name": "Fade",
-        "number": 78,
+        "card_name": "In the Nick of Time",
+        "number": 81,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -528,8 +528,8 @@
         "position": ""
     },
     {
-        "card_name": "In the Nick of Time",
-        "number": 82,
+        "card_name": "Inspired Retrofitter",
+        "number": 83,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -568,8 +568,8 @@
         "position": ""
     },
     {
-        "card_name": "Inspired Retrofitter",
-        "number": 84,
+        "card_name": "Pore Over",
+        "number": 88,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1009,7 +1009,7 @@
     },
     {
         "card_name": "Eldritch Rebuttal",
-        "number": 77,
+        "number": 76,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1049,7 +1049,7 @@
     },
     {
         "card_name": "Frossenhold Walker",
-        "number": 80,
+        "number": 79,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1089,7 +1089,7 @@
     },
     {
         "card_name": "Gloompool Heron",
-        "number": 81,
+        "number": 80,
         "shape": "adventure",
         "set": "SGP",
         "rotated": false,
@@ -1129,7 +1129,7 @@
     },
     {
         "card_name": "Innovation Thief",
-        "number": 83,
+        "number": 82,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1169,7 +1169,7 @@
     },
     {
         "card_name": "Mastbreaker",
-        "number": 88,
+        "number": 87,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,

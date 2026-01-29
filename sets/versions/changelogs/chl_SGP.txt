@@ -1,4 +1,149 @@
-﻿VERSION 61 CHANGELOG
+﻿VERSION 63 CHANGELOG
+====================
+
+No changes.
+
+VERSION 62 CHANGELOG
+====================
+
+Pore Over added.
+
+Ego Death removed.
+
+Eldritch Rebuttal
+rules_text: Counter target spell unless its controller pays {2}. If {C} was spent to cast this spell, counter that spell unless its controller pays {4} instead. => Counter target spell unless its controller pays {2}. If {C} was spent to cast this spell, counter that spell unless its controller pays {3} instead.
+
+Inkrealm Stalker
+rules_text: When this creature enters, surveil 1.
+This creature gets +1/+0 and has flying and menace as long as the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => When this creature enters, surveil 1.
+This creature gets +1/+0 and has flying as long as the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+
+Harrowing Transformation
+rules_text: Target creature gains deathtouch until end of turn. Choose one —
+• Fragment it. [i](Its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+• It gains indestructible until end of turn. => Target creature you control gains deathtouch and indestructible until end of turn. Then you may pay {1}. If you do, fragment it. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+
+Iron Triumphant
+
+Old Ones Envoy
+rules_text: This spell costs {1} less to cast for each colorless nonland permanent you control, to a maximum of {3}. => This spell costs {1} less to cast for each colorless nonland permanent you control, to a maximum of three.
+
+Adaptive Lieutenant
+rules_text: Whenever this creature deals combat damage to a player, draw a card.
+{U} or sacrifice an artifact: Until end of turn, this creature gets -3/-0 and can't be blocked by creatures with greater power. => Whenever this creature deals combat damage to a player, draw a card.
+{2}{U} or sacrifice a Clue: This creature can't be blocked this turn.
+
+Void Empyrean
+rules_text: Flying
+When you cast this spell, return target creature you don't control to its owner's hand. Surveil 3. => Flying
+When you cast this spell, return target creature you don't control to its owner's hand, then surveil 3.
+
+Rush of Clarity
+rules_text: Untap target creature you control. It gains hexproof until end of turn. => Untap target creature. It gets +0/+3 until end of turn.
+
+Wiped Clean
+rules_text: Enchant nonland permanent
+When this Aura enters, draw a card if {C} was spent to cast it.
+Enchanted permanent loses all abilities. => Flash
+Enchant nonland permanent
+When this Aura enters, if {C} was spent to cast it, counter all activated and triggered abilities of enchanted permanent.
+Enchanted permanent loses all abilities.
+
+Forgotten Fableweaver
+rules_text: Whenever you cast or copy a noncreature spell, this creature gets +1/+0 until end of turn. Create a Treasure token. => Whenever you cast a noncreature spell, this creature gets +1/+0 until end of turn. Create a tapped Treasure token.
+
+Moonstone Splinter
+rules_text: {T}: Add {C}.
+{T}: Add one mana of any type. Spend this mana only to cast a Mythos spell. [i](The types of mana are {C}, {W}, {U}, {B}, {R}, and {G}.)[/i] => {T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a Mythos spell.
+
+Vintage Fanatic
+rules_text: When this creature enters, you may return another target creature you control to its owner's hand. 
+Once each turn, when a creature you control with power 2 or less enters, draw a card. => When this creature enters, you may return another target creature you control to its owner's hand. 
+Once each turn, when a creature you control with power 2 or less enters, you may draw a card.
+
+Ruinate
+cost: {G} => {1}{G}{G}
+rules_text: Destroy target permanent with two or more card types. => Destroy all noncreature, nonland permanents with mana value 3 or less.
+
+Wharf Inspector
+pt: 1/2 => 2/2
+
+Strike Suppressor
+rules_text: Flash
+When this creature enters, creatures get -1/-1 until end of turn.
+Whenever an opponent attacks with or creates one or more creature tokens, that player loses that much life and you gain that much life. => Flash
+When this creature enters, creatures get -1/-1 until end of turn.
+Whenever an opponent creates one or more creature tokens, that player loses that much life and you gain that much life.
+
+Emrakul's Nullscribe
+
+Curious Botanist
+rules_text: Whenever this creature enters or attacks, choose one. If it entered, choose up to two instead.
+• Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+• You may play an additional land this turn.
+• You gain 3 life. => Whenever this creature enters or attacks, choose one.
+• Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+• You may play an additional land this turn.
+• You gain 3 life.
+
+Grand Awakening
+cost: {X}{X}{R}{G} => {X}{R}{G}{G}
+rules_text: Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. Create X tokens that are copies of it, except they aren't legendary and have haste and “Sacrifice this token at the beginning of your next end step.” => Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. Create a token that's a copy of it, except it isn't legendary and has haste and “Sacrifice this creature at the beginning of the next end step.”
+
+Clanston Innovator
+cost: {U}{R} => {1}{U}{R}
+pt: 1/2 => 2/2
+
+Essence Ripper
+rules_text: When this creature enters, exile the top three cards of each player's library.
+Discard a card: Until end of turn, you may play target card exiled with this creature. You may spend mana as though it were mana of any type to cast spells this way. => When this creature enters, exile the top two cards of each player's library face down. You may look at them for as long as they remain exiled.
+Discard a card: Until end of turn, you may play target card exiled with this creature. You may spend mana as though it were mana of any type to cast spells this way.
+
+Lore Interwoven
+rules_text: When this enchantment enters, untap up to three lands.
+Creature spells you cast cost {1} less to cast for each noncreature spell you've cast this turn.
+Noncreature spells you cast cost {1} less to cast for each creature spell you've cast this turn. => When this enchantment enters, if you cast it, untap up to three lands.
+Creature spells you cast cost {1} less to cast for each noncreature spell you've cast this turn.
+Noncreature spells you cast cost {1} less to cast for each creature spell you've cast this turn.
+
+Living Apogee
+rules_text: At the beginning of combat on your turn, you may have this creature's power and toughness become equal to the total power of Eldrazi you control not named Living Apogee until end of turn. => At the beginning of combat on your turn, this creature's power and toughness becomes equal to the total power of Eldrazi you control not named Living Apogee. [i](This lasts indefinitely.)[/i]
+pt: 4/4 => 3/3
+
+Scourge of Aeons
+rules_text: Flying, trample
+This creature enters with three doom counters on it.
+At the beginning of your upkeep, remove a doom counter from this creature. If you do, destroy all other nonland permanents with mana value greater than or equal to the number of doom counters on it. => Flying, trample
+This creature enters with three doom counters on it.
+At the beginning of your end step, remove a doom counter from this creature. If you do, destroy all other nonland permanents with mana value greater than or equal to the number of doom counters on it.
+
+Kozilek, the Bonds Unmade
+rules_text: Ward—Discard two cards.
+Your maximum hand size is twelve.
+Whenever Kozilek attacks, if you have seven or fewer cards in your hand, draw five cards and add five {C}. Until end of turn, you don't lose this mana as steps and phases end. => Ward—Discard two cards.
+Your maximum hand size is twelve.
+Whenever you cast this spell or Kozilek attacks, if you have seven or fewer cards in your hand, draw five cards and add five {C}. Until end of turn, you don't lose this mana as steps and phases end.
+
+Emrakul, the Sky Sundered
+rules_text: When you cast this spell, choose beginning phase, main phase, or combat phase. Until your next turn, each opponent skips each instance of each phase not chosen this way. [i](The beginning phase includes the untap, upkeep, and draw steps. That player doesn't skip the ending phase.)[/i]
+Flying, trample, protection from mana value 4 or less => When you cast this spell, choose beginning phase, main phase, or combat phase. Until your next turn, each opponent skips each instance of each phase not chosen this way. [i](The beginning phase includes the untap, upkeep, and draw steps. That player doesn't skip the ending phase.)[/i]
+Flying, trample, protection from mana value 3 or less
+
+In Strength Entwined_Promo
+rules_text: Whenever a creature token you control enters, put a +1/+1 counter on it. => Creature tokens you control get +1/+1.
+
+Grand Awakening_Promo
+cost: {X}{X}{R}{G} => {X}{R}{G}{G}
+rules_text: Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. Create X tokens that are copies of it, except they aren't legendary and have haste and “Sacrifice this token at the beginning of your next end step.” => Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. Create a token that's a copy of it, except it isn't legendary and has haste and “Sacrifice this creature at the beginning of the next end step.”
+
+Exander, Half-Forgotten
+rules_text: Menace
+Once each turn, when the void calls, put a +1/+1 counter on Exander. Then if his power is 5 or greater, each opponent discards a card. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => Menace
+Once each turn, when the void calls, you may put a +1/+1 counter on Exander. Then if his power is 5 or greater, each opponent discards a card. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+
+
+VERSION 61 CHANGELOG
 ====================
 
 

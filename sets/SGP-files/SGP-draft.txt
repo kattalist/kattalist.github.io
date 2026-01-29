@@ -175,9 +175,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Bird",
-			"collector_number": "81",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/81_Gloompool Heron.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/80_Gloompool Heron.png"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "80",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/80_Frossenhold Walker.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/79_Frossenhold Walker.png"
 			}
 		},
 		{
@@ -225,9 +225,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{U}",
 			"type": "Creature — Kraken Horror",
-			"collector_number": "88",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/88_Mastbreaker.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/87_Mastbreaker.png"
 			}
 		},
 		{
@@ -235,9 +235,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "77",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/77_Eldritch Rebuttal.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/76_Eldritch Rebuttal.png"
 			}
 		},
 		{
@@ -245,9 +245,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "83",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/83_Innovation Thief.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/82_Innovation Thief.png"
 			}
 		},
 		{
@@ -1215,9 +1215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "84",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/84_Inspired Retrofitter.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/83_Inspired Retrofitter.png"
 			}
 		},
 		{
@@ -1235,9 +1235,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Shapeshifter Horror",
-			"collector_number": "76",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/76_Ego Devourer.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/75_Ego Devourer.png"
 			}
 		},
 		{
@@ -1265,9 +1265,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "82",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/82_In the Nick of Time.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/81_In the Nick of Time.png"
 			}
 		},
 		{
@@ -1275,9 +1275,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "78",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/78_Fade.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/77_Fade.png"
 			}
 		},
 		{
@@ -1311,13 +1311,13 @@
 			}
 		},
 		{
-			"name": "Ego Death",
+			"name": "Pore Over",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{U}",
-			"type": "Sorcery",
-			"collector_number": "75",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/75_Ego Death.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/88_Pore Over.png"
 			}
 		},
 		{
@@ -1883,7 +1883,7 @@
 		{
 			"name": "Ruinate",
 			"rarity": "rare",
-			"mana_cost": "{G}",
+			"mana_cost": "{1}{G}{G}",
 			"type": "Sorcery",
 			"collector_number": "192",
 			"image_uris": {
@@ -1985,9 +1985,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Detective",
-			"collector_number": "85",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/85_Jaded Coroners.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/84_Jaded Coroners.png"
 			}
 		},
 		{
@@ -2025,9 +2025,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Legendary Creature — Human Bard",
-			"collector_number": "79",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/79_Friede, Weave Dancer.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/78_Friede, Weave Dancer.png"
 			}
 		},
 		{
@@ -2213,7 +2213,7 @@
 		{
 			"name": "Grand Awakening",
 			"rarity": "mythic",
-			"mana_cost": "{X}{X}{R}{G}",
+			"mana_cost": "{X}{R}{G}{G}",
 			"type": "Sorcery",
 			"collector_number": "216",
 			"image_uris": {
@@ -2243,7 +2243,7 @@
 		{
 			"name": "Clanston Innovator",
 			"rarity": "rare",
-			"mana_cost": "{U}{R}",
+			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Human Artificer",
 			"collector_number": "207",
 			"image_uris": {
@@ -2345,9 +2345,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Spirit Warlock",
-			"collector_number": "87",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/87_Lostlands Oracle.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/86_Lostlands Oracle.png"
 			}
 		},
 		{
@@ -2585,9 +2585,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "86",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/86_Lightwire Swarm.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/85_Lightwire Swarm.png"
 			}
 		},
 		{
@@ -3043,7 +3043,7 @@
 		{
 			"name": "Grand Awakening_Promo",
 			"rarity": "special",
-			"mana_cost": "{X}{X}{R}{G}",
+			"mana_cost": "{X}{R}{G}{G}",
 			"type": "Sorcery",
 			"collector_number": "296",
 			"image_uris": {
@@ -3281,7 +3281,7 @@
 	4 Rush of Clarity
 	4 Ancestral Voidstone
 	4 Deepwater Whispers
-	4 Ego Death
+	4 Pore Over
 	4 Wiped Clean
 	4 Shingle Crawler
 	4 Viscera Channeler
@@ -3644,7 +3644,7 @@
 	6 Rush of Clarity
 	6 Ancestral Voidstone
 	6 Deepwater Whispers
-	6 Ego Death
+	6 Pore Over
 	6 Wiped Clean
 	12 Eavesdrop
 	6 Shingle Crawler
@@ -3925,7 +3925,7 @@
 	15 Rush of Clarity
 	15 Ancestral Voidstone
 	15 Deepwater Whispers
-	15 Ego Death
+	15 Pore Over
 	15 Wiped Clean
 	6 Eavesdrop
 	15 Shingle Crawler

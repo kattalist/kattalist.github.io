@@ -1,7 +1,7 @@
 ﻿{
     "name": "Stirrings in Goldport",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "play booster",
     "unpreviewed": "card back",
@@ -334,7 +334,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Bird",
-            "number": 81,
+            "number": 80,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Flying",
@@ -420,7 +420,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Construct",
-            "number": 80,
+            "number": 79,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
             "rules_text": "When this creature enters, target creature gets -6/-0 until this creature leaves the battlefield. If {C} was spent to cast this spell, draw a card.",
@@ -439,7 +439,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Kraken Horror",
-            "number": 88,
+            "number": 87,
             "color_identity": "U",
             "cost": "{5}{U}",
             "rules_text": "This creature can't be blocked as long as the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]",
@@ -458,10 +458,10 @@
             "color": "U",
             "rarity": "common",
             "type": "Instant",
-            "number": 77,
+            "number": 76,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Counter target spell unless its controller pays {2}. If {C} was spent to cast this spell, counter that spell unless its controller pays {4} instead.",
+            "rules_text": "Counter target spell unless its controller pays {2}. If {C} was spent to cast this spell, counter that spell unless its controller pays {3} instead.",
             "flavor_text": "[i]\u201cSteel your mind from their influence, lest something wholly unwelcome take hold.\u201d\n\u2014Task Force training dossier[/i]",
             "pt": "",
             "special_text": "",
@@ -470,14 +470,14 @@
             "loyalty": "",
             "artist": "Ryan Van Dongen",
             "alias": "",
-            "notes": "Void count 1\n\n4 Aug 2025: Reduced from 1CU to CU\nMAY 2026:\n21 Dec 2025: Removed devoid"
+            "notes": "Void count 1\n\n4 Aug 2025: Reduced from 1CU to CU\nMAY 2026:\n21 Dec 2025: Removed devoid\n\nPRE-FT9:\n23 Jan 2026: Upside is now mana leak"
         },
         {
             "card_name": "Innovation Thief",
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Human Rogue",
-            "number": 83,
+            "number": 82,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Whenever this creature attacks, the next noncreature spell you cast this turn costs {1} less to cast.",
@@ -670,7 +670,7 @@
             "number": 117,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "When this creature enters, surveil 1.\nThis creature gets +1/+0 and has flying and menace as long as the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]",
+            "rules_text": "When this creature enters, surveil 1.\nThis creature gets +1/+0 and has flying as long as the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -679,7 +679,7 @@
             "loyalty": "",
             "artist": "Hubert Hotch",
             "alias": "",
-            "notes": "16 Jul 2025: Buffed from 2/3 to 3/3\n17 Jul 2025: Added surveil on entering\n20 Jul 2025: Nerfed from 3/3 to 3/2"
+            "notes": "16 Jul 2025: Buffed from 2/3 to 3/3\n17 Jul 2025: Added surveil on entering\n20 Jul 2025: Nerfed from 3/3 to 3/2\n\nPRE-FT9:\n27 Jan 2026: Dropped menace"
         },
         {
             "card_name": "Marshwreck Gang",
@@ -784,7 +784,7 @@
             "number": 115,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Target creature gains deathtouch until end of turn. Choose one \u2014\n\u2022 Fragment it. [i](Its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]\n\u2022 It gains indestructible until end of turn.",
+            "rules_text": "Target creature you control gains deathtouch and indestructible until end of turn. Then you may pay {1}. If you do, fragment it. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -793,7 +793,7 @@
             "loyalty": "",
             "artist": "Jakub Bazyluk",
             "alias": "",
-            "notes": "17 Jul 2025: Switched combat trick to deathtouch + indestructible + exile\n11 Aug 2025: Added scion creation mode\n22 Aug 2025: No longer makes scion, but rewards being cast on a colourless creature\nVoid count 2\n\nMAY 2026:\n31 Dec 2025: Now optionally fragments instead of giving indestructible"
+            "notes": "17 Jul 2025: Switched combat trick to deathtouch + indestructible + exile\n11 Aug 2025: Added scion creation mode\n22 Aug 2025: No longer makes scion, but rewards being cast on a colourless creature\nVoid count 2\n\nMAY 2026:\n31 Dec 2025: Now optionally fragments instead of giving indestructible\n\nPRE-FT9:\n26 Jan 2026: Made fragment optional extra cost, so that it's not strictly better rend"
         },
         {
             "card_name": "Learn From Loss",
@@ -1002,7 +1002,7 @@
             "loyalty": "",
             "artist": "Nicholas Maxson",
             "alias": "",
-            "notes": "15 Jul 2025: Went from 3R to 4R cost, but totally reworked effect (now reanimates artifact or Vehicle for one turn on entering)\n17 Jul 2025: Changed to tutor from library and added reach, but reduced to 3/4\n13 Aug 2025: Changed effect, removed reach, and made a vehicle\n\nChange this card effects\n\nMAY 2026:\nRework to RW Artifacts instead of RW Vehicles\n1 Jan 2026: New design for artifact aggro\n\nPRE-FT9:\n23 Jan 2026: Reduced from 5/4 to 3"
+            "notes": "15 Jul 2025: Went from 3R to 4R cost, but totally reworked effect (now reanimates artifact or Vehicle for one turn on entering)\n17 Jul 2025: Changed to tutor from library and added reach, but reduced to 3/4\n13 Aug 2025: Changed effect, removed reach, and made a vehicle\n\nChange this card effects\n\nMAY 2026:\nRework to RW Artifacts instead of RW Vehicles\n1 Jan 2026: New design for artifact aggro\n\nPRE-FT9:\n23 Jan 2026: Reduced from 5/4 to 4/4"
         },
         {
             "card_name": "Mantle Breacher",
@@ -1469,7 +1469,7 @@
             "number": 17,
             "color_identity": "C",
             "cost": "{7}",
-            "rules_text": "This spell costs {1} less to cast for each colorless nonland permanent you control, to a maximum of {3}.",
+            "rules_text": "This spell costs {1} less to cast for each colorless nonland permanent you control, to a maximum of three.",
             "flavor_text": "[i]\u201cThey are indebted to them, or perhaps carved from the same flesh. Their identity is beyond what we could possibly divine...\u201d\n\u2014 Excerpt from Lantha's journal[/i]",
             "pt": "5/5",
             "special_text": "",
@@ -2350,7 +2350,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Artificer",
-            "number": 84,
+            "number": 83,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Whenever this creature becomes tapped, draw a card, then discard a card.\nAt the beginning of each end step, if you've cast a noncreature spell this turn, put a +1/+1 counter on this creature and untap it.",
@@ -2388,7 +2388,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Creature \u2014 Shapeshifter Horror",
-            "number": 76,
+            "number": 75,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
             "rules_text": "You may have this creature enter as a copy of any creature on the battlefield, except it has this card's abilities.\n{U}{U}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]",
@@ -2410,8 +2410,8 @@
             "number": 66,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "Whenever this creature deals combat damage to a player, draw a card.\n{U} or sacrifice an artifact: Until end of turn, this creature gets -3/-0 and can't be blocked by creatures with greater power.",
-            "flavor_text": "[i][/i]",
+            "rules_text": "Whenever this creature deals combat damage to a player, draw a card.\n{2}{U} or sacrifice a Clue: This creature can't be blocked this turn.",
+            "flavor_text": "[i]Assignments change rapidly, and it is imperative that operatives are always prepared.[/i]",
             "pt": "4/4",
             "special_text": "",
             "shape": "normal",
@@ -2419,7 +2419,7 @@
             "loyalty": "",
             "artist": "Paul Patricio",
             "alias": "",
-            "notes": "1 Aug 2025: Switched activated ability to card draw\n10 Aug 2025: Totally switched to card draw saboteur, with sneaky mode to weaken but make unblockable\n11 Aug 2025: Added additional artifact sacrifice option for cost (for Clue archetype)"
+            "notes": "1 Aug 2025: Switched activated ability to card draw\n10 Aug 2025: Totally switched to card draw saboteur, with sneaky mode to weaken but make unblockable\n11 Aug 2025: Added additional artifact sacrifice option for cost (for Clue archetype)\n\nPRE-FT9:\n26 Jan 2026: Ability now doesn't debuff, but costs either 1U or a Clue"
         },
         {
             "card_name": "Void Empyrean",
@@ -2429,7 +2429,7 @@
             "number": 29,
             "color_identity": "U",
             "cost": "{5}{C}{C}",
-            "rules_text": "Flying\nWhen you cast this spell, return target creature you don't control to its owner's hand. Surveil 3.",
+            "rules_text": "Flying\nWhen you cast this spell, return target creature you don't control to its owner's hand, then surveil 3.",
             "flavor_text": "[i][/i]",
             "pt": "5/6",
             "special_text": "",
@@ -2455,7 +2455,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 82,
+            "number": 81,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
             "rules_text": "Counter target spell. If that spell targets one or more permanents you control, draw a card.",
@@ -2474,7 +2474,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 78,
+            "number": 77,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Return target nonland permanent to its owner's hand. \nInvestigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this artifact: Draw a card.\u201d)[/i]",
@@ -2496,8 +2496,8 @@
             "number": 92,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Untap target creature you control. It gains hexproof until end of turn.",
-            "flavor_text": "[i]In his final scrawlings before disappearing forever, Detective Stelver left behind the key to understanding the incursions.[/i]",
+            "rules_text": "Untap target creature. It gets +0/+3 until end of turn.",
+            "flavor_text": "[i]In his final scrawlings, Detective Stelver left the key to understanding the incursions.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -2505,7 +2505,7 @@
             "loyalty": "",
             "artist": "Rayven Studios",
             "alias": "",
-            "notes": "11 Aug 2025: Removed card draw\n\n8 lines\n\nFT: Need to change"
+            "notes": "11 Aug 2025: Removed card draw\n\n8 lines\n\nFT: Need to change\n\nPRE-FT9:\n28 Jan 2026: Placeholder change"
         },
         {
             "card_name": "Ancestral Voidstone",
@@ -2546,21 +2546,21 @@
             "notes": "MAY 2026:\n- Rework, since big draw has been combined into Gloompool Heron"
         },
         {
-            "card_name": "Ego Death",
-            "color": "",
+            "card_name": "Pore Over",
+            "color": "U",
             "rarity": "uncommon",
-            "type": "Sorcery",
-            "number": 75,
+            "type": "Instant",
+            "number": 88,
             "color_identity": "U",
-            "cost": "{1}{U}{U}",
-            "rules_text": "Devoid [i](This card has no color.)[/i]\nCreate a token that's a copy of target creature you control.",
-            "flavor_text": "[i]There is a moment of sanity that comes between losing everything and losing everything else.[/i]",
+            "cost": "{2}{U}{U}",
+            "rules_text": "Look at the top four cards of your library. If there are seven or more cards in your graveyard, look at the top seven cards of your library instead. Put two of them into your hand and the rest on the bottom of your library in a random order.",
+            "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
-            "artist": "Ian Joyner",
+            "artist": "Emmanuel Shiu",
             "alias": "",
             "notes": "1 Aug 2025: Switched from X choices to X + 1 choices\n\n8 Aug 2025: Replaced tokens with tap/untap and surveil\n20 Aug 2025: No longer X spell, just draw 2 + (loot or investigate)\n24 Aug 2025: Now a cloner + investigate\n9 Sep 2025: Removed investigate"
         },
@@ -2572,8 +2572,8 @@
             "number": 98,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Enchant nonland permanent\nWhen this Aura enters, draw a card if {C} was spent to cast it.\nEnchanted permanent loses all abilities.",
-            "flavor_text": "[i]\u201cIn the embrace of the Eye, we have forgotten who we are.\u201d\n\u2014Anonymous[/i]",
+            "rules_text": "Flash\nEnchant nonland permanent\nWhen this Aura enters, if {C} was spent to cast it, counter all activated and triggered abilities of enchanted permanent.\nEnchanted permanent loses all abilities.",
+            "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -2581,7 +2581,7 @@
             "loyalty": "",
             "artist": "Artem Chebokha",
             "alias": "",
-            "notes": "8 Aug 2025: Switched to 1U from CU\n\nMAY 2026:\n12 Jan 2026: Removed devoid"
+            "notes": "8 Aug 2025: Switched to 1U from CU\n\nMAY 2026:\n12 Jan 2026: Removed devoid\n\nPRE-FT9:\n28 Jan 2026: Significant changes; now counters all abilities for C"
         },
         {
             "card_name": "Eavesdrop",
@@ -3218,7 +3218,7 @@
             "number": 215,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
-            "rules_text": "Whenever you cast or copy a noncreature spell, this creature gets +1/+0 until end of turn. Create a Treasure token.",
+            "rules_text": "Whenever you cast a noncreature spell, this creature gets +1/+0 until end of turn. Create a tapped Treasure token.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -3514,7 +3514,7 @@
             "number": 253,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "{T}: Add {C}.\n{T}: Add one mana of any type. Spend this mana only to cast a Mythos spell. [i](The types of mana are {C}, {W}, {U}, {B}, {R}, and {G}.)[/i]",
+            "rules_text": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a Mythos spell.",
             "flavor_text": "[i]The Institute keeps a meteor in their collection. Since the incursions began, its patterns have contorted, as swirling paint on a celestial easel.[/i]",
             "pt": "",
             "special_text": "",
@@ -3523,7 +3523,7 @@
             "loyalty": "",
             "artist": "Finnian McMannus",
             "alias": "",
-            "notes": ""
+            "notes": "PRE-FT9:\n23 Jan 2026: Switched \"any type\" to \"any color\", since it doesn't matter if the second ability can make C"
         },
         {
             "card_name": "Fateblur Cloak",
@@ -3609,7 +3609,7 @@
             "number": 59,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "When this creature enters, you may return another target creature you control to its owner's hand. \nOnce each turn, when a creature you control with power 2 or less enters, draw a card.",
+            "rules_text": "When this creature enters, you may return another target creature you control to its owner's hand. \nOnce each turn, when a creature you control with power 2 or less enters, you may draw a card.",
             "flavor_text": "[i]\u201cYou've got it wrong with \u2018newest this, newest that.' People [/i]love[i] the classics.\u201d[/i]",
             "pt": "4/3",
             "special_text": "",
@@ -3618,7 +3618,7 @@
             "loyalty": "",
             "artist": "Asce",
             "alias": "",
-            "notes": "9 Aug 2025: Switched to bounce + extort enabler\n\nMAY 2026:\n- Feels weird\nRework to WB Flicker instead of WB Extort\n23 Jan 2026: Removed lifegain"
+            "notes": "9 Aug 2025: Switched to bounce + extort enabler\n\nMAY 2026:\n- Feels weird\nRework to WB Flicker instead of WB Extort\n23 Jan 2026: Removed lifegain\n\nPRE-FT9:\n26 Jan 2026: Fixed wording on perennial ability"
         },
         {
             "card_name": "Ulamog, the Earth Engulfed",
@@ -3665,8 +3665,8 @@
             "type": "Sorcery",
             "number": 192,
             "color_identity": "G",
-            "cost": "{G}",
-            "rules_text": "Destroy target permanent with two or more card types.",
+            "cost": "{1}{G}{G}",
+            "rules_text": "Destroy all noncreature, nonland permanents with mana value 3 or less.",
             "flavor_text": "[i]\u201cMay blasphemers atone for wasted laud /\nWhen churches topple, what remains of gods?\u201d\n\u2014 Excerpt from [/i]The Divine Word of Kavalesk[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3830,14 +3830,14 @@
             "cost": "{1}{W}",
             "rules_text": "Vigilance\nAs this creature enters, choose a noncreature card type.\nSpells of the chosen type cost {1} more to cast.",
             "flavor_text": "[i][/i]",
-            "pt": "1/2",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Adam Lane",
             "alias": "",
-            "notes": "16 Aug 2025: Reduced 5/10 to 3/6\n18 Aug 2025: Totally changed to token producer\n24 Aug 2025: Reduced token production from 3 to 2\n\nShould this be constructed viable? Yes, as a sideboard card\n\nMAY 2026\n\n- Make 1W (or maybe switch to \"nonland permanents\")\n14 Dec 2025: Switched to 1W from WW\n22 Jan 2026: Switching to Thalia effect\n\nPRE-FT9:\n23 Jan 2026: Removed fragment; now, Thalia effect only hits one card type"
+            "notes": "16 Aug 2025: Reduced 5/10 to 3/6\n18 Aug 2025: Totally changed to token producer\n24 Aug 2025: Reduced token production from 3 to 2\n\nShould this be constructed viable? Yes, as a sideboard card\n\nMAY 2026\n\n- Make 1W (or maybe switch to \"nonland permanents\")\n14 Dec 2025: Switched to 1W from WW\n22 Jan 2026: Switching to Thalia effect\n\nPRE-FT9:\n23 Jan 2026: Removed fragment; now, Thalia effect only hits one card type. Also switched to 2/2 after Leet's review"
         },
         {
             "card_name": "Devonia, Lost Ministrix",
@@ -3863,7 +3863,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Creature \u2014 Human Detective",
-            "number": 85,
+            "number": 84,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "When this creature enters, investigate.\nWhenever you draw your second card each turn, put a +1/+1 counter on this creature.\n{1}{U}: Fragment this creature. [i](Its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]",
@@ -3949,7 +3949,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Bard",
-            "number": 79,
+            "number": 78,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
             "rules_text": "Flying, ward {1}\nWhenever you cast a noncreature spell, create a 1/1 blue Bird creature token with flying.\n{T}, Tap any number of untapped creatures you control with total power X: Copy target noncreature spell you control with mana value X or less. You may choose new targets for the copy. [i](A copy of a permanent spell becomes a token.)[/i]",
@@ -4009,7 +4009,7 @@
             "number": 131,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Flash\nWhen this creature enters, creatures get -1/-1 until end of turn.\nWhenever an opponent attacks with or creates one or more creature tokens, that player loses that much life and you gain that much life.",
+            "rules_text": "Flash\nWhen this creature enters, creatures get -1/-1 until end of turn.\nWhenever an opponent creates one or more creature tokens, that player loses that much life and you gain that much life.",
             "flavor_text": "[i]Order requires difficult decisions.[/i]",
             "pt": "2/3",
             "special_text": "",
@@ -4018,7 +4018,7 @@
             "loyalty": "",
             "artist": "D.C. Slider",
             "alias": "",
-            "notes": "8 lines\n\nShould this be constructed viable? Probably not\n\n8 Sep 2025: Reduced from 7/7 to 6/6\n13 Nov 2025: Bumped back to 7/7\n\nMAY 2026:\nGun"
+            "notes": "8 lines\n\nShould this be constructed viable? Probably not\n\n8 Sep 2025: Reduced from 7/7 to 6/6\n13 Nov 2025: Bumped back to 7/7\n\nMAY 2026:\nGun\n\nPRE-FT9:\n23 Jan 2026: Removed life loss trigger on attack, since it was at odds with wipe effect that came with flashing the card in."
         },
         {
             "card_name": "Fathomless Invocations",
@@ -4059,8 +4059,8 @@
             "card_name2": "Ablate",
             "color2": "B",
             "type2": "Sorcery \u2014 Mythos",
-            "cost2": "{B}",
-            "rules_text2": "Target opponent exiles a card from their hand. [i](Cast this from your hand or a copy from the battlefield once.)[/i]",
+            "cost2": "{3}{B}",
+            "rules_text2": "Target opponent exiles two cards from their hand. [i](Cast this from your hand or a copy from the battlefield once.)[/i]",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
@@ -4238,7 +4238,7 @@
             "number": 177,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
-            "rules_text": "Whenever this creature enters or attacks, choose one. If it entered, choose up to two instead.\n\u2022 Investigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this artifact: Draw a card.\u201d)[/i]\n\u2022 You may play an additional land this turn.\n\u2022 You gain 3 life.",
+            "rules_text": "Whenever this creature enters or attacks, choose one.\n\u2022 Investigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this artifact: Draw a card.\u201d)[/i]\n\u2022 You may play an additional land this turn.\n\u2022 You gain 3 life.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -4247,7 +4247,7 @@
             "loyalty": "",
             "artist": "Svyato",
             "alias": "",
-            "notes": "25 Aug 2025: Made into toy for mono green\n7 Sep 2025: Reduced from 4/4 to 3/3\n8 lines\n\nShould this be constructed viable? Yes, in mono-G\n\nDoes this seem constructed viable? I think so \u2014 this is a lot of value for mono-G\n\nFT2 \u2014 Reduced enters value to 2 instead of 3 triggers\n\nMAY 2026:\n- Triple pip is out of place\n14 Dec 2025: Switched from GGG to 1GG"
+            "notes": "25 Aug 2025: Made into toy for mono green\n7 Sep 2025: Reduced from 4/4 to 3/3\n8 lines\n\nShould this be constructed viable? Yes, in mono-G\n\nDoes this seem constructed viable? I think so \u2014 this is a lot of value for mono-G\n\nFT2 \u2014 Reduced enters value to 2 instead of 3 triggers\n\nMAY 2026:\n- Triple pip is out of place\n14 Dec 2025: Switched from GGG to 1GG\n\nPRE-FT9:\n23 Jan 2026: Can now only choose 1 on enters"
         },
         {
             "card_name": "Starbreaker Ghost",
@@ -4352,8 +4352,8 @@
             "type": "Sorcery",
             "number": 216,
             "color_identity": "RG",
-            "cost": "{X}{X}{R}{G}",
-            "rules_text": "Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. Create X tokens that are copies of it, except they aren't legendary and have haste and \u201cSacrifice this token at the beginning of your next end step.\u201d",
+            "cost": "{X}{R}{G}{G}",
+            "rules_text": "Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. Create a token that's a copy of it, except it isn't legendary and has haste and \u201cSacrifice this creature at the beginning of the next end step.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4362,7 +4362,7 @@
             "loyalty": "",
             "artist": "Nino Is",
             "alias": "",
-            "notes": "MAY 2026:\n- Slightly worrying"
+            "notes": "MAY 2026:\n- Slightly worrying\n\nPRE-FT9:\n27 Jan 2026: Now costs XRGG, but only makes one token"
         },
         {
             "card_name": "Population Boom",
@@ -4409,17 +4409,17 @@
             "type": "Creature \u2014 Human Artificer",
             "number": 207,
             "color_identity": "UR",
-            "cost": "{U}{R}",
+            "cost": "{1}{U}{R}",
             "rules_text": "Haste\nProwess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]\nArtifact creatures you control have haste and prowess. [i](Multiple instances of prowess trigger separately.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "1/2",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "SGP",
             "loyalty": "",
             "artist": "Anna Rusan",
             "alias": "",
-            "notes": "Should this be constructed viable? Yes, as part of Izzet blitz or Vehicle aggro\n\nDoes this seem constructed viable? Yes; this may singlehandedly enable Vehicles in constructed\n\nFT: Raised from 1/2 to 2/2\n\nMAY 2026\n- Neat, but maybe not enough non-Vehicles to justify. Also gets silly in multiples\n\n!tag wishlist"
+            "notes": "Should this be constructed viable? Yes, as part of Izzet blitz or Vehicle aggro\n\nDoes this seem constructed viable? Yes; this may singlehandedly enable Vehicles in constructed\n\nFT: Raised from 1/2 to 2/2\n\nMAY 2026\n- Neat, but maybe not enough non-Vehicles to justify. Also gets silly in multiples\n\n!tag wishlist\n\nPRE-FT9:\n23 Jan 2026: Dropped from 1/2 to 1/1\n25 Jan 2026: Raised to 3mv 2/2"
         },
         {
             "card_name": "Something in the Soil",
@@ -4486,7 +4486,7 @@
             "number": 213,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
-            "rules_text": "When this creature enters, exile the top three cards of each player's library.\nDiscard a card: Until end of turn, you may play target card exiled with this creature. You may spend mana as though it were mana of any type to cast spells this way.",
+            "rules_text": "When this creature enters, exile the top two cards of each player's library face down. You may look at them for as long as they remain exiled.\nDiscard a card: Until end of turn, you may play target card exiled with this creature. You may spend mana as though it were mana of any type to cast spells this way.",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
@@ -4495,7 +4495,7 @@
             "loyalty": "",
             "artist": "Wesley Gardner",
             "alias": "",
-            "notes": "Think about \"target player mills...\" effect\n\nShould this be constructed viable? Yes, countermagic is useful\n\nDoes this seem constructed viable? \"Fringe playable\" \u2014 pipsqueak, but mill has been buffed since then, so probably yes\n\nMAY 2026:\n- Not suited for a rare slot"
+            "notes": "Think about \"target player mills...\" effect\n\nShould this be constructed viable? Yes, countermagic is useful\n\nDoes this seem constructed viable? \"Fringe playable\" \u2014 pipsqueak, but mill has been buffed since then, so probably yes\n\nMAY 2026:\n- Not suited for a rare slot\n\nPRE-FT9:\n23 Jan 2026: Added sorcery clause\n26 Jan 2026: Removed sorcery clause, but made hand go face down and"
         },
         {
             "card_name": "Starblood Tides",
@@ -4562,7 +4562,7 @@
             "number": 224,
             "color_identity": "URG",
             "cost": "{1}{G}{U}{R}",
-            "rules_text": "When this enchantment enters, untap up to three lands.\nCreature spells you cast cost {1} less to cast for each noncreature spell you've cast this turn.\nNoncreature spells you cast cost {1} less to cast for each creature spell you've cast this turn.",
+            "rules_text": "When this enchantment enters, if you cast it, untap up to three lands.\nCreature spells you cast cost {1} less to cast for each noncreature spell you've cast this turn.\nNoncreature spells you cast cost {1} less to cast for each creature spell you've cast this turn.",
             "flavor_text": "[i]Every fable, deity, and pantheon on Calloran bore the titans' ancient mark.[/i]",
             "pt": "",
             "special_text": "",
@@ -4571,7 +4571,7 @@
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
-            "notes": "Should this be constructed viable? Probably not when it's 6 mana\n\nDoes this seem constructed viable? No \u2014 probaby too slow in its current state\n\nMAY 2026:\n13 Jan 2026: Replaced slot with Temur rare"
+            "notes": "Should this be constructed viable? Probably not when it's 6 mana\n\nDoes this seem constructed viable? No \u2014 probaby too slow in its current state\n\nMAY 2026:\n13 Jan 2026: Replaced slot with Temur rare\n\nPRE-FT9:\n23 Jan 2026: Added \"if you cast it\" rider"
         },
         {
             "card_name": "Graven Confidant",
@@ -4597,7 +4597,7 @@
             "color": "U",
             "rarity": "mythic",
             "type": "Creature \u2014 Spirit Warlock",
-            "number": 87,
+            "number": 86,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
             "rules_text": "Flying\nIf you would create one or more tokens, draw that many cards instead. Do this only three times each turn.",
@@ -4885,9 +4885,9 @@
             "number": 15,
             "color_identity": "C",
             "cost": "{3}{C}{C}",
-            "rules_text": "At the beginning of combat on your turn, you may have this creature's power and toughness become equal to the total power of Eldrazi you control not named Living Apogee until end of turn.",
+            "rules_text": "At the beginning of combat on your turn, this creature's power and toughness becomes equal to the total power of Eldrazi you control not named Living Apogee. [i](This lasts indefinitely.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "4/4",
+            "pt": "3/3",
             "special_text": "",
             "shape": "adventure",
             "set": "SGP",
@@ -4952,7 +4952,7 @@
             "number": 21,
             "color_identity": "C",
             "cost": "{11}",
-            "rules_text": "Flying, trample\nThis creature enters with three doom counters on it.\nAt the beginning of your upkeep, remove a doom counter from this creature. If you do, destroy all other nonland permanents with mana value greater than or equal to the number of doom counters on it.",
+            "rules_text": "Flying, trample\nThis creature enters with three doom counters on it.\nAt the beginning of your end step, remove a doom counter from this creature. If you do, destroy all other nonland permanents with mana value greater than or equal to the number of doom counters on it.",
             "flavor_text": "[i][/i]",
             "pt": "11/11",
             "special_text": "",
@@ -4961,7 +4961,7 @@
             "loyalty": "",
             "artist": "Mark Erskine",
             "alias": "",
-            "notes": "8 lines\n\nShould this be constructed viable? No, very expensive and also annoying to deal with\n\nMAY 2026:\n- Maybe don't hit lands\n14 Dec 2025: Changed to no longer hit lands\n\nPRE-FT9:\n23 Jan 2026: Switched to 11/11"
+            "notes": "8 lines\n\nShould this be constructed viable? No, very expensive and also annoying to deal with\n\nMAY 2026:\n- Maybe don't hit lands\n14 Dec 2025: Changed to no longer hit lands\n\nPRE-FT9:\n23 Jan 2026: Switched to 11/11 and switched to end step"
         },
         {
             "card_name": "West District Hangar",
@@ -5063,7 +5063,7 @@
             "color": "U",
             "rarity": "mythic",
             "type": "Artifact Creature \u2014 Construct",
-            "number": 86,
+            "number": 85,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Flying\nAt the beginning of your end step, if you've drawn two or more cards this turn, create a 1/1 colorless Thopter artifact creature token with flying. If you've drawn three or more cards this turn, create a token that's a copy of this creature instead.",
@@ -5275,7 +5275,7 @@
             "number": 14,
             "color_identity": "C",
             "cost": "{12}",
-            "rules_text": "Ward\u2014Discard two cards.\nYour maximum hand size is twelve.\nWhenever Kozilek attacks, if you have seven or fewer cards in your hand, draw five cards and add five {C}. Until end of turn, you don't lose this mana as steps and phases end.",
+            "rules_text": "Ward\u2014Discard two cards.\nYour maximum hand size is twelve.\nWhenever you cast this spell or Kozilek attacks, if you have seven or fewer cards in your hand, draw five cards and add five {C}. Until end of turn, you don't lose this mana as steps and phases end.",
             "flavor_text": "[i][/i]",
             "pt": "12/12",
             "special_text": "",
@@ -5284,7 +5284,7 @@
             "loyalty": "",
             "artist": "Jaime Jones",
             "alias": "",
-            "notes": "MAY 2026:\n- Give Kozilek something different than indestructible"
+            "notes": "MAY 2026:\n- Give Kozilek something different than indestructible\n\nPRE-FT9:\n28 Jan 2026: Added cast trigger"
         },
         {
             "card_name": "Emrakul, the Sky Sundered",
@@ -5294,7 +5294,7 @@
             "number": 7,
             "color_identity": "C",
             "cost": "{14}",
-            "rules_text": "When you cast this spell, choose beginning phase, main phase, or combat phase. Until your next turn, each opponent skips each instance of each phase not chosen this way. [i](The beginning phase includes the untap, upkeep, and draw steps. That player doesn't skip the ending phase.)[/i]\nFlying, trample, protection from mana value 4 or less",
+            "rules_text": "When you cast this spell, choose beginning phase, main phase, or combat phase. Until your next turn, each opponent skips each instance of each phase not chosen this way. [i](The beginning phase includes the untap, upkeep, and draw steps. That player doesn't skip the ending phase.)[/i]\nFlying, trample, protection from mana value 3 or less",
             "flavor_text": "[i][/i]",
             "pt": "14/14",
             "special_text": "",
@@ -5864,7 +5864,7 @@
             "number": 297,
             "color_identity": "WG",
             "cost": "{G}{W}",
-            "rules_text": "Whenever a creature token you control enters, put a +1/+1 counter on it.",
+            "rules_text": "Creature tokens you control get +1/+1.",
             "flavor_text": "[i]\u201cHow wonderful it is to spend your life with someone who makes you believe anything is possible.\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -5939,8 +5939,8 @@
             "type": "Sorcery",
             "number": 296,
             "color_identity": "RG",
-            "cost": "{X}{X}{R}{G}",
-            "rules_text": "Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. Create X tokens that are copies of it, except they aren't legendary and have haste and \u201cSacrifice this token at the beginning of your next end step.\u201d",
+            "cost": "{X}{R}{G}{G}",
+            "rules_text": "Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. Create a token that's a copy of it, except it isn't legendary and has haste and \u201cSacrifice this creature at the beginning of the next end step.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6111,7 +6111,7 @@
             "number": 214,
             "color_identity": "BR",
             "cost": "{B}{R}",
-            "rules_text": "Menace\nOnce each turn, when the void calls, put a +1/+1 counter on Exander. Then if his power is 5 or greater, each opponent discards a card. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]",
+            "rules_text": "Menace\nOnce each turn, when the void calls, you may put a +1/+1 counter on Exander. Then if his power is 5 or greater, each opponent discards a card. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -6120,8 +6120,8 @@
             "loyalty": "",
             "artist": "Wisper Art",
             "alias": "",
-            "notes": ""
+            "notes": "PRE-FT9:\n26 Jan 2026: Fixed wording on perennial ability"
         }
     ],
-    "version": 61
+    "version": 63
 }
