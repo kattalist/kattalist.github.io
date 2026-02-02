@@ -1,4 +1,188 @@
-﻿VERSION 63 CHANGELOG
+﻿VERSION 64 CHANGELOG
+====================
+
+Psychic Rupture added.
+Ether Joyride added.
+Null Emissary added.
+Piece It Together added.
+Karsten's Thought Police added.
+Eldrazi added.
+
+Afflict Thought removed.
+Induced Catatonia removed.
+Yawning Spawnbed removed.
+Rush of Clarity removed.
+Undercity Prole removed.
+Eldrazi Horror removed.
+
+Startouched Reverend
+rules_text: When this creature enters, put a +1/+1 counter on target creature.
+{1}{C}, {T}: Fragment this creature. Activate only as a sorcery. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i] => When this creature enters, put a +1/+1 counter on target creature.
+{2}{C}, {T}: Fragment this creature. Activate only as a sorcery. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+
+Flagship Auto-Enforcer
+rules_text: Lifelink
+Whenever this creature attacks, tap target creature an opponent controls. => First strike
+Whenever you cast an artifact spell, this creature gains double strike until end of turn.
+
+Zeppelin Disaster
+rules_text: Choose one —
+• Exile target artifact or enchantment.
+• Fragment target creature with mana value 3 or less. [i](Its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i] => Choose one —
+• Exile target artifact or enchantment.
+• Fragment target creature you control with mana value 3 or less. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+
+Startouched Analyst
+rules_text: When this creature enters, draw a card.
+{1}{C}, {T}: Fragment this creature. [i](Its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i] => When this creature enters, draw a card.
+{2}{C}, {T}: Fragment this creature. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+
+Frossenhold Walker
+rules_text: When this creature enters, target creature gets -6/-0 until this creature leaves the battlefield. If {C} was spent to cast this spell, draw a card. => When this creature enters, target creature gets -6/-0 until your next turn. If {C} was spent to cast this spell, draw a card.
+pt: 3/3 => 4/4
+
+Startouched Acolyte
+rules_text: When this creature enters, each opponent loses 2 life and you gain 2 life.
+{1}{C}, {T}: Fragment this creature. [i](Its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i] => When this creature enters, each opponent loses 2 life and you gain 2 life.
+{2}{C}, {T}: Fragment this creature. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+
+Harrowing Transformation
+rules_text: Target creature you control gains deathtouch and indestructible until end of turn. Then you may pay {1}. If you do, fragment it. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i] => Target creature you control gains deathtouch and indestructible until end of turn. Then you may pay {2}. If you do, fragment it. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+
+Startouched Epigone
+rules_text: When this creature enters, another target creaure gets +2/+0 and gains haste until end of turn.
+{1}{C}, {T}: Fragment this creature. Activate only as a sorcery. [i](Its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i] => When this creature enters, another target creaure gets +2/+0 and gains haste until end of turn.
+{2}{C}, {T}: Fragment this creature. Activate only as a sorcery. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+
+Startouched Arborist
+rules_text: When this creature enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{1}{C}, {T}: Fragment this creature. [i](Its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i] => When this creature enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{2}{C}, {T}: Fragment this creature. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+
+Overzealous Recon
+rules_text: Vigilance
+When this creature dies, create a 3/2 colorless Eldrazi Horror creature token. => Vigilance
+When this creature dies, create a 3/2 colorless Eldrazi creature token.
+
+Rend
+cost: {1}{C} => {2}{C}
+rules_text: Fragment target creature. [i](Its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i] => Fragment target creature you control. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+
+Discerning Patron
+rules_text: When this creature enters, you may pay X life, where X is its power. If you do, scry X, then draw X cards.
+{W}{B}: Fragment this creature. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i] => When this creature enters, you may pay X life, where X is its power. If you do, scry X, then draw X cards.
+{W}{B}: Fragment this creature. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+
+Ravaged Eviscerator
+rules_text: Devoid [i](This card has no color.)[/i]
+Whenever this creature enters or deals combat damage to a player, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+{1}{C}: Put a +1/+1 counter on this creature. => Devoid [i](This card has no color.)[/i]
+Whenever this creature deals combat damage to a player, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+{1}{C}: Put a +1/+1 counter on this creature.
+pt: 1/2 => 2/2
+
+Thousand-Mind Cutthroat
+rules_text: Double strike
+When this creature enters, if it's a token, put two +1/+1 counters on it.
+{4}{C}, {T}: Fragment this creature. Activate only as a sorcery. [i](Its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i] => Double strike
+{4}{C}, {T}: Fragment this creature. Activate only as a sorcery. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+
+Ego Devourer
+rules_text: You may have this creature enter as a copy of any creature on the battlefield, except it has this card's abilities.
+{U}{U}, {T}: Fragment this creature. [i](Create a token that's a copy of it and put a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i] => You may have this creature enter as a copy of any creature on the battlefield, except it has this card's abilities.
+{U}{U}, {T}: Fragment this creature. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+
+Adaptive Lieutenant
+rules_text: Whenever this creature deals combat damage to a player, draw a card.
+{2}{U} or sacrifice a Clue: This creature can't be blocked this turn. => Whenever this creature deals combat damage to a player, draw a card.
+Whenever you sacrifice a Clue, this creature can't be blocked this turn.
+pt: 4/4 => 3/4
+
+Shingle Crawler
+cost: {B} => {1}{B}
+rules_text: Flying
+When this creature enters, each player discards a card.
+{2}{B}, Discard this card: Target player discards two cards. Activate only as a sorcery. => Flying
+This creature can't block.
+Whenever this creature attacks, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+pt: 1/1 => 2/1
+
+Holism Seeker
+rules_text: When this creature enters, you may destroy target artifact or enchantment.
+{3}{C}, {T}: Fragment this creature. [i](Its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i] => When this creature enters, you may destroy target artifact or enchantment.
+{3}{C}, {T}: Fragment this creature. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+
+Yestergrove Relic
+rules_text: When this creature enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+{1}{G}, Sacrifice a Clue: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Activate only once each turn. => When this creature enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Whenever you draw your second card each turn, you may put a land card from your hand onto the battlefield tapped.
+
+Formless Scape
+cost: {1}{G} => {2}{G}
+
+North Salcman Vigil
+rules_text: Look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
+Whenever you discard a card, if this card is in your graveyard, you may pay {B} and exile it. If you do, you draw a card and lose 1 life. => Look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
+{1}{B}, Exile this card from your graveyard: You draw a card and lose 1 life. Activate only if the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+
+Zaila, Her Will Be Done
+rules_text: [+1]: Draw a card. Add {C}{C}.
+[-2]: Exile target creature.
+[-7]: Create a 10/10 colorless Eldrazi creature token. Then you may have each player's life total become equal to the total power of creatures they control plus 1. => Whenever a nontoken creature you control enters, you may fragment it. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+[+1]: Draw a card. Add {C}{C}.
+[-2]: Zaila deals damage to target creature equal to the number of creatures you control.
+[-7]: Exile any number of creatures you control, then return them to the battlefield under your control. You get an emblem with “Creatures you control are 4/4 Eldrazi Angels with flying.”
+special_text: [+1]: Draw a card. Add {C}{C}.
+[-2]: Exile target creature.
+[-7]: Create a 10/10 colorless Eldrazi creature token. Then you may have each player's life total become equal to the total power of creatures they control plus 1. => Whenever a nontoken creature you control enters, you may fragment it. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+[+1]: Draw a card. Add {C}{C}.
+[-2]: Zaila deals damage to target creature equal to the number of creatures you control.
+[-7]: Exile any number of creatures you control, then return them to the battlefield under your control. You get an emblem with “Creatures you control are 4/4 Eldrazi Angels with flying.”
+loyalty: 4 => 5
+
+Bear Witness
+rules_text: Fragment all creatures. [i](To fragment a creature, its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i] => Fragment all creatures you control. [i](To fragment a creature, create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+
+Jaded Coroners
+rules_text: When this creature enters, investigate.
+Whenever you draw your second card each turn, put a +1/+1 counter on this creature.
+{1}{U}: Fragment this creature. [i](Its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i] => When this creature enters, investigate.
+Whenever you draw your second card each turn, put a +1/+1 counter on this creature.
+{2}{U}: Fragment this creature. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+
+Emrakul's Nullscribe
+
+Starbreaker Ghost
+rules_text: Trample
+Whenever you spend six or more mana to cast another spell, create a 3/2 colorless Eldrazi Horror creature token. => Trample
+Whenever you spend six or more mana to cast another spell, create a 3/2 colorless Eldrazi creature token.
+
+Herald of the Expanse
+rules_text: Devoid [i](This card has no color.)[/i]
+This creature and other creatures you control get +2/+2.
+{1}{G}{G}: Fragment this creature. [i](Its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i] => Devoid [i](This card has no color.)[/i]
+This creature and other creatures you control get +2/+2.
+{5}{G}{G}: Fragment this creature. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+
+Starblood Tides
+rules_text: Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way. If you discarded more cards than an opponent this way, create a 3/2 colorless Eldrazi Horror creature token. => Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way. If you discarded more cards than an opponent this way, create a 3/2 colorless Eldrazi creature token.
+
+Eldrazi Monolith
+rules_text: When this artifact enters, fragment up to one target creature and draw a card. [i](Its controller creates a token that's a copy of it and puts a splinter counter on both. Creatures with splinter counters are 1/1 and can't be fragmented.)[/i]
+Colorless spells you cast cost {2} less to cast. => When this artifact enters, fragment up to one target creature and draw a card. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+Colorless spells you cast cost {2} less to cast.
+
+Fated Reunion
+rules_text: Reveal the top six cards of your library. Put a creature card that shares a mana value with a creature you control from among them into your hand. If that card has mana value 3 or less, put it onto the battlefield instead. Put the rest on the bottom of your library in a random order. => Reveal the top six cards of your library. Put a creature card from among them into your hand. If that card has mana value 3 or less and shares a mana value with a creature you control, put it onto the battlefield instead.
+
+Rend_Promo
+rules_text: Fragment target creature. => Fragment target creature you control.
+
+Bear Witness_Promo
+rules_text: Fragment all creatures. => Fragment all creatures you control.
+
+
+VERSION 63 CHANGELOG
 ====================
 
 No changes.
