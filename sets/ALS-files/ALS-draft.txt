@@ -1,0 +1,3274 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Astir, the Night Relentless",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Legendary Snow Creature — God",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/195_Astir, the Night Relentless.png"
+			}
+		},
+		{
+			"name": "CW01 Courtyard Lookout",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Snow Creature — Human Knight",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/20_CW01 Courtyard Lookout.png"
+			}
+		},
+		{
+			"name": "CW02 Vision of Hope",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/21_CW02 Vision of Hope.png"
+			}
+		},
+		{
+			"name": "CW03 Snowslope Hunter",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Snow Creature — Fox",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/22_CW03 Snowslope Hunter.png"
+			}
+		},
+		{
+			"name": "CW04 Crag Mystic",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird Cleric",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/23_CW04 Crag Mystic.png"
+			}
+		},
+		{
+			"name": "CW05 Winterglade Infantry",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Snow Creature — Human Knight",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/24_CW05 Winterglade Infantry.png"
+			}
+		},
+		{
+			"name": "CW06 Tallian Cuirassier",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/25_CW06 Tallian Cuirassier.png"
+			}
+		},
+		{
+			"name": "CW07 Steppe Patrol",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit Knight",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/26_CW07 Steppe Patrol.png"
+			}
+		},
+		{
+			"name": "CW08 Treeline Refugees",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Spirit Scout",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/27_CW08 Treeline Refugees.png"
+			}
+		},
+		{
+			"name": "CW09 Tundra Sentry",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/28_CW09 Tundra Sentry.png"
+			}
+		},
+		{
+			"name": "CW10 Godblood Raptor",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Snow Creature — Bird Angel",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/29_CW10 Godblood Raptor.png"
+			}
+		},
+		{
+			"name": "CW11 Speaker of the Blood Frost",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/30_CW11 Speaker of the Blood Frost.png"
+			}
+		},
+		{
+			"name": "CW12 Repel the Cursed",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/31_CW12 Repel the Cursed.png"
+			}
+		},
+		{
+			"name": "CW13 To Fight Again",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/32_CW13 To Fight Again.png"
+			}
+		},
+		{
+			"name": "CW14 Glorious Memoriam",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/33_CW14 Glorious Memoriam.png"
+			}
+		},
+		{
+			"name": "CW15 Frozen Over",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Snow Enchantment",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/34_CW15 Frozen Over.png"
+			}
+		},
+		{
+			"name": "CU01 Frostbitten Rampart",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Wall",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/55_CU01 Frostbitten Rampart.png"
+			}
+		},
+		{
+			"name": "CU02 Shoal Inquisitors",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Warlock",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/56_CU02 Shoal Inquisitors.png"
+			}
+		},
+		{
+			"name": "CU03 Iceheart Aspect",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Snow Creature — Elk Spirit",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/57_CU03 Iceheart Aspect.png"
+			}
+		},
+		{
+			"name": "CU04 Whistlewind Aven",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird Warlock",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/58_CU04 Whistlewind Aven.png"
+			}
+		},
+		{
+			"name": "CU05 Enndemere Waterwatch",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Scout",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/59_CU05 Enndemere Waterwatch.png"
+			}
+		},
+		{
+			"name": "CU06 Rimeveil Terrier",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Snow Creature — Dog",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/60_CU06 Rimeveil Terrier.png"
+			}
+		},
+		{
+			"name": "CU07 Ordhenn Exalt",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Faerie Warlock",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/61_CU07 Ordhenn Exalt.png"
+			}
+		},
+		{
+			"name": "CU08 Seaguild Matron",
+			"rarity": "common",
+			"mana_cost": "{6}{U}",
+			"type": "Creature — Merfolk Horror",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/62_CU08 Seaguild Matron.png"
+			}
+		},
+		{
+			"name": "CU09 Enhance",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/63_CU09 Enhance.png"
+			}
+		},
+		{
+			"name": "CU10 Twilight's Will",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/64_CU10 Twilight's Will.png"
+			}
+		},
+		{
+			"name": "UU11 Right the Balance",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/89_UU11 Right the Balance.png"
+			}
+		},
+		{
+			"name": "CU13 Search for Signs",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Snow Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/67_CU13 Search for Signs.png"
+			}
+		},
+		{
+			"name": "CU12 Fall Through",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/66_CU12 Fall Through.png"
+			}
+		},
+		{
+			"name": "CU14 Angelic Memoriam",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/68_CU14 Angelic Memoriam.png"
+			}
+		},
+		{
+			"name": "CU15 Ensconce in Ice",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/69_CU15 Ensconce in Ice.png"
+			}
+		},
+		{
+			"name": "CB01 Tombstone Penitent",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Snow Creature — Human Knight",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/90_CB01 Tombstone Penitent.png"
+			}
+		},
+		{
+			"name": "CB02 Bloodcoat Guide",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Satyr Scout",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/91_CB02 Bloodcoat Guide.png"
+			}
+		},
+		{
+			"name": "CB03 Restless Legionnaire",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Knight",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/92_CB03 Restless Legionnaire.png"
+			}
+		},
+		{
+			"name": "CB04 Marrow Drifter",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spirit Warlock",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/93_CB04 Marrow Drifter.png"
+			}
+		},
+		{
+			"name": "CB05 Evoke Old Magic",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/94_CB05 Evoke Old Magic.png"
+			}
+		},
+		{
+			"name": "CB06 Blackstar Faithful",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Snow Creature — Shade Knight",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/95_CB06 Blackstar Faithful.png"
+			}
+		},
+		{
+			"name": "CB07 Squall Witch",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/96_CB07 Squall Witch.png"
+			}
+		},
+		{
+			"name": "CB08 Steelfang Vulture",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/97_CB08 Steelfang Vulture.png"
+			}
+		},
+		{
+			"name": "CB09 Tether Keeper",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Shade Warlock",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/98_CB09 Tether Keeper.png"
+			}
+		},
+		{
+			"name": "CB10 Calcify",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/99_CB10 Calcify.png"
+			}
+		},
+		{
+			"name": "CB11 Bear the Cold",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Snow Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/100_CB11 Bear the Cold.png"
+			}
+		},
+		{
+			"name": "CB12 Lost in Enndemere",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/101_CB12 Lost in Enndemere.png"
+			}
+		},
+		{
+			"name": "CB13 Dance of Fallen Kin",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/102_CB13 Dance of Fallen Kin.png"
+			}
+		},
+		{
+			"name": "CB14 Grisly Memoriam",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/103_CB14 Grisly Memoriam.png"
+			}
+		},
+		{
+			"name": "CB15 Days of Mourning",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/104_CB15 Days of Mourning.png"
+			}
+		},
+		{
+			"name": "CR01 Ghost Sigil Champion",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Berserker",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/125_CR01 Ghost Sigil Champion.png"
+			}
+		},
+		{
+			"name": "CR02 Equinox Aspirant",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Spirit Warlock",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/126_CR02 Equinox Aspirant.png"
+			}
+		},
+		{
+			"name": "CR03 Spiteful Bladesmith",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/127_CR03 Spiteful Bladesmith.png"
+			}
+		},
+		{
+			"name": "CR04 Exhelian Linebreaker",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Satyr Berserker",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/128_CR04 Exhelian Linebreaker.png"
+			}
+		},
+		{
+			"name": "CR05 Hollowbone Consul",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Spirit Advisor",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/129_CR05 Hollowbone Consul.png"
+			}
+		},
+		{
+			"name": "CR06 Steppe Howler",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Wolf",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/130_CR06 Steppe Howler.png"
+			}
+		},
+		{
+			"name": "CR09 Emblazoned Ash",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Elemental Spirit",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/133_CR09 Emblazoned Ash.png"
+			}
+		},
+		{
+			"name": "CR07 Linden Tracker",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Wolf",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/131_CR07 Linden Tracker.png"
+			}
+		},
+		{
+			"name": "CR08 Soulcave Gauntlet",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/132_CR08 Soulcave Gauntlet.png"
+			}
+		},
+		{
+			"name": "CR10 Blood Arts",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/134_CR10 Blood Arts.png"
+			}
+		},
+		{
+			"name": "CR12 Remnants' Devotion",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/136_CR12 Remnants' Devotion.png"
+			}
+		},
+		{
+			"name": "CR11 Bombard",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/135_CR11 Bombard.png"
+			}
+		},
+		{
+			"name": "CR13 Stellata's Last Will",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/137_CR13 Stellata's Last Will.png"
+			}
+		},
+		{
+			"name": "CR14 Vengeant Memoriam",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/138_CR14 Vengeant Memoriam.png"
+			}
+		},
+		{
+			"name": "CR15 Jagged Blaze",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/139_CR15 Jagged Blaze.png"
+			}
+		},
+		{
+			"name": "CG01 Vista Tenders",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/160_CG01 Vista Tenders.png"
+			}
+		},
+		{
+			"name": "CG02 Rotpack Scout",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/161_CG02 Rotpack Scout.png"
+			}
+		},
+		{
+			"name": "CG03 Siltcurrent Sage",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Merfolk Druid",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/162_CG03 Siltcurrent Sage.png"
+			}
+		},
+		{
+			"name": "CG04 Mossmane Liaison",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/163_CG04 Mossmane Liaison.png"
+			}
+		},
+		{
+			"name": "CG05 Deepcover Harpoonist",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Merfolk Ranger",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/164_CG05 Deepcover Harpoonist.png"
+			}
+		},
+		{
+			"name": "CG06 Ivory Collector",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/165_CG06 Ivory Collector.png"
+			}
+		},
+		{
+			"name": "CG07 Voice of Broken Earth",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment Creature — Elemental",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/166_CG07 Voice of Broken Earth.png"
+			}
+		},
+		{
+			"name": "CG08 Rotpack Guardian",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/167_CG08 Rotpack Guardian.png"
+			}
+		},
+		{
+			"name": "CG09 Soulgorger Wurm",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Wurm",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/168_CG09 Soulgorger Wurm.png"
+			}
+		},
+		{
+			"name": "CG10 Ordhenn Colossus",
+			"rarity": "common",
+			"mana_cost": "{6}{G}",
+			"type": "Enchantment Creature — Elk",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/169_CG10 Ordhenn Colossus.png"
+			}
+		},
+		{
+			"name": "CG11 Hold Firm",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/170_CG11 Hold Firm.png"
+			}
+		},
+		{
+			"name": "CG12 Hymn of Second Dawn",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/171_CG12 Hymn of Second Dawn.png"
+			}
+		},
+		{
+			"name": "CG13 Chase Into Death",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/172_CG13 Chase Into Death.png"
+			}
+		},
+		{
+			"name": "CG14 Primal Memoriam",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/173_CG14 Primal Memoriam.png"
+			}
+		},
+		{
+			"name": "CG15 Boreal Grove",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Snow Enchantment — Aura",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/174_CG15 Boreal Grove.png"
+			}
+		},
+		{
+			"name": "UW01",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/44_UW01.png"
+			}
+		},
+		{
+			"name": "UW02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/45_UW02.png"
+			}
+		},
+		{
+			"name": "UW03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/46_UW03.png"
+			}
+		},
+		{
+			"name": "UW04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/47_UW04.png"
+			}
+		},
+		{
+			"name": "UW05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/48_UW05.png"
+			}
+		},
+		{
+			"name": "UW06",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/49_UW06.png"
+			}
+		},
+		{
+			"name": "UW07",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/50_UW07.png"
+			}
+		},
+		{
+			"name": "UW08",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/51_UW08.png"
+			}
+		},
+		{
+			"name": "UW09",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/52_UW09.png"
+			}
+		},
+		{
+			"name": "UW10",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/53_UW10.png"
+			}
+		},
+		{
+			"name": "UW11",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/54_UW11.png"
+			}
+		},
+		{
+			"name": "UU01",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/79_UU01.png"
+			}
+		},
+		{
+			"name": "UU02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/80_UU02.png"
+			}
+		},
+		{
+			"name": "UU03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/81_UU03.png"
+			}
+		},
+		{
+			"name": "UU04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/82_UU04.png"
+			}
+		},
+		{
+			"name": "UU05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/83_UU05.png"
+			}
+		},
+		{
+			"name": "UU06",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/84_UU06.png"
+			}
+		},
+		{
+			"name": "UU07",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/85_UU07.png"
+			}
+		},
+		{
+			"name": "UU08",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/86_UU08.png"
+			}
+		},
+		{
+			"name": "UU09",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/87_UU09.png"
+			}
+		},
+		{
+			"name": "UU10",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/88_UU10.png"
+			}
+		},
+		{
+			"name": "CU11 Channel the Ulderlords",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/65_CU11 Channel the Ulderlords.png"
+			}
+		},
+		{
+			"name": "UB01",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/114_UB01.png"
+			}
+		},
+		{
+			"name": "UB02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/115_UB02.png"
+			}
+		},
+		{
+			"name": "UB03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/116_UB03.png"
+			}
+		},
+		{
+			"name": "UB04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/117_UB04.png"
+			}
+		},
+		{
+			"name": "UB05",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/118_UB05.png"
+			}
+		},
+		{
+			"name": "UB06",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/119_UB06.png"
+			}
+		},
+		{
+			"name": "UB07",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/120_UB07.png"
+			}
+		},
+		{
+			"name": "UB08",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/121_UB08.png"
+			}
+		},
+		{
+			"name": "UB09",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/122_UB09.png"
+			}
+		},
+		{
+			"name": "UB10",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/123_UB10.png"
+			}
+		},
+		{
+			"name": "UB11",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/124_UB11.png"
+			}
+		},
+		{
+			"name": "UR01",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/149_UR01.png"
+			}
+		},
+		{
+			"name": "UR02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/150_UR02.png"
+			}
+		},
+		{
+			"name": "UR03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/151_UR03.png"
+			}
+		},
+		{
+			"name": "UR04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/152_UR04.png"
+			}
+		},
+		{
+			"name": "UR05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/153_UR05.png"
+			}
+		},
+		{
+			"name": "UR06",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/154_UR06.png"
+			}
+		},
+		{
+			"name": "UR07",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/155_UR07.png"
+			}
+		},
+		{
+			"name": "UR08",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/156_UR08.png"
+			}
+		},
+		{
+			"name": "UR09",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/157_UR09.png"
+			}
+		},
+		{
+			"name": "UR10",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/158_UR10.png"
+			}
+		},
+		{
+			"name": "UR11",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/159_UR11.png"
+			}
+		},
+		{
+			"name": "UG01",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/184_UG01.png"
+			}
+		},
+		{
+			"name": "UG02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/185_UG02.png"
+			}
+		},
+		{
+			"name": "UG03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/186_UG03.png"
+			}
+		},
+		{
+			"name": "UG04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/187_UG04.png"
+			}
+		},
+		{
+			"name": "UG05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/188_UG05.png"
+			}
+		},
+		{
+			"name": "UG06",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/189_UG06.png"
+			}
+		},
+		{
+			"name": "UG07",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/190_UG07.png"
+			}
+		},
+		{
+			"name": "UG08",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/191_UG08.png"
+			}
+		},
+		{
+			"name": "UG09",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/192_UG09.png"
+			}
+		},
+		{
+			"name": "UG10",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/193_UG10.png"
+			}
+		},
+		{
+			"name": "UG11",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/194_UG11.png"
+			}
+		},
+		{
+			"name": "RW01",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/37_RW01.png"
+			}
+		},
+		{
+			"name": "RW02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/38_RW02.png"
+			}
+		},
+		{
+			"name": "RW03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/39_RW03.png"
+			}
+		},
+		{
+			"name": "RW04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/40_RW04.png"
+			}
+		},
+		{
+			"name": "RW05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/41_RW05.png"
+			}
+		},
+		{
+			"name": "RW06",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/42_RW06.png"
+			}
+		},
+		{
+			"name": "RW07",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/43_RW07.png"
+			}
+		},
+		{
+			"name": "RU01",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/72_RU01.png"
+			}
+		},
+		{
+			"name": "RU02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/73_RU02.png"
+			}
+		},
+		{
+			"name": "RU03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/74_RU03.png"
+			}
+		},
+		{
+			"name": "RU04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/75_RU04.png"
+			}
+		},
+		{
+			"name": "RU05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/76_RU05.png"
+			}
+		},
+		{
+			"name": "RU06",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/77_RU06.png"
+			}
+		},
+		{
+			"name": "RU07",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/78_RU07.png"
+			}
+		},
+		{
+			"name": "RB01",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/107_RB01.png"
+			}
+		},
+		{
+			"name": "RB02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/108_RB02.png"
+			}
+		},
+		{
+			"name": "RB03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/109_RB03.png"
+			}
+		},
+		{
+			"name": "RB04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/110_RB04.png"
+			}
+		},
+		{
+			"name": "RB05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/111_RB05.png"
+			}
+		},
+		{
+			"name": "RB06",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/112_RB06.png"
+			}
+		},
+		{
+			"name": "RB07",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/113_RB07.png"
+			}
+		},
+		{
+			"name": "RR01",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/142_RR01.png"
+			}
+		},
+		{
+			"name": "RR02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/143_RR02.png"
+			}
+		},
+		{
+			"name": "RR03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/144_RR03.png"
+			}
+		},
+		{
+			"name": "RR04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/145_RR04.png"
+			}
+		},
+		{
+			"name": "RR05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/146_RR05.png"
+			}
+		},
+		{
+			"name": "RR06",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/147_RR06.png"
+			}
+		},
+		{
+			"name": "RR07",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/148_RR07.png"
+			}
+		},
+		{
+			"name": "RG01",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/177_RG01.png"
+			}
+		},
+		{
+			"name": "RG02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/178_RG02.png"
+			}
+		},
+		{
+			"name": "RG03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/179_RG03.png"
+			}
+		},
+		{
+			"name": "RG04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/180_RG04.png"
+			}
+		},
+		{
+			"name": "RG05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/181_RG05.png"
+			}
+		},
+		{
+			"name": "RG06",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/182_RG06.png"
+			}
+		},
+		{
+			"name": "RG07",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/183_RG07.png"
+			}
+		},
+		{
+			"name": "MW01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/35_MW01.png"
+			}
+		},
+		{
+			"name": "MW02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/36_MW02.png"
+			}
+		},
+		{
+			"name": "MU01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/70_MU01.png"
+			}
+		},
+		{
+			"name": "MU02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/71_MU02.png"
+			}
+		},
+		{
+			"name": "MB01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/105_MB01.png"
+			}
+		},
+		{
+			"name": "MB02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/106_MB02.png"
+			}
+		},
+		{
+			"name": "MR01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/140_MR01.png"
+			}
+		},
+		{
+			"name": "MR02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/141_MR02.png"
+			}
+		},
+		{
+			"name": "MG01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/175_MG01.png"
+			}
+		},
+		{
+			"name": "MG02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/176_MG02.png"
+			}
+		},
+		{
+			"name": "UM11",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Snow Creature — Bird",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/217_UM11.png"
+			}
+		},
+		{
+			"name": "UM12",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Zombie Knight",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/218_UM12.png"
+			}
+		},
+		{
+			"name": "UM13",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/219_UM13.png"
+			}
+		},
+		{
+			"name": "UM14",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Instant",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/220_UM14.png"
+			}
+		},
+		{
+			"name": "UM15",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Creature",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/221_UM15.png"
+			}
+		},
+		{
+			"name": "UM16 Astir's Cavalry",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Snow Creature — Shade Knight",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/222_UM16 Astir's Cavalry.png"
+			}
+		},
+		{
+			"name": "UM17",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/223_UM17.png"
+			}
+		},
+		{
+			"name": "UM18",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/224_UM18.png"
+			}
+		},
+		{
+			"name": "UM19",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/225_UM19.png"
+			}
+		},
+		{
+			"name": "UM10 Ideologue of the Cycle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Merfolk Druid",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/216_UM10 Ideologue of the Cycle.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/198_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/199_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/200_RM01.png"
+			}
+		},
+		{
+			"name": "RM01 Kiala, Bark and Blood",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Elemental Wolf",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/206_RM01 Kiala, Bark and Blood.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/201_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/202_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/203_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/204_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/205_RM01.png"
+			}
+		},
+		{
+			"name": "RM01",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/197_RM01.png"
+			}
+		},
+		{
+			"name": "CA01 Rockfield Watch",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Scarecrow",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/227_CA01 Rockfield Watch.png"
+			}
+		},
+		{
+			"name": "CA02 Unformed Wanderer",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/1_CA02 Unformed Wanderer.png"
+			}
+		},
+		{
+			"name": "CA03 Rimeveil Sentry",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/228_CA03 Rimeveil Sentry.png"
+			}
+		},
+		{
+			"name": "CA04 Palefire Greatsword",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/229_CA04 Palefire Greatsword.png"
+			}
+		},
+		{
+			"name": "CA05 Ghost Sigil Totem",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Snow Artifact",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/230_CA05 Ghost Sigil Totem.png"
+			}
+		},
+		{
+			"name": "UA01",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/231_UA01.png"
+			}
+		},
+		{
+			"name": "UA02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/232_UA02.png"
+			}
+		},
+		{
+			"name": "UA03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/233_UA03.png"
+			}
+		},
+		{
+			"name": "UA04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/234_UA04.png"
+			}
+		},
+		{
+			"name": "UA05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/235_UA05.png"
+			}
+		},
+		{
+			"name": "CL01",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Snow Land — Plains",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/236_CL01.png"
+			}
+		},
+		{
+			"name": "UL01",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Snow Land — Plains",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/237_UL01.png"
+			}
+		},
+		{
+			"name": "UL02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/238_UL02.png"
+			}
+		},
+		{
+			"name": "UL03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/239_UL03.png"
+			}
+		},
+		{
+			"name": "UL04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/240_UL04.png"
+			}
+		},
+		{
+			"name": "UL05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/241_UL05.png"
+			}
+		},
+		{
+			"name": "UX01",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/15_UX01.png"
+			}
+		},
+		{
+			"name": "UX02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/16_UX02.png"
+			}
+		},
+		{
+			"name": "UX03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/17_UX03.png"
+			}
+		},
+		{
+			"name": "UX04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/18_UX04.png"
+			}
+		},
+		{
+			"name": "UX05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/19_UX05.png"
+			}
+		},
+		{
+			"name": "RX01",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/7_RX01.png"
+			}
+		},
+		{
+			"name": "RX02",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/8_RX02.png"
+			}
+		},
+		{
+			"name": "RX03",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/9_RX03.png"
+			}
+		},
+		{
+			"name": "RX04",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/10_RX04.png"
+			}
+		},
+		{
+			"name": "RX05",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/11_RX05.png"
+			}
+		},
+		{
+			"name": "RX06",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/12_RX06.png"
+			}
+		},
+		{
+			"name": "RX07",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/13_RX07.png"
+			}
+		},
+		{
+			"name": "RX08",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/14_RX08.png"
+			}
+		},
+		{
+			"name": "MX01",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/2_MX01.png"
+			}
+		},
+		{
+			"name": "MX02",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/3_MX02.png"
+			}
+		},
+		{
+			"name": "MX03",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/4_MX03.png"
+			}
+		},
+		{
+			"name": "MX04",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/5_MX04.png"
+			}
+		},
+		{
+			"name": "MX05",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/6_MX05.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/242_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/243_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/244_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/245_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/246_Forest.png"
+			}
+		},
+		{
+			"name": "Edran, the Sun in Chains",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Creature — God",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/196_Edran, the Sun in Chains.png"
+			}
+		},
+		{
+			"name": "UM20 Ensorcell",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Instant",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/226_UM20 Ensorcell.png"
+			}
+		},
+		{
+			"name": "UM09 Brightblood Oracle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/215_UM09 Brightblood Oracle.png"
+			}
+		},
+		{
+			"name": "UM08",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/214_UM08.png"
+			}
+		},
+		{
+			"name": "UM07",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/213_UM07.png"
+			}
+		},
+		{
+			"name": "UM06 Astir's Cavalry",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Snow Creature — Shade Knight",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/212_UM06 Astir's Cavalry.png"
+			}
+		},
+		{
+			"name": "UM05 Glimpse of Edran",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/211_UM05 Glimpse of Edran.png"
+			}
+		},
+		{
+			"name": "UM04",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/210_UM04.png"
+			}
+		},
+		{
+			"name": "UM03",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/209_UM03.png"
+			}
+		},
+		{
+			"name": "UM02",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Zombie Knight",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/208_UM02.png"
+			}
+		},
+		{
+			"name": "UM01",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Snow Creature — Bird",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/ALS-files/img/207_UM01.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Astir, the Night Relentless
+	2 RW01
+	2 RW02
+	2 RW03
+	2 RW04
+	2 RW05
+	2 RW06
+	2 RW07
+	2 RU01
+	2 RU02
+	2 RU03
+	2 RU04
+	2 RU05
+	2 RU06
+	2 RU07
+	2 RB01
+	2 RB02
+	2 RB03
+	2 RB04
+	2 RB05
+	2 RB06
+	2 RB07
+	2 RR01
+	2 RR02
+	2 RR03
+	2 RR04
+	2 RR05
+	2 RR06
+	2 RR07
+	2 RG01
+	2 RG02
+	2 RG03
+	2 RG04
+	2 RG05
+	2 RG06
+	2 RG07
+	1 MW01
+	1 MW02
+	1 MU01
+	1 MU02
+	1 MB01
+	1 MB02
+	1 MR01
+	1 MR02
+	1 MG01
+	1 MG02
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RM01 Kiala, Bark and Blood
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RX01
+	2 RX02
+	2 RX03
+	2 RX04
+	2 RX05
+	2 RX06
+	2 RX07
+	2 RX08
+	1 MX01
+	1 MX02
+	1 MX03
+	1 MX04
+	1 MX05
+	1 Edran, the Sun in Chains
+[uncommon(3)]
+	4 UU11 Right the Balance
+	4 UW01
+	4 UW02
+	4 UW03
+	4 UW04
+	4 UW05
+	4 UW06
+	4 UW07
+	4 UW08
+	4 UW09
+	4 UW10
+	4 UW11
+	4 UU01
+	4 UU02
+	4 UU03
+	4 UU04
+	4 UU05
+	4 UU06
+	4 UU07
+	4 UU08
+	4 UU09
+	4 UU10
+	4 UB01
+	4 UB02
+	4 UB03
+	4 UB04
+	4 UB05
+	4 UB06
+	4 UB07
+	4 UB08
+	4 UB09
+	4 UB10
+	4 UB11
+	4 UR01
+	4 UR02
+	4 UR03
+	4 UR04
+	4 UR05
+	4 UR06
+	4 UR07
+	4 UR08
+	4 UR09
+	4 UR10
+	4 UR11
+	4 UG01
+	4 UG02
+	4 UG03
+	4 UG04
+	4 UG05
+	4 UG06
+	4 UG07
+	4 UG08
+	4 UG09
+	4 UG10
+	4 UG11
+	4 UM11
+	4 UM12
+	4 UM13
+	4 UM14
+	4 UM15
+	4 UM16 Astir's Cavalry
+	4 UM17
+	4 UM18
+	4 UM19
+	4 UM10 Ideologue of the Cycle
+	4 UA01
+	4 UA02
+	4 UA03
+	4 UA04
+	4 UA05
+	4 UL01
+	4 UL02
+	4 UL03
+	4 UL04
+	4 UL05
+	4 UX01
+	4 UX02
+	4 UX03
+	4 UX04
+	4 UX05
+	4 UM20 Ensorcell
+	4 UM09 Brightblood Oracle
+	4 UM08
+	4 UM07
+	4 UM06 Astir's Cavalry
+	4 UM05 Glimpse of Edran
+	4 UM04
+	4 UM03
+	4 UM02
+	4 UM01
+[common(6)]
+	8 CW01 Courtyard Lookout
+	8 CW02 Vision of Hope
+	8 CW03 Snowslope Hunter
+	8 CW04 Crag Mystic
+	8 CW05 Winterglade Infantry
+	8 CW06 Tallian Cuirassier
+	8 CW07 Steppe Patrol
+	8 CW08 Treeline Refugees
+	8 CW09 Tundra Sentry
+	8 CW10 Godblood Raptor
+	8 CW11 Speaker of the Blood Frost
+	8 CW12 Repel the Cursed
+	8 CW13 To Fight Again
+	8 CW14 Glorious Memoriam
+	8 CW15 Frozen Over
+	8 CU01 Frostbitten Rampart
+	8 CU02 Shoal Inquisitors
+	8 CU03 Iceheart Aspect
+	8 CU04 Whistlewind Aven
+	8 CU05 Enndemere Waterwatch
+	8 CU06 Rimeveil Terrier
+	8 CU07 Ordhenn Exalt
+	8 CU08 Seaguild Matron
+	8 CU09 Enhance
+	8 CU10 Twilight's Will
+	8 CU13 Search for Signs
+	8 CU12 Fall Through
+	8 CU14 Angelic Memoriam
+	8 CU15 Ensconce in Ice
+	8 CB01 Tombstone Penitent
+	8 CB02 Bloodcoat Guide
+	8 CB03 Restless Legionnaire
+	8 CB04 Marrow Drifter
+	8 CB05 Evoke Old Magic
+	8 CB06 Blackstar Faithful
+	8 CB07 Squall Witch
+	8 CB08 Steelfang Vulture
+	8 CB09 Tether Keeper
+	8 CB10 Calcify
+	8 CB11 Bear the Cold
+	8 CB12 Lost in Enndemere
+	8 CB13 Dance of Fallen Kin
+	8 CB14 Grisly Memoriam
+	8 CB15 Days of Mourning
+	8 CR01 Ghost Sigil Champion
+	8 CR02 Equinox Aspirant
+	8 CR03 Spiteful Bladesmith
+	8 CR04 Exhelian Linebreaker
+	8 CR05 Hollowbone Consul
+	8 CR06 Steppe Howler
+	8 CR09 Emblazoned Ash
+	8 CR07 Linden Tracker
+	8 CR08 Soulcave Gauntlet
+	8 CR10 Blood Arts
+	8 CR12 Remnants' Devotion
+	8 CR11 Bombard
+	8 CR13 Stellata's Last Will
+	8 CR14 Vengeant Memoriam
+	8 CR15 Jagged Blaze
+	8 CG01 Vista Tenders
+	8 CG02 Rotpack Scout
+	8 CG03 Siltcurrent Sage
+	8 CG04 Mossmane Liaison
+	8 CG05 Deepcover Harpoonist
+	8 CG06 Ivory Collector
+	8 CG07 Voice of Broken Earth
+	8 CG08 Rotpack Guardian
+	8 CG09 Soulgorger Wurm
+	8 CG10 Ordhenn Colossus
+	8 CG11 Hold Firm
+	8 CG12 Hymn of Second Dawn
+	8 CG13 Chase Into Death
+	8 CG14 Primal Memoriam
+	8 CG15 Boreal Grove
+	8 CU11 Channel the Ulderlords
+	8 CA01 Rockfield Watch
+	8 CA02 Unformed Wanderer
+	8 CA03 Rimeveil Sentry
+	8 CA04 Palefire Greatsword
+	8 CA05 Ghost Sigil Totem
+	8 CL01
+[common | masterpiece(1)]
+	8 CW01 Courtyard Lookout
+	8 CW02 Vision of Hope
+	8 CW03 Snowslope Hunter
+	8 CW04 Crag Mystic
+	8 CW05 Winterglade Infantry
+	8 CW06 Tallian Cuirassier
+	8 CW07 Steppe Patrol
+	8 CW08 Treeline Refugees
+	8 CW09 Tundra Sentry
+	8 CW10 Godblood Raptor
+	8 CW11 Speaker of the Blood Frost
+	8 CW12 Repel the Cursed
+	8 CW13 To Fight Again
+	8 CW14 Glorious Memoriam
+	8 CW15 Frozen Over
+	8 CU01 Frostbitten Rampart
+	8 CU02 Shoal Inquisitors
+	8 CU03 Iceheart Aspect
+	8 CU04 Whistlewind Aven
+	8 CU05 Enndemere Waterwatch
+	8 CU06 Rimeveil Terrier
+	8 CU07 Ordhenn Exalt
+	8 CU08 Seaguild Matron
+	8 CU09 Enhance
+	8 CU10 Twilight's Will
+	8 CU13 Search for Signs
+	8 CU12 Fall Through
+	8 CU14 Angelic Memoriam
+	8 CU15 Ensconce in Ice
+	8 CB01 Tombstone Penitent
+	8 CB02 Bloodcoat Guide
+	8 CB03 Restless Legionnaire
+	8 CB04 Marrow Drifter
+	8 CB05 Evoke Old Magic
+	8 CB06 Blackstar Faithful
+	8 CB07 Squall Witch
+	8 CB08 Steelfang Vulture
+	8 CB09 Tether Keeper
+	8 CB10 Calcify
+	8 CB11 Bear the Cold
+	8 CB12 Lost in Enndemere
+	8 CB13 Dance of Fallen Kin
+	8 CB14 Grisly Memoriam
+	8 CB15 Days of Mourning
+	8 CR01 Ghost Sigil Champion
+	8 CR02 Equinox Aspirant
+	8 CR03 Spiteful Bladesmith
+	8 CR04 Exhelian Linebreaker
+	8 CR05 Hollowbone Consul
+	8 CR06 Steppe Howler
+	8 CR09 Emblazoned Ash
+	8 CR07 Linden Tracker
+	8 CR08 Soulcave Gauntlet
+	8 CR10 Blood Arts
+	8 CR12 Remnants' Devotion
+	8 CR11 Bombard
+	8 CR13 Stellata's Last Will
+	8 CR14 Vengeant Memoriam
+	8 CR15 Jagged Blaze
+	8 CG01 Vista Tenders
+	8 CG02 Rotpack Scout
+	8 CG03 Siltcurrent Sage
+	8 CG04 Mossmane Liaison
+	8 CG05 Deepcover Harpoonist
+	8 CG06 Ivory Collector
+	8 CG07 Voice of Broken Earth
+	8 CG08 Rotpack Guardian
+	8 CG09 Soulgorger Wurm
+	8 CG10 Ordhenn Colossus
+	8 CG11 Hold Firm
+	8 CG12 Hymn of Second Dawn
+	8 CG13 Chase Into Death
+	8 CG14 Primal Memoriam
+	8 CG15 Boreal Grove
+	8 CU11 Channel the Ulderlords
+	8 CA01 Rockfield Watch
+	8 CA02 Unformed Wanderer
+	8 CA03 Rimeveil Sentry
+	8 CA04 Palefire Greatsword
+	8 CA05 Ghost Sigil Totem
+	8 CL01
+[foil(1)]
+	1 Astir, the Night Relentless
+	12 CW01 Courtyard Lookout
+	12 CW02 Vision of Hope
+	12 CW03 Snowslope Hunter
+	12 CW04 Crag Mystic
+	12 CW05 Winterglade Infantry
+	12 CW06 Tallian Cuirassier
+	12 CW07 Steppe Patrol
+	12 CW08 Treeline Refugees
+	12 CW09 Tundra Sentry
+	12 CW10 Godblood Raptor
+	12 CW11 Speaker of the Blood Frost
+	12 CW12 Repel the Cursed
+	12 CW13 To Fight Again
+	12 CW14 Glorious Memoriam
+	12 CW15 Frozen Over
+	12 CU01 Frostbitten Rampart
+	12 CU02 Shoal Inquisitors
+	12 CU03 Iceheart Aspect
+	12 CU04 Whistlewind Aven
+	12 CU05 Enndemere Waterwatch
+	12 CU06 Rimeveil Terrier
+	12 CU07 Ordhenn Exalt
+	12 CU08 Seaguild Matron
+	12 CU09 Enhance
+	12 CU10 Twilight's Will
+	6 UU11 Right the Balance
+	12 CU13 Search for Signs
+	12 CU12 Fall Through
+	12 CU14 Angelic Memoriam
+	12 CU15 Ensconce in Ice
+	12 CB01 Tombstone Penitent
+	12 CB02 Bloodcoat Guide
+	12 CB03 Restless Legionnaire
+	12 CB04 Marrow Drifter
+	12 CB05 Evoke Old Magic
+	12 CB06 Blackstar Faithful
+	12 CB07 Squall Witch
+	12 CB08 Steelfang Vulture
+	12 CB09 Tether Keeper
+	12 CB10 Calcify
+	12 CB11 Bear the Cold
+	12 CB12 Lost in Enndemere
+	12 CB13 Dance of Fallen Kin
+	12 CB14 Grisly Memoriam
+	12 CB15 Days of Mourning
+	12 CR01 Ghost Sigil Champion
+	12 CR02 Equinox Aspirant
+	12 CR03 Spiteful Bladesmith
+	12 CR04 Exhelian Linebreaker
+	12 CR05 Hollowbone Consul
+	12 CR06 Steppe Howler
+	12 CR09 Emblazoned Ash
+	12 CR07 Linden Tracker
+	12 CR08 Soulcave Gauntlet
+	12 CR10 Blood Arts
+	12 CR12 Remnants' Devotion
+	12 CR11 Bombard
+	12 CR13 Stellata's Last Will
+	12 CR14 Vengeant Memoriam
+	12 CR15 Jagged Blaze
+	12 CG01 Vista Tenders
+	12 CG02 Rotpack Scout
+	12 CG03 Siltcurrent Sage
+	12 CG04 Mossmane Liaison
+	12 CG05 Deepcover Harpoonist
+	12 CG06 Ivory Collector
+	12 CG07 Voice of Broken Earth
+	12 CG08 Rotpack Guardian
+	12 CG09 Soulgorger Wurm
+	12 CG10 Ordhenn Colossus
+	12 CG11 Hold Firm
+	12 CG12 Hymn of Second Dawn
+	12 CG13 Chase Into Death
+	12 CG14 Primal Memoriam
+	12 CG15 Boreal Grove
+	6 UW01
+	6 UW02
+	6 UW03
+	6 UW04
+	6 UW05
+	6 UW06
+	6 UW07
+	6 UW08
+	6 UW09
+	6 UW10
+	6 UW11
+	6 UU01
+	6 UU02
+	6 UU03
+	6 UU04
+	6 UU05
+	6 UU06
+	6 UU07
+	6 UU08
+	6 UU09
+	6 UU10
+	12 CU11 Channel the Ulderlords
+	6 UB01
+	6 UB02
+	6 UB03
+	6 UB04
+	6 UB05
+	6 UB06
+	6 UB07
+	6 UB08
+	6 UB09
+	6 UB10
+	6 UB11
+	6 UR01
+	6 UR02
+	6 UR03
+	6 UR04
+	6 UR05
+	6 UR06
+	6 UR07
+	6 UR08
+	6 UR09
+	6 UR10
+	6 UR11
+	6 UG01
+	6 UG02
+	6 UG03
+	6 UG04
+	6 UG05
+	6 UG06
+	6 UG07
+	6 UG08
+	6 UG09
+	6 UG10
+	6 UG11
+	2 RW01
+	2 RW02
+	2 RW03
+	2 RW04
+	2 RW05
+	2 RW06
+	2 RW07
+	2 RU01
+	2 RU02
+	2 RU03
+	2 RU04
+	2 RU05
+	2 RU06
+	2 RU07
+	2 RB01
+	2 RB02
+	2 RB03
+	2 RB04
+	2 RB05
+	2 RB06
+	2 RB07
+	2 RR01
+	2 RR02
+	2 RR03
+	2 RR04
+	2 RR05
+	2 RR06
+	2 RR07
+	2 RG01
+	2 RG02
+	2 RG03
+	2 RG04
+	2 RG05
+	2 RG06
+	2 RG07
+	1 MW01
+	1 MW02
+	1 MU01
+	1 MU02
+	1 MB01
+	1 MB02
+	1 MR01
+	1 MR02
+	1 MG01
+	1 MG02
+	6 UM11
+	6 UM12
+	6 UM13
+	6 UM14
+	6 UM15
+	6 UM16 Astir's Cavalry
+	6 UM17
+	6 UM18
+	6 UM19
+	6 UM10 Ideologue of the Cycle
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RM01 Kiala, Bark and Blood
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RM01
+	2 RM01
+	12 CA01 Rockfield Watch
+	12 CA02 Unformed Wanderer
+	12 CA03 Rimeveil Sentry
+	12 CA04 Palefire Greatsword
+	12 CA05 Ghost Sigil Totem
+	6 UA01
+	6 UA02
+	6 UA03
+	6 UA04
+	6 UA05
+	12 CL01
+	6 UL01
+	6 UL02
+	6 UL03
+	6 UL04
+	6 UL05
+	6 UX01
+	6 UX02
+	6 UX03
+	6 UX04
+	6 UX05
+	2 RX01
+	2 RX02
+	2 RX03
+	2 RX04
+	2 RX05
+	2 RX06
+	2 RX07
+	2 RX08
+	1 MX01
+	1 MX02
+	1 MX03
+	1 MX04
+	1 MX05
+	1 Edran, the Sun in Chains
+	6 UM20 Ensorcell
+	6 UM09 Brightblood Oracle
+	6 UM08
+	6 UM07
+	6 UM06 Astir's Cavalry
+	6 UM05 Glimpse of Edran
+	6 UM04
+	6 UM03
+	6 UM02
+	6 UM01
+[wildcard(1)]
+	4 Astir, the Night Relentless
+	6 CW01 Courtyard Lookout
+	6 CW02 Vision of Hope
+	6 CW03 Snowslope Hunter
+	6 CW04 Crag Mystic
+	6 CW05 Winterglade Infantry
+	6 CW06 Tallian Cuirassier
+	6 CW07 Steppe Patrol
+	6 CW08 Treeline Refugees
+	6 CW09 Tundra Sentry
+	6 CW10 Godblood Raptor
+	6 CW11 Speaker of the Blood Frost
+	6 CW12 Repel the Cursed
+	6 CW13 To Fight Again
+	6 CW14 Glorious Memoriam
+	6 CW15 Frozen Over
+	6 CU01 Frostbitten Rampart
+	6 CU02 Shoal Inquisitors
+	6 CU03 Iceheart Aspect
+	6 CU04 Whistlewind Aven
+	6 CU05 Enndemere Waterwatch
+	6 CU06 Rimeveil Terrier
+	6 CU07 Ordhenn Exalt
+	6 CU08 Seaguild Matron
+	6 CU09 Enhance
+	6 CU10 Twilight's Will
+	15 UU11 Right the Balance
+	6 CU13 Search for Signs
+	6 CU12 Fall Through
+	6 CU14 Angelic Memoriam
+	6 CU15 Ensconce in Ice
+	6 CB01 Tombstone Penitent
+	6 CB02 Bloodcoat Guide
+	6 CB03 Restless Legionnaire
+	6 CB04 Marrow Drifter
+	6 CB05 Evoke Old Magic
+	6 CB06 Blackstar Faithful
+	6 CB07 Squall Witch
+	6 CB08 Steelfang Vulture
+	6 CB09 Tether Keeper
+	6 CB10 Calcify
+	6 CB11 Bear the Cold
+	6 CB12 Lost in Enndemere
+	6 CB13 Dance of Fallen Kin
+	6 CB14 Grisly Memoriam
+	6 CB15 Days of Mourning
+	6 CR01 Ghost Sigil Champion
+	6 CR02 Equinox Aspirant
+	6 CR03 Spiteful Bladesmith
+	6 CR04 Exhelian Linebreaker
+	6 CR05 Hollowbone Consul
+	6 CR06 Steppe Howler
+	6 CR09 Emblazoned Ash
+	6 CR07 Linden Tracker
+	6 CR08 Soulcave Gauntlet
+	6 CR10 Blood Arts
+	6 CR12 Remnants' Devotion
+	6 CR11 Bombard
+	6 CR13 Stellata's Last Will
+	6 CR14 Vengeant Memoriam
+	6 CR15 Jagged Blaze
+	6 CG01 Vista Tenders
+	6 CG02 Rotpack Scout
+	6 CG03 Siltcurrent Sage
+	6 CG04 Mossmane Liaison
+	6 CG05 Deepcover Harpoonist
+	6 CG06 Ivory Collector
+	6 CG07 Voice of Broken Earth
+	6 CG08 Rotpack Guardian
+	6 CG09 Soulgorger Wurm
+	6 CG10 Ordhenn Colossus
+	6 CG11 Hold Firm
+	6 CG12 Hymn of Second Dawn
+	6 CG13 Chase Into Death
+	6 CG14 Primal Memoriam
+	6 CG15 Boreal Grove
+	15 UW01
+	15 UW02
+	15 UW03
+	15 UW04
+	15 UW05
+	15 UW06
+	15 UW07
+	15 UW08
+	15 UW09
+	15 UW10
+	15 UW11
+	15 UU01
+	15 UU02
+	15 UU03
+	15 UU04
+	15 UU05
+	15 UU06
+	15 UU07
+	15 UU08
+	15 UU09
+	15 UU10
+	6 CU11 Channel the Ulderlords
+	15 UB01
+	15 UB02
+	15 UB03
+	15 UB04
+	15 UB05
+	15 UB06
+	15 UB07
+	15 UB08
+	15 UB09
+	15 UB10
+	15 UB11
+	15 UR01
+	15 UR02
+	15 UR03
+	15 UR04
+	15 UR05
+	15 UR06
+	15 UR07
+	15 UR08
+	15 UR09
+	15 UR10
+	15 UR11
+	15 UG01
+	15 UG02
+	15 UG03
+	15 UG04
+	15 UG05
+	15 UG06
+	15 UG07
+	15 UG08
+	15 UG09
+	15 UG10
+	15 UG11
+	7 RW01
+	7 RW02
+	7 RW03
+	7 RW04
+	7 RW05
+	7 RW06
+	7 RW07
+	7 RU01
+	7 RU02
+	7 RU03
+	7 RU04
+	7 RU05
+	7 RU06
+	7 RU07
+	7 RB01
+	7 RB02
+	7 RB03
+	7 RB04
+	7 RB05
+	7 RB06
+	7 RB07
+	7 RR01
+	7 RR02
+	7 RR03
+	7 RR04
+	7 RR05
+	7 RR06
+	7 RR07
+	7 RG01
+	7 RG02
+	7 RG03
+	7 RG04
+	7 RG05
+	7 RG06
+	7 RG07
+	4 MW01
+	4 MW02
+	4 MU01
+	4 MU02
+	4 MB01
+	4 MB02
+	4 MR01
+	4 MR02
+	4 MG01
+	4 MG02
+	15 UM11
+	15 UM12
+	15 UM13
+	15 UM14
+	15 UM15
+	15 UM16 Astir's Cavalry
+	15 UM17
+	15 UM18
+	15 UM19
+	15 UM10 Ideologue of the Cycle
+	7 RM01
+	7 RM01
+	7 RM01
+	7 RM01 Kiala, Bark and Blood
+	7 RM01
+	7 RM01
+	7 RM01
+	7 RM01
+	7 RM01
+	7 RM01
+	6 CA01 Rockfield Watch
+	6 CA02 Unformed Wanderer
+	6 CA03 Rimeveil Sentry
+	6 CA04 Palefire Greatsword
+	6 CA05 Ghost Sigil Totem
+	15 UA01
+	15 UA02
+	15 UA03
+	15 UA04
+	15 UA05
+	6 CL01
+	15 UL01
+	15 UL02
+	15 UL03
+	15 UL04
+	15 UL05
+	15 UX01
+	15 UX02
+	15 UX03
+	15 UX04
+	15 UX05
+	7 RX01
+	7 RX02
+	7 RX03
+	7 RX04
+	7 RX05
+	7 RX06
+	7 RX07
+	7 RX08
+	4 MX01
+	4 MX02
+	4 MX03
+	4 MX04
+	4 MX05
+	4 Edran, the Sun in Chains
+	15 UM20 Ensorcell
+	15 UM09 Brightblood Oracle
+	15 UM08
+	15 UM07
+	15 UM06 Astir's Cavalry
+	15 UM05 Glimpse of Edran
+	15 UM04
+	15 UM03
+	15 UM02
+	15 UM01

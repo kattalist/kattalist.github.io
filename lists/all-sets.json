@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "ALS",
+            "set_name": "Alsketh: Into the Rimeveil",
+            "formats": ""
+        },
+        {
             "set_code": "SGP",
             "set_name": "Stirrings in Goldport",
             "formats": ""
