@@ -1,7 +1,7 @@
 ﻿[
     {
         "card_name": "Grand Triarch",
-        "number": 42,
+        "number": 44,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -9,15 +9,15 @@
     },
     {
         "card_name": "Lightwire Swarm",
-        "number": 85,
+        "number": 87,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Bloodlust Visionary",
-        "number": 101,
+        "card_name": "Graven Confidant",
+        "number": 114,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -33,7 +33,7 @@
     },
     {
         "card_name": "Baalakus, the Zenith",
-        "number": 169,
+        "number": 170,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -41,7 +41,7 @@
     },
     {
         "card_name": "Torvinald, Iron Eminence",
-        "number": 59,
+        "number": 61,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -49,15 +49,15 @@
     },
     {
         "card_name": "Lostlands Oracle",
-        "number": 86,
+        "number": 88,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Graven Confidant",
-        "number": 114,
+        "card_name": "Soulflame Immolator",
+        "number": 128,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -65,7 +65,7 @@
     },
     {
         "card_name": "A World Worth Fighting For",
-        "number": 167,
+        "number": 168,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -73,7 +73,7 @@
     },
     {
         "card_name": "Eccentric Geneticist",
-        "number": 179,
+        "number": 180,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -81,7 +81,7 @@
     },
     {
         "card_name": "Destined End",
-        "number": 34,
+        "number": 36,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -89,7 +89,7 @@
     },
     {
         "card_name": "Devonia, Lost Ministrix",
-        "number": 72,
+        "number": 74,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -97,15 +97,15 @@
     },
     {
         "card_name": "Fathomless Invocations",
-        "number": 110,
+        "number": 111,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Bullet Locomotive",
-        "number": 137,
+        "card_name": "Bloodbone Pietist",
+        "number": 138,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -113,7 +113,7 @@
     },
     {
         "card_name": "Chasm Behemoth",
-        "number": 175,
+        "number": 176,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -121,7 +121,7 @@
     },
     {
         "card_name": "Evelline, Ark of Salvation",
-        "number": 37,
+        "number": 39,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -129,7 +129,7 @@
     },
     {
         "card_name": "Friede, Weave Dancer",
-        "number": 78,
+        "number": 80,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -153,7 +153,7 @@
     },
     {
         "card_name": "Curious Botanist",
-        "number": 177,
+        "number": 178,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -161,7 +161,7 @@
     },
     {
         "card_name": "Fated Reunion",
-        "number": 39,
+        "number": 41,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -169,7 +169,7 @@
     },
     {
         "card_name": "Jaded Coroners",
-        "number": 84,
+        "number": 86,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -193,7 +193,7 @@
     },
     {
         "card_name": "Gene Recombinators",
-        "number": 185,
+        "number": 186,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -201,7 +201,7 @@
     },
     {
         "card_name": "High Sergeant Liano",
-        "number": 43,
+        "number": 45,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -209,7 +209,7 @@
     },
     {
         "card_name": "Roiling Undertow",
-        "number": 92,
+        "number": 94,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -217,7 +217,7 @@
     },
     {
         "card_name": "Strike Suppressor",
-        "number": 132,
+        "number": 133,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -233,7 +233,7 @@
     },
     {
         "card_name": "Herald of the Expanse",
-        "number": 186,
+        "number": 187,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -241,7 +241,7 @@
     },
     {
         "card_name": "Wharf Inspector",
-        "number": 63,
+        "number": 65,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -249,7 +249,7 @@
     },
     {
         "card_name": "Scion of Insanity",
-        "number": 93,
+        "number": 95,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -257,7 +257,7 @@
     },
     {
         "card_name": "Blood Soliloquy",
-        "number": 100,
+        "number": 102,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -265,7 +265,7 @@
     },
     {
         "card_name": "West District Hangar",
-        "number": 164,
+        "number": 165,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -281,46 +281,6 @@
     },
     {
         "card_name": "Ether Joyride",
-        "number": 36,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Adaptive Lieutenant",
-        "number": 66,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Brethren Priestess",
-        "number": 102,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Ashen Ravager",
-        "number": 135,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Ancient Stirrings",
-        "number": 168,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Faculty of Engineering",
         "number": 38,
         "shape": "normal",
         "set": "SGP",
@@ -328,15 +288,15 @@
         "position": ""
     },
     {
-        "card_name": "Ancestral Voidstone",
-        "number": 67,
+        "card_name": "Adaptive Lieutenant",
+        "number": 68,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Channel the Dark",
+        "card_name": "Brethren Priestess",
         "number": 103,
         "shape": "normal",
         "set": "SGP",
@@ -344,23 +304,23 @@
         "position": ""
     },
     {
-        "card_name": "Careening Steam Engine",
-        "number": 138,
+        "card_name": "Ashen Ravager",
+        "number": 136,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Bitten By the Void",
-        "number": 171,
+        "card_name": "Ancient Stirrings",
+        "number": 169,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Flagship Auto-Enforcer",
+        "card_name": "Faculty of Engineering",
         "number": 40,
         "shape": "normal",
         "set": "SGP",
@@ -368,8 +328,48 @@
         "position": ""
     },
     {
+        "card_name": "Ancestral Voidstone",
+        "number": 69,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Channel the Dark",
+        "number": 104,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Careening Steam Engine",
+        "number": 139,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bitten By the Void",
+        "number": 172,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Flagship Auto-Enforcer",
+        "number": 42,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Deepwater Whispers",
-        "number": 71,
+        "number": 73,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -377,7 +377,7 @@
     },
     {
         "card_name": "Corpse Inspectors",
-        "number": 105,
+        "number": 106,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -393,7 +393,7 @@
     },
     {
         "card_name": "Botanical Conference",
-        "number": 172,
+        "number": 173,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -401,7 +401,7 @@
     },
     {
         "card_name": "Frontline Cavalier",
-        "number": 41,
+        "number": 43,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -409,7 +409,7 @@
     },
     {
         "card_name": "Ego Devourer",
-        "number": 75,
+        "number": 77,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -417,7 +417,7 @@
     },
     {
         "card_name": "Epitaph Lurkers",
-        "number": 108,
+        "number": 109,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -433,7 +433,7 @@
     },
     {
         "card_name": "Cataclysm Constable",
-        "number": 174,
+        "number": 175,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -441,7 +441,7 @@
     },
     {
         "card_name": "Highforged Overseer",
-        "number": 44,
+        "number": 46,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -449,7 +449,7 @@
     },
     {
         "card_name": "Fade",
-        "number": 77,
+        "number": 79,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -457,7 +457,7 @@
     },
     {
         "card_name": "Festering Eyemass",
-        "number": 111,
+        "number": 112,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -473,7 +473,7 @@
     },
     {
         "card_name": "Confidential Science",
-        "number": 176,
+        "number": 177,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -481,7 +481,7 @@
     },
     {
         "card_name": "Industry Kingpins",
-        "number": 45,
+        "number": 47,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -489,7 +489,7 @@
     },
     {
         "card_name": "In the Nick of Time",
-        "number": 81,
+        "number": 83,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -497,7 +497,7 @@
     },
     {
         "card_name": "Flesh Shredder",
-        "number": 112,
+        "number": 113,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -513,7 +513,7 @@
     },
     {
         "card_name": "Eldritch Growth",
-        "number": 180,
+        "number": 181,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -521,7 +521,7 @@
     },
     {
         "card_name": "Never Seen Again",
-        "number": 48,
+        "number": 50,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -529,15 +529,15 @@
     },
     {
         "card_name": "Inspired Retrofitter",
-        "number": 83,
+        "number": 85,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Glorious Elegy",
-        "number": 113,
+        "card_name": "Karsten's Thought Police",
+        "number": 119,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -553,7 +553,7 @@
     },
     {
         "card_name": "For All of Calloran",
-        "number": 182,
+        "number": 183,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -561,23 +561,23 @@
     },
     {
         "card_name": "North District Prior",
-        "number": 49,
+        "number": 51,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Piece It Together",
-        "number": 88,
+        "card_name": "Piecing It Together",
+        "number": 90,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Karsten's Thought Police",
-        "number": 119,
+        "card_name": "North Salcman Vigil",
+        "number": 125,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -593,46 +593,6 @@
     },
     {
         "card_name": "Holism Seeker",
-        "number": 188,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Scape Surveyor",
-        "number": 53,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Pore Over",
-        "number": 89,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "North Salcman Vigil",
-        "number": 125,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Sacrifice Archivist",
-        "number": 157,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Impact Surveyors",
         "number": 189,
         "shape": "normal",
         "set": "SGP",
@@ -640,7 +600,7 @@
         "position": ""
     },
     {
-        "card_name": "Sky Force Retiree",
+        "card_name": "Scape Surveyor",
         "number": 55,
         "shape": "normal",
         "set": "SGP",
@@ -648,8 +608,8 @@
         "position": ""
     },
     {
-        "card_name": "Port Inspector",
-        "number": 90,
+        "card_name": "Pore Over",
+        "number": 91,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -664,15 +624,15 @@
         "position": ""
     },
     {
-        "card_name": "Steelsoul Ignition",
-        "number": 159,
+        "card_name": "Sacrifice Archivist",
+        "number": 158,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Manifold Chorus",
+        "card_name": "Impact Surveyors",
         "number": 190,
         "shape": "normal",
         "set": "SGP",
@@ -680,7 +640,7 @@
         "position": ""
     },
     {
-        "card_name": "Thousand-Mind Cutthroat",
+        "card_name": "Sky Force Retiree",
         "number": 57,
         "shape": "normal",
         "set": "SGP",
@@ -688,8 +648,8 @@
         "position": ""
     },
     {
-        "card_name": "Watchman of the Deep",
-        "number": 97,
+        "card_name": "Port Inspector",
+        "number": 92,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -704,8 +664,8 @@
         "position": ""
     },
     {
-        "card_name": "Tormented Eulogist",
-        "number": 161,
+        "card_name": "Steelsoul Ignition",
+        "number": 160,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -720,16 +680,16 @@
         "position": ""
     },
     {
-        "card_name": "Vintage Fanatic",
-        "number": 60,
+        "card_name": "Thousand-Mind Cutthroat",
+        "number": 59,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Wiped Clean",
-        "number": 98,
+        "card_name": "Watchman of the Deep",
+        "number": 99,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -737,15 +697,15 @@
     },
     {
         "card_name": "Stonebridge Ambush",
-        "number": 131,
+        "number": 132,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Wildfire Aven",
-        "number": 165,
+        "card_name": "Tormented Eulogist",
+        "number": 162,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -760,7 +720,7 @@
         "position": ""
     },
     {
-        "card_name": "West District Chassis",
+        "card_name": "Vintage Fanatic",
         "number": 62,
         "shape": "normal",
         "set": "SGP",
@@ -768,8 +728,8 @@
         "position": ""
     },
     {
-        "card_name": "Writheform",
-        "number": 99,
+        "card_name": "Wiped Clean",
+        "number": 100,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -777,14 +737,14 @@
     },
     {
         "card_name": "Unnatural Torment",
-        "number": 133,
+        "number": 134,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Willbreaker Lance",
+        "card_name": "Wildfire Aven",
         "number": 166,
         "shape": "normal",
         "set": "SGP",
@@ -792,7 +752,7 @@
         "position": ""
     },
     {
-        "card_name": "Willowvine Sentinel",
+        "card_name": "Voices in the Dark",
         "number": 199,
         "shape": "normal",
         "set": "SGP",
@@ -800,16 +760,16 @@
         "position": ""
     },
     {
-        "card_name": "Aerial Augmentation",
-        "number": 32,
+        "card_name": "West District Chassis",
+        "number": 64,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Aviary Whisperer",
-        "number": 68,
+        "card_name": "Writheform",
+        "number": 101,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -817,78 +777,38 @@
     },
     {
         "card_name": "Compelled to Die",
-        "number": 104,
+        "number": 105,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Blinding Immolation",
-        "number": 136,
+        "card_name": "Willbreaker Lance",
+        "number": 167,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Yestergrove Relic",
-        "number": 202,
+        "card_name": "Willowvine Sentinel",
+        "number": 200,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Cabaret Seductress",
-        "number": 33,
+        "card_name": "Aerial Augmentation",
+        "number": 34,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Black Site Asylum",
-        "number": 69,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Croak",
-        "number": 106,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Commune with Silence",
-        "number": 139,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Barksplitter Colossus",
-        "number": 170,
-        "shape": "adventure",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Elden Crucible",
-        "number": 35,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Collaborate",
+        "card_name": "Aviary Whisperer",
         "number": 70,
         "shape": "normal",
         "set": "SGP",
@@ -896,7 +816,7 @@
         "position": ""
     },
     {
-        "card_name": "Cruel Patrician",
+        "card_name": "Croak",
         "number": 107,
         "shape": "normal",
         "set": "SGP",
@@ -904,7 +824,47 @@
         "position": ""
     },
     {
-        "card_name": "Crimson Gladeguard",
+        "card_name": "Blinding Immolation",
+        "number": 137,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Yestergrove Relic",
+        "number": 203,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cabaret Seductress",
+        "number": 35,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Black Site Asylum",
+        "number": 71,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cruel Patrician",
+        "number": 108,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Commune with Silence",
         "number": 140,
         "shape": "normal",
         "set": "SGP",
@@ -912,24 +872,24 @@
         "position": ""
     },
     {
-        "card_name": "Branchbound Speaker",
-        "number": 173,
+        "card_name": "Barksplitter Colossus",
+        "number": 171,
+        "shape": "adventure",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Elden Crucible",
+        "number": 37,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Mire Pathforger",
-        "number": 46,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Diviner of Relics",
-        "number": 73,
+        "card_name": "Collaborate",
+        "number": 72,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -944,7 +904,7 @@
         "position": ""
     },
     {
-        "card_name": "Cutting-Edge Munitions",
+        "card_name": "Crimson Gladeguard",
         "number": 141,
         "shape": "normal",
         "set": "SGP",
@@ -952,24 +912,24 @@
         "position": ""
     },
     {
-        "card_name": "Donnybrook",
-        "number": 178,
+        "card_name": "Branchbound Speaker",
+        "number": 174,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Mournful Matriarch",
-        "number": 47,
+        "card_name": "Mire Pathforger",
+        "number": 48,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Eavesdrop",
-        "number": 74,
+        "card_name": "Diviner of Relics",
+        "number": 75,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -992,23 +952,23 @@
         "position": ""
     },
     {
-        "card_name": "First Responders",
-        "number": 181,
+        "card_name": "Donnybrook",
+        "number": 179,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Opalwing Cavalry",
-        "number": 50,
+        "card_name": "Mournful Matriarch",
+        "number": 49,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Eldritch Rebuttal",
+        "card_name": "Eavesdrop",
         "number": 76,
         "shape": "normal",
         "set": "SGP",
@@ -1032,24 +992,24 @@
         "position": ""
     },
     {
-        "card_name": "Formless Scape",
-        "number": 183,
+        "card_name": "First Responders",
+        "number": 182,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Pedigree Collector",
-        "number": 51,
+        "card_name": "Opalwing Cavalry",
+        "number": 52,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Frossenhold Walker",
-        "number": 79,
+        "card_name": "Eldritch Rebuttal",
+        "number": 78,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1072,7 +1032,7 @@
         "position": ""
     },
     {
-        "card_name": "Game Hunters",
+        "card_name": "Formless Scape",
         "number": 184,
         "shape": "normal",
         "set": "SGP",
@@ -1080,17 +1040,17 @@
         "position": ""
     },
     {
-        "card_name": "Rockpile Brutes",
-        "number": 52,
+        "card_name": "Pedigree Collector",
+        "number": 53,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Gloompool Heron",
-        "number": 80,
-        "shape": "adventure",
+        "card_name": "Frossenhold Walker",
+        "number": 81,
+        "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
@@ -1112,15 +1072,15 @@
         "position": ""
     },
     {
-        "card_name": "A Hole in the Sky",
-        "number": 187,
+        "card_name": "Game Hunters",
+        "number": 185,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Sky Force Admiral",
+        "card_name": "Rockpile Brutes",
         "number": 54,
         "shape": "normal",
         "set": "SGP",
@@ -1128,9 +1088,9 @@
         "position": ""
     },
     {
-        "card_name": "Innovation Thief",
+        "card_name": "Gloompool Heron",
         "number": 82,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "SGP",
         "rotated": false,
         "position": ""
@@ -1152,15 +1112,15 @@
         "position": ""
     },
     {
-        "card_name": "Overzealous Recon",
-        "number": 191,
+        "card_name": "A Hole in the Sky",
+        "number": 188,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Startouched Reverend",
+        "card_name": "Sky Force Admiral",
         "number": 56,
         "shape": "normal",
         "set": "SGP",
@@ -1168,8 +1128,8 @@
         "position": ""
     },
     {
-        "card_name": "Mastbreaker",
-        "number": 87,
+        "card_name": "Innovation Thief",
+        "number": 84,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1184,8 +1144,48 @@
         "position": ""
     },
     {
+        "card_name": "Pyre",
+        "number": 157,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Overzealous Recon",
+        "number": 191,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Startouched Reverend",
+        "number": 58,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mastbreaker",
+        "number": 89,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Soultaker Idol",
+        "number": 129,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Startouched Epigone",
-        "number": 158,
+        "number": 159,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1201,7 +1201,7 @@
     },
     {
         "card_name": "Timely Intervention",
-        "number": 58,
+        "number": 60,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1209,15 +1209,15 @@
     },
     {
         "card_name": "Public Exhibition",
-        "number": 91,
+        "number": 93,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Soultaker Idol",
-        "number": 128,
+        "card_name": "Speakeasy Brokers",
+        "number": 130,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1225,7 +1225,7 @@
     },
     {
         "card_name": "Steelsuit Consultant",
-        "number": 160,
+        "number": 161,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1241,7 +1241,7 @@
     },
     {
         "card_name": "Volunteer Firewatch",
-        "number": 61,
+        "number": 63,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1249,15 +1249,15 @@
     },
     {
         "card_name": "Startouched Analyst",
-        "number": 94,
+        "number": 96,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Speakeasy Brokers",
-        "number": 129,
+        "card_name": "Startouched Acolyte",
+        "number": 131,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1265,7 +1265,7 @@
     },
     {
         "card_name": "Unsettling Showman",
-        "number": 162,
+        "number": 163,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1281,7 +1281,7 @@
     },
     {
         "card_name": "Zaila's Willbender",
-        "number": 64,
+        "number": 66,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1289,15 +1289,15 @@
     },
     {
         "card_name": "Taken by the Storm",
-        "number": 95,
+        "number": 97,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Startouched Acolyte",
-        "number": 130,
+        "card_name": "Unwelcome Tenant",
+        "number": 135,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1305,7 +1305,7 @@
     },
     {
         "card_name": "Warcurse Ruminant",
-        "number": 163,
+        "number": 164,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1321,7 +1321,7 @@
     },
     {
         "card_name": "Zeppelin Disaster",
-        "number": 65,
+        "number": 67,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1329,15 +1329,15 @@
     },
     {
         "card_name": "Task Force Operatives",
-        "number": 96,
+        "number": 98,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Unwelcome Tenant",
-        "number": 134,
+        "card_name": "Esme, Lost to Avarice",
+        "number": 295,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1348,31 +1348,6 @@
     },
     {
         "card_name": "World Whisperer",
-        "number": 200,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Esme, Lost to Avarice",
-        "number": 294,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Wreckage Inquisitors",
         "number": 201,
         "shape": "normal",
         "set": "SGP",
@@ -1392,8 +1367,28 @@
         "card_name": "e"
     },
     {
+        "card_name": "Wreckage Inquisitors",
+        "number": 202,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "Gene Recombinators_Promo",
-        "number": 295,
+        "number": 296,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1429,15 +1424,7 @@
         "position": ""
     },
     {
-        "card_name": "Exander, Half-Forgotten",
-        "number": 213,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Grand Awakening",
+        "card_name": "Grasp of Kavalesk",
         "number": 215,
         "shape": "normal",
         "set": "SGP",
@@ -1445,8 +1432,16 @@
         "position": ""
     },
     {
-        "card_name": "Population Boom",
-        "number": 229,
+        "card_name": "Grand Awakening",
+        "number": 214,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The West District Union",
+        "number": 245,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1454,7 +1449,7 @@
     },
     {
         "card_name": "Olmin, Royal Liaison",
-        "number": 228,
+        "number": 229,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1470,7 +1465,7 @@
     },
     {
         "card_name": "Kavalesk, the Dark Exalted",
-        "number": 220,
+        "number": 221,
         "shape": "adventure",
         "set": "SGP",
         "rotated": false,
@@ -1478,6 +1473,46 @@
     },
     {
         "card_name": "Salar, Calloran's Defiance",
+        "number": 235,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Population Boom",
+        "number": 230,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Black Site Enhancer",
+        "number": 205,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Inkwing Kite",
+        "number": 218,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Malformed Initiate",
+        "number": 226,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Restless Summoners",
         "number": 234,
         "shape": "normal",
         "set": "SGP",
@@ -1493,8 +1528,8 @@
         "position": ""
     },
     {
-        "card_name": "Black Site Enhancer",
-        "number": 204,
+        "card_name": "Zaila's Edict",
+        "number": 247,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1502,47 +1537,7 @@
     },
     {
         "card_name": "Psychic Rupture",
-        "number": 230,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Malformed Initiate",
-        "number": 225,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Restless Summoners",
-        "number": 233,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Oathbound Stalwart",
-        "number": 226,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Splintering Edict",
-        "number": 240,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Voidwing Kite",
-        "number": 245,
+        "number": 231,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1550,7 +1545,7 @@
     },
     {
         "card_name": "Obsessive Ritualist",
-        "number": 227,
+        "number": 228,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1565,8 +1560,8 @@
         "position": ""
     },
     {
-        "card_name": "In Strength Entwined_Promo",
-        "number": 297,
+        "card_name": "Oathbound Stalwart",
+        "number": 227,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1583,14 +1578,19 @@
     },
     {
         "card_name": "Grand Awakening_Promo",
-        "number": 296,
+        "number": 297,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "In Strength Entwined_Promo",
+        "number": 298,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "er"
@@ -1617,7 +1617,7 @@
     },
     {
         "card_name": "Lost to Endless Scripture",
-        "number": 224,
+        "number": 225,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1625,7 +1625,7 @@
     },
     {
         "card_name": "Skittering Swarmlord",
-        "number": 235,
+        "number": 236,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1641,14 +1641,14 @@
     },
     {
         "card_name": "Leonard, Experiment Zero",
-        "number": 222,
+        "number": 223,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Stylla, Opulence Paragon",
+        "card_name": "Stylla, Opulent Paragon",
         "number": 243,
         "shape": "normal",
         "set": "SGP",
@@ -1656,16 +1656,16 @@
         "position": ""
     },
     {
-        "card_name": "Clanston Innovator",
-        "number": 206,
-        "shape": "normal",
+        "card_name": "Forgotten Fableweaver",
+        "number": 213,
+        "shape": "adventure",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
         "card_name": "Something in the Soil",
-        "number": 238,
+        "number": 239,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1696,16 +1696,16 @@
         "position": ""
     },
     {
-        "card_name": "Forgotten Fableweaver",
-        "number": 214,
-        "shape": "adventure",
+        "card_name": "Spirewisp Wanderer",
+        "number": 240,
+        "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
         "card_name": "Ravaged Eviscerator",
-        "number": 231,
+        "number": 232,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1713,7 +1713,7 @@
     },
     {
         "card_name": "Artillery Commander",
-        "number": 203,
+        "number": 204,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1729,23 +1729,18 @@
     },
     {
         "card_name": "Karsten, the Spinner",
-        "number": 219,
+        "number": 220,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Spirewisp Wanderer",
-        "number": 239,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
+        "card_name": "e"
     },
     {
         "card_name": "Sludge Trawlers",
-        "number": 237,
+        "number": 238,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1753,7 +1748,7 @@
     },
     {
         "card_name": "Inspiring Orrery",
-        "number": 218,
+        "number": 219,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1761,7 +1756,7 @@
     },
     {
         "card_name": "Lantha, Task Force Sergeant",
-        "number": 221,
+        "number": 222,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1784,7 +1779,7 @@
     },
     {
         "card_name": "Ravin, Heir of Goldport",
-        "number": 232,
+        "number": 233,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1792,7 +1787,7 @@
     },
     {
         "card_name": "Brunn, Blunt Tactician",
-        "number": 205,
+        "number": 206,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1800,7 +1795,7 @@
     },
     {
         "card_name": "Lore Interwoven",
-        "number": 223,
+        "number": 224,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1808,7 +1803,7 @@
     },
     {
         "card_name": "Skyshaper",
-        "number": 236,
+        "number": 237,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1837,54 +1832,6 @@
     "a->colorless",
     {
         "card_name": "Emrakul, the Sky Sundered",
-        "number": 7,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Kozilek, the Bonds Unmade",
-        "number": 14,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Ulamog, the Earth Engulfed",
-        "number": 28,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Aspirant of Ulamog",
-        "number": 2,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Bear Witness",
-        "number": 3,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Bender of Will",
-        "number": 4,
-        "shape": "adventure",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Children of the Heralds",
         "number": 5,
         "shape": "normal",
         "set": "SGP",
@@ -1892,7 +1839,47 @@
         "position": ""
     },
     {
-        "card_name": "Collector of Souls",
+        "card_name": "Kozilek, the Bonds Unmade",
+        "number": 13,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ulamog, the Earth Engulfed",
+        "number": 29,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bear Witness",
+        "number": 2,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bender of Will",
+        "number": 3,
+        "shape": "adventure",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Children of the Heralds",
+        "number": 4,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Emrakul's Conscriptor",
         "number": 6,
         "shape": "normal",
         "set": "SGP",
@@ -1900,8 +1887,8 @@
         "position": ""
     },
     {
-        "card_name": "Emrakul's Nullscribe",
-        "number": 8,
+        "card_name": "Herald of Distant Skies",
+        "number": 9,
         "shape": "adventure",
         "set": "SGP",
         "rotated": false,
@@ -1909,7 +1896,15 @@
     },
     {
         "card_name": "Inkrealm Guardian",
-        "number": 13,
+        "number": 12,
+        "shape": "adventure",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Kozilek's Hexer",
+        "number": 14,
         "shape": "adventure",
         "set": "SGP",
         "rotated": false,
@@ -1917,7 +1912,7 @@
     },
     {
         "card_name": "Living Apogee",
-        "number": 15,
+        "number": 16,
         "shape": "adventure",
         "set": "SGP",
         "rotated": false,
@@ -1925,7 +1920,7 @@
     },
     {
         "card_name": "Scourge of Aeons",
-        "number": 22,
+        "number": 23,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -1933,7 +1928,7 @@
     },
     {
         "card_name": "Starbreaker Ghost",
-        "number": 23,
+        "number": 24,
         "shape": "adventure",
         "set": "SGP",
         "rotated": false,
@@ -1941,14 +1936,6 @@
     },
     {
         "card_name": "Supreme Desecrator",
-        "number": 24,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Thoughtscraper",
         "number": 25,
         "shape": "normal",
         "set": "SGP",
@@ -1956,71 +1943,7 @@
         "position": ""
     },
     {
-        "card_name": "Zaila's Arbiter",
-        "number": 31,
-        "shape": "adventure",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Eldrazi Monolith",
-        "number": 248,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Lantha's Journal",
-        "number": 252,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Endward Harbinger",
-        "number": 9,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Eternity Takes",
-        "number": 10,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Inkrealm Drowner",
-        "number": 12,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Null Emissary",
-        "number": 17,
-        "shape": "adventure",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Scape Render",
-        "number": 21,
-        "shape": "adventure",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Three-Eye Observer",
+        "card_name": "Thoughtscraper",
         "number": 26,
         "shape": "normal",
         "set": "SGP",
@@ -2028,23 +1951,23 @@
         "position": ""
     },
     {
-        "card_name": "Titan's Effigy",
-        "number": 27,
-        "shape": "adventure",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Void Empyrean",
+        "card_name": "Ulamog's Aspirant",
         "number": 30,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Zaila's Arbiter",
+        "number": 33,
         "shape": "adventure",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Fateblur Cloak",
+        "card_name": "Eldrazi Monolith",
         "number": 249,
         "shape": "normal",
         "set": "SGP",
@@ -2052,8 +1975,96 @@
         "position": ""
     },
     {
+        "card_name": "Lantha's Journal",
+        "number": 253,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Endward Harbinger",
+        "number": 7,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Eternity Takes",
+        "number": 8,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Inkrealm Drowner",
+        "number": 11,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lantern in the Dark",
+        "number": 15,
+        "shape": "adventure",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Null Emissary",
+        "number": 18,
+        "shape": "adventure",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Scape Render",
+        "number": 22,
+        "shape": "adventure",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Three-Eye Observer",
+        "number": 27,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Titan's Effigy",
+        "number": 28,
+        "shape": "adventure",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Void Empyrean",
+        "number": 32,
+        "shape": "adventure",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fateblur Cloak",
+        "number": 250,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Impure Creation",
-        "number": 251,
+        "number": 252,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -2061,7 +2072,7 @@
     },
     {
         "card_name": "Moonstone Splinter",
-        "number": 253,
+        "number": 254,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -2077,7 +2088,7 @@
     },
     {
         "card_name": "Incursive Voidmaw",
-        "number": 11,
+        "number": 10,
         "shape": "adventure",
         "set": "SGP",
         "rotated": false,
@@ -2085,7 +2096,7 @@
     },
     {
         "card_name": "Mantle Breacher",
-        "number": 16,
+        "number": 17,
         "shape": "adventure",
         "set": "SGP",
         "rotated": false,
@@ -2093,14 +2104,6 @@
     },
     {
         "card_name": "Old Ones Envoy",
-        "number": 18,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Reality Wanes",
         "number": 19,
         "shape": "normal",
         "set": "SGP",
@@ -2108,7 +2111,7 @@
         "position": ""
     },
     {
-        "card_name": "Rend",
+        "card_name": "Reality Wanes",
         "number": 20,
         "shape": "normal",
         "set": "SGP",
@@ -2116,8 +2119,16 @@
         "position": ""
     },
     {
+        "card_name": "Rend",
+        "number": 21,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Voices of the Severed",
-        "number": 29,
+        "number": 31,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -2125,7 +2136,7 @@
     },
     {
         "card_name": "Corrupted Hedron",
-        "number": 247,
+        "number": 248,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -2133,7 +2144,7 @@
     },
     {
         "card_name": "Harvest Tenders",
-        "number": 250,
+        "number": 251,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -2141,14 +2152,6 @@
     },
     {
         "card_name": "Nook Dagger",
-        "number": 254,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Obsidian Reliquary",
         "number": 255,
         "shape": "normal",
         "set": "SGP",
@@ -2164,15 +2167,15 @@
         "position": ""
     },
     {
-        "card_name": "Bear Witness_Promo",
-        "number": 292,
+        "card_name": "Reservoir Mechan",
+        "number": 257,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Rend_Promo",
+        "card_name": "Bear Witness_Promo",
         "number": 293,
         "shape": "normal",
         "set": "SGP",
@@ -2180,10 +2183,12 @@
         "position": ""
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
+        "card_name": "Rend_Promo",
+        "number": 294,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "er"
@@ -2202,7 +2207,7 @@
     },
     {
         "card_name": "Mystic Gate",
-        "number": 270,
+        "number": 271,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -2210,7 +2215,7 @@
     },
     {
         "card_name": "Sunken Ruins",
-        "number": 276,
+        "number": 277,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -2218,7 +2223,7 @@
     },
     {
         "card_name": "Graven Cairns",
-        "number": 265,
+        "number": 266,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -2226,7 +2231,7 @@
     },
     {
         "card_name": "Fire-Lit Thicket",
-        "number": 263,
+        "number": 264,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -2234,7 +2239,7 @@
     },
     {
         "card_name": "Wooded Bastion",
-        "number": 280,
+        "number": 281,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -2242,7 +2247,7 @@
     },
     {
         "card_name": "Keeper's Peninsula",
-        "number": 267,
+        "number": 268,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -2250,7 +2255,7 @@
     },
     {
         "card_name": "Dusk Vantage",
-        "number": 261,
+        "number": 262,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -2258,7 +2263,7 @@
     },
     {
         "card_name": "Lost Settlement",
-        "number": 269,
+        "number": 270,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -2266,7 +2271,7 @@
     },
     {
         "card_name": "Cliffrest Tributary",
-        "number": 260,
+        "number": 261,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -2274,7 +2279,7 @@
     },
     {
         "card_name": "Village Steeples",
-        "number": 278,
+        "number": 279,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -2297,7 +2302,7 @@
     },
     {
         "card_name": "Fetid Heath",
-        "number": 262,
+        "number": 263,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -2305,46 +2310,6 @@
     },
     {
         "card_name": "Cascade Bluffs",
-        "number": 258,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Twilight Mire",
-        "number": 277,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Rugged Prairie",
-        "number": 274,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Flooded Grove",
-        "number": 264,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Secluded Avenue",
-        "number": 275,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Cataract Valley",
         "number": 259,
         "shape": "normal",
         "set": "SGP",
@@ -2352,8 +2317,48 @@
         "position": ""
     },
     {
+        "card_name": "Twilight Mire",
+        "number": 278,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rugged Prairie",
+        "number": 275,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Flooded Grove",
+        "number": 265,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Secluded Avenue",
+        "number": 276,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cataract Valley",
+        "number": 260,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Outlands Hamlet",
-        "number": 271,
+        "number": 272,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -2361,7 +2366,7 @@
     },
     {
         "card_name": "Bronzeglade Peaks",
-        "number": 257,
+        "number": 258,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -2369,7 +2374,7 @@
     },
     {
         "card_name": "Lakewatch Ruins",
-        "number": 268,
+        "number": 269,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -2392,7 +2397,7 @@
     },
     {
         "card_name": "Reality Cusp",
-        "number": 273,
+        "number": 274,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -2400,7 +2405,7 @@
     },
     {
         "card_name": "What Remains of Frossenhold",
-        "number": 279,
+        "number": 280,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -2408,7 +2413,7 @@
     },
     {
         "card_name": "Hall of Innovation",
-        "number": 266,
+        "number": 267,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -2416,7 +2421,7 @@
     },
     {
         "card_name": "Promising Vista",
-        "number": 272,
+        "number": 273,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -2442,7 +2447,7 @@
     },
     {
         "card_name": "Mountain_SGP",
-        "number": 289,
+        "number": 290,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -2450,70 +2455,6 @@
     },
     {
         "card_name": "Swamp_SGP",
-        "number": 287,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Forest_SGP",
-        "number": 291,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Wastes",
-        "number": 281,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Plains_SGP",
-        "number": 283,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Island_SGP",
-        "number": 285,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Island Eldritch_SGP",
-        "number": 284,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Plains Eldritch_SGP",
-        "number": 282,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Swamp Eldritch_SGP",
-        "number": 286,
-        "shape": "normal",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Mountain Eldritch_SGP",
         "number": 288,
         "shape": "normal",
         "set": "SGP",
@@ -2521,8 +2462,72 @@
         "position": ""
     },
     {
+        "card_name": "Forest_SGP",
+        "number": 292,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Wastes",
+        "number": 282,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Plains_SGP",
+        "number": 284,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Island_SGP",
+        "number": 286,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Island Eldritch_SGP",
+        "number": 285,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Plains Eldritch_SGP",
+        "number": 283,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Swamp Eldritch_SGP",
+        "number": 287,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mountain Eldritch_SGP",
+        "number": 289,
+        "shape": "normal",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Forest Eldritch_SGP",
-        "number": 290,
+        "number": 291,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -2587,14 +2592,6 @@
     },
     {
         "card_name": "Clue",
-        "number": 12,
-        "shape": "token",
-        "set": "SGP",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Construct",
         "number": 13,
         "shape": "token",
         "set": "SGP",
@@ -2610,7 +2607,7 @@
         "position": ""
     },
     {
-        "card_name": "Golem",
+        "card_name": "Construct",
         "number": 15,
         "shape": "token",
         "set": "SGP",
@@ -2618,7 +2615,7 @@
         "position": ""
     },
     {
-        "card_name": "Thopter",
+        "card_name": "Golem",
         "number": 16,
         "shape": "token",
         "set": "SGP",
@@ -2626,8 +2623,16 @@
         "position": ""
     },
     {
-        "card_name": "Treasure",
+        "card_name": "Thopter",
         "number": 17,
+        "shape": "token",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Treasure",
+        "number": 18,
         "shape": "token",
         "set": "SGP",
         "rotated": false,
@@ -2666,7 +2671,7 @@
         "position": ""
     },
     {
-        "card_name": "Ooze",
+        "card_name": "Horror",
         "number": 9,
         "shape": "token",
         "set": "SGP",
@@ -2674,7 +2679,7 @@
         "position": ""
     },
     {
-        "card_name": "Ooze_Promo",
+        "card_name": "Ooze",
         "number": 10,
         "shape": "token",
         "set": "SGP",
@@ -2682,7 +2687,7 @@
         "position": ""
     },
     {
-        "card_name": "Human Bard",
+        "card_name": "Ooze_Promo",
         "number": 11,
         "shape": "token",
         "set": "SGP",
@@ -2690,7 +2695,12 @@
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Human Bard",
+        "number": 12,
+        "shape": "token",
+        "set": "SGP",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
