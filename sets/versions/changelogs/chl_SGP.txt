@@ -1,4 +1,469 @@
-﻿VERSION 67 CHANGELOG
+﻿VERSION 68 CHANGELOG
+====================
+
+Gaunt Transient added.
+Screeching Portent added.
+Brineborn Underlings added.
+Chorus of the Severed added.
+Piecing it Together added.
+Scour the Records added.
+Kavalesk's Reshapen added.
+Voices in the Mist added.
+Corpse Inspector added.
+Elegiac Procession added.
+Sole Survivor added.
+Ritual Archivist added.
+Boulevard Ambusher added.
+Tendrils in the Loch added.
+Barton, Wharf Inspector added.
+Olmin, Triune Liaison added.
+The West District Hangar added.
+Inventors' Exhibition added.
+Jermine, Head Engineer added.
+Darkwood Guerrillas added.
+Exander, Half-Forgotten added.
+Warlock added.
+
+Lamplighter of the End removed.
+Inkrealm Stalker removed.
+Voices of the Severed removed.
+Piecing It Together removed.
+Pore Over removed.
+Viscera Channeler removed.
+Voices in the Dark removed.
+Flesh Shredder removed.
+Corpse Inspectors removed.
+Epitaph Lurkers removed.
+Brethren Priestess removed.
+Sacrifice Archivist removed.
+Stonebridge Ambush removed.
+Channel the Dark removed.
+Wharf Inspector removed.
+Olmin, Royal Liaison removed.
+Mystic Gate removed.
+Sunken Ruins removed.
+Graven Cairns removed.
+Fire-Lit Thicket removed.
+Wooded Bastion removed.
+Fetid Heath removed.
+Cascade Bluffs removed.
+Twilight Mire removed.
+Rugged Prairie removed.
+Flooded Grove removed.
+West District Hangar removed.
+Fated Reunion removed.
+Jerald, Steel Virtuoso removed.
+Darkwood Guerillas removed.
+Grasp of Kavalesk removed.
+Horror removed.
+
+Startouched Reverend
+
+Mire Pathforger
+rules_text: Devoid [i](This card has no color.)[/i]
+Vigilance
+This creature enters with a +1/+1 counter on it if {C} was spent to cast it. => Devoid [i](This card has no color.)[/i]
+Vigilance
+When this creature enters, if {C} was spent to cast this spell, [something]
+pt: 4/3 => 3/4
+
+Aerial Augmentation
+rules_text: Untap target creature. It gets +2/+2 and gains flying until end of turn. If it's an artifact, put a +1/+1 counter on it. => Untap target creature. It gets +1/+1 and gains flying until end of turn. Put a +1/+1 counter on it if you control an artifact.
+
+Personal Wingsuit
+
+Task Force Operatives
+pt: 2/4 => 2/3
+
+Startouched Analyst
+pt: 3/2 => 2/2
+
+Mastbreaker
+type: Creature — Kraken Horror => Creature — Kraken
+
+Innovation Thief
+cost: {2}{U} => {2}{R}
+
+Luxuries Merchant
+rules_text: When this creature enters or dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => When this creature dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Marshwreck Gang
+type: Creature — Fish Horror => Creature — Merfolk Scion
+rules_text: Menace
+Whenever this creature attacks, you may sacrifice a creature or discard a card. If you do, defending player loses 2 life and you gain 2 life. => Menace
+Whenever this creature attacks, you may sacrifice another creature. If you do, draw a card.
+
+Speakeasy Brokers
+rules_text: Flash
+When this creature enters, choose one. If you sacrificed a creature this turn, instead choose one or more —
+• Destroy target creature that was dealt damage this turn.
+• Create a tapped Treasure token. => Flash
+When this creature enters, until end of turn, up to one target creature gains “When this creature dies, draw a card and create a tapped Treasure token.”
+pt: 2/3 => 4/2
+
+Soultaker Idol
+rules_text: Devoid [i](This card has no color.)[/i]
+Flying
+{1}{B}, Discard this card: Create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.” => Devoid [i](This card has no color.)[/i]
+Flying
+Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Startouched Acolyte
+type: Creature — Horror Cleric => Creature — Human Cleric
+
+Harrowing Transformation
+cost: {1}{B} => {B}
+rules_text: Target creature you control gains deathtouch and indestructible until end of turn. Then you may pay {2}. If you do, fragment it. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i] => Target creature you control gains deathtouch until end of turn. When it dies this turn, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+
+Steelsoul Ignition
+type: Instant => Sorcery
+
+Commune with Silence
+rules_text: As an additional cost to cast this spell, discard a card.
+Draw two cards, then choose a creature target opponent controls. That creature can't block this turn. => As an additional cost to cast this spell, discard a card.
+Target player draws two cards. Up to one target creature can't block this turn.
+
+Overzealous Recon
+
+Branchbound Speaker
+type: Creature — Elemental Spirit Druid => Creature — Elemental Druid
+
+Starbreaker Juvenile
+type: Creature — Horror => Creature — Horror Scion
+
+A Hole in the Sky
+
+Ancient Carapace
+
+Old Ones Envoy
+
+Incursive Voidmaw
+pt: 3/3 => 2/2
+
+Elden Crucible
+
+Inspiring Orrery
+rules_text: When this artifact enters, it deals 2 damage to any target and you gain 2 life.
+Whenever you cast another artifact spell, this artifact becomes a 2/2 artifact creature with haste until end of turn. => When this artifact enters, it deals damage equal to the number of other artifacts and/or creatures you control to target creature an opponent controls.
+Whenever you cast another artifact spell, this artifact becomes a 2/2 artifact creature with haste until end of turn.
+
+Sludge Trawlers
+rules_text: Trample
+Whenever you sacrifice a creature for the first time each turn, you draw a card and lose 1 life.
+Whenever you sacrifice a creature for the second time each turn, put a +1/+1 counter on each of up to two target creatures. => Trample
+Whenever you sacrifice a creature, if it's the first time this ability has resolved this turn, you draw a card and lose 1 life. If it's the second time, put a +1/+1 counter on each of up to two target creatures.
+
+Spirewisp Wanderer
+rules_text: Flying, haste
+At the beginning of your end step, you may discard a card. If you do, choose up to two—
+• Draw a card if a creature you control attacked this turn.
+• Draw a card if you cast a noncreature spell this turn. => Flash
+Flying
+When this creature enters, look at the top six cards of your library. You may reveal an instant or sorcery card or a card with a Mythos from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+pt: 3/3 => 2/2
+
+Malformed Initiate
+pt: 2/1 => 1/1
+
+In Strength Entwined
+
+Karsten, the Spinner
+
+Tormented Eulogist
+rules_text: Haste
+This creature gets +1/+1 as long as you've cast a noncreature spell this turn.
+This creature has trample as long as you've spent seven or more mana to cast spells this turn. => Haste
+Whenever this creature attacks, until end of turn, you may have its power become equal to the amount of mana you've spent to cast spells this turn.
+pt: 3/2 => 0/3
+
+Ravaged Eviscerator
+rules_text: Devoid [i](This card has no color.)[/i]
+Whenever this creature deals combat damage to a player, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+{1}{C}: Put a +1/+1 counter on this creature. => Devoid [i](This card has no color.)[/i]
+Whenever this creature deals combat damage to a player, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+pt: 2/2 => 2/3
+
+Artillery Commander
+
+Sky Force Retiree
+type: Creature — Human Soldier => Creature — Human Pilot Citizen
+pt: 2/2 => 2/1
+
+North District Prior
+rules_text: This creature enters with a +1/+1 counter on it for each other creature you control.
+{1}{W}, {T}: Exile this creature. Return it to the battlefield under its owner's control at the beginning of the next end step. => This creature enters with a +1/+1 counter on it for each other creature you control.
+{1}{W}, {T}: Exile this creature. Return it to the battlefield under its owner's control at the beginning of the next end step. Activate only as a sorcery.
+
+Stylla, Opulent Paragon
+rules_text: When Stylla enters, create a Treasure token.
+When Stylla dies, draw a card. You lose 1 life.
+If an ability of a creature you control with power 2 or less would trigger, you may have one of Stylla's abilities trigger instead. Do this only once for each of her abilities each turn. => When Stylla enters, create a Treasure token.
+When Stylla dies, draw a card. You lose 1 life.
+If an ability of a creature you control with power 2 or less would trigger, you may instead choose one that hasn't been chosen this turn —
+• Create a Treasure token.
+• Draw a card. You lose 1 life.
+
+West District Chassis
+
+Ether Joyride
+rules_text: Fragment target creature you own, then exile it. For as long as that card remains exiled, you may cast it by paying {2} rather than its mana cost. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i] => Fragment target creature you own, then exile it. For as long as it remains exiled, you may cast it by paying its mana cost. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+
+Port Inspector
+pt: 3/2 => 2/3
+
+Void Empyrean
+rules_text: Flying
+When you cast this spell, return target creature you don't control to its owner's hand. Surveil 3. => Flying
+When you cast this spell, return up to one target creature you don't control to its owner's hand. Surveil 3.
+
+Deepwater Whispers
+rules_text: Create an X/4 blue Jellyfish Horror creature token with flying, where X is the number of instant and sorcery spells among cards in your graveyard. => Create an X/4 blue Jellyfish Horror creature token with flying, where X is the number of instant cards, sorcery cards, and cards with a Mythos in your graveyard.
+
+Shingle Crawler
+type: Creature — Bat Horror => Creature — Bat Scion
+
+Impact Surveyors
+rules_text: When this creature enters, if it was cast, create a token that's a copy of target token you control.
+{2}, Sacrifice an artifact or creature: Create a 3/2 colorless Eldrazi creature token. Activate only as a sorcery. => When this creature enters, if it was cast, create a token that's a copy of a token you control.
+{2}, Sacrifice an artifact or creature: Create a 3/2 colorless Eldrazi creature token. Activate only as a sorcery.
+pt: 4/4 => 3/4
+
+Botanical Conference
+
+Unsettling Showman
+cost: {2}{R} => {3}{B}
+rules_text: When this creature enters, create a tapped Treasure token.
+Whenever you cast a noncreature spell, put a +1/+1 counter on this creature. It gains menace until end of turn. => Menace
+Once each turn, when another creature you control enters, you may pay life equal to its power. If you do, put a +1/+1 counter on this creature.
+pt: 2/1 => 3/3
+
+Flamerush
+
+Ancient Stirrings
+rules_text: Look at the top five cards of your library. You may reveal a colorless card from among them and put it into your hand. Then put the rest on the bottom of your library in any order. => Look at the top five cards of your library. You may reveal a colorless card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+
+Mutation Investigator
+cost: {1}{R} => {1}{G}
+rules_text: {T}: Add {R}.
+{1}, {T}: Put a +1/+1 counter on target creature with mana value 4 or greater. Activate only as a sorcery. => {T}: Add {G}.
+{1}, {T}: Put a +1/+1 counter on target creature with mana value 4 or greater. Activate only as a sorcery.
+pt: 2/1 => 1/2
+
+Wildfire Aven
+
+Forgotten Fableweaver
+
+Pinefell Terror
+
+Blood Soliloquy
+
+Scape Render
+
+Impure Creation
+pt: 4/3 => 3/3
+
+Vintage Fanatic
+pt: 4/3 => 3/3
+
+Stelver, the Eyes and Ears
+
+Zaila's Arbiter
+
+Grand Triarch
+type: Creature — Eldrazi Avatar => Creature — Eldrazi Angel
+rules_text: Devoid [i](This card has no color.)[/i]
+When you cast this spell, copy it for each {C}{C} spent to cast it. [i](A copy of a permanent spell becomes a token.)[/i]
+Flying, protection from all colors => Devoid [i](This card has no color.)[/i]
+Other colorless creatures you control have hexproof.
+pt: 4/4 => 6/6
+
+Evelline, Ark of Salvation
+rules_text: Flying, vigilance
+Whenever [i]Evelline[/i] enters or attacks, return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield. If it's a creature and [i]Evelline[/i] is attacking, it enters tapped and attacking with a flying counter on it.
+Crew 3 => Flying, vigilance
+Whenever [i]Evelline[/i] enters or attacks, return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield. If it's a creature card and [i]Evelline[/i] is attacking, you may have it enter tapped and attacking.
+Crew 4
+
+Destined End
+
+Devonia, Lost Ministrix
+pt: 2/2 => 2/1
+
+Jaded Coroners
+rules_text: Flash
+Whenever a nonartifact creature you control dies, if it wasn't sacrificed, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Clues you control are 2/2 Zombie creatures in addition to their other types. => Flash
+Whenever a creature you control dies, if it wasn't sacrificed, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Clues you control are 2/2 Zombie creatures in addition to their other types.
+
+Scion of Insanity
+rules_text: Flying, ward {2}
+As long as the number of cards in your library is less than half the minimum deck size, this creature gets +3/+3.
+{1}{U}, Discard this card: Mill three cards, then draw a card. Shuffle this card into your library. => Flying
+This creature gets +3/+3 as long as the number of cards in your library is less than half the minimum deck size.
+{1}{U}, Discard this card: Mill three cards, then draw a card. Shuffle this card into your library.
+
+Inkrealm Guardian
+
+Friede, Weave Dancer
+rules_text: Flying, ward {1}
+Whenever you cast a noncreature spell, create a 1/1 blue Bird creature token with flying.
+{1}{U}, {T}, Tap any number of untapped creatures you control with total power X: Copy target noncreature spell you control with mana value X or less. You may choose new targets for the copy. [i](A copy of a permanent spell becomes a token.)[/i] => Flying
+Whenever you cast a noncreature spell, create a 1/1 blue Illusion creature token.
+{1}{U}, {T}, Tap any number of untapped creatures you control with total power X: Copy target noncreature spell you control with mana value X or less. You may choose new targets for the copy. [i](Copies of permanent spells become tokens.)[/i]
+
+Insatiate Slasher
+rules_text: You may cast this card from your graveyard as long as the void called this turn. If you do, it enters with a haste counter on it. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => You may cast this card from your graveyard as long as the void called this turn. If you do, when it enters, it gains haste until end of turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+
+Strike Suppressor
+
+Ichor Winnower
+pt: 2/3 => 2/2
+
+Herald of Distant Skies
+
+Bloodbone Pietist
+
+Bender of Will
+
+Careening Steam Engine
+
+Deathscorn Aspect
+type: Creature — Horror Warlock => Creature — Human Warlock
+rules_text: Trample, haste
+When this creature enters, you may discard a card. If you do, draw a card.
+At the beginning of your end step, this creature deals 4 damage to you unless the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => Haste
+When this creature enters, you may discard a card. If you do, draw a card.
+At the beginning of your end step, sacrifice this creature unless the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+pt: 4/3 => 3/3
+
+Gene Recombinators
+
+Curious Botanist
+
+Starbreaker Ghost
+
+Herald of the Expanse
+
+Kavalesk, the Dark Exalted
+type: Legendary Creature — Spirit Horror => Legendary Creature — Zombie Warlock
+rules_text: You may cast spells from your graveyard as long as they were put there from your hand or library this turn. Spells you cast this way cost {1} less to cast. => You may cast spells from your graveyard as long as they were put there from your hand or library this turn.
+pt: 4/5 => 4/3
+
+Elisa, Hand of Torvinald
+rules_text: When Elisa enters, put two +1/+1 counters and a flying counter on target artifact you control. You may have it become a 0/0 artifact creature. [i](This effect lasts indefinitely.)[/i]
+{2}{R}{W}, Tap two untapped artifacts you control: Exile Elisa, then return her to the battlefield under her owner's control. Activate only as a sorcery. => Elisa gets +1/+1 for each artifact you control.
+Whenever you attack, you may pay {R}{W}. When you do, fragment another target attacking creature. Tokens created this way enter tapped and attacking. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+pt: 4/4 => 1/1
+
+Efraim, High Alderman
+rules_text: Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+At the beginning of your end step, if you gained 3 or more life this turn, return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter and an extort counter on it. => Lifelink
+At the beginning of your end step, if you gained 3 or more life this turn, return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter and a lifelink counter on it.
+
+Essence Ripper
+rules_text: When this creature enters, exile the top two cards of each player's library face down. You may look at them while they remain exiled.
+Discard a card: Until end of turn, you may play target card exiled with this creature. You may spend mana as though it were mana of any type to cast spells this way. => When this creature enters, exile the top two cards of each player's library face down. You may look at them while they remain exiled.
+Discard a card: Until end of turn, you may play target card exiled with this creature. You may spend mana as though it were mana of any type to cast spells this way. Activate only as a sorcery.
+
+Starblood Tides
+
+Brunn, Blunt Tactician
+
+Skittering Swarmlord
+
+Lore Interwoven
+rules_text: When this enchantment enters, exile your hand and the top two cards of your library. Until the end of your next turn, you may play those cards.
+Whenever you cast a spell from anywhere other than your hand, draw a card, create a Treasure token, and put a +1/+1 counter on target creature you control. => When this enchantment enters, exile your hand and the top two cards of your library. Until the end of your next turn, you may play those cards.
+Whenever you cast a spell from anywhere other than your hand, draw a card, create a tapped Treasure token, and put a +1/+1 counter on up to one target creature you control.
+
+Lostlands Oracle
+rules_text: Flying
+If you would create one or more tokens, draw that many cards instead. Do this only three times each turn. => Flying
+If you would create one or more tokens, you may draw that many cards instead. Do this only once each turn.
+
+Lost to Endless Scripture
+type: Sorcery => Enchantment
+cost: {2}{U}{U}{R}{R} => {1}{U}{R}
+rules_text: Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+Take an extra turn after this one. Exile Lost to Endless Scripture. => When this enchantment enters, return target card with a Mythos from your graveyard to your hand.
+Whenever you cast a copy of a creature's Mythos, fragment that creature. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+
+Living Apogee
+rules_text: This creature enters with X +1/+1 counters on it, where X is 1 plus the greatest power among creatures on the battlefield.
+This creature has all keyword abilities from among creatures on the battlefield. => This creature has all keyword abilities of creatures on the battlefield.
+pt: 0/0 => 5/5
+
+Lantha's Journal
+type: Legendary Artifact => Legendary Artifact — Book
+rules_text: {1}, {T}: Draw a card, then discard a card. Put a page counter on Lantha's Journal.
+{1}, {T}, Remove X page counters from Lantha's Journal: You may cast target card with mana value X or less from your graveyard without paying its mana cost. Activate only as a sorcery. => {1}, {T}: Draw a card, then discard a card. Put a page counter on Lantha's Journal.
+{1}, {T}, Remove X page counters from Lantha's Journal: Exile target card with mana value X or less from your graveyard. You may cast a copy of it without paying its mana cost. Activate only as a sorcery.
+
+Leonard, Experiment Zero
+
+Skyshaper
+cost: {X}{1}{W}{U}{B} => {X}{W}{U}{B}
+rules_text: Flash
+Flying, lifelink
+This creature enters with X +1/+1 counters on it.
+When this creature enters, exile target nonland permanent. => Flying, lifelink
+This creature enters with X +1/+1 counters on it.
+When this creature enters, exile target nonland permanent.
+
+Greytide Specter
+
+Soulflame Immolator
+rules_text: Flying
+Ward—Pay 4 life.
+Pay X life: Fragment target nontoken creature you control with mana value X. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i] => Flying
+Ward—Pay 4 life.
+Pay X life: Fragment target nontoken creature you control with mana value X. Activate only as a sorcery. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+
+A World Worth Fighting For
+rules_text: Whenever you cast your first noncreature spell each turn, put a heart counter on this enchantment. Do the same for creature spells and soul counters.
+Remove a heart counter and a soul counter from this enchantment: Exile the top card of your library. You may play it this turn. => Whenever you cast your first creature spell each turn, put a heart counter on this enchantment. Do the same for noncreature spells and soul counters.
+Remove a heart counter and a soul counter from this enchantment: Exile the top card of your library. You may play it this turn.
+
+Baalakus, the Zenith
+cost: {5}{G}{G}{G} => {2}{G}{G}
+rules_text: Vigilance, trample
+When Baalakus enters, draw X cards, where X is the greatest power among other creatures you control. If X is 8 or more, instead draw twice that many cards and you have no maximum hand size for the rest of the game. => Trample, haste
+At the beginning of combat on your turn, you may have this creature's power and toughness become equal to the amount of mana you've spent to cast creature spells this turn.
+pt: 8/8 => 5/4
+
+Kozilek, the Bonds Unmade
+rules_text: Ward—Discard two cards.
+Your maximum hand size is twelve.
+Whenever you cast this spell or Kozilek attacks, if you have seven or fewer cards in your hand, draw five cards and add five {C}. Until end of turn, you don't lose this mana as steps and phases end. => Ward—Discard two cards.
+Your maximum hand size is twelve.
+Whenever you cast this spell or Kozilek attacks, draw five cards and add five {C}. Until end of turn, you don't lose this mana as steps and phases end.
+
+Emrakul, the Sky Sundered
+
+Forge in Anguish
+
+What Remains of Frossenhold
+
+The West District Union
+rules_text: Whenever a creature token you control attacks, it gains indestructible until end of turn.
+At the beginning of your end step, if you control more creatures than each opponent, draw a card. If you don't, create a 1/1 white Human creature token. => Whenever a creature token you control attacks, it gains indestructible until end of turn.
+At the beginning of your end step, draw a card if you control more creatures than each opponent. If you don't, create a 1/1 white Human creature token.
+
+Kozilek's Hexer
+cost: {C} => {1}{C}
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+You may spend {C} as though it were mana of any color to cast instant or sorcery spells. => Prowess
+You may spend {C} as though it were mana of any color to cast instant or sorcery spells.
+pt: 1/1 => 2/1
+
+Lantern in the Dark
+rules_text: When you cast this spell, mill three cards. => Lifelink
+
+Zaila, Her Will Be Done
+
+
+VERSION 67 CHANGELOG
 ====================
 
 Pyre added.
