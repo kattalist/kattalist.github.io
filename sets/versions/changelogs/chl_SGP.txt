@@ -1,4 +1,329 @@
-﻿VERSION 68 CHANGELOG
+﻿VERSION 69 CHANGELOG
+====================
+
+Esteemed Falconress added.
+Awestruck Navigator added.
+Shimmering Skycarp added.
+Warpwire Chassis added.
+Spill the Beans added.
+Dissentor Colossus added.
+Brazen Sootbellow added.
+End of Goldport added.
+Bolton, Wharf Inspector added.
+Starbreaker Phantom added.
+Vile Reef Inquisitor added.
+Lostlands Auspex added.
+Kraz, Head Engineer added.
+Gloamveil Trackers added.
+Copy added.
+Malignant Manaphage added.
+
+Pedigree Collector removed.
+Sky Force Admiral removed.
+Opalwing Cavalry removed.
+West District Chassis removed.
+Eavesdrop removed.
+Elegiac Procession removed.
+Wildfire Aven removed.
+Destined End removed.
+Barton, Wharf Inspector removed.
+Jaded Coroners removed.
+Starbreaker Ghost removed.
+Graven Confidant removed.
+Lostlands Oracle removed.
+Jermine, Head Engineer removed.
+Baalakus, the Zenith removed.
+
+Mire Pathforger
+rules_text: Devoid [i](This card has no color.)[/i]
+Vigilance
+When this creature enters, if {C} was spent to cast this spell, [something] => Devoid [i](This card has no color.)[/i]
+When you cast this spell, if {C} was spent to cast it, you gain 2 life.
+Vigilance
+
+Rockpile Brutes
+rules_text: {2}{W}, {T}: Tap target creature. If {C} was spent to activate this ability, put a stun counter on it. => Whenever you cast an artifact spell, this creature gains first strike until end of turn.
+pt: 2/2 => 3/1
+
+Mournful Matriarch
+rules_text: Whenever another creature you control enters, you gain 1 life. => When this creature dies, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+
+Cruel Patrician
+rules_text: Lifelink
+Whenever this creature or another creature you control enters for the first time each turn, each opponent loses 1 life. => Lifelink
+Whenever this creature or another creature you control enters, each opponent loses 1 life. This ability triggers only once each turn.
+
+Startouched Arborist
+type: Creature — Elemental Horror => Creature — Elemental Scion
+
+First Responders
+rules_text: When this creature enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+{2}, Sacrifice a token: This creature gets +2/+2 and gains trample until end of turn. Activate only as a sorcery. => When this creature enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Whenever you sacrifice a Clue, this creature gets +2/+2 until end of turn.
+
+Branchbound Speaker
+rules_text: Vigilance
+[i]Coalition — [/i]Whenever this creature attacks with one or more tokens, put a +1/+1 counter on target attacking token and untap it. => Vigilance
+[i]Coalition — [/i]Whenever this creature attacks with one or more tokens, this creature gets +1/+1 and gains trample until end of turn.
+
+Barksplitter Colossus
+type: Creature — Elemental Horror => Creature — Elemental Scion
+
+Elden Crucible
+cost: {1}{W} => {2}{W}
+rules_text: When this artifact enters, it deals damage equal to the number of other artifacts and/or creatures you control to target creature an opponent controls.
+{2}, Sacrifice this artifact: Scry 2. => When this artifact enters, exile target creature an opponent controls until this artifact leaves the battlefield.
+{3}, {T}: Surveil 1.
+
+Discerning Patron
+rules_text: When this creature enters, you may pay X life, where X is its power. If you do, scry X, then draw X cards.
+{W}{B}: Fragment this creature. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i] => When this creature enters, you may pay X life, where X is its power. If you do, surveil X, then draw X cards.
+{W}{B}: Fragment this creature. Activate only as a sorcery. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+
+Sludge Trawlers
+type: Artifact Creature — Construct Horror => Artifact Creature — Construct
+
+Inkwing Kite
+type: Creature — Bird Horror => Creature — Bird Scion
+
+Voice of the Roaring Wind
+type: Creature — Elemental Horror => Creature — Elemental Scion
+
+Artillery Commander
+cost: {R}{W} => {1}{R}{W}
+rules_text: Vigilance, haste => Whenever you cast an artifact spell, put a +1/+1 counter on this creature.
+pt: 3/2 => 3/3
+
+Sky Force Retiree
+rules_text: This creature gets +1/+1 as long as a token you control entered this turn.
+[i]Coalition [/i]— Whenever this creature attacks with one or more tokens, it gains flying until end of turn. => This creature can't be blocked by creatures with power 3 or greater.
+[i]Coalition [/i]— Whenever this creature attacks with one or more tokens, target creature can't be blocked by creatures with power 3 or greater this turn.
+pt: 2/1 => 2/2
+
+Thousand-Mind Cutthroat
+type: Creature — Human Assassin Horror => Creature — Human Assassin
+rules_text: Double strike
+{4}{C}, {T}: Fragment this creature. Activate only as a sorcery. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i] => Whenever this creature attacks, create a 1/1 white Human creature token.
+Tap three untapped Humans you control: Fragment this creature. Activate only as a sorcery. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+pt: 2/2 => 3/3
+
+Cabaret Seductress
+rules_text: Lifelink
+This creature gets +1/+1 as long as a creature you control with power 2 or less entered this turn. => Lifelink
+
+Ether Joyride
+rules_text: Fragment target creature you own, then exile it. For as long as it remains exiled, you may cast it by paying its mana cost. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i] => Fragment target creature you own, then exile it. You may cast it for as long as it remains exiled. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+
+Ego Devourer
+type: Creature — Shapeshifter Horror => Creature — Shapeshifter Scion
+
+Piecing it Together
+rules_text: Enchant creature
+Enchanted creature can't be blocked by creatures with greater power.
+Whenever enchanted creature deals combat damage to a player, sacrifice any number of Clues you control, then draw that many cards. => Enchant creature
+Enchanted creature gets +1/+0.
+Whenever enchanted creature deals combat damage to a player, sacrifice any number of Clues you control, then draw that many cards.
+
+Botanical Conference
+
+Karsten's Thought Police
+rules_text: When this creature enters, look at target player's hand and choose a nonland card from it. If you do, that player discards that card, then draws a card.
+{4}{C}, {T}: Fragment this creature. Activate only as a sorcery. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i] => When this creature enters, look at target opponent's hand and choose a nonland card from it. If you do, that player discards that card, then draws a card.
+{4}{C}, {T}: Fragment this creature. Activate only as a sorcery. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+
+Quick and Painful
+type: Sorcery => Instant
+cost: {3}{B} => {1}{B}
+rules_text: Destroy target creature. Create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.” => Destroy target creature if it has power 3 or less or if the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+
+Ashen Ravager
+type: Creature — Beast Horror => Creature — Beast Scion
+
+Preemption Engineer
+rules_text: This creature has first strike as long as it's attacking.
+At the beginning of combat on your turn, you may tap this creature. If you do, target artifact creature gets +2/+0 and gains first strike until end of turn. => During your turn, this creature has first strike.
+At the beginning of combat on your turn, you may tap this creature. If you do, target artifact creature gets +2/+0 and gains first strike until end of turn.
+
+Forgotten Fableweaver
+type: Creature — Human Bard Horror => Creature — Human Bard Scion
+
+Pinefell Terror
+cost: {3}{R}{R} => {3}{R}
+pt: 5/4 => 4/4
+
+Boulevard Ambusher
+cost: {4}{B} => {5}{B}
+pt: 5/4 => 6/5
+
+Blood Soliloquy
+type: Instant => Sorcery
+rules_text: As an additional cost to cast this spell, sacrifice a creature or discard a card.
+Target creature gets -4/-4 until end of turn. => Target creature gets -2/-2 until end of turn. Surveil 1.
+
+Unnatural Torment
+rules_text: All creatures get -2/-2 until end of turn. If mana produced by sacrificing a creature was spent to cast this spell, instead up to six target creatures get -2/-2 until end of turn. => All creatures get -2/-2 until end of turn. If mana from a Scion was spent to cast this spell, instead up to six target creatures get -2/-2 until end of turn.
+
+Tendrils in the Loch
+type: Enchantment => Sorcery
+cost: {1}{B} => {4}{B}{B}
+rules_text: When this enchantment enters, surveil 2, then draw two cards. You lose 2 life. => Search your library for a card, put that card into your hand, then shuffle.
+Create two 1/1 colorless Eldrazi Scion creature tokens with “Sacrifice this creature: Add {C}.”
+
+Eternity Takes
+rules_text: As an additional cost to cast this spell, pay {2} or behold a creature with mana value 7 or greater. [i](Choose a creature you control with mana value 7 or greater or reveal a creature card with mana value 7 or greater from your hand.)[/i]
+Exile target nonland permanent. => As an additional cost to cast this spell, pay {2}, choose a creature you control with mana value 7 or greater, or reveal a creature card with mana value 7 or greater from your hand.
+Exile target nonland permanent.
+
+Stelver, the Eyes and Ears
+rules_text: Flash
+When Stelver enters, investigate twice. For each player, you may return a creature that player controls to its owner's hand. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Sacrifice a Clue: Until end of turn, you may cast creature spells as though they had flash. => Flash
+When Stelver enters, return up to one target creature each player controls to its owner's hand. Investigate.
+Whenever you sacrifice a Clue, until end of turn, you may cast creature spells as though they had flash.
+
+Zaila's Arbiter
+rules_text: Flash
+Flying
+When you cast this spell, exile up to one target nonland permanent. While it's exiled, its owner may cast it by paying {2} rather than its mana cost. => Flash
+When you cast this spell, exile up to one target nonland permanent. While it's exiled, its owner may cast it by paying {2} rather than its mana cost.
+Flying
+
+Grand Triarch
+rules_text: Devoid [i](This card has no color.)[/i]
+Other colorless creatures you control have hexproof. => Devoid [i](This card has no color.)[/i]
+Other colorless permanents you control have hexproof.
+At the beginning of your end step, you may have your life total become equal to the greatest mana value among creatures you control.
+
+Strike Suppressor
+rules_text: Flash
+When this creature enters, creatures get -1/-1 until end of turn.
+Whenever an opponent creates one or more creature tokens, that player loses that much life and you gain that much life. => Flash
+When this creature enters, other creatures get -1/-1 until end of turn.
+Whenever an opponent creates one or more creature tokens, that player loses that much life and you gain that much life.
+
+Emrakul's Conscriptor
+rules_text: When you cast this spell, return target creature card from your graveyard to the battlefield. It becomes a 10/10 with trample and annihilator 2. [i](This lasts indefinitely. Whenever it attacks, defending player sacrifices two permanents.)[/i]
+Trample, annihilator 2 => When you cast this spell, return target creature card from your graveyard to the battlefield as a 10/10 with trample and annihilator 2. [i](This lasts indefinitely. Whenever it attacks, defending player sacrifices two permanents.)[/i]
+Trample, annihilator 2
+
+Ichor Winnower
+cost: {1}{R} => {3}{R}
+rules_text: Devoid [i](This card has no color.)[/i]
+Haste
+Whenever you spend an odd amount of mana to cast a spell, this creature deals 1 damage to target player. => Devoid [i](This card has no color.)[/i]
+Whenever you spend an odd amount of mana to cast a spell, you may discard your hand. If you do, draw that many cards.
+pt: 2/2 => 3/3
+
+Herald of Distant Skies
+rules_text: Flying
+When you cast this spell, reveal a colorless card you own from outside the game with mana value 7 or greater and put it into your hand. => When you cast this spell, reveal a colorless card you own from outside the game with mana value 7 or greater and put it into your hand.
+Flying
+
+Bloodbone Pietist
+cost: {R} => {1}{R}
+rules_text: Trample, haste
+{R}, Discard a card: Put a +1/+1 counter on this creature. Activate only as a sorcery and only once each turn.
+When this creature dies, if its power was 3 or greater, you may discard your hand. If you do, draw two cards. => Whenever this creature deals combat damage to a player, mill the top card of your library. You may play it this turn.
+{2}{R}, Discard a card: This creature gets +2/+2 until end of turn. If there are seven or more cards in your graveyard, put two +1/+1 counters on this creature instead.
+pt: 1/2 => 2/3
+
+Gene Recombinators
+cost: {2}{G} => {3}{G}
+rules_text: {1}, Sacrifice two creatures: Create an X/X green Ooze creature token, where X is the total power of the sacrificed creatures. Activate only as a sorcery.
+[i]Coalition [/i]— Whenever this creature attacks with one or more tokens, populate. [i](Create a token that's a copy of a creature token you control.)[/i] => {1}, Sacrifice two creatures: Create an X/X green Ooze creature token, where X is the total power of the sacrificed creatures. Activate only as a sorcery.
+[i]Coalition [/i]— Whenever this creature attacks with one or more tokens, create a token that's a copy of target token you control.
+pt: 3/4 => 4/4
+
+Curious Botanist
+rules_text: Whenever this creature enters or attacks, choose one —
+• Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+• You may play an additional land this turn.
+• You gain 3 life. => Whenever this creature enters or attacks, choose one —
+• Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+• You may play an additional land this turn.
+• You gain 2 life.
+
+Chasm Behemoth
+type: Creature — Beast Horror => Creature — Beast Scion
+
+Herald of the Expanse
+rules_text: Devoid [i](This card has no color.)[/i]
+This creature and other creatures you control get +2/+2.
+{5}{G}{G}: Fragment this creature. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i] => Devoid [i](This card has no color.)[/i]
+Flash
+When you cast this spell, choose one —
+• Creatures you control have base power and toughness 3/3 until end of turn.
+• Target creature you control has base power and toughness 7/7 until end of turn.
+
+Kavalesk, the Dark Exalted
+type: Legendary Creature — Zombie Warlock => Legendary Creature — Zombie Scion
+
+Elisa, Hand of Torvinald
+rules_text: Elisa gets +1/+1 for each artifact you control.
+Whenever you attack, you may pay {R}{W}. When you do, fragment another target attacking creature. Tokens created this way enter tapped and attacking. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i] => Elisa gets +1/+1 for each artifact you control.
+Whenever you attack, you may pay {R}{W}. When you do, fragment another target attacking creature. You may have tokens created this way enter tapped and attacking. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+
+Essence Ripper
+rules_text: When this creature enters, exile the top two cards of each player's library face down. You may look at them while they remain exiled.
+Discard a card: Until end of turn, you may play target card exiled with this creature. You may spend mana as though it were mana of any type to cast spells this way. Activate only as a sorcery. => When this creature enters, exile the top two cards of each player's library face down. You may look at them while they remain exiled.
+{B}, Discard a card: Until end of turn, you may play target card exiled with this creature. You may spend mana of any type to cast spells this way. Activate only as a sorcery.
+
+Ulamog's Aspirant
+rules_text: When this creature enters, exile up to one other target nonland permanent until this creature leaves the battlefield.
+{4}: Destroy this creature. Its controller draws two cards. Any player may activate this ability. => When this creature enters, exile up to one other target nonland permanent until this creature leaves the battlefield.
+{5}: Destroy this creature. Its controller draws three cards. Any player may activate this ability.
+
+The West District Hangar
+cost: {3}{R} => {2}{R}
+rules_text:  => As long as you control four or more artifacts with different names, if a source you control would deal damage to an opponent or permanent an opponent controls, it deals that much damage plus 2 instead.
+{T}: Add {R}{R}. This mana can't be spent to cast nonartifact spells.
+
+Lightwire Swarm
+cost: {2}{U} => {1}{U}
+rules_text: Flying
+At the beginning of your end step, if you've drawn two or more cards this turn, create a 1/1 colorless Thopter artifact creature token with flying. If you've drawn three or more cards this turn, create a token that's a copy of this creature instead. => Flying
+At the beginning of your end step, if you've drawn two or more cards this turn, create a 1/1 colorless Thopter artifact creature token with flying. If you've drawn three or more cards this turn, create two of those tokens instead.
+
+Inventors' Exhibition
+type: Enchantment => Sorcery
+cost: {1}{W} => {3}{W}
+rules_text: Reveal the top six cards of your library. Put an artifact or enchantment card from among them onto the battlefield tapped. => Reveal the top six cards of your library. You may put an artifact card and/or a creature card each with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+
+Greytide Specter
+type: Creature — Specter Horror => Creature — Eldrazi Horror
+cost: {1}{U}{U}{B}{B} => {3}{U}{B}
+rules_text: Flying, menace, ward {2}
+Whenever you discard one or more cards, this creature gets +1/+1 until end of turn.
+{2}{U}{U}{B}{B}, Exile this creature: Exchange your hand and graveyard. Activate only as a sorcery. => Devoid [i](This card has no color.)[/i]
+Flying
+When this creature enters, you may discard any number of cards. If you do, return that many cards that weren't discarded this way from your graveyard to your hand.
+
+Emrakul, the Sky Sundered
+rules_text: When you cast this spell, choose beginning phase, main phase, or combat phase. Until your next turn, each opponent skips each instance of each phase not chosen this way. [i](The beginning phase includes the untap, upkeep, and draw steps. That player doesn't skip the ending phase.)[/i]
+Flying, trample, protection from mana value 3 or less => When you cast this spell, each opponent exiles their hand. Cast any number of spells from among those cards without paying their mana costs.
+Flying, trample, protection from mana value 3 or less
+
+What Remains of Frossenhold
+rules_text: {T}: Add {C}. 
+{5}: Until end of turn, this land becomes a 4/4 Eldrazi creature in addition to its other types.
+Whenever this land attacks, you may discard a card. If you do, put a +1/+1 counter on it and draw a card. => {T}: Add {C}.
+{5}: This land becomes a 4/4 Eldrazi land creature until end of turn.
+
+Bird
+
+Exander, Half-Forgotten
+rules_text: At the beginning of your end step, if the void called this turn, create a 2/1 black Warlock creature token. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+[something else] => Menace
+At the beginning of your end step, if the void called this turn, create a 2/1 black Warlock creature token. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+pt: 1/1 => 2/1
+
+Warlock
+
+Zaila, Her Will Be Done
+cost: {3}{W}{U} => {4}{W}{U}
+
+
+VERSION 68 CHANGELOG
 ====================
 
 Gaunt Transient added.
