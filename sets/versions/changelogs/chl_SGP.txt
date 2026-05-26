@@ -1,4 +1,273 @@
-﻿VERSION 69 CHANGELOG
+﻿VERSION 70 CHANGELOG
+====================
+
+Falconskin Augmentation added.
+Neon Dreams added.
+Aspiring Artisan added.
+Analytic Processor added.
+Scapebender added.
+Elite Reserve added.
+Cinder Fanatic added.
+Soulrender added.
+Otherworldly Gyre added.
+Herald of Darkest Skies added.
+Astrum Weaver added.
+Deep Cover Prowler added.
+Devastation Pilgrim added.
+Blinding Aperture added.
+Illusion added.
+
+Aerial Augmentation removed.
+Commune with Silence removed.
+Thousand-Mind Cutthroat removed.
+Impact Surveyors removed.
+Willowvine Sentinel removed.
+Festering Eyemass removed.
+Pinefell Terror removed.
+Scape Render removed.
+End of Goldport removed.
+Herald of Distant Skies removed.
+Starbreaker Phantom removed.
+Chasm Behemoth removed.
+Herald of the Expanse removed.
+Starblood Tides removed.
+Brunn, Blunt Tactician removed.
+Lore Interwoven removed.
+Eldrazi Monolith removed.
+Skyshaper removed.
+Ravin, Heir of Goldport removed.
+Dog removed.
+
+Mire Pathforger
+
+Mournful Matriarch
+rules_text: When this creature dies, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => Whenever another creature you control with power 2 or less enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Eldrazi Scion
+
+Game Hunters
+rules_text: Whenever you sacrifice a creature for the first time each turn, put a +1/+1 counter on this creature. => Whenever you sacrifice a permanent for the first time each turn, put a +1/+1 counter on this creature.
+
+First Responders
+rules_text: When this creature enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Whenever you sacrifice a Clue, this creature gets +2/+2 until end of turn. => When this creature enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Whenever you sacrifice a Clue, this creature gets +1/+1 and gains trample until end of turn.
+
+Overzealous Recon
+pt: 3/3 => 3/2
+
+Old Ones Envoy
+type: Creature — Eldrazi Horror => Creature — Eldrazi
+
+Harvest Tenders
+pt: 4/4 => 3/4
+
+Ravaged Eviscerator
+rules_text: Devoid [i](This card has no color.)[/i]
+Whenever this creature deals combat damage to a player, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.” => Devoid [i](This card has no color.)[/i]
+When this creature enters, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+Whenever a Scion you control dies, if this creature has no counters on it, put a +1/+1 counter on it.
+pt: 2/3 => 2/1
+
+Artillery Commander
+rules_text: Whenever you cast an artifact spell, put a +1/+1 counter on this creature. => Whenever another nontoken artifact you control enters, this creature deals 1 damage to each opponent and you gain 1 life.
+Whenever two or more artifact creatures you control attack, exile the top card of your library. You may play it this turn.
+
+Sky Force Retiree
+
+North District Prior
+rules_text: This creature enters with a +1/+1 counter on it for each other creature you control.
+{1}{W}, {T}: Exile this creature. Return it to the battlefield under its owner's control at the beginning of the next end step. Activate only as a sorcery. => This creature enters with a +1/+1 counter on it for each other creature you control.
+{2}{W}, Tap three untapped creatures you control: Fragment this creature. Activate only as a sorcery. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+
+Cabaret Seductress
+rules_text: Lifelink => Lifelink
+Whenever another creature you control with power 2 or less enters, this creature gets +1/+0 until end of turn.
+pt: 2/3 => 1/4
+
+Null Emissary
+type: Creature — Eldrazi Avatar => Creature — Eldrazi Advisor
+
+Port Inspector
+rules_text: Vigilance
+When this creature enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Whenever you sacrifice a Clue, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => When this creature enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Whenever you sacrifice a Clue, surveil 1. [i](Do this before you draw.)[/i]
+pt: 2/3 => 2/4
+
+Adaptive Lieutenant
+rules_text: Whenever this creature deals combat damage to a player, draw a card.
+Whenever you sacrifice a Clue, this creature can't be blocked this turn. => Whenever this creature deals combat damage to a player, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Whenever you sacrifice a Clue, this creature gets +1/+0 until end of turn.
+pt: 3/4 => 4/5
+
+In the Nick of Time
+rules_text: Counter target spell. If that spell targets one or more permanents you control, draw a card. => Counter up to one target spell, up to one target activated ability, and up to one target triggered ability.
+
+Yestergrove Relic
+pt: 3/2 => 3/3
+
+Botanical Conference
+rules_text: Vigilance
+[i]Coalition[/i] — Whenever this creature attacks with one or more tokens, you may pay {X}. If you do, another target creature you control gets +X/+X until end of turn. => Vigilance
+[i]Coalition[/i] — Whenever this creature attacks with one or more tokens, put up to that many land cards from your hand onto the battlefield tapped.
+{3}{G}, {T}: Create a tapped 1/1 white Human creature token. Draw a card.
+pt: 5/4 => 4/5
+
+Flamerush
+type: Sorcery => Instant
+rules_text: This spell costs {2} more to cast for each target beyond the first.
+Flamerush deals 3 damage divided as you choose among one or more target creatures. => Flamerush deals 2 damage divided as you choose among one or two target creatures.
+
+Brazen Sootbellow
+rules_text: Flying
+When this creature enters, you may discard a card. If you do, draw a card and create a Treasure token.
+Pay {R} or tap an untapped artifact you control: This creature gets +1/+0 until end of turn. => Flying, haste
+Whenever this creature attacks, create a Treasure token.
+Pay {R} or tap an untapped artifact you control: This creature gets +1/+0 until end of turn.
+pt: 3/4 => 3/3
+
+Blood Soliloquy
+type: Sorcery => Instant
+cost: {B} => {2}{B}{B}
+rules_text: Target creature gets -2/-2 until end of turn. Surveil 1. => Exile target creature. Surveil 2.
+
+In Eldritch Flame
+
+Ulamog, the Earth Engulfed
+rules_text: Indestructible
+Whenever Ulamog attacks, search target opponent's graveyard, hand, and library for up to seven cards and exile them. That player shuffles their library. => Indestructible
+Eldrazi you control have annihilator 1. [i](Whenever a creature with annihilator 1 attacks, defending player sacrifices a permanent.)[/i]
+Whenever Ulamog attacks, search target opponent's library for up to seven cards and exile them. That player shuffles.
+
+Zaila's Arbiter
+
+Grand Triarch
+cost: {4}{W}{W} => {6}{W}{W}
+rules_text: Devoid [i](This card has no color.)[/i]
+Other colorless permanents you control have hexproof.
+At the beginning of your end step, you may have your life total become equal to the greatest mana value among creatures you control. => Devoid [i](This card has no color.)[/i]
+You and other colorless permanents you control have hexproof.
+Whenever you cast a colorless spell, create a 4/4 colorless Eldrazi Angel creature token with flying.
+pt: 6/6 => 8/8
+
+Devonia, Lost Ministrix
+type: Legendary Creature — Human Eldrazi Advisor => Legendary Creature — Eldrazi Advisor
+
+Emrakul's Conscriptor
+rules_text: When you cast this spell, return target creature card from your graveyard to the battlefield as a 10/10 with trample and annihilator 2. [i](This lasts indefinitely. Whenever it attacks, defending player sacrifices two permanents.)[/i]
+Trample, annihilator 2 => When you cast this spell, return target creature card from your graveyard to the battlefield. It's a 10/10 with trample and annihilator 2. [i](This lasts indefinitely. Whenever it attacks, defending player sacrifices two permanents.)[/i]
+Trample, annihilator 2
+
+Ichor Winnower
+cost: {3}{R} => {1}{R}
+rules_text: Devoid [i](This card has no color.)[/i]
+Whenever you spend an odd amount of mana to cast a spell, you may discard your hand. If you do, draw that many cards. => Devoid [i](This card has no color.)[/i]
+First strike
+Whenever an opponent casts a spell with an even mana value, this creature deals 1 damage to them.
+pt: 3/3 => 2/2
+
+Bloodbone Pietist
+pt: 2/3 => 2/2
+
+Bender of Will
+pt: 4/4 => 3/3
+
+Elisa, Hand of Torvinald
+rules_text: Elisa gets +1/+1 for each artifact you control.
+Whenever you attack, you may pay {R}{W}. When you do, fragment another target attacking creature. You may have tokens created this way enter tapped and attacking. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i] => When Elisa enters, you may activate one of her abilities without paying its costs.
+{2}{R}{W}, Tap two untapped artifacts and/or creatures you control: Put two +1/+1 counters and a flying counter on target artifact you control. You may have it become a 0/0 artifact creature.
+pt: 1/1 => 4/4
+
+Skittering Swarmlord
+rules_text: Devoid [i](This card has no color.)[/i]
+Reach
+When you cast this spell and at the beginning of your upkeep, exile up to two target creature cards from graveyards. Create that many 1/1 colorless Eldrazi Scion creature tokens with “Sacrifice this creature: Add {C}.” => Devoid [i](This card has no color.)[/i]
+Reach
+When you cast this spell and at the beginning of your upkeep, you may exile target creature card from a graveyard. If you do, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+
+Living Apogee
+type: Creature — Eldrazi Avatar => Creature — Eldrazi
+cost: {3}{C}{C} => {7}
+rules_text: This creature has all keyword abilities of creatures on the battlefield. => You may pay {7} rather than pay the mana cost of spells you cast.
+pt: 5/5 => 7/7
+
+Greytide Specter
+type: Creature — Eldrazi Horror => Creature — Eldrazi Specter
+rules_text: Devoid [i](This card has no color.)[/i]
+Flying
+When this creature enters, you may discard any number of cards. If you do, return that many cards that weren't discarded this way from your graveyard to your hand. => Devoid [i](This card has no color.)[/i]
+When you cast this spell, return any number of nonland cards from your graveyard to your hand, then discard that many cards.
+Flying
+pt: 5/5 => 4/4
+
+Kraz, Head Engineer
+cost: {3}{R} => {3}{R}{R}
+rules_text:  => Artifact creatures you control have haste.
+When Kraz enters and at the beginning of your upkeep, create a 0/0 colorless Construct artifact creature token with “This creature gets +1/+1 for each artifact you control.” Sacrifice it at the beginning of the next end step.
+
+Emrakul, the Sky Sundered
+rules_text: When you cast this spell, each opponent exiles their hand. Cast any number of spells from among those cards without paying their mana costs.
+Flying, trample, protection from mana value 3 or less => When you cast this spell, each opponent exiles their hand. You may cast a spell from among those cards without paying its mana cost.
+Flying, trample
+As long as an opponent has one or fewer cards in hand, Emrakul has hexproof.
+
+Keeper's Peninsula
+
+Dusk Vantage
+
+Lost Settlement
+
+Cliffrest Tributary
+
+Secluded Avenue
+
+Cataract Valley
+
+Outlands Hamlet
+
+Bronzeglade Peaks
+
+Lakewatch Ruins
+
+Treasure
+
+Forge in Anguish
+rules_text: As an additional cost to cast this spell, discard a card or pay {2}.
+Target creature you control gets +3/+1 and gains first strike and trample until end of turn. => As an additional cost to cast this spell, discard a card or pay {1}.
+Target creature you control gets +3/+1 and gains first strike and trample until end of turn.
+
+Clue
+
+Human
+
+Eldrazi
+
+Construct
+
+Eldrazi Angel
+
+Thopter
+
+Gene Recombinators_Promo
+cost: {2}{G} => {3}{G}
+rules_text: {1}, Sacrifice two creatures: Create an X/X green Ooze creature token, where X is the total power of the sacrificed creatures. Activate only as a sorcery.
+[i]Coalition[/i] – Whenever this creature attacks with one or more tokens, populate. [i](Create a token that's a copy of a creature token you control.)[/i] => {1}, Sacrifice two creatures: Create an X/X green Ooze creature token, where X is the total power of the sacrificed creatures. Activate only as a sorcery.
+[i]Coalition[/i] – Whenever this creature attacks with one or more tokens, create a token that's a copy of target token you control.
+pt: 3/4 => 4/4
+
+Bird
+
+Eldrazi
+
+Construct
+
+Village Steeples
+
+Copy
+
+
+VERSION 69 CHANGELOG
 ====================
 
 Esteemed Falconress added.
