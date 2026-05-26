@@ -3778,7 +3778,8 @@ Coalition — Whenever this creature attacks with one or more tokens, create a t
 		<card>
 			<name>Astrum Weaver // Grisly Bloom</name>
 			<text>Flash
-At the beginning of your end step, if a creature you control died this turn, put a +1/+1 counter on each creature you control.
+Reach
+At the beginning of each end step, if you spent mana from a Scion this turn, put a +1/+1 counter on each creature you control.
 
 ---
 
