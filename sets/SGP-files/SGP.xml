@@ -5,7 +5,7 @@
 			<name>SGP</name>
 			<longname>Stirrings in Goldport</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-25</releasedate>
+			<releasedate>2026-05-28</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -389,7 +389,7 @@ When this creature enters, investigate. (Create a Clue token. It&apos;s an artif
 		</card>
 		<card>
 			<name>Mastbreaker</name>
-			<text>This creature can&apos;t be blocked as long as the void called this turn. (The void calls on your turn when a card enters your graveyard from your hand or library.)</text>
+			<text>This creature can&apos;t be blocked as long as the void called you this turn. (During your turn, the void calls you when a card enters your graveyard from your hand or library.)</text>
 			<set rarity="common" picurl="https://kattalist.github.io/sets/SGP-files/img/89_Mastbreaker.png" num="89">SGP</set>
 			<prop>
 				<layout>normal</layout>
@@ -455,7 +455,7 @@ When this creature enters, investigate. (Create a Clue token. It&apos;s an artif
 		</card>
 		<card>
 			<name>Taken by the Storm</name>
-			<text>Target nonland permanent&apos;s owner puts it on the top or bottom of their library if it&apos;s a creature or if the void called this turn. (The void calls on your turn when a card enters your graveyard from your hand or library.)</text>
+			<text>Target nonland permanent&apos;s owner puts it on their choice of the top or bottom of their library if it&apos;s a creature or if the void called you this turn. (During your turn, the void calls you when a card enters your graveyard from your hand or library.)</text>
 			<set rarity="common" picurl="https://kattalist.github.io/sets/SGP-files/img/98_Taken by the Storm.png" num="98">SGP</set>
 			<prop>
 				<layout>normal</layout>
@@ -523,12 +523,12 @@ When this artifact enters, tap target creature an opponent controls and put two 
 		<card>
 			<name>Gaunt Transient</name>
 			<text>Deathtouch
-This creature gets +1/+1 as long as the void called this turn. (The void calls on your turn when a card enters your graveyard from your hand or library.)</text>
+This creature gets +1/+1 as long as the void called you this turn. (During your turn, the void calls you when a card enters your graveyard from your hand or library.)</text>
 			<set rarity="common" picurl="https://kattalist.github.io/sets/SGP-files/img/113_Gaunt Transient.png" num="113">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Goblin Scion</type>
+				<type>Creature — Goblin Horror</type>
 				<maintype>Creature</maintype>
 				<manacost>1B</manacost>
 				<cmc>2</cmc>
@@ -616,7 +616,7 @@ Whenever this creature attacks, you may sacrifice another creature. If you do, d
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Merfolk Scion</type>
+				<type>Creature — Merfolk Horror</type>
 				<maintype>Creature</maintype>
 				<manacost>3B</manacost>
 				<cmc>4</cmc>
@@ -682,9 +682,9 @@ Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, 
 		</card>
 		<card>
 			<name>Croak</name>
-			<text>This spell costs {2} less to cast if you&apos;ve sacrificed a creature this turn.
+			<text>This spell costs {2} less to cast if a creature you control died this turn.
 Destroy target creature.</text>
-			<set rarity="common" picurl="https://kattalist.github.io/sets/SGP-files/img/107_Croak.png" num="107">SGP</set>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/107_Croak.png" num="107">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -732,7 +732,7 @@ Surveil 1, then draw two cards. (To surveil 1, look at the top card of your libr
 		</card>
 		<card>
 			<name>Compelled to Die</name>
-			<text>Target player sacrifices a nontoken creature and loses 2 life.</text>
+			<text>Target player sacrifices a nontoken creature of their choice and loses 2 life.</text>
 			<set rarity="common" picurl="https://kattalist.github.io/sets/SGP-files/img/105_Compelled to Die.png" num="105">SGP</set>
 			<prop>
 				<layout>normal</layout>
@@ -749,7 +749,7 @@ Surveil 1, then draw two cards. (To surveil 1, look at the top card of your libr
 		<card>
 			<name>Nightgrasp</name>
 			<text>Enchant creature
-Enchanted creature gets -2/-2. If the void called this turn, enchanted creature instead gets -6/-6. (The void calls on your turn when a card enters your graveyard from your hand or library.)</text>
+Enchanted creature gets -2/-2. If the void called you this turn, enchanted creature instead gets -6/-6. (During your turn, the void calls you when a card enters your graveyard from your hand or library.)</text>
 			<set rarity="common" picurl="https://kattalist.github.io/sets/SGP-files/img/121_Nightgrasp.png" num="121">SGP</set>
 			<prop>
 				<layout>normal</layout>
@@ -797,7 +797,7 @@ Enchanted creature gets -2/-2. If the void called this turn, enchanted creature 
 		<card>
 			<name>Eyekissed Invoker</name>
 			<text>Menace
-{R}, Sacrifice this creature: It deals 2 damage to target player. Activate only if the void called this turn. (The void calls on your turn when a card enters your graveyard from your hand or library.)</text>
+{R}, Sacrifice this creature: It deals 2 damage to target player. Activate only if the void called you this turn. (During your turn, the void calls you when a card enters your graveyard from your hand or library.)</text>
 			<set rarity="common" picurl="https://kattalist.github.io/sets/SGP-files/img/145_Eyekissed Invoker.png" num="145">SGP</set>
 			<prop>
 				<layout>normal</layout>
@@ -855,7 +855,7 @@ Whenever one or more artifacts you control enter, this creature deals 1 damage t
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Merfolk Scion</type>
+				<type>Creature — Merfolk Horror</type>
 				<maintype>Creature</maintype>
 				<manacost>2U</manacost>
 				<cmc>3</cmc>
@@ -867,7 +867,7 @@ Whenever one or more artifacts you control enter, this creature deals 1 damage t
 		</card>
 		<card>
 			<name>Magma Scribe</name>
-			<text>This creature has first strike as long as the void called this turn. (The void calls on your turn when a card enters your graveyard from your hand or library.)</text>
+			<text>This creature has first strike as long as the void called you this turn. (During your turn, the void calls you when a card enters your graveyard from your hand or library.)</text>
 			<set rarity="common" picurl="https://kattalist.github.io/sets/SGP-files/img/156_Magma Scribe.png" num="156">SGP</set>
 			<prop>
 				<layout>normal</layout>
@@ -1067,7 +1067,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Elemental Scion</type>
+				<type>Creature — Elemental Druid</type>
 				<maintype>Creature</maintype>
 				<manacost>2G</manacost>
 				<cmc>3</cmc>
@@ -1169,7 +1169,7 @@ When this creature dies, create a 3/2 colorless Eldrazi creature token.</text>
 			<name>Branchbound Speaker</name>
 			<text>Vigilance
 Coalition — Whenever this creature attacks with one or more tokens, this creature gets +1/+1 and gains trample until end of turn.</text>
-			<set rarity="common" picurl="https://kattalist.github.io/sets/SGP-files/img/175_Branchbound Speaker.png" num="175">SGP</set>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/SGP-files/img/176_Branchbound Speaker.png" num="176">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1186,12 +1186,12 @@ Coalition — Whenever this creature attacks with one or more tokens, this creat
 		<card>
 			<name>Starbreaker Juvenile</name>
 			<text>Vigilance, reach
-Whenever you spend four or more mana to cast another spell, if this creature has no counters on it, put two +1/+1 counters on it.</text>
+Whenever you spend four or more mana to cast a spell, if this creature has no counters on it, put two +1/+1 counters on it.</text>
 			<set rarity="common" picurl="https://kattalist.github.io/sets/SGP-files/img/196_Starbreaker Juvenile.png" num="196">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Horror Scion</type>
+				<type>Creature — Horror</type>
 				<maintype>Creature</maintype>
 				<manacost>5G</manacost>
 				<cmc>6</cmc>
@@ -1209,11 +1209,11 @@ When this creature enters, you gain 3 life.
 ---
 
 Surveil 1. You gain 3 life. (Cast this from your hand or a copy from the battlefield once.)</text>
-			<set rarity="common" picurl="https://kattalist.github.io/sets/SGP-files/img/172_Barksplitter Colossus.png" num="172">SGP</set>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/SGP-files/img/173_Barksplitter Colossus.png" num="173">SGP</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
-				<type>Creature — Elemental Scion // Sorcery — Mythos</type>
+				<type>Creature — Elemental Horror // Sorcery — Mythos</type>
 				<maintype>Creature</maintype>
 				<manacost>6GG // 1G</manacost>
 				<cmc>8</cmc>
@@ -1497,7 +1497,7 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 		<card>
 			<name>Obsessive Ritualist</name>
 			<text>When this creature enters, you may have each player discard a card.
-As long as the void called this turn, this creature gets +1/+1 and has deathtouch and haste. (The void calls on your turn when a card enters your graveyard from your hand or library.)</text>
+As long as the void called you this turn, this creature gets +1/+1 and has deathtouch and haste. (During your turn, the void calls you when a card enters your graveyard from your hand or library.)</text>
 			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/226_Obsessive Ritualist.png" num="226">SGP</set>
 			<prop>
 				<layout>normal</layout>
@@ -1623,7 +1623,7 @@ When this creature enters, look at the top six cards of your library. You may re
 		</card>
 		<card>
 			<name>Lantha, Task Force Sergeant</name>
-			<text>Activated abilities of artifacts you control cost {1} less to activate. This effect can&apos;t reduce the amount of mana you pay to activate an ability to less than one mana.
+			<text>Activated abilities of artifacts you control cost {1} less to activate. This effect can&apos;t reduce the mana in that cost to less than one mana.
 {2}, {T}: Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
 			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/221_Lantha, Task Force Sergeant.png" num="221">SGP</set>
 			<prop>
@@ -1693,12 +1693,12 @@ Colorless spells you cast cost {1} less to cast.</text>
 		<card>
 			<name>Inkwing Kite</name>
 			<text>Flying
-Whenever the void calls, draw a card. This ability triggers only once each turn. (The void calls on your turn when a card enters your graveyard from your hand or library.)</text>
+Whenever the void calls you, draw a card. This ability triggers only once each turn. (During your turn, the void calls you when a card enters your graveyard from your hand or library.)</text>
 			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/217_Inkwing Kite.png" num="217">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Bird Scion</type>
+				<type>Creature — Bird Horror</type>
 				<maintype>Creature</maintype>
 				<manacost>3UB</manacost>
 				<cmc>5</cmc>
@@ -1735,7 +1735,7 @@ Creature spells you control with mana value 4 or greater can&apos;t be countered
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Elemental Scion</type>
+				<type>Creature — Elemental Horror</type>
 				<maintype>Creature</maintype>
 				<manacost>2RG</manacost>
 				<cmc>4</cmc>
@@ -1782,7 +1782,7 @@ Whenever Karsten deals combat damage to a player, exile up to one other target c
 		<card>
 			<name>Tormented Eulogist</name>
 			<text>Haste
-Whenever this creature attacks, until end of turn, you may have its power become equal to the amount of mana you&apos;ve spent to cast spells this turn.</text>
+Whenever this creature attacks, until end of turn, you may have its base power become equal to the amount of mana you&apos;ve spent to cast spells this turn.</text>
 			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/165_Tormented Eulogist.png" num="165">SGP</set>
 			<prop>
 				<layout>normal</layout>
@@ -2107,7 +2107,7 @@ Tap up to one target creature. Draw a card. (Cast this from your hand or a copy 
 		<card>
 			<name>Watchman of the Deep</name>
 			<text>Defender
-As long as the void called this turn, this creature gets +3/+0 and can attack as though it didn&apos;t have defender. (The void calls on your turn when a card enters your graveyard from your hand or library.)
+As long as the void called you this turn, this creature gets +3/+0 and can attack as though it didn&apos;t have defender. (During your turn, the void calls you when a card enters your graveyard from your hand or library.)
 {1}{U}: Surveil 1.</text>
 			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/100_Watchman of the Deep.png" num="100">SGP</set>
 			<prop>
@@ -2167,7 +2167,7 @@ Whenever you sacrifice a Clue, surveil 1. (Do this before you draw.)</text>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Shapeshifter Scion</type>
+				<type>Creature — Shapeshifter</type>
 				<maintype>Creature</maintype>
 				<manacost>2UU</manacost>
 				<cmc>4</cmc>
@@ -2362,7 +2362,7 @@ Whenever this creature attacks, surveil 1. (Look at the top card of your library
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Bat Scion</type>
+				<type>Creature — Bat Horror</type>
 				<maintype>Creature</maintype>
 				<manacost>1B</manacost>
 				<cmc>2</cmc>
@@ -2392,7 +2392,7 @@ Haste</text>
 		</card>
 		<card>
 			<name>Holism Seeker</name>
-			<text>When this creature enters, you may destroy target artifact or enchantment.
+			<text>When this creature enters, destroy up to one target artifact or enchantment.
 {3}{C}, {T}: Fragment this creature. (Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can&apos;t be fragmented.)</text>
 			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/191_Holism Seeker.png" num="191">SGP</set>
 			<prop>
@@ -2449,7 +2449,7 @@ Vigilance, reach</text>
 			<text>Vigilance
 Coalition — Whenever this creature attacks with one or more tokens, put up to that many land cards from your hand onto the battlefield tapped.
 {3}{G}, {T}: Create a tapped 1/1 white Human creature token. Draw a card.</text>
-			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/174_Botanical Conference.png" num="174">SGP</set>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/175_Botanical Conference.png" num="175">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2525,7 +2525,7 @@ Put X +1/+1 counters on target creature. (Cast this from your hand or a copy fro
 			<text>Choose one —
 • Target creature you control deals damage equal to its power to target creature you don&apos;t control.
 • Create a 1/1 colorless Eldrazi Scion creature token with &quot;Sacrifice this creature: Add {C}.&quot;</text>
-			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/173_Bitten By the Void.png" num="173">SGP</set>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/174_Bitten By the Void.png" num="174">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2556,7 +2556,7 @@ Put X +1/+1 counters on target creature. (Cast this from your hand or a copy fro
 		</card>
 		<card>
 			<name>Blinding Immolation</name>
-			<text>This spell costs {2} less to cast if the void called this turn. (The void calls on your turn when a card enters your graveyard from your hand or library.)
+			<text>This spell costs {2} less to cast if the void called you this turn. (During your turn, the void calls you when a card enters your graveyard from your hand or library.)
 Blinding Immolation deals 5 damage to target creature.</text>
 			<set rarity="common" picurl="https://kattalist.github.io/sets/SGP-files/img/138_Blinding Immolation.png" num="138">SGP</set>
 			<prop>
@@ -2591,7 +2591,7 @@ Blinding Immolation deals 5 damage to target creature.</text>
 			<name>Confidential Science</name>
 			<text>When this enchantment enters, draw a card.
 Whenever you cast a spell with mana value 4 or greater, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
-			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/177_Confidential Science.png" num="177">SGP</set>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/178_Confidential Science.png" num="178">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2608,7 +2608,7 @@ Whenever you cast a spell with mana value 4 or greater, investigate. (Create a C
 			<name>Cataclysm Constable</name>
 			<text>Vigilance
 Whenever one or more creatures you control deal combat damage to a player, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
-			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/176_Cataclysm Constable.png" num="176">SGP</set>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/177_Cataclysm Constable.png" num="177">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2678,7 +2678,7 @@ Once each turn, when another creature you control enters, you may pay life equal
 		</card>
 		<card>
 			<name>Corpse Inspector</name>
-			<text>Once each turn, when the void calls, you may exile target card from your graveyard. (The void calls on your turn when a card enters your graveyard from your hand or library.)
+			<text>Once each turn, when the void calls you, you may exile target card from your graveyard. (During your turn, the void calls you when a card enters your graveyard from your hand or library.)
 When this creature dies, create a 2/1 black Warlock creature token for each creature card exiled with it. Add {B} for each noncreature card exiled with it.</text>
 			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/106_Corpse Inspector.png" num="106">SGP</set>
 			<prop>
@@ -2748,7 +2748,7 @@ Whenever a creature you control dies, each opponent loses 1 life and you gain 1 
 		</card>
 		<card>
 			<name>Quick and Painful</name>
-			<text>Destroy target creature if it has power 3 or less or if the void called this turn. (The void calls on your turn when a card enters your graveyard from your hand or library.)</text>
+			<text>Destroy target creature if it has power 3 or less or if the void called you this turn. (During your turn, the void calls you when a card enters your graveyard from your hand or library.)</text>
 			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/123_Quick and Painful.png" num="123">SGP</set>
 			<prop>
 				<layout>normal</layout>
@@ -2815,13 +2815,13 @@ Once each turn, when an attacking creature you control dies, you may discard a c
 		</card>
 		<card>
 			<name>Ashen Ravager</name>
-			<text>At the beginning of your end step, put a +1/+1 counter on this creature if the void called this turn. (The void calls on your turn when a card enters your graveyard from your hand or library.)
+			<text>At the beginning of your end step, put a +1/+1 counter on this creature if the void called you this turn. (During your turn, the void calls you when a card enters your graveyard from your hand or library.)
 When this creature dies, if its power is 3 or greater, it deals 3 damage to target player.</text>
 			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/137_Ashen Ravager.png" num="137">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Beast Scion</type>
+				<type>Creature — Beast Horror</type>
 				<maintype>Creature</maintype>
 				<manacost>R</manacost>
 				<cmc>1</cmc>
@@ -2871,7 +2871,7 @@ At the beginning of combat on your turn, you may tap this creature. If you do, t
 			<name>Ritual Archivist</name>
 			<text>Menace
 Whenever this creature attacks, exile the top card of your library.
-You may play cards exiled with this creature as long as the void called this turn. (The void calls on your turn when a card enters your graveyard from your hand or library.)</text>
+You may play cards exiled with this creature as long as the void called you this turn. (During your turn, the void calls you when a card enters your graveyard from your hand or library.)</text>
 			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/161_Ritual Archivist.png" num="161">SGP</set>
 			<prop>
 				<layout>normal</layout>
@@ -2916,7 +2916,7 @@ Copy target instant or sorcery spell you control. You may choose new targets for
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
-				<type>Creature — Human Bard Scion // Instant — Mythos</type>
+				<type>Creature — Human Bard // Instant — Mythos</type>
 				<maintype>Creature</maintype>
 				<manacost>2UR // UR</manacost>
 				<cmc>4</cmc>
@@ -2928,7 +2928,7 @@ Copy target instant or sorcery spell you control. You may choose new targets for
 		</card>
 		<card>
 			<name>Cinder Fanatic</name>
-			<text>Whenever you attack, if the void called this turn, target creature can&apos;t block this turn. (The void calls on your turn when a card enters your graveyard from your hand or library.)</text>
+			<text>Whenever you attack, if the void called you this turn, target creature can&apos;t block this turn. (During your turn, the void calls you when a card enters your graveyard from your hand or library.)</text>
 			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/142_Cinder Fanatic.png" num="142">SGP</set>
 			<prop>
 				<layout>normal</layout>
@@ -2963,15 +2963,16 @@ This creature enters with a +1/+1 counter on it for each mana from a Scion spent
 		</card>
 		<card>
 			<name>Blood Soliloquy</name>
-			<text>Exile target creature. Surveil 2.</text>
-			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/103_Blood Soliloquy.png" num="103">SGP</set>
+			<text>As an additional cost to cast this spell, sacrifice a creature or discard a card.
+Destroy target creature.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/SGP-files/img/103_Blood Soliloquy.png" num="103">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>2BB</manacost>
-				<cmc>4</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -2997,7 +2998,7 @@ In Eldritch Flame deals 2 damage to each creature.</text>
 		<card>
 			<name>North Salcman Vigil</name>
 			<text>Look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
-{1}{B}, Exile this card from your graveyard: You draw a card and lose 1 life. Activate only if the void called this turn. (The void calls on your turn when a card enters your graveyard from your hand or library.)</text>
+{1}{B}, Exile this card from your graveyard: You draw a card and lose 1 life. Activate only if the void called you this turn. (During your turn, the void calls you when a card enters your graveyard from your hand or library.)</text>
 			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/122_North Salcman Vigil.png" num="122">SGP</set>
 			<prop>
 				<layout>normal</layout>
@@ -3013,15 +3014,15 @@ In Eldritch Flame deals 2 damage to each creature.</text>
 		</card>
 		<card>
 			<name>Unnatural Torment</name>
-			<text>All creatures get -2/-2 until end of turn. If mana from a Scion was spent to cast this spell, instead up to six target creatures get -2/-2 until end of turn.</text>
+			<text>All creatures get -2/-2 until end of turn. Surveil 2.</text>
 			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/133_Unnatural Torment.png" num="133">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1BB</manacost>
-				<cmc>3</cmc>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -3358,7 +3359,7 @@ Whenever you cast a colorless spell, create a 4/4 colorless Eldrazi Angel creatu
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Eldrazi Angel</type>
+				<type>Creature — Eldrazi</type>
 				<maintype>Creature</maintype>
 				<manacost>6WW</manacost>
 				<cmc>8</cmc>
@@ -3404,10 +3405,10 @@ Crew 4</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Bolton, Wharf Inspector</name>
+			<name>Bolton, Wharf Administrator</name>
 			<text>Vigilance
-Each spell costs {1} more to cast for each other spell its controller has cast this turn.</text>
-			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/37_Bolton, Wharf Inspector.png" num="37">SGP</set>
+Each spell a player casts costs {1} more to cast for each other spell that player has cast this turn.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/37_Bolton, Wharf Administrator.png" num="37">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3425,7 +3426,7 @@ Each spell costs {1} more to cast for each other spell its controller has cast t
 			<name>Devonia, Lost Ministrix</name>
 			<text>Devoid (This card has no color.)
 When Devonia enters, mill two cards.
-Once each turn, when the void calls, you may exile target instant or sorcery card from your graveyard and cast a copy of it. (The void calls on your turn when a card enters your graveyard from your hand or library.)</text>
+Once each turn, when the void calls you, you may exile target instant or sorcery card from your graveyard and cast a copy of it. (During your turn, the void calls you when a card enters your graveyard from your hand or library.)</text>
 			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/76_Devonia, Lost Ministrix.png" num="76">SGP</set>
 			<prop>
 				<layout>normal</layout>
@@ -3481,7 +3482,7 @@ Creatures you control can&apos;t be blocked this turn. (Cast this from your hand
 		</card>
 		<card>
 			<name>Roiling Undertow</name>
-			<text>Fragment target creature with mana value X or less. (Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can&apos;t be fragmented.)
+			<text>Fragment target creature you control with mana value X or less. (Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can&apos;t be fragmented.)
 Return up to X target creatures to their owners&apos; hands.</text>
 			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/93_Roiling Undertow.png" num="93">SGP</set>
 			<prop>
@@ -3535,7 +3536,7 @@ Whenever another creature you control with power 2 or less enters, you lose 1 li
 		</card>
 		<card>
 			<name>Insatiate Slasher</name>
-			<text>You may cast this card from your graveyard as long as the void called this turn. If you do, when it enters, it gains haste until end of turn. (The void calls on your turn when a card enters your graveyard from your hand or library.)</text>
+			<text>You may cast this card from your graveyard as long as the void called you this turn. If you do, when it enters, it gains haste until end of turn. (During your turn, the void calls you when a card enters your graveyard from your hand or library.)</text>
 			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/116_Insatiate Slasher.png" num="116">SGP</set>
 			<prop>
 				<layout>normal</layout>
@@ -3561,7 +3562,7 @@ Whenever an opponent creates one or more creature tokens, that player loses that
 				<side>front</side>
 				<type>Creature — Human Advisor</type>
 				<maintype>Creature</maintype>
-				<manacost>2B</manacost>
+				<manacost>1BB</manacost>
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -3608,7 +3609,7 @@ Trample, annihilator 2</text>
 		</card>
 		<card>
 			<name>Esme, Lost to Avarice</name>
-			<text>Once each turn, when the void calls, each opponent loses 1 life and you gain 1 life. (The void calls on your turn when a card enters your graveyard from your hand or library.)
+			<text>Once each turn, when the void calls you, each opponent loses 1 life and you gain 1 life. (During your turn, the void calls you when a card enters your graveyard from your hand or library.)
 {3}{B}{B}: If there are seven or more cards in your graveyard, Esme gains flying and becomes a 7/7 Horror in addition to her other types. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/111_Esme, Lost to Avarice.png" num="111">SGP</set>
 			<prop>
@@ -3722,7 +3723,7 @@ Target creature gains double strike until end of turn. (Cast this from your hand
 			<name>Deathscorn Aspect</name>
 			<text>Haste
 When this creature enters, you may discard a card. If you do, draw a card.
-At the beginning of your end step, sacrifice this creature unless the void called this turn. (The void calls on your turn when a card enters your graveyard from your hand or library.)</text>
+At the beginning of your end step, sacrifice this creature unless the void called you this turn. (During your turn, the void calls you when a card enters your graveyard from your hand or library.)</text>
 			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/144_Deathscorn Aspect.png" num="144">SGP</set>
 			<prop>
 				<layout>normal</layout>
@@ -3761,7 +3762,7 @@ Coalition — Whenever this creature attacks with one or more tokens, create a t
 • Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)
 • You may play an additional land this turn.
 • You gain 2 life.</text>
-			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/178_Curious Botanist.png" num="178">SGP</set>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/179_Curious Botanist.png" num="179">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3801,7 +3802,7 @@ Create three 1/1 colorless Eldrazi Scion creature tokens with &quot;Sacrifice th
 			<name>Deep Cover Prowler</name>
 			<text>Whenever a creature you control becomes the target of a spell or ability an opponent controls, investigate. If you&apos;ve already created a Clue this turn, draw a card instead.
 {3}{G}: Fragment this creature. (Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can&apos;t be fragmented.)</text>
-			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/179_Deep Cover Prowler.png" num="179">SGP</set>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/180_Deep Cover Prowler.png" num="180">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3816,11 +3817,11 @@ Create three 1/1 colorless Eldrazi Scion creature tokens with &quot;Sacrifice th
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Devastation Pilgrim</name>
+			<name>Awoken Cordillera</name>
 			<text>Devoid (This card has no color.)
 Trample
-When this dies, if it was a creature, return it to the battlefield tapped and face down. It&apos;s a land with &quot;{T}: Add {C}{C}&quot; and &quot;Whenever you spend your seventh total mana to cast spells each turn, tap this land and turn it face up.&quot;</text>
-			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/180_Devastation Pilgrim.png" num="180">SGP</set>
+When this creature dies, return it to the battlefield tapped and face down. For as long as it&apos;s face down, it&apos;s a land with &quot;{T}: Add {C}{C}&quot; and &quot;Whenever you spend your seventh total mana to cast spells each turn, tap this land and turn it face up.&quot;</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/172_Awoken Cordillera.png" num="172">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3844,7 +3845,7 @@ Discard up to three cards, then draw that many cards. (Cast this from your hand 
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
-				<type>Legendary Creature — Zombie Scion // Sorcery — Mythos</type>
+				<type>Legendary Creature — Zombie Warlock // Sorcery — Mythos</type>
 				<maintype>Creature</maintype>
 				<manacost>2BR // 1R</manacost>
 				<cmc>4</cmc>
@@ -3942,7 +3943,7 @@ A deck can have any number of cards named Something in the Soil.</text>
 		<card>
 			<name>Efraim, High Alderman</name>
 			<text>Lifelink
-At the beginning of your end step, if you gained 3 or more life this turn, return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter and a lifelink counter on it.</text>
+At the beginning of your end step, if you gained 3 or more life this turn, return up to one target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter and a lifelink counter on it.</text>
 			<set rarity="mythic" picurl="https://kattalist.github.io/sets/SGP-files/img/209_Efraim, High Alderman.png" num="209">SGP</set>
 			<prop>
 				<layout>normal</layout>
@@ -3996,7 +3997,7 @@ When you cast this spell and at the beginning of your upkeep, you may exile targ
 		<card>
 			<name>Vile Reef Inquisitor</name>
 			<text>Lifelink
-Whenever another nontoken creature you control dies, investigate. You lose 1 life. (To investigate, create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)
+Whenever another nontoken creature you control dies, investigate. You lose 1 life.
 Sacrifice three Clues: Search your library for a card, put it into your hand, then shuffle.</text>
 			<set rarity="mythic" picurl="https://kattalist.github.io/sets/SGP-files/img/136_Vile Reef Inquisitor.png" num="136">SGP</set>
 			<prop>
@@ -5083,7 +5084,7 @@ Coalition – Whenever this creature attacks with one or more tokens, create a t
 		</card>
 		<card>
 			<name>Esme, Lost to Avarice</name>
-			<text>Once each turn, when the void calls, each opponent loses 1 life and you gain 1 life. (The void calls on your turn when a card enters your graveyard from your hand or library.)
+			<text>Once each turn, when the void calls you, each opponent loses 1 life and you gain 1 life. (During your turn, the void calls you when a card enters your graveyard from your hand or library.)
 {3}{B}{B}: If there are seven or more cards in your graveyard, Esme gains flying and becomes a 7/7 Horror in addition to her other types. Activate only as a sorcery.</text>
 			<set rarity="special" picurl="https://kattalist.github.io/sets/SGP-files/img/280_Esme, Lost to Avarice.png" num="280">SGP</set>
 			<prop>
@@ -5138,7 +5139,7 @@ Whenever this creature attacks, you may play a card exiled with it until end of 
 		<card>
 			<name>Exander, Half-Forgotten</name>
 			<text>Menace
-At the beginning of your end step, if the void called this turn, create a 2/1 black Warlock creature token. (The void calls on your turn when a card enters your graveyard from your hand or library.)</text>
+At the beginning of your end step, if the void called you this turn, create a 2/1 black Warlock creature token. (During your turn, the void calls you when a card enters your graveyard from your hand or library.)</text>
 			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/212_Exander, Half-Forgotten.png" num="212">SGP</set>
 			<prop>
 				<layout>normal</layout>

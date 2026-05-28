@@ -1,4 +1,227 @@
-﻿VERSION 71 CHANGELOG
+﻿VERSION 73 CHANGELOG
+====================
+
+Awoken Cordillera added.
+
+Devastation Pilgrim removed.
+
+
+VERSION 72 CHANGELOG
+====================
+
+Bolton, Wharf Administrator added.
+
+Bolton, Wharf Inspector removed.
+
+Mastbreaker
+rules_text: This creature can't be blocked as long as the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => This creature can't be blocked as long as the void called you this turn. [i](During your turn, the void calls you when a card enters your graveyard from your hand or library.)[/i]
+
+Taken by the Storm
+rules_text: Target nonland permanent's owner puts it on the top or bottom of their library if it's a creature or if the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => Target nonland permanent's owner puts it on their choice of the top or bottom of their library if it's a creature or if the void called you this turn. [i](During your turn, the void calls you when a card enters your graveyard from your hand or library.)[/i]
+
+Gaunt Transient
+type: Creature — Goblin Scion => Creature — Goblin Horror
+rules_text: Deathtouch
+This creature gets +1/+1 as long as the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => Deathtouch
+This creature gets +1/+1 as long as the void called you this turn. [i](During your turn, the void calls you when a card enters your graveyard from your hand or library.)[/i]
+
+Marshwreck Gang
+type: Creature — Merfolk Scion => Creature — Merfolk Horror
+
+Croak
+rules_text: This spell costs {2} less to cast if you've sacrificed a creature this turn.
+Destroy target creature. => This spell costs {2} less to cast if a creature you control died this turn.
+Destroy target creature.
+
+Compelled to Die
+rules_text: Target player sacrifices a nontoken creature and loses 2 life. => Target player sacrifices a nontoken creature of their choice and loses 2 life.
+
+Nightgrasp
+rules_text: Enchant creature
+Enchanted creature gets -2/-2. If the void called this turn, enchanted creature instead gets -6/-6. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => Enchant creature
+Enchanted creature gets -2/-2. If the void called you this turn, enchanted creature instead gets -6/-6. [i](During your turn, the void calls you when a card enters your graveyard from your hand or library.)[/i]
+
+Eyekissed Invoker
+rules_text: Menace
+{R}, Sacrifice this creature: It deals 2 damage to target player. Activate only if the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => Menace
+{R}, Sacrifice this creature: It deals 2 damage to target player. Activate only if the void called you this turn. [i](During your turn, the void calls you when a card enters your graveyard from your hand or library.)[/i]
+
+Brineborn Underlings
+type: Creature — Merfolk Scion => Creature — Merfolk Horror
+
+Magma Scribe
+rules_text: This creature has first strike as long as the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => This creature has first strike as long as the void called you this turn. [i](During your turn, the void calls you when a card enters your graveyard from your hand or library.)[/i]
+
+Startouched Arborist
+type: Creature — Elemental Scion => Creature — Elemental Druid
+
+Starbreaker Juvenile
+type: Creature — Horror Scion => Creature — Horror
+rules_text: Vigilance, reach
+Whenever you spend four or more mana to cast another spell, if this creature has no counters on it, put two +1/+1 counters on it. => Vigilance, reach
+Whenever you spend four or more mana to cast a spell, if this creature has no counters on it, put two +1/+1 counters on it.
+
+Barksplitter Colossus
+type: Creature — Elemental Scion => Creature — Elemental Horror
+
+Obsessive Ritualist
+rules_text: When this creature enters, you may have each player discard a card.
+As long as the void called this turn, this creature gets +1/+1 and has deathtouch and haste. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => When this creature enters, you may have each player discard a card.
+As long as the void called you this turn, this creature gets +1/+1 and has deathtouch and haste. [i](During your turn, the void calls you when a card enters your graveyard from your hand or library.)[/i]
+
+Lantha, Task Force Sergeant
+rules_text: Activated abilities of artifacts you control cost {1} less to activate. This effect can't reduce the amount of mana you pay to activate an ability to less than one mana.
+{2}, {T}: Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => Activated abilities of artifacts you control cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+{2}, {T}: Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+
+Inkwing Kite
+type: Creature — Bird Scion => Creature — Bird Horror
+rules_text: Flying
+Whenever the void calls, draw a card. This ability triggers only once each turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => Flying
+Whenever the void calls you, draw a card. This ability triggers only once each turn. [i](During your turn, the void calls you when a card enters your graveyard from your hand or library.)[/i]
+
+Voice of the Roaring Wind
+type: Creature — Elemental Scion => Creature — Elemental Horror
+
+Tormented Eulogist
+rules_text: Haste
+Whenever this creature attacks, until end of turn, you may have its power become equal to the amount of mana you've spent to cast spells this turn. => Haste
+Whenever this creature attacks, until end of turn, you may have its base power become equal to the amount of mana you've spent to cast spells this turn.
+
+Watchman of the Deep
+rules_text: Defender
+As long as the void called this turn, this creature gets +3/+0 and can attack as though it didn't have defender. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+{1}{U}: Surveil 1. => Defender
+As long as the void called you this turn, this creature gets +3/+0 and can attack as though it didn't have defender. [i](During your turn, the void calls you when a card enters your graveyard from your hand or library.)[/i]
+{1}{U}: Surveil 1.
+
+Ego Devourer
+type: Creature — Shapeshifter Scion => Creature — Shapeshifter
+
+Shingle Crawler
+type: Creature — Bat Scion => Creature — Bat Horror
+
+Holism Seeker
+rules_text: When this creature enters, you may destroy target artifact or enchantment.
+{3}{C}, {T}: Fragment this creature. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i] => When this creature enters, destroy up to one target artifact or enchantment.
+{3}{C}, {T}: Fragment this creature. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+
+Blinding Immolation
+rules_text: This spell costs {2} less to cast if the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+Blinding Immolation deals 5 damage to target creature. => This spell costs {2} less to cast if the void called you this turn. [i](During your turn, the void calls you when a card enters your graveyard from your hand or library.)[/i]
+Blinding Immolation deals 5 damage to target creature.
+
+Corpse Inspector
+rules_text: Once each turn, when the void calls, you may exile target card from your graveyard. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+When this creature dies, create a 2/1 black Warlock creature token for each creature card exiled with it. Add {B} for each noncreature card exiled with it. => Once each turn, when the void calls you, you may exile target card from your graveyard. [i](During your turn, the void calls you when a card enters your graveyard from your hand or library.)[/i]
+When this creature dies, create a 2/1 black Warlock creature token for each creature card exiled with it. Add {B} for each noncreature card exiled with it.
+
+Quick and Painful
+rules_text: Destroy target creature if it has power 3 or less or if the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => Destroy target creature if it has power 3 or less or if the void called you this turn. [i](During your turn, the void calls you when a card enters your graveyard from your hand or library.)[/i]
+
+Ashen Ravager
+type: Creature — Beast Scion => Creature — Beast Horror
+rules_text: At the beginning of your end step, put a +1/+1 counter on this creature if the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+When this creature dies, if its power is 3 or greater, it deals 3 damage to target player. => At the beginning of your end step, put a +1/+1 counter on this creature if the void called you this turn. [i](During your turn, the void calls you when a card enters your graveyard from your hand or library.)[/i]
+When this creature dies, if its power is 3 or greater, it deals 3 damage to target player.
+
+Ritual Archivist
+rules_text: Menace
+Whenever this creature attacks, exile the top card of your library.
+You may play cards exiled with this creature as long as the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => Menace
+Whenever this creature attacks, exile the top card of your library.
+You may play cards exiled with this creature as long as the void called you this turn. [i](During your turn, the void calls you when a card enters your graveyard from your hand or library.)[/i]
+
+Forgotten Fableweaver
+type: Creature — Human Bard Scion => Creature — Human Bard
+
+Cinder Fanatic
+rules_text: Whenever you attack, if the void called this turn, target creature can't block this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => Whenever you attack, if the void called you this turn, target creature can't block this turn. [i](During your turn, the void calls you when a card enters your graveyard from your hand or library.)[/i]
+
+Blood Soliloquy
+type: Instant => Sorcery
+cost: {2}{B}{B} => {B}
+rules_text: Exile target creature. Surveil 2. => As an additional cost to cast this spell, sacrifice a creature or discard a card.
+Destroy target creature.
+
+North Salcman Vigil
+rules_text: Look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
+{1}{B}, Exile this card from your graveyard: You draw a card and lose 1 life. Activate only if the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => Look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
+{1}{B}, Exile this card from your graveyard: You draw a card and lose 1 life. Activate only if the void called you this turn. [i](During your turn, the void calls you when a card enters your graveyard from your hand or library.)[/i]
+
+Unnatural Torment
+cost: {1}{B}{B} => {2}{B}{B}
+rules_text: All creatures get -2/-2 until end of turn. If mana from a Scion was spent to cast this spell, instead up to six target creatures get -2/-2 until end of turn. => All creatures get -2/-2 until end of turn. Surveil 2.
+
+Grand Triarch
+type: Creature — Eldrazi Angel => Creature — Eldrazi
+
+Devonia, Lost Ministrix
+rules_text: Devoid [i](This card has no color.)[/i]
+When Devonia enters, mill two cards.
+Once each turn, when the void calls, you may exile target instant or sorcery card from your graveyard and cast a copy of it. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => Devoid [i](This card has no color.)[/i]
+When Devonia enters, mill two cards.
+Once each turn, when the void calls you, you may exile target instant or sorcery card from your graveyard and cast a copy of it. [i](During your turn, the void calls you when a card enters your graveyard from your hand or library.)[/i]
+
+Roiling Undertow
+rules_text: Fragment target creature with mana value X or less. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+Return up to X target creatures to their owners' hands. => Fragment target creature you control with mana value X or less. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+Return up to X target creatures to their owners' hands.
+
+Insatiate Slasher
+rules_text: You may cast this card from your graveyard as long as the void called this turn. If you do, when it enters, it gains haste until end of turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => You may cast this card from your graveyard as long as the void called you this turn. If you do, when it enters, it gains haste until end of turn. [i](During your turn, the void calls you when a card enters your graveyard from your hand or library.)[/i]
+
+Strike Suppressor
+cost: {2}{B} => {1}{B}{B}
+
+Emrakul's Conscriptor
+
+Esme, Lost to Avarice
+rules_text: Once each turn, when the void calls, each opponent loses 1 life and you gain 1 life. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+{3}{B}{B}: If there are seven or more cards in your graveyard, Esme gains flying and becomes a 7/7 Horror in addition to her other types. Activate only as a sorcery. => Once each turn, when the void calls you, each opponent loses 1 life and you gain 1 life. [i](During your turn, the void calls you when a card enters your graveyard from your hand or library.)[/i]
+{3}{B}{B}: If there are seven or more cards in your graveyard, Esme gains flying and becomes a 7/7 Horror in addition to her other types. Activate only as a sorcery.
+
+Deathscorn Aspect
+rules_text: Haste
+When this creature enters, you may discard a card. If you do, draw a card.
+At the beginning of your end step, sacrifice this creature unless the void called this turn. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => Haste
+When this creature enters, you may discard a card. If you do, draw a card.
+At the beginning of your end step, sacrifice this creature unless the void called you this turn. [i](During your turn, the void calls you when a card enters your graveyard from your hand or library.)[/i]
+
+Devastation Pilgrim
+rules_text: Devoid [i](This card has no color.)[/i]
+Trample
+When this dies, if it was a creature, return it to the battlefield tapped and face down. It's a land with “{T}: Add {C}{C}” and “Whenever you spend your seventh total mana to cast spells each turn, tap this land and turn it face up.” => Devoid [i](This card has no color.)[/i]
+Trample
+When this creature dies, return it to the battlefield tapped and face down. For as long as it's face down, it's a land with “{T}: Add {C}{C}” and “Whenever you spend your seventh total mana to cast spells each turn, tap this land and turn it face up.”
+
+Kavalesk, the Dark Exalted
+type: Legendary Creature — Zombie Scion => Legendary Creature — Zombie Warlock
+
+Efraim, High Alderman
+rules_text: Lifelink
+At the beginning of your end step, if you gained 3 or more life this turn, return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter and a lifelink counter on it. => Lifelink
+At the beginning of your end step, if you gained 3 or more life this turn, return up to one target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter and a lifelink counter on it.
+
+Vile Reef Inquisitor
+rules_text: Lifelink
+Whenever another nontoken creature you control dies, investigate. You lose 1 life. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Sacrifice three Clues: Search your library for a card, put it into your hand, then shuffle. => Lifelink
+Whenever another nontoken creature you control dies, investigate. You lose 1 life.
+Sacrifice three Clues: Search your library for a card, put it into your hand, then shuffle.
+
+Esme, Lost to Avarice
+rules_text: Once each turn, when the void calls, each opponent loses 1 life and you gain 1 life. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i]
+{3}{B}{B}: If there are seven or more cards in your graveyard, Esme gains flying and becomes a 7/7 Horror in addition to her other types. Activate only as a sorcery. => Once each turn, when the void calls you, each opponent loses 1 life and you gain 1 life. [i](During your turn, the void calls you when a card enters your graveyard from your hand or library.)[/i]
+{3}{B}{B}: If there are seven or more cards in your graveyard, Esme gains flying and becomes a 7/7 Horror in addition to her other types. Activate only as a sorcery.
+
+Exander, Half-Forgotten
+rules_text: Menace
+At the beginning of your end step, if the void called this turn, create a 2/1 black Warlock creature token. [i](The void calls on your turn when a card enters your graveyard from your hand or library.)[/i] => Menace
+At the beginning of your end step, if the void called you this turn, create a 2/1 black Warlock creature token. [i](During your turn, the void calls you when a card enters your graveyard from your hand or library.)[/i]
+
+
+VERSION 71 CHANGELOG
 ====================
 
 

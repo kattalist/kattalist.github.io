@@ -80,7 +80,7 @@
         "position": ""
     },
     {
-        "card_name": "Bolton, Wharf Inspector",
+        "card_name": "Bolton, Wharf Administrator",
         "number": 37,
         "shape": "normal",
         "set": "SGP",
@@ -112,8 +112,8 @@
         "position": ""
     },
     {
-        "card_name": "Botanical Conference",
-        "number": 174,
+        "card_name": "Awoken Cordillera",
+        "number": 172,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -152,8 +152,8 @@
         "position": ""
     },
     {
-        "card_name": "Curious Botanist",
-        "number": 178,
+        "card_name": "Botanical Conference",
+        "number": 175,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -192,7 +192,7 @@
         "position": ""
     },
     {
-        "card_name": "Deep Cover Prowler",
+        "card_name": "Curious Botanist",
         "number": 179,
         "shape": "normal",
         "set": "SGP",
@@ -232,7 +232,7 @@
         "position": ""
     },
     {
-        "card_name": "Devastation Pilgrim",
+        "card_name": "Deep Cover Prowler",
         "number": 180,
         "shape": "normal",
         "set": "SGP",
@@ -256,8 +256,8 @@
         "position": ""
     },
     {
-        "card_name": "Blood Soliloquy",
-        "number": 103,
+        "card_name": "Boulevard Ambusher",
+        "number": 104,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -296,8 +296,8 @@
         "position": ""
     },
     {
-        "card_name": "Boulevard Ambusher",
-        "number": 104,
+        "card_name": "Corpse Inspector",
+        "number": 106,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -336,8 +336,8 @@
         "position": ""
     },
     {
-        "card_name": "Corpse Inspector",
-        "number": 106,
+        "card_name": "Croak",
+        "number": 107,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -393,7 +393,7 @@
     },
     {
         "card_name": "Bitten By the Void",
-        "number": 173,
+        "number": 174,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -433,7 +433,7 @@
     },
     {
         "card_name": "Cataclysm Constable",
-        "number": 176,
+        "number": 177,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -473,7 +473,7 @@
     },
     {
         "card_name": "Confidential Science",
-        "number": 177,
+        "number": 178,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -776,8 +776,8 @@
         "position": ""
     },
     {
-        "card_name": "Compelled to Die",
-        "number": 105,
+        "card_name": "Blood Soliloquy",
+        "number": 103,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -816,8 +816,8 @@
         "position": ""
     },
     {
-        "card_name": "Croak",
-        "number": 107,
+        "card_name": "Compelled to Die",
+        "number": 105,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,
@@ -833,7 +833,7 @@
     },
     {
         "card_name": "Barksplitter Colossus",
-        "number": 172,
+        "number": 173,
         "shape": "adventure",
         "set": "SGP",
         "rotated": false,
@@ -873,7 +873,7 @@
     },
     {
         "card_name": "Branchbound Speaker",
-        "number": 175,
+        "number": 176,
         "shape": "normal",
         "set": "SGP",
         "rotated": false,

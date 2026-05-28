@@ -304,7 +304,7 @@
 			"name": "Gaunt Transient",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Goblin Scion",
+			"type": "Creature — Goblin Horror",
 			"collector_number": "113",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/113_Gaunt Transient.png"
@@ -354,7 +354,7 @@
 			"name": "Marshwreck Gang",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Merfolk Scion",
+			"type": "Creature — Merfolk Horror",
 			"collector_number": "120",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/120_Marshwreck Gang.png"
@@ -392,7 +392,7 @@
 		},
 		{
 			"name": "Croak",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Instant",
 			"collector_number": "107",
@@ -484,7 +484,7 @@
 			"name": "Brineborn Underlings",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Merfolk Scion",
+			"type": "Creature — Merfolk Horror",
 			"collector_number": "73",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/73_Brineborn Underlings.png"
@@ -604,7 +604,7 @@
 			"name": "Startouched Arborist",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Elemental Scion",
+			"type": "Creature — Elemental Druid",
 			"collector_number": "197",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/197_Startouched Arborist.png"
@@ -665,16 +665,16 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elemental Druid",
-			"collector_number": "175",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/175_Branchbound Speaker.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/176_Branchbound Speaker.png"
 			}
 		},
 		{
 			"name": "Starbreaker Juvenile",
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
-			"type": "Creature — Horror Scion",
+			"type": "Creature — Horror",
 			"collector_number": "196",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/196_Starbreaker Juvenile.png"
@@ -684,10 +684,10 @@
 			"name": "Barksplitter Colossus",
 			"rarity": "common",
 			"mana_cost": "{6}{G}{G}",
-			"type": "Creature — Elemental Scion",
-			"collector_number": "172",
+			"type": "Creature — Elemental Horror",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/172_Barksplitter Colossus.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/173_Barksplitter Colossus.png"
 			}
 		},
 		{
@@ -974,7 +974,7 @@
 			"name": "Inkwing Kite",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{B}",
-			"type": "Creature — Bird Scion",
+			"type": "Creature — Bird Horror",
 			"collector_number": "217",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/217_Inkwing Kite.png"
@@ -994,7 +994,7 @@
 			"name": "Voice of the Roaring Wind",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
-			"type": "Creature — Elemental Scion",
+			"type": "Creature — Elemental Horror",
 			"collector_number": "239",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/239_Voice of the Roaring Wind.png"
@@ -1234,7 +1234,7 @@
 			"name": "Ego Devourer",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Creature — Shapeshifter Scion",
+			"type": "Creature — Shapeshifter",
 			"collector_number": "78",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/78_Ego Devourer.png"
@@ -1344,7 +1344,7 @@
 			"name": "Shingle Crawler",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Bat Scion",
+			"type": "Creature — Bat Horror",
 			"collector_number": "125",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/125_Shingle Crawler.png"
@@ -1395,9 +1395,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Human Noble",
-			"collector_number": "174",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/174_Botanical Conference.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/175_Botanical Conference.png"
 			}
 		},
 		{
@@ -1435,9 +1435,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "173",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/173_Bitten By the Void.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/174_Bitten By the Void.png"
 			}
 		},
 		{
@@ -1475,9 +1475,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "177",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/177_Confidential Science.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/178_Confidential Science.png"
 			}
 		},
 		{
@@ -1485,9 +1485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Detective",
-			"collector_number": "176",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/176_Cataclysm Constable.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/177_Cataclysm Constable.png"
 			}
 		},
 		{
@@ -1604,7 +1604,7 @@
 			"name": "Ashen Ravager",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
-			"type": "Creature — Beast Scion",
+			"type": "Creature — Beast Horror",
 			"collector_number": "137",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/137_Ashen Ravager.png"
@@ -1654,7 +1654,7 @@
 			"name": "Forgotten Fableweaver",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
-			"type": "Creature — Human Bard Scion",
+			"type": "Creature — Human Bard",
 			"collector_number": "213",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/213_Forgotten Fableweaver.png"
@@ -1682,9 +1682,9 @@
 		},
 		{
 			"name": "Blood Soliloquy",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{B}{B}",
-			"type": "Instant",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
 			"collector_number": "103",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/103_Blood Soliloquy.png"
@@ -1713,7 +1713,7 @@
 		{
 			"name": "Unnatural Torment",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{B}",
+			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "133",
 			"image_uris": {
@@ -1914,7 +1914,7 @@
 			"name": "Grand Triarch",
 			"rarity": "mythic",
 			"mana_cost": "{6}{W}{W}",
-			"type": "Creature — Eldrazi Angel",
+			"type": "Creature — Eldrazi",
 			"collector_number": "47",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/47_Grand Triarch.png"
@@ -1941,13 +1941,13 @@
 			}
 		},
 		{
-			"name": "Bolton, Wharf Inspector",
+			"name": "Bolton, Wharf Administrator",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Advisor",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/37_Bolton, Wharf Inspector.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/37_Bolton, Wharf Administrator.png"
 			}
 		},
 		{
@@ -2023,7 +2023,7 @@
 		{
 			"name": "Strike Suppressor",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Human Advisor",
 			"collector_number": "131",
 			"image_uris": {
@@ -2135,9 +2135,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "178",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/178_Curious Botanist.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/179_Curious Botanist.png"
 			}
 		},
 		{
@@ -2155,26 +2155,26 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Eldrazi Detective",
-			"collector_number": "179",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/179_Deep Cover Prowler.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/180_Deep Cover Prowler.png"
 			}
 		},
 		{
-			"name": "Devastation Pilgrim",
+			"name": "Awoken Cordillera",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Eldrazi",
-			"collector_number": "180",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/180_Devastation Pilgrim.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/172_Awoken Cordillera.png"
 			}
 		},
 		{
 			"name": "Kavalesk, the Dark Exalted",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
-			"type": "Legendary Creature — Zombie Scion",
+			"type": "Legendary Creature — Zombie Warlock",
 			"collector_number": "220",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/220_Kavalesk, the Dark Exalted.png"
@@ -3035,7 +3035,7 @@
 	1 Grand Triarch
 	2 Evelline, Ark of Salvation
 	2 Otherworldly Gyre
-	2 Bolton, Wharf Inspector
+	2 Bolton, Wharf Administrator
 	2 Devonia, Lost Ministrix
 	2 Scion of Insanity
 	2 Inkrealm Guardian
@@ -3055,7 +3055,7 @@
 	2 Curious Botanist
 	2 Astrum Weaver
 	2 Deep Cover Prowler
-	2 Devastation Pilgrim
+	2 Awoken Cordillera
 	2 Kavalesk, the Dark Exalted
 	1 Grand Awakening
 	2 Population Boom
@@ -3101,6 +3101,7 @@
 [uncommon(3)]
 	4 Flagship Auto-Enforcer
 	4 Writheform
+	4 Croak
 	4 Steelsoul Ignition
 	4 Willbreaker Lance
 	4 Eldritch Growth
@@ -3180,7 +3181,6 @@
 	4 Forgotten Fableweaver
 	4 Cinder Fanatic
 	4 Boulevard Ambusher
-	4 Blood Soliloquy
 	4 North Salcman Vigil
 	4 Unnatural Torment
 	4 Tendrils in the Loch
@@ -3234,7 +3234,6 @@
 	8 Speakeasy Brokers
 	8 Soultaker Idol
 	8 Startouched Acolyte
-	8 Croak
 	8 Harrowing Transformation
 	8 Learn From Loss
 	8 Compelled to Die
@@ -3280,6 +3279,7 @@
 	8 Spill the Beans
 	8 Blinding Immolation
 	8 Formless Scape
+	8 Blood Soliloquy
 	8 Keeper's Peninsula
 	8 Dusk Vantage
 	8 Lost Settlement
@@ -3326,7 +3326,6 @@
 	8 Speakeasy Brokers
 	8 Soultaker Idol
 	8 Startouched Acolyte
-	8 Croak
 	8 Harrowing Transformation
 	8 Learn From Loss
 	8 Compelled to Die
@@ -3372,6 +3371,7 @@
 	8 Spill the Beans
 	8 Blinding Immolation
 	8 Formless Scape
+	8 Blood Soliloquy
 	8 Keeper's Peninsula
 	8 Dusk Vantage
 	8 Lost Settlement
@@ -3420,7 +3420,7 @@
 	12 Speakeasy Brokers
 	12 Soultaker Idol
 	12 Startouched Acolyte
-	12 Croak
+	6 Croak
 	12 Harrowing Transformation
 	12 Learn From Loss
 	12 Compelled to Die
@@ -3547,7 +3547,7 @@
 	6 Forgotten Fableweaver
 	6 Cinder Fanatic
 	6 Boulevard Ambusher
-	6 Blood Soliloquy
+	12 Blood Soliloquy
 	2 In Eldritch Flame
 	6 North Salcman Vigil
 	6 Unnatural Torment
@@ -3573,7 +3573,7 @@
 	1 Grand Triarch
 	2 Evelline, Ark of Salvation
 	2 Otherworldly Gyre
-	2 Bolton, Wharf Inspector
+	2 Bolton, Wharf Administrator
 	2 Devonia, Lost Ministrix
 	2 Scion of Insanity
 	2 Inkrealm Guardian
@@ -3595,7 +3595,7 @@
 	2 Curious Botanist
 	2 Astrum Weaver
 	2 Deep Cover Prowler
-	2 Devastation Pilgrim
+	2 Awoken Cordillera
 	2 Kavalesk, the Dark Exalted
 	1 Grand Awakening
 	2 Population Boom
@@ -3687,7 +3687,7 @@
 	6 Speakeasy Brokers
 	6 Soultaker Idol
 	6 Startouched Acolyte
-	6 Croak
+	15 Croak
 	6 Harrowing Transformation
 	6 Learn From Loss
 	6 Compelled to Die
@@ -3814,7 +3814,7 @@
 	15 Forgotten Fableweaver
 	15 Cinder Fanatic
 	15 Boulevard Ambusher
-	15 Blood Soliloquy
+	6 Blood Soliloquy
 	7 In Eldritch Flame
 	15 North Salcman Vigil
 	15 Unnatural Torment
@@ -3840,7 +3840,7 @@
 	4 Grand Triarch
 	7 Evelline, Ark of Salvation
 	7 Otherworldly Gyre
-	7 Bolton, Wharf Inspector
+	7 Bolton, Wharf Administrator
 	7 Devonia, Lost Ministrix
 	7 Scion of Insanity
 	7 Inkrealm Guardian
@@ -3862,7 +3862,7 @@
 	7 Curious Botanist
 	7 Astrum Weaver
 	7 Deep Cover Prowler
-	7 Devastation Pilgrim
+	7 Awoken Cordillera
 	7 Kavalesk, the Dark Exalted
 	4 Grand Awakening
 	7 Population Boom
