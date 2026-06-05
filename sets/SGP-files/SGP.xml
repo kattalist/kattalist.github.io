@@ -5,7 +5,7 @@
 			<name>SGP</name>
 			<longname>Stirrings in Goldport</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-28</releasedate>
+			<releasedate>2026-06-04</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2715,7 +2715,7 @@ Whenever a creature you control with power 2 or less attacks, it gains deathtouc
 		<card>
 			<name>Sole Survivor</name>
 			<text>When this creature enters, create a 1/1 colorless Eldrazi Scion creature token with &quot;Sacrifice this creature: Add {C}.&quot;
-Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.</text>
+Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life.</text>
 			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/126_Sole Survivor.png" num="126">SGP</set>
 			<prop>
 				<layout>normal</layout>
@@ -2916,7 +2916,7 @@ Copy target instant or sorcery spell you control. You may choose new targets for
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
-				<type>Creature — Human Bard // Instant — Mythos</type>
+				<type>Creature — Human Bard Horror // Instant — Mythos</type>
 				<maintype>Creature</maintype>
 				<manacost>2UR // UR</manacost>
 				<cmc>4</cmc>
@@ -3134,7 +3134,7 @@ Trample</text>
 		</card>
 		<card>
 			<name>Eternity Takes</name>
-			<text>As an additional cost to cast this spell, pay {2}, choose a creature you control with mana value 7 or greater, or reveal a creature card with mana value 7 or greater from your hand.
+			<text>As an additional cost to cast this spell, pay {2} or behold a creature with mana value 7 or greater. (Choose a creature you control with mana value 7 or greater, or reveal a creature card with mana value 7 or greater from your hand.)
 Exile target nonland permanent.</text>
 			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/10_Eternity Takes.png" num="10">SGP</set>
 			<prop>
@@ -3666,7 +3666,7 @@ You may cast target creature card from your graveyard this turn. (Cast this from
 		</card>
 		<card>
 			<name>Bloodbone Pietist</name>
-			<text>Whenever this creature deals combat damage to a player, mill the top card of your library. You may play it this turn.
+			<text>Whenever this creature deals combat damage to a player, mill a card. You may play that card this turn.
 {2}{R}, Discard a card: This creature gets +2/+2 until end of turn. If there are seven or more cards in your graveyard, put two +1/+1 counters on this creature instead.</text>
 			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/139_Bloodbone Pietist.png" num="139">SGP</set>
 			<prop>
@@ -5239,7 +5239,7 @@ Surveil 2, then draw two cards. You lose 2 life. (Cast this from your hand or a 
 			<text>Whenever a nontoken creature you control enters, you may fragment it. (Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can&apos;t be fragmented.)
 [+1]: Draw a card. Add {C}{C}.
 [-2]: Zaila deals damage to target creature equal to the number of creatures you control.
-[-7]: Exile any number of creatures you control, then return them to the battlefield under your control. You get an emblem with &quot;Creatures you control are 4/4 Eldrazi Angels with flying.&quot;</text>
+[-7]: Draw three cards. You get an emblem with &quot;Creatures you control are 4/4 Eldrazi Angels with flying.&quot;</text>
 			<set rarity="mythic" picurl="https://kattalist.github.io/sets/SGP-files/img/241_Zaila, Her Will Be Done.png" num="241">SGP</set>
 			<prop>
 				<layout>normal</layout>

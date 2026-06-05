@@ -1654,7 +1654,7 @@
 			"name": "Forgotten Fableweaver",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
-			"type": "Creature — Human Bard",
+			"type": "Creature — Human Bard Horror",
 			"collector_number": "213",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/213_Forgotten Fableweaver.png"

@@ -1,4 +1,62 @@
-﻿VERSION 73 CHANGELOG
+﻿VERSION 74 CHANGELOG
+====================
+
+
+
+Sole Survivor
+rules_text: When this creature enters, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life. => When this creature enters, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life.
+
+Forgotten Fableweaver
+type: Creature — Human Bard => Creature — Human Bard Horror
+
+Eternity Takes
+rules_text: As an additional cost to cast this spell, pay {2}, choose a creature you control with mana value 7 or greater, or reveal a creature card with mana value 7 or greater from your hand.
+Exile target nonland permanent. => As an additional cost to cast this spell, pay {2} or behold a creature with mana value 7 or greater. [i](Choose a creature you control with mana value 7 or greater, or reveal a creature card with mana value 7 or greater from your hand.)[/i]
+Exile target nonland permanent.
+
+Friede, Weave Dancer
+
+Bloodbone Pietist
+rules_text: Whenever this creature deals combat damage to a player, mill the top card of your library. You may play it this turn.
+{2}{R}, Discard a card: This creature gets +2/+2 until end of turn. If there are seven or more cards in your graveyard, put two +1/+1 counters on this creature instead. => Whenever this creature deals combat damage to a player, mill a card. You may play that card this turn.
+{2}{R}, Discard a card: This creature gets +2/+2 until end of turn. If there are seven or more cards in your graveyard, put two +1/+1 counters on this creature instead.
+
+Vile Reef Inquisitor
+
+Lightwire Swarm
+
+Inventors' Exhibition
+
+A World Worth Fighting For
+
+Eccentric Geneticist
+
+Gloamveil Trackers
+
+Eldrazi
+
+Exander, Half-Forgotten
+
+Zaila, Her Will Be Done
+rules_text: Whenever a nontoken creature you control enters, you may fragment it. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+[+1]: Draw a card. Add {C}{C}.
+[-2]: Zaila deals damage to target creature equal to the number of creatures you control.
+[-7]: Exile any number of creatures you control, then return them to the battlefield under your control. You get an emblem with “Creatures you control are 4/4 Eldrazi Angels with flying.” => Whenever a nontoken creature you control enters, you may fragment it. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+[+1]: Draw a card. Add {C}{C}.
+[-2]: Zaila deals damage to target creature equal to the number of creatures you control.
+[-7]: Draw three cards. You get an emblem with “Creatures you control are 4/4 Eldrazi Angels with flying.”
+special_text: Whenever a nontoken creature you control enters, you may fragment it. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+[+1]: Draw a card. Add {C}{C}.
+[-2]: Zaila deals damage to target creature equal to the number of creatures you control.
+[-7]: Exile any number of creatures you control, then return them to the battlefield under your control. You get an emblem with “Creatures you control are 4/4 Eldrazi Angels with flying.” => Whenever a nontoken creature you control enters, you may fragment it. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+[+1]: Draw a card. Add {C}{C}.
+[-2]: Zaila deals damage to target creature equal to the number of creatures you control.
+[-7]: Draw three cards. You get an emblem with “Creatures you control are 4/4 Eldrazi Angels with flying.”
+
+
+VERSION 73 CHANGELOG
 ====================
 
 Awoken Cordillera added.

@@ -3010,7 +3010,7 @@
             "number": 126,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "When this creature enters, create a 1/1 colorless Eldrazi Scion creature token with \u201cSacrifice this creature: Add {C}.\u201d\nWhenever a creature you control dies, each opponent loses 1 life and you gain 1 life.",
+            "rules_text": "When this creature enters, create a 1/1 colorless Eldrazi Scion creature token with \u201cSacrifice this creature: Add {C}.\u201d\nWhenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life.",
             "flavor_text": "[i]Despite Karsten's efforts, nothing could silence those who fled the incursions.[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -3215,7 +3215,7 @@
             "card_name": "Forgotten Fableweaver",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Bard",
+            "type": "Creature \u2014 Human Bard Horror",
             "number": 213,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
@@ -3496,7 +3496,7 @@
             "number": 10,
             "color_identity": "C",
             "cost": "{2}{C}",
-            "rules_text": "As an additional cost to cast this spell, pay {2}, choose a creature you control with mana value 7 or greater, or reveal a creature card with mana value 7 or greater from your hand.\nExile target nonland permanent.",
+            "rules_text": "As an additional cost to cast this spell, pay {2} or behold a creature with mana value 7 or greater. [i](Choose a creature you control with mana value 7 or greater, or reveal a creature card with mana value 7 or greater from your hand.)[/i]\nExile target nonland permanent.",
             "flavor_text": "[i]Silence, prayer, escape \u2014 all futile.[/i]",
             "pt": "",
             "special_text": "",
@@ -3924,7 +3924,7 @@
             "loyalty": "",
             "artist": "Adria Alvarado",
             "alias": "",
-            "notes": "Should this be constructed viable? No\n\nMAY 2026:\n- Winmore, third ability unnecessary\n14 Dec 2025: Removed third ability, reduced from 2UU to UU\nRework UR vehicles to UR noncreature\n31 Dec 2025: Reworked slot completely into Friede\n\n!tag wishlist\n\nPOST-FT9:\n27 Fe 2026: Added mana cost to copy\n\nSEP 2026:\n- Too much\n\n18 Apr 2026: Removed ward, and removed flying on tokens"
+            "notes": "Should this be constructed viable? No\n\nMAY 2026:\n- Winmore, third ability unnecessary\n14 Dec 2025: Removed third ability, reduced from 2UU to UU\nRework UR vehicles to UR noncreature\n31 Dec 2025: Reworked slot completely into Friede\n\nPOST-FT9:\n27 Fe 2026: Added mana cost to copy\n\nSEP 2026:\n- Too much\n\n18 Apr 2026: Removed ward, and removed flying on tokens"
         },
         {
             "card_name": "Haunted Starlet",
@@ -4096,7 +4096,7 @@
             "number": 139,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Whenever this creature deals combat damage to a player, mill the top card of your library. You may play it this turn.\n{2}{R}, Discard a card: This creature gets +2/+2 until end of turn. If there are seven or more cards in your graveyard, put two +1/+1 counters on this creature instead.",
+            "rules_text": "Whenever this creature deals combat damage to a player, mill a card. You may play that card this turn.\n{2}{R}, Discard a card: This creature gets +2/+2 until end of turn. If there are seven or more cards in your graveyard, put two +1/+1 counters on this creature instead.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4477,7 +4477,7 @@
             "loyalty": "",
             "artist": "Ryan Van Dongen",
             "alias": "",
-            "notes": "6 Aug 2025: Raised from 2/1 to 2/2\n\nMAY 2026:\nSauce more maybe\n14 Dec 2025: Upped from 2/2 to 3/3\n5 Jan 2026: Upped from 3/3 to 3/4 and added lifelink\n\nPRE-FT9:\n23 Jan 2026: Dropped back to 3/3"
+            "notes": "6 Aug 2025: Raised from 2/1 to 2/2\n\nMAY 2026:\nSauce more maybe\n14 Dec 2025: Upped from 2/2 to 3/3\n5 Jan 2026: Upped from 3/3 to 3/4 and added lifelink\n\nPRE-FT9:\n23 Jan 2026: Dropped back to 3/3\n\n!tag wishlist"
         },
         {
             "card_name": "Lostlands Auspex",
@@ -4743,7 +4743,7 @@
             "loyalty": "",
             "artist": "Antonio Caparo",
             "alias": "",
-            "notes": ""
+            "notes": "\n!tag wishlist"
         },
         {
             "card_name": "Salar, Calloran's Defiance",
@@ -4781,7 +4781,7 @@
             "loyalty": "",
             "artist": "Ksenia Nazarova",
             "alias": "",
-            "notes": "yaoi\n\nShould this be constructed viable? Yes\n\nDoes this currently seem constructed viable? Yes\n\nMAY 2026:\n\n- Controversial card\n- Ozan's Blessing issue (2 like, 2 dislike)\n12 Jan 2026: Now only looks at top six cards\n\nPOST-FT9:\n13 Mar 2026: Made instant, but puts onto field tapped\n\nSEP 2026:\n- Too clunky\n21 May 2026: Replaced with creature/artifact coco"
+            "notes": "yaoi\n\nShould this be constructed viable? Yes\n\nDoes this currently seem constructed viable? Yes\n\nMAY 2026:\n\n- Controversial card\n- Ozan's Blessing issue (2 like, 2 dislike)\n12 Jan 2026: Now only looks at top six cards\n\nPOST-FT9:\n13 Mar 2026: Made instant, but puts onto field tapped\n\nSEP 2026:\n- Too clunky\n21 May 2026: Replaced with creature/artifact coco\n\n!tag wishlist"
         },
         {
             "card_name": "Torvinald, Iron Eminence",
@@ -4857,7 +4857,7 @@
             "loyalty": "",
             "artist": "Marc Simonetti",
             "alias": "",
-            "notes": "FT: Switched from sorcery to instant\n\nMAY 2026:\n- Kill this card with a gun\n\n!tag wishlist"
+            "notes": "FT: Switched from sorcery to instant\n\nMAY 2026:\n- Kill this card with a gun"
         },
         {
             "card_name": "Kraz, Head Engineer",
@@ -4895,7 +4895,7 @@
             "loyalty": "",
             "artist": "Carlos Molina",
             "alias": "",
-            "notes": "8 lines\n\n14 Dec 2025: Templating fix (\"another\" instead of \"a\")\n\nMAY 2026:\n- Maybe a bit too strong (consider 1/1?)\n\n!tag wishlist\n\nMID-FT9:\n18 Feb 2026: Dropped from 1/2 to 1/1"
+            "notes": "8 lines\n\n14 Dec 2025: Templating fix (\"another\" instead of \"a\")\n\nMAY 2026:\n- Maybe a bit too strong (consider 1/1?)\n\nMID-FT9:\n18 Feb 2026: Dropped from 1/2 to 1/1"
         },
         {
             "card_name": "Gloamveil Trackers",
@@ -4914,7 +4914,7 @@
             "loyalty": "",
             "artist": "Rudi Indra A",
             "alias": "",
-            "notes": "SEP 2026:\n\n22 May 2026: Totally redone"
+            "notes": "SEP 2026:\n\n22 May 2026: Totally redone\n\n!tag wishlist"
         },
         {
             "card_name": "Kozilek, the Bonds Unmade",
@@ -5634,7 +5634,7 @@
             "shape": "token",
             "set": "SGP",
             "loyalty": "",
-            "artist": "",
+            "artist": "Vladimir Matyukhin",
             "alias": "",
             "notes": "!related Overzealous Recon"
         },
@@ -5731,7 +5731,7 @@
             "loyalty": "",
             "artist": "Eder Bilbao",
             "alias": "",
-            "notes": "PRE-FT9:\n26 Jan 2026: Fixed wording on perennial ability\n\nSEP 2026:\n- Anthem feels misplaced, maybe make it a creature so it can be interacted with"
+            "notes": "PRE-FT9:\n26 Jan 2026: Fixed wording on perennial ability\n\nSEP 2026:\n- Anthem feels misplaced, maybe make it a creature so it can be interacted with\n\n!tag wishlist"
         },
         {
             "card_name": "The West District Union",
@@ -5837,10 +5837,10 @@
             "number": 241,
             "color_identity": "WU",
             "cost": "{4}{W}{U}",
-            "rules_text": "Whenever a nontoken creature you control enters, you may fragment it. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]\n[+1]: Draw a card. Add {C}{C}.\n[-2]: Zaila deals damage to target creature equal to the number of creatures you control.\n[-7]: Exile any number of creatures you control, then return them to the battlefield under your control. You get an emblem with \u201cCreatures you control are 4/4 Eldrazi Angels with flying.\u201d",
+            "rules_text": "Whenever a nontoken creature you control enters, you may fragment it. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]\n[+1]: Draw a card. Add {C}{C}.\n[-2]: Zaila deals damage to target creature equal to the number of creatures you control.\n[-7]: Draw three cards. You get an emblem with \u201cCreatures you control are 4/4 Eldrazi Angels with flying.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Whenever a nontoken creature you control enters, you may fragment it. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]\n[+1]: Draw a card. Add {C}{C}.\n[-2]: Zaila deals damage to target creature equal to the number of creatures you control.\n[-7]: Exile any number of creatures you control, then return them to the battlefield under your control. You get an emblem with \u201cCreatures you control are 4/4 Eldrazi Angels with flying.\u201d",
+            "special_text": "Whenever a nontoken creature you control enters, you may fragment it. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]\n[+1]: Draw a card. Add {C}{C}.\n[-2]: Zaila deals damage to target creature equal to the number of creatures you control.\n[-7]: Draw three cards. You get an emblem with \u201cCreatures you control are 4/4 Eldrazi Angels with flying.\u201d",
             "shape": "planeswalker",
             "set": "SGP",
             "loyalty": "5",
