@@ -1,4 +1,50 @@
-﻿VERSION 74 CHANGELOG
+﻿VERSION 75 CHANGELOG
+====================
+
+Burgeoning Amalgam added.
+
+Scourge of Aeons removed.
+
+Black Site Enhancer
+rules_text: Vigilance
+Colorless spells you cast cost {1} less to cast. => Vigilance
+You may cast spells as though they had flash as long as you spend {C} to cast them.
+
+Stylla, Opulent Paragon
+rules_text: When Stylla enters, create a Treasure token.
+When Stylla dies, draw a card. You lose 1 life.
+If an ability of a creature you control with power 2 or less would trigger, you may instead choose one that hasn't been chosen this turn —
+• Create a Treasure token.
+• Draw a card. You lose 1 life. => When Stylla enters, create a Treasure token.
+When Stylla dies, draw a card. You lose 1 life.
+Whenever an ability of a creature you control with power 2 or less triggers, you may counter it.
+
+Sole Survivor
+pt: 2/1 => 1/1
+
+Deep Cover Prowler
+pt: 4/4 => 4/3
+
+Kavalesk, the Dark Exalted
+rules_text: You may cast spells from your graveyard as long as they were put there from your hand or library this turn. => Whenever a card enters your graveyard from your hand or library, you may exile it. If you do, you may play that card this turn.
+
+Children of the Heralds
+rules_text: Whenever you cast this spell or another colorless spell, you may put a colorless permanent card with lesser mana value from your hand onto the battlefield.
+Eldrazi you control get +1/+1 for each other Eldrazi you control. => Whenever you cast this spell or another colorless spell, if mana was spent to cast it, you may cast a colorless spell with lesser mana value from your hand without paying its mana cost.
+Eldrazi you control get +1/+1 for each other Eldrazi you control.
+
+Lightwire Swarm
+cost: {1}{U} => {2}{U}
+pt: 1/1 => 2/2
+
+Eldrazi
+
+Exander, Half-Forgotten
+cost: {B}{R} => {1}{B}{R}
+pt: 2/1 => 2/2
+
+
+VERSION 74 CHANGELOG
 ====================
 
 
