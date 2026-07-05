@@ -1,4 +1,77 @@
-﻿VERSION 75 CHANGELOG
+﻿VERSION 76 CHANGELOG
+====================
+
+Kaalham Ploughdrivers added.
+Fallen Devout of Astrion added.
+Billowing Weftraker added.
+Ulamog's Augur added.
+
+Branchbound Speaker removed.
+Spirewisp Wanderer removed.
+Forgotten Fableweaver removed.
+Ulamog's Aspirant removed.
+
+Stylla, Opulent Paragon
+rules_text: When Stylla enters, create a Treasure token.
+When Stylla dies, draw a card. You lose 1 life.
+Whenever an ability of a creature you control with power 2 or less triggers, you may counter it. => When Stylla enters, create a Treasure token.
+When Stylla dies, you draw a card and lose 1 life.
+Whenever an ability of a creature you control with power 2 or less triggers, you may counter it. If you do, choose one that hasn't been chosen this turn —
+• Create a Treasure token.
+• You draw a card and lose 1 life.
+pt: 3/3 => 2/3
+
+Faculty of Engineering
+rules_text: Flash
+When this artifact enters, creatures you control gain indestructible until end of turn.
+{5}{W}, {T}: Put a +1/+1 counter on each creature you control. Activate only as a sorcery. => Flash
+When this artifact enters, creatures you control gain indestructible until end of turn.
+{2}{W}, {T}, Sacrifice this artifact: Put a +1/+1 counter on each creature you control. Activate only as a sorcery.
+
+Soulrender
+rules_text: Trample
+Whenever you cast this spell or spend seven or more mana to cast another spell, this card deals 3 damage to target player. => Trample
+Whenever you spend seven or more mana to cast a spell, this creature deals 3 damage to target player.
+
+Zaila's Arbiter
+rules_text: Flash
+When you cast this spell, exile up to one target nonland permanent. While it's exiled, its owner may cast it by paying {2} rather than its mana cost.
+Flying => Flash
+When you cast this spell, exile up to one target nonland permanent. While it's exiled, its owner may cast it by paying {2} rather than its mana cost.
+pt: 2/2 => 3/3
+
+Insatiate Slasher
+
+Bloodbone Pietist
+rules_text: Whenever this creature deals combat damage to a player, mill a card. You may play that card this turn.
+{2}{R}, Discard a card: This creature gets +2/+2 until end of turn. If there are seven or more cards in your graveyard, put two +1/+1 counters on this creature instead. => Whenever this creature deals combat damage to a player, mill a card. You may play that card this turn.
+{1}{R}, Discard a card: This creature gets +2/+2 until end of turn. If there are seven or more cards in your graveyard, put two +1/+1 counters on this creature instead.
+
+Children of the Heralds
+rules_text: Whenever you cast this spell or another colorless spell, if mana was spent to cast it, you may cast a colorless spell with lesser mana value from your hand without paying its mana cost.
+Eldrazi you control get +1/+1 for each other Eldrazi you control. => Whenever you cast this spell or another colorless spell, if it wasn't cast with this ability, you may cast a colorless spell with lesser mana value from your hand without paying its mana cost.
+Eldrazi you control get +1/+1 for each other Eldrazi you control.
+
+Burgeoning Amalgam
+rules_text: Trample
+This creature enters with a doom counter on it for each {C} spent to cast it.
+{C}, Remove a doom counter from this creature: Draw a card.
+{C}{C}, Remove two doom counters from this creature: Create a 3/2 colorless Eldrazi creature token. Activate only as a sorcery. => Trample
+This creature enters with a doom counter on it for each {C} spent to cast it.
+Whenever this creature attacks or becomes the target of a spell, you may remove a doom counter from it. If you do, each opponent may exile a card from their hand. Draw a card for each opponent who doesn't.
+
+Salar, Calloran's Defiance
+type: Legendary Creature — Elk Spirit => Legendary Creature — Bear
+
+The West District Union
+rules_text: Whenever a creature token you control attacks, it gains indestructible until end of turn.
+At the beginning of your end step, draw a card if you control more creatures than each opponent. If you don't, create a 1/1 white Human creature token. => Whenever the Union attacks, draw a card if you control more creatures than each opponent. If you don't, create a 1/1 white Human creature token.
+Whenever a creature token you control attacks, it gains indestructible until end of turn.
+
+Kozilek's Hexer
+
+
+VERSION 75 CHANGELOG
 ====================
 
 Burgeoning Amalgam added.
