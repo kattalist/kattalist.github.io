@@ -1,4 +1,85 @@
-﻿VERSION 76 CHANGELOG
+﻿VERSION 77 CHANGELOG
+====================
+
+Subsume Reality added.
+Enraptured Talespinner added.
+Writhing Shepherd added.
+Rose Garden Conference added.
+Dissenter Colossus added.
+Deathscorn Apostle added.
+Jetfoot Greaves added.
+Stark Masoleum added.
+Shambling Isle added.
+Smoldering Totems added.
+Submerged Citadel added.
+Spindly Nexus added.
+
+Zaila's Edict removed.
+Fallen Devout of Astrion removed.
+Voice of the Roaring Wind removed.
+Botanical Conference removed.
+Dissentor Colossus removed.
+Deathscorn Aspect removed.
+Inventors' Exhibition removed.
+
+Black Site Enhancer
+rules_text: Vigilance
+You may cast spells as though they had flash as long as you spend {C} to cast them. => You may cast this spell as though it had flash as long as you spend {C} to cast it.
+Vigilance
+You may cast spells as though they had flash as long as you spend {C} to cast them.
+
+North District Prior
+rules_text: This creature enters with a +1/+1 counter on it for each other creature you control.
+{2}{W}, Tap three untapped creatures you control: Fragment this creature. Activate only as a sorcery. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i] => This creature enters with a +1/+1 counter on it for each other creature you control.
+{1}{W}, Tap three untapped creatures you control: Fragment this creature. Activate only as a sorcery. [i](Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can't be fragmented.)[/i]
+
+Warpwire Chassis
+rules_text: When this Equipment enters, you may pay {2}. If you do, create a 1/1 white Human creature token and attach this Equipment to it.
+Equipped creature gets +1/+1 for each creature you control and has flying.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i] => When this Equipment enters, you may pay {1}. If you do, create a 1/1 white Human creature token and attach this Equipment to it.
+Equipped creature gets +2/+2 and has flying.
+Equip {3} [i]({3}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Adaptive Lieutenant
+
+Ritual Archivist
+rules_text: Menace
+Whenever this creature attacks, exile the top card of your library.
+You may play cards exiled with this creature as long as the void called you this turn. [i](During your turn, the void calls you when a card enters your graveyard from your hand or library.)[/i] => During your turn, this creature has first strike.
+Whenever the void calls you for the first time each turn, add {R}. Until end of turn, you don't lose this mana as steps and phases end. [i](The void calls you during your turn when a card enters your graveyard from your hand or library.)[/i]
+
+Grand Triarch
+cost: {6}{W}{W} => {5}{W}{W}
+
+Otherworldly Gyre
+
+Bolton, Wharf Administrator
+rules_text: Vigilance
+Each spell a player casts costs {1} more to cast for each other spell that player has cast this turn. => Each spell a player casts outside of their main phase costs {1} more to cast.
+pt: 2/2 => 3/2
+
+Herald of Darkest Skies
+
+Bloodbone Pietist
+rules_text: Whenever this creature deals combat damage to a player, mill a card. You may play that card this turn.
+{1}{R}, Discard a card: This creature gets +2/+2 until end of turn. If there are seven or more cards in your graveyard, put two +1/+1 counters on this creature instead. => Whenever this creature deals combat damage to a player, mill a card. You may play that card this turn.
+{2}{R}, Discard a card: This creature gets +2/+2 until end of turn. Up to one target creature can't block it this turn.
+
+Darkwood Guerrillas
+type: Artifact Creature — Construct => Artifact Creature — Construct Soldier
+rules_text: First strike
+When this creature enters, look at the top X cards of your library, where X is the number of artifacts you control. Exile up to two of them and put the rest on the bottom of your library in any order.
+Whenever this creature attacks, you may play a card exiled with it until end of turn. => First strike
+When this creature enters, look at the top X cards of your library, where X is the number of artifacts you control. Exile up to two of them and put the rest on the bottom of your library in any order.
+Whenever this creature attacks, you may play a card exiled with it this turn.
+
+The West District Union
+rules_text: Whenever the Union attacks, draw a card if you control more creatures than each opponent. If you don't, create a 1/1 white Human creature token.
+Whenever a creature token you control attacks, it gains indestructible until end of turn. => Whenever the Union attacks, draw a card if you control more creatures than each opponent. If you don't, create a 1/1 white Human creature token.
+pt: 3/3 => 3/4
+
+
+VERSION 76 CHANGELOG
 ====================
 
 Kaalham Ploughdrivers added.
