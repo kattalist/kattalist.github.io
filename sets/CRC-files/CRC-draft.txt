@@ -1,0 +1,3469 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Sandcliff Falcon",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Bird",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/0.png"
+			}
+		},
+		{
+			"name": "Ghostwyve Ascetic",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cirin Monk",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/1.png"
+			}
+		},
+		{
+			"name": "Frontier Commando",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/2.png"
+			}
+		},
+		{
+			"name": "Seek New Horizons",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/3.png"
+			}
+		},
+		{
+			"name": "Ben Alkan Tracker",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Cirin Ranger",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/4.png"
+			}
+		},
+		{
+			"name": "East Post Sentry",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Robot Soldier",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/5.png"
+			}
+		},
+		{
+			"name": "Airshaper Recluse",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Cirin Monk",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/6.png"
+			}
+		},
+		{
+			"name": "Gritforged Outcast",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/7.png"
+			}
+		},
+		{
+			"name": "Mithren's Eulogist",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Cirin Cleric",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/8.png"
+			}
+		},
+		{
+			"name": "Exosphere Drifter",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/9.png"
+			}
+		},
+		{
+			"name": "Warm Cavalcade",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Cirin Bard",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/10.png"
+			}
+		},
+		{
+			"name": "Edict of the Clans",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/11.png"
+			}
+		},
+		{
+			"name": "Become the Cycle",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/12.png"
+			}
+		},
+		{
+			"name": "Gravity Well",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/13.png"
+			}
+		},
+		{
+			"name": "Through the Aperture",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/14.png"
+			}
+		},
+		{
+			"name": "Nexus Trailblazer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/15.png"
+			}
+		},
+		{
+			"name": "Bubbling Medusa",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Jellyfish",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/16.png"
+			}
+		},
+		{
+			"name": "Disciple of Sand and Rime",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elemental Druid",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/17.png"
+			}
+		},
+		{
+			"name": "Exoticum Fanatics",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Alien Citizen",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/18.png"
+			}
+		},
+		{
+			"name": "Chrome Rootwalla",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Robot Lizard",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/19.png"
+			}
+		},
+		{
+			"name": "Onyx Scoutplane",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/20.png"
+			}
+		},
+		{
+			"name": "Hetha's Emissary",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Spirit Warrior",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/21.png"
+			}
+		},
+		{
+			"name": "Colossus School",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Whale",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/22.png"
+			}
+		},
+		{
+			"name": "Harvester's Jetpack",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/23.png"
+			}
+		},
+		{
+			"name": "Reproach",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/24.png"
+			}
+		},
+		{
+			"name": "Scrive the Auldyears",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/25.png"
+			}
+		},
+		{
+			"name": "Paratrooper Storm",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/26.png"
+			}
+		},
+		{
+			"name": "Reprogram",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/27.png"
+			}
+		},
+		{
+			"name": "Ad Astra Per Aspera",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/28.png"
+			}
+		},
+		{
+			"name": "Suck Into Space",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/29.png"
+			}
+		},
+		{
+			"name": "Intrepid Jumper",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/30.png"
+			}
+		},
+		{
+			"name": "Darkstar Voyager",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Scout",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/31.png"
+			}
+		},
+		{
+			"name": "Hangar Security",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/32.png"
+			}
+		},
+		{
+			"name": "Elegiac Drifter",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/33.png"
+			}
+		},
+		{
+			"name": "Isbail's Acolyte",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Cirin Cleric",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/34.png"
+			}
+		},
+		{
+			"name": "Outpost Medium",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Cirin Wizard",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/35.png"
+			}
+		},
+		{
+			"name": "Elite Strike Operative",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Robot Assassin",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/36.png"
+			}
+		},
+		{
+			"name": "Dunebreach Wurm",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Wurm",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/37.png"
+			}
+		},
+		{
+			"name": "Startrawler Colony",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Jellyfish",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/38.png"
+			}
+		},
+		{
+			"name": "Blood Soliloquy",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/39.png"
+			}
+		},
+		{
+			"name": "Pry",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/40.png"
+			}
+		},
+		{
+			"name": "Consult the Omens",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/41.png"
+			}
+		},
+		{
+			"name": "Lost to Stars",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/42.png"
+			}
+		},
+		{
+			"name": "Deadly Dispute",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/43.png"
+			}
+		},
+		{
+			"name": "Reverse Misfortune",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/44.png"
+			}
+		},
+		{
+			"name": "Vein Cracker",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/45.png"
+			}
+		},
+		{
+			"name": "First Responder",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/46.png"
+			}
+		},
+		{
+			"name": "Armament Dealer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Cirin Artificer",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/47.png"
+			}
+		},
+		{
+			"name": "Pyretic Assailant",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Robot Soldier",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/48.png"
+			}
+		},
+		{
+			"name": "Shale Excavator",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/49.png"
+			}
+		},
+		{
+			"name": "Ben Lasair Dauntless",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Cirin Warrior",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/50.png"
+			}
+		},
+		{
+			"name": "Digger Technician",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/51.png"
+			}
+		},
+		{
+			"name": "Stalkleg Colony",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Alien",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/52.png"
+			}
+		},
+		{
+			"name": "Hexclaw Ravager",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Crab",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/53.png"
+			}
+		},
+		{
+			"name": "Distant Thunder",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/54.png"
+			}
+		},
+		{
+			"name": "Incendiary Rifle",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/55.png"
+			}
+		},
+		{
+			"name": "Form of Auld Beasts",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/56.png"
+			}
+		},
+		{
+			"name": "Into Bloody Mist",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/57.png"
+			}
+		},
+		{
+			"name": "The Starclan Arrives",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/58.png"
+			}
+		},
+		{
+			"name": "Inside Job",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/59.png"
+			}
+		},
+		{
+			"name": "Duskbloom Nurturer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elemental Druid",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/60.png"
+			}
+		},
+		{
+			"name": "Pulverizer Artillery",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Robot Insect",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/61.png"
+			}
+		},
+		{
+			"name": "Gemcap Cartographer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/62.png"
+			}
+		},
+		{
+			"name": "Traversal Vehicle",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Robot Camel",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/63.png"
+			}
+		},
+		{
+			"name": "Ben Dorcha Cuirassier",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Cirin Ranger",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/64.png"
+			}
+		},
+		{
+			"name": "Ulbest Packleader",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Cirin Warrior",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/65.png"
+			}
+		},
+		{
+			"name": "Territorial Quilldog",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Alien",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/66.png"
+			}
+		},
+		{
+			"name": "Arcane Guide",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Elk",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/67.png"
+			}
+		},
+		{
+			"name": "Mawbloom Grove",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/68.png"
+			}
+		},
+		{
+			"name": "Triumphant Ulbest",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/69.png"
+			}
+		},
+		{
+			"name": "Scarwood Growth",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/70.png"
+			}
+		},
+		{
+			"name": "Thunderous Clash",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/71.png"
+			}
+		},
+		{
+			"name": "Steel Into Dust",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/72.png"
+			}
+		},
+		{
+			"name": "Botanical Survey",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/73.png"
+			}
+		},
+		{
+			"name": "Silaine's Echo",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/74.png"
+			}
+		},
+		{
+			"name": "Starjoy Excursion",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/75.png"
+			}
+		},
+		{
+			"name": "Dune Skimmer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/76.png"
+			}
+		},
+		{
+			"name": "Perimeter Stalwart",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Robot Soldier",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/77.png"
+			}
+		},
+		{
+			"name": "Vengeful Swordsculptor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cirin Warrior",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/78.png"
+			}
+		},
+		{
+			"name": "Willforger Technician",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/79.png"
+			}
+		},
+		{
+			"name": "Wyvekeeper Chaplain",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Cirin Cleric",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/80.png"
+			}
+		},
+		{
+			"name": "Eradication Force",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/81.png"
+			}
+		},
+		{
+			"name": "Slatecoat Company",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/82.png"
+			}
+		},
+		{
+			"name": "Herald of the Untold",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/83.png"
+			}
+		},
+		{
+			"name": "Confine to Myth",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/84.png"
+			}
+		},
+		{
+			"name": "Casus Belli",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/85.png"
+			}
+		},
+		{
+			"name": "Quicksilver Recon",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/86.png"
+			}
+		},
+		{
+			"name": "Auldscar Lookout",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Cirin Monk",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/87.png"
+			}
+		},
+		{
+			"name": "Studied Shredder",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Robot Soldier",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/88.png"
+			}
+		},
+		{
+			"name": "Relic Inquisitor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Cirin Wizard",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/89.png"
+			}
+		},
+		{
+			"name": "Tetherstone Keeper",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Cirin Wizard",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/90.png"
+			}
+		},
+		{
+			"name": "Shimmering Glider",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/91.png"
+			}
+		},
+		{
+			"name": "Scar Lagoon Ravager",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/92.png"
+			}
+		},
+		{
+			"name": "Divine Compulsion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/93.png"
+			}
+		},
+		{
+			"name": "Nanomesh Gauntlet",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/94.png"
+			}
+		},
+		{
+			"name": "Adaptive Facsimile",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact — Effigy",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/95.png"
+			}
+		},
+		{
+			"name": "Over Alien Hills",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Battle — Expedition",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/96.png"
+			}
+		},
+		{
+			"name": "Basalt Peacekeeper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Robot Soldier",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/97.png"
+			}
+		},
+		{
+			"name": "Reulguided Isolate",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Cirin Warrior",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/98.png"
+			}
+		},
+		{
+			"name": "Strike Commander",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/99.png"
+			}
+		},
+		{
+			"name": "Reliquary Drifter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Cirin Wizard",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/100.png"
+			}
+		},
+		{
+			"name": "Priest of Twinning Fate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Cirin Cleric",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/101.png"
+			}
+		},
+		{
+			"name": "Grim Portent",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Bird Spirit",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/102.png"
+			}
+		},
+		{
+			"name": "Thoughtwinder",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Wurm",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/103.png"
+			}
+		},
+		{
+			"name": "Cull the Legion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/104.png"
+			}
+		},
+		{
+			"name": "Startrawler Extermination",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Battle — Expedition",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/105.png"
+			}
+		},
+		{
+			"name": "Screaming Silence",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/106.png"
+			}
+		},
+		{
+			"name": "Decrypt",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/107.png"
+			}
+		},
+		{
+			"name": "Impact Scavengers",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Cirin Warrior",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/108.png"
+			}
+		},
+		{
+			"name": "Lucus, Brigadier General",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/109.png"
+			}
+		},
+		{
+			"name": "Silverbone Trudger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/110.png"
+			}
+		},
+		{
+			"name": "Marbhwood Phoenix",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/111.png"
+			}
+		},
+		{
+			"name": "Emboldened Reserves",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/112.png"
+			}
+		},
+		{
+			"name": "Fuschia Tetrapod",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Alien",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/113.png"
+			}
+		},
+		{
+			"name": "Far Reach Marksman",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/114.png"
+			}
+		},
+		{
+			"name": "Devoted Legion",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Cirin Warrior",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/115.png"
+			}
+		},
+		{
+			"name": "Manifold Blade",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/116.png"
+			}
+		},
+		{
+			"name": "Gondwel's Vision",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/117.png"
+			}
+		},
+		{
+			"name": "Fractures in the Belt",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Battle — Expedition",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/118.png"
+			}
+		},
+		{
+			"name": "Stranded Pathfinder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/119.png"
+			}
+		},
+		{
+			"name": "Pack Tender",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Cirin Druid",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/120.png"
+			}
+		},
+		{
+			"name": "Longpillar Runners",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/121.png"
+			}
+		},
+		{
+			"name": "Tenacious Twinjaw",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Alien",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/122.png"
+			}
+		},
+		{
+			"name": "Deepscar Experiment",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Merfolk",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/123.png"
+			}
+		},
+		{
+			"name": "Agile Surveyor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/124.png"
+			}
+		},
+		{
+			"name": "Bane of Ben Dorcha",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/125.png"
+			}
+		},
+		{
+			"name": "Insensate Dunedrifter",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Alien",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/126.png"
+			}
+		},
+		{
+			"name": "Evolving Experiment",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}",
+			"type": "Creature — Ooze Hydra",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/127.png"
+			}
+		},
+		{
+			"name": "Illicit Synthesis",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/128.png"
+			}
+		},
+		{
+			"name": "One Small Step",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Battle — Expedition",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/129.png"
+			}
+		},
+		{
+			"name": "Fion, Starborn Imperator",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Angel Soldier",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/130.png"
+			}
+		},
+		{
+			"name": "Ceann Aernoch",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Cirin Warrior",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/131.png"
+			}
+		},
+		{
+			"name": "Mithren, Star Afire",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — God",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/132.png"
+			}
+		},
+		{
+			"name": "Skybreak Assault",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Battle — Expedition",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/133.png"
+			}
+		},
+		{
+			"name": "Goldfield Aegis",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel Spirit",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/134.png"
+			}
+		},
+		{
+			"name": "Lost to Eternity",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/135.png"
+			}
+		},
+		{
+			"name": "Over Ben Alkan",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Battle — Expedition",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/136.png"
+			}
+		},
+		{
+			"name": "Reulfire Animist",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Cirin Wizard",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/137.png"
+			}
+		},
+		{
+			"name": "Glyphbound Retributionist",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Cirin Wizard",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/138.png"
+			}
+		},
+		{
+			"name": "Hetha, Starshaper",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Legendary Creature — God",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/139.png"
+			}
+		},
+		{
+			"name": "Into the Nexus",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Battle — Expedition",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/140.png"
+			}
+		},
+		{
+			"name": "Anomalous Archive",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Effigy",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/141.png"
+			}
+		},
+		{
+			"name": "Devote",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/142.png"
+			}
+		},
+		{
+			"name": "Fleeting Memories",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Enchantment",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/143.png"
+			}
+		},
+		{
+			"name": "Sandshaker Deathless",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Cirin Monk",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/144.png"
+			}
+		},
+		{
+			"name": "Visage of Isbail",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/145.png"
+			}
+		},
+		{
+			"name": "Moira, the Risen Beyond",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/146.png"
+			}
+		},
+		{
+			"name": "Fabric of Being",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/147.png"
+			}
+		},
+		{
+			"name": "Tormented Archmage",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Cirin Angel Wizard",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/148.png"
+			}
+		},
+		{
+			"name": "Arcane Tutor",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/149.png"
+			}
+		},
+		{
+			"name": "Into the Dark and Infinite",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Battle — Expedition",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/150.png"
+			}
+		},
+		{
+			"name": "Caldera Scalder",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Robot Spider",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/151.png"
+			}
+		},
+		{
+			"name": "Avatars of Order",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/152.png"
+			}
+		},
+		{
+			"name": "Quasar Paragon",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/153.png"
+			}
+		},
+		{
+			"name": "Study the Nova",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Battle — Expedition",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/154.png"
+			}
+		},
+		{
+			"name": "Bloodkissed Auspex",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Cirin Wizard",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/155.png"
+			}
+		},
+		{
+			"name": "Interlinked Extractor",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Artifact",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/156.png"
+			}
+		},
+		{
+			"name": "Prophetic Wish",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/157.png"
+			}
+		},
+		{
+			"name": "Skitterblossom",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Plant Insect",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/158.png"
+			}
+		},
+		{
+			"name": "Scarwood Sentinel",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/159.png"
+			}
+		},
+		{
+			"name": "Restless Carapace",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Wurm",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/160.png"
+			}
+		},
+		{
+			"name": "Flee the Sandserpent",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Battle — Expedition",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/161.png"
+			}
+		},
+		{
+			"name": "Silaine's Retaliation",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/162.png"
+			}
+		},
+		{
+			"name": "A-17, Experiment Awry",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Human Ooze",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/163.png"
+			}
+		},
+		{
+			"name": "Ulbest Procession",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/164.png"
+			}
+		},
+		{
+			"name": "Auldyears Reliquary",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/165.png"
+			}
+		},
+		{
+			"name": "Audlom, Seer of Legions",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Cirin Wizard",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/166.png"
+			}
+		},
+		{
+			"name": "Fate Rewritten",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/167.png"
+			}
+		},
+		{
+			"name": "Gondwel, Seer of Skies",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Cirin Wizard",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/168.png"
+			}
+		},
+		{
+			"name": "Isbail, Inexorable",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — God",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/169.png"
+			}
+		},
+		{
+			"name": "Maelweth, Seer of Anguish",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Cirin Wizard",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/170.png"
+			}
+		},
+		{
+			"name": "Starclan Omniblade",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Robot Soldier",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/171.png"
+			}
+		},
+		{
+			"name": "Agnon, Seer of Flame",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Cirin Wizard",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/172.png"
+			}
+		},
+		{
+			"name": "Beyond Imagining",
+			"rarity": "mythic",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/173.png"
+			}
+		},
+		{
+			"name": "Silaine, Seer of Bloom",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Cirin Wizard",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/174.png"
+			}
+		},
+		{
+			"name": "Boltbright Infiltrator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Cirin Rogue",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/175.png"
+			}
+		},
+		{
+			"name": "Glow Seeker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/176.png"
+			}
+		},
+		{
+			"name": "End of Sanity",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Elemental Spirit",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/177.png"
+			}
+		},
+		{
+			"name": "Pinnacle Aspect",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/178.png"
+			}
+		},
+		{
+			"name": "Ulbest Keeper",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Human Druid",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/179.png"
+			}
+		},
+		{
+			"name": "Imperious Magistrate",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/180.png"
+			}
+		},
+		{
+			"name": "Crystal Ripper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/181.png"
+			}
+		},
+		{
+			"name": "Rise from Rot",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/182.png"
+			}
+		},
+		{
+			"name": "Warbred Legionnaire",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/183.png"
+			}
+		},
+		{
+			"name": "Unnatural Encounter",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/184.png"
+			}
+		},
+		{
+			"name": "Zeria, Syzygy Fanatic",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Artifact Creature — Robot Wizard",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/185.png"
+			}
+		},
+		{
+			"name": "Goraidh, Shaped Arcanum",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Cat Spirit",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/186.png"
+			}
+		},
+		{
+			"name": "Murill, Brushed by Madness",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Cirin Wizard",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/187.png"
+			}
+		},
+		{
+			"name": "Beastback Pillagers",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Cirin Ranger",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/188.png"
+			}
+		},
+		{
+			"name": "Tarthan, Curio Collector",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/189.png"
+			}
+		},
+		{
+			"name": "Twingod Glorious",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}{B}{B}",
+			"type": "Creature — Angel",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/190.png"
+			}
+		},
+		{
+			"name": "Seeker of Forgotten Love",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/191.png"
+			}
+		},
+		{
+			"name": "Bone Chandelier",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Artifact",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/192.png"
+			}
+		},
+		{
+			"name": "Ceann Albus",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Legendary Creature — Cirin Warrior",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/193.png"
+			}
+		},
+		{
+			"name": "Splendor of Creation",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/194.png"
+			}
+		},
+		{
+			"name": "Abandoned Drifter",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/195.png"
+			}
+		},
+		{
+			"name": "Reparation Module",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/196.png"
+			}
+		},
+		{
+			"name": "Hangar Refurbisher",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/197.png"
+			}
+		},
+		{
+			"name": "Isbail's Handblade",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/198.png"
+			}
+		},
+		{
+			"name": "Deepscar Relic",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Effigy",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/199.png"
+			}
+		},
+		{
+			"name": "Ancient Tetherstone",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/200.png"
+			}
+		},
+		{
+			"name": "Deep Shale Totem",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Effigy",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/201.png"
+			}
+		},
+		{
+			"name": "Standard-Issue Augmentation",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/202.png"
+			}
+		},
+		{
+			"name": "Cacophonous Iteration",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/203.png"
+			}
+		},
+		{
+			"name": "Canopy Lander",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/204.png"
+			}
+		},
+		{
+			"name": "Distant Peaks",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/205.png"
+			}
+		},
+		{
+			"name": "Starkissed Parapet",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/206.png"
+			}
+		},
+		{
+			"name": "Fallen Orbiter",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/207.png"
+			}
+		},
+		{
+			"name": "Rusted Aperture",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/208.png"
+			}
+		},
+		{
+			"name": "Cliffside Commune",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/209.png"
+			}
+		},
+		{
+			"name": "Seachrome Coast",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/210.png"
+			}
+		},
+		{
+			"name": "Darkslick Shores",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/211.png"
+			}
+		},
+		{
+			"name": "Blackcleave Cliffs",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/212.png"
+			}
+		},
+		{
+			"name": "Copperline Gorge",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/213.png"
+			}
+		},
+		{
+			"name": "Razorverge Thicket",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/214.png"
+			}
+		},
+		{
+			"name": "Concealed Courtyard",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/215.png"
+			}
+		},
+		{
+			"name": "Spirebluff Canal",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/216.png"
+			}
+		},
+		{
+			"name": "Blooming Marsh",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/217.png"
+			}
+		},
+		{
+			"name": "Etra, Farsky Paragon",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Planeswalker — Etra",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/218.png"
+			}
+		},
+		{
+			"name": "Subspace Bubble",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/219.png"
+			}
+		},
+		{
+			"name": "Exultance, Stellar Dreadnought",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/220.png"
+			}
+		},
+		{
+			"name": "Etra's Elevator",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/221.png"
+			}
+		},
+		{
+			"name": "Eimhir, Arcanum Locus",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — God",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/222.png"
+			}
+		},
+		{
+			"name": "Evolving Wilds",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/223.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/224.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/225.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/226.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/227.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/228.png"
+			}
+		},
+		{
+			"name": "Dramatic Impact",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/229.png"
+			}
+		},
+		{
+			"name": "Aernoch's Triumph",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/230.png"
+			}
+		},
+		{
+			"name": "Onward and Upward",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Battle — Expedition",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/231.png"
+			}
+		},
+		{
+			"name": "Caitrin, Gleaming Beacon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/232.png"
+			}
+		},
+		{
+			"name": "Pluck",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/233.png"
+			}
+		},
+		{
+			"name": "Freight Sabotage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/234.png"
+			}
+		},
+		{
+			"name": "Enduring the Searise",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}",
+			"type": "Battle — Expedition",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/235.png"
+			}
+		},
+		{
+			"name": "Thoughtless Culling",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/236.png"
+			}
+		},
+		{
+			"name": "Probe the Nucleus",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Battle — Expedition",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/237.png"
+			}
+		},
+		{
+			"name": "Clandestine Engineering",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/238.png"
+			}
+		},
+		{
+			"name": "Hijack",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/239.png"
+			}
+		},
+		{
+			"name": "Outpost Hangar",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/240.png"
+			}
+		},
+		{
+			"name": "Flee the Arcology",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Battle — Expedition",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/241.png"
+			}
+		},
+		{
+			"name": "Raze the Scar",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/242.png"
+			}
+		},
+		{
+			"name": "Soil Sample",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/243.png"
+			}
+		},
+		{
+			"name": "Chart the Blossoms",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Battle — Expedition",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/244.png"
+			}
+		},
+		{
+			"name": "Speaker of Eimhir",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Cirin Druid",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/245.png"
+			}
+		},
+		{
+			"name": "Divine Incursion",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/246.png"
+			}
+		},
+		{
+			"name": "Bone Macerator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Alien",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/247.png"
+			}
+		},
+		{
+			"name": "Territorial Coarseclaw",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Cat",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/248.png"
+			}
+		},
+		{
+			"name": "Photovolt Technicians",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/249.png"
+			}
+		},
+		{
+			"name": "High Ambassador",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Alien Noble",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/250.png"
+			}
+		},
+		{
+			"name": "Tachyonic Shuttle",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/251.png"
+			}
+		},
+		{
+			"name": "Uncovered Amalgam",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Alien Zombie",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/252.png"
+			}
+		},
+		{
+			"name": "Mass Deployment",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/253.png"
+			}
+		},
+		{
+			"name": "Ionosphere Test Site",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/254.png"
+			}
+		},
+		{
+			"name": "Rockbroken Citadel",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/255.png"
+			}
+		},
+		{
+			"name": "Flatrock Fen",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/256.png"
+			}
+		},
+		{
+			"name": "Deep Belt Outpost",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/257.png"
+			}
+		},
+		{
+			"name": "Parachute Pools",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/258.png"
+			}
+		},
+		{
+			"name": "Inspiring Vantage",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/259.png"
+			}
+		},
+		{
+			"name": "Botanical Sanctum",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://kattalist.github.io/sets/CRC-files/img/260.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Casus Belli
+	2 Fion, Starborn Imperator
+	2 Ceann Aernoch
+	2 Mithren, Star Afire
+	2 Skybreak Assault
+	2 Goldfield Aegis
+	2 Lost to Eternity
+	2 Reulfire Animist
+	2 Glyphbound Retributionist
+	2 Hetha, Starshaper
+	2 Into the Nexus
+	2 Anomalous Archive
+	2 Devote
+	2 Fleeting Memories
+	2 Sandshaker Deathless
+	2 Visage of Isbail
+	2 Moira, the Risen Beyond
+	2 Fabric of Being
+	2 Tormented Archmage
+	2 Arcane Tutor
+	2 Into the Dark and Infinite
+	2 Caldera Scalder
+	2 Avatars of Order
+	2 Quasar Paragon
+	2 Study the Nova
+	2 Bloodkissed Auspex
+	2 Interlinked Extractor
+	2 Prophetic Wish
+	2 Skitterblossom
+	2 Scarwood Sentinel
+	2 Restless Carapace
+	2 Flee the Sandserpent
+	2 Silaine's Retaliation
+	2 A-17, Experiment Awry
+	2 Ulbest Procession
+	1 Auldyears Reliquary
+	1 Audlom, Seer of Legions
+	1 Fate Rewritten
+	1 Gondwel, Seer of Skies
+	1 Isbail, Inexorable
+	1 Maelweth, Seer of Anguish
+	1 Starclan Omniblade
+	1 Agnon, Seer of Flame
+	1 Beyond Imagining
+	1 Silaine, Seer of Bloom
+	2 Zeria, Syzygy Fanatic
+	2 Goraidh, Shaped Arcanum
+	2 Murill, Brushed by Madness
+	2 Beastback Pillagers
+	2 Tarthan, Curio Collector
+	2 Twingod Glorious
+	2 Seeker of Forgotten Love
+	2 Bone Chandelier
+	2 Ceann Albus
+	2 Splendor of Creation
+	2 Seachrome Coast
+	2 Darkslick Shores
+	2 Blackcleave Cliffs
+	2 Copperline Gorge
+	2 Razorverge Thicket
+	2 Concealed Courtyard
+	2 Spirebluff Canal
+	2 Blooming Marsh
+	1 Etra, Farsky Paragon
+	1 Subspace Bubble
+	1 Exultance, Stellar Dreadnought
+	1 Etra's Elevator
+	1 Eimhir, Arcanum Locus
+	2 Inspiring Vantage
+	2 Botanical Sanctum
+[uncommon(3)]
+	4 Starjoy Excursion
+	4 Dune Skimmer
+	4 Perimeter Stalwart
+	4 Vengeful Swordsculptor
+	4 Willforger Technician
+	4 Wyvekeeper Chaplain
+	4 Eradication Force
+	4 Slatecoat Company
+	4 Herald of the Untold
+	4 Confine to Myth
+	4 Quicksilver Recon
+	4 Auldscar Lookout
+	4 Studied Shredder
+	4 Relic Inquisitor
+	4 Tetherstone Keeper
+	4 Shimmering Glider
+	4 Scar Lagoon Ravager
+	4 Divine Compulsion
+	4 Nanomesh Gauntlet
+	4 Adaptive Facsimile
+	4 Over Alien Hills
+	4 Basalt Peacekeeper
+	4 Reulguided Isolate
+	4 Strike Commander
+	4 Reliquary Drifter
+	4 Priest of Twinning Fate
+	4 Grim Portent
+	4 Thoughtwinder
+	4 Cull the Legion
+	4 Startrawler Extermination
+	4 Screaming Silence
+	4 Decrypt
+	4 Impact Scavengers
+	4 Lucus, Brigadier General
+	4 Silverbone Trudger
+	4 Marbhwood Phoenix
+	4 Emboldened Reserves
+	4 Fuschia Tetrapod
+	4 Far Reach Marksman
+	4 Devoted Legion
+	4 Manifold Blade
+	4 Gondwel's Vision
+	4 Fractures in the Belt
+	4 Stranded Pathfinder
+	4 Pack Tender
+	4 Longpillar Runners
+	4 Tenacious Twinjaw
+	4 Deepscar Experiment
+	4 Agile Surveyor
+	4 Bane of Ben Dorcha
+	4 Insensate Dunedrifter
+	4 Evolving Experiment
+	4 Illicit Synthesis
+	4 One Small Step
+	4 Over Ben Alkan
+	4 Boltbright Infiltrator
+	4 Glow Seeker
+	4 End of Sanity
+	4 Pinnacle Aspect
+	4 Ulbest Keeper
+	4 Imperious Magistrate
+	4 Crystal Ripper
+	4 Rise from Rot
+	4 Warbred Legionnaire
+	4 Unnatural Encounter
+	4 Ancient Tetherstone
+	4 Deep Shale Totem
+	4 Standard-Issue Augmentation
+	4 Cacophonous Iteration
+	4 Canopy Lander
+	4 Distant Peaks
+	4 Starkissed Parapet
+	4 Fallen Orbiter
+	4 Rusted Aperture
+	4 Cliffside Commune
+	4 Dramatic Impact
+	4 Aernoch's Triumph
+	4 Onward and Upward
+	4 Caitrin, Gleaming Beacon
+	4 Pluck
+	4 Freight Sabotage
+	4 Enduring the Searise
+	4 Thoughtless Culling
+	4 Probe the Nucleus
+	4 Clandestine Engineering
+	4 Hijack
+	4 Outpost Hangar
+	4 Flee the Arcology
+	4 Raze the Scar
+	4 Soil Sample
+	4 Chart the Blossoms
+	4 Speaker of Eimhir
+	4 Divine Incursion
+	4 Bone Macerator
+	4 Territorial Coarseclaw
+	4 Photovolt Technicians
+	4 High Ambassador
+	4 Tachyonic Shuttle
+	4 Uncovered Amalgam
+	4 Mass Deployment
+	4 Ionosphere Test Site
+	4 Rockbroken Citadel
+	4 Flatrock Fen
+	4 Deep Belt Outpost
+	4 Parachute Pools
+[common(6)]
+	8 Sandcliff Falcon
+	8 Ghostwyve Ascetic
+	8 Frontier Commando
+	8 Seek New Horizons
+	8 Ben Alkan Tracker
+	8 East Post Sentry
+	8 Airshaper Recluse
+	8 Gritforged Outcast
+	8 Mithren's Eulogist
+	8 Exosphere Drifter
+	8 Warm Cavalcade
+	8 Edict of the Clans
+	8 Become the Cycle
+	8 Gravity Well
+	8 Through the Aperture
+	8 Nexus Trailblazer
+	8 Bubbling Medusa
+	8 Disciple of Sand and Rime
+	8 Exoticum Fanatics
+	8 Chrome Rootwalla
+	8 Onyx Scoutplane
+	8 Hetha's Emissary
+	8 Colossus School
+	8 Harvester's Jetpack
+	8 Reproach
+	8 Scrive the Auldyears
+	8 Paratrooper Storm
+	8 Reprogram
+	8 Ad Astra Per Aspera
+	8 Suck Into Space
+	8 Intrepid Jumper
+	8 Darkstar Voyager
+	8 Hangar Security
+	8 Elegiac Drifter
+	8 Isbail's Acolyte
+	8 Outpost Medium
+	8 Elite Strike Operative
+	8 Dunebreach Wurm
+	8 Startrawler Colony
+	8 Blood Soliloquy
+	8 Pry
+	8 Consult the Omens
+	8 Lost to Stars
+	8 Deadly Dispute
+	8 Reverse Misfortune
+	8 Vein Cracker
+	8 First Responder
+	8 Armament Dealer
+	8 Pyretic Assailant
+	8 Shale Excavator
+	8 Ben Lasair Dauntless
+	8 Digger Technician
+	8 Stalkleg Colony
+	8 Hexclaw Ravager
+	8 Distant Thunder
+	8 Incendiary Rifle
+	8 Form of Auld Beasts
+	8 Into Bloody Mist
+	8 The Starclan Arrives
+	8 Inside Job
+	8 Duskbloom Nurturer
+	8 Pulverizer Artillery
+	8 Gemcap Cartographer
+	8 Traversal Vehicle
+	8 Ben Dorcha Cuirassier
+	8 Ulbest Packleader
+	8 Territorial Quilldog
+	8 Arcane Guide
+	8 Mawbloom Grove
+	8 Triumphant Ulbest
+	8 Scarwood Growth
+	8 Thunderous Clash
+	8 Steel Into Dust
+	8 Botanical Survey
+	8 Silaine's Echo
+	8 Abandoned Drifter
+	8 Reparation Module
+	8 Hangar Refurbisher
+	8 Isbail's Handblade
+	8 Deepscar Relic
+	8 Evolving Wilds
+[common | masterpiece(1)]
+	8 Sandcliff Falcon
+	8 Ghostwyve Ascetic
+	8 Frontier Commando
+	8 Seek New Horizons
+	8 Ben Alkan Tracker
+	8 East Post Sentry
+	8 Airshaper Recluse
+	8 Gritforged Outcast
+	8 Mithren's Eulogist
+	8 Exosphere Drifter
+	8 Warm Cavalcade
+	8 Edict of the Clans
+	8 Become the Cycle
+	8 Gravity Well
+	8 Through the Aperture
+	8 Nexus Trailblazer
+	8 Bubbling Medusa
+	8 Disciple of Sand and Rime
+	8 Exoticum Fanatics
+	8 Chrome Rootwalla
+	8 Onyx Scoutplane
+	8 Hetha's Emissary
+	8 Colossus School
+	8 Harvester's Jetpack
+	8 Reproach
+	8 Scrive the Auldyears
+	8 Paratrooper Storm
+	8 Reprogram
+	8 Ad Astra Per Aspera
+	8 Suck Into Space
+	8 Intrepid Jumper
+	8 Darkstar Voyager
+	8 Hangar Security
+	8 Elegiac Drifter
+	8 Isbail's Acolyte
+	8 Outpost Medium
+	8 Elite Strike Operative
+	8 Dunebreach Wurm
+	8 Startrawler Colony
+	8 Blood Soliloquy
+	8 Pry
+	8 Consult the Omens
+	8 Lost to Stars
+	8 Deadly Dispute
+	8 Reverse Misfortune
+	8 Vein Cracker
+	8 First Responder
+	8 Armament Dealer
+	8 Pyretic Assailant
+	8 Shale Excavator
+	8 Ben Lasair Dauntless
+	8 Digger Technician
+	8 Stalkleg Colony
+	8 Hexclaw Ravager
+	8 Distant Thunder
+	8 Incendiary Rifle
+	8 Form of Auld Beasts
+	8 Into Bloody Mist
+	8 The Starclan Arrives
+	8 Inside Job
+	8 Duskbloom Nurturer
+	8 Pulverizer Artillery
+	8 Gemcap Cartographer
+	8 Traversal Vehicle
+	8 Ben Dorcha Cuirassier
+	8 Ulbest Packleader
+	8 Territorial Quilldog
+	8 Arcane Guide
+	8 Mawbloom Grove
+	8 Triumphant Ulbest
+	8 Scarwood Growth
+	8 Thunderous Clash
+	8 Steel Into Dust
+	8 Botanical Survey
+	8 Silaine's Echo
+	8 Abandoned Drifter
+	8 Reparation Module
+	8 Hangar Refurbisher
+	8 Isbail's Handblade
+	8 Deepscar Relic
+	8 Evolving Wilds
+[foil(1)]
+	12 Sandcliff Falcon
+	12 Ghostwyve Ascetic
+	12 Frontier Commando
+	12 Seek New Horizons
+	12 Ben Alkan Tracker
+	12 East Post Sentry
+	12 Airshaper Recluse
+	12 Gritforged Outcast
+	12 Mithren's Eulogist
+	12 Exosphere Drifter
+	12 Warm Cavalcade
+	12 Edict of the Clans
+	12 Become the Cycle
+	12 Gravity Well
+	12 Through the Aperture
+	12 Nexus Trailblazer
+	12 Bubbling Medusa
+	12 Disciple of Sand and Rime
+	12 Exoticum Fanatics
+	12 Chrome Rootwalla
+	12 Onyx Scoutplane
+	12 Hetha's Emissary
+	12 Colossus School
+	12 Harvester's Jetpack
+	12 Reproach
+	12 Scrive the Auldyears
+	12 Paratrooper Storm
+	12 Reprogram
+	12 Ad Astra Per Aspera
+	12 Suck Into Space
+	12 Intrepid Jumper
+	12 Darkstar Voyager
+	12 Hangar Security
+	12 Elegiac Drifter
+	12 Isbail's Acolyte
+	12 Outpost Medium
+	12 Elite Strike Operative
+	12 Dunebreach Wurm
+	12 Startrawler Colony
+	12 Blood Soliloquy
+	12 Pry
+	12 Consult the Omens
+	12 Lost to Stars
+	12 Deadly Dispute
+	12 Reverse Misfortune
+	12 Vein Cracker
+	12 First Responder
+	12 Armament Dealer
+	12 Pyretic Assailant
+	12 Shale Excavator
+	12 Ben Lasair Dauntless
+	12 Digger Technician
+	12 Stalkleg Colony
+	12 Hexclaw Ravager
+	12 Distant Thunder
+	12 Incendiary Rifle
+	12 Form of Auld Beasts
+	12 Into Bloody Mist
+	12 The Starclan Arrives
+	12 Inside Job
+	12 Duskbloom Nurturer
+	12 Pulverizer Artillery
+	12 Gemcap Cartographer
+	12 Traversal Vehicle
+	12 Ben Dorcha Cuirassier
+	12 Ulbest Packleader
+	12 Territorial Quilldog
+	12 Arcane Guide
+	12 Mawbloom Grove
+	12 Triumphant Ulbest
+	12 Scarwood Growth
+	12 Thunderous Clash
+	12 Steel Into Dust
+	12 Botanical Survey
+	12 Silaine's Echo
+	6 Starjoy Excursion
+	6 Dune Skimmer
+	6 Perimeter Stalwart
+	6 Vengeful Swordsculptor
+	6 Willforger Technician
+	6 Wyvekeeper Chaplain
+	6 Eradication Force
+	6 Slatecoat Company
+	6 Herald of the Untold
+	6 Confine to Myth
+	2 Casus Belli
+	6 Quicksilver Recon
+	6 Auldscar Lookout
+	6 Studied Shredder
+	6 Relic Inquisitor
+	6 Tetherstone Keeper
+	6 Shimmering Glider
+	6 Scar Lagoon Ravager
+	6 Divine Compulsion
+	6 Nanomesh Gauntlet
+	6 Adaptive Facsimile
+	6 Over Alien Hills
+	6 Basalt Peacekeeper
+	6 Reulguided Isolate
+	6 Strike Commander
+	6 Reliquary Drifter
+	6 Priest of Twinning Fate
+	6 Grim Portent
+	6 Thoughtwinder
+	6 Cull the Legion
+	6 Startrawler Extermination
+	6 Screaming Silence
+	6 Decrypt
+	6 Impact Scavengers
+	6 Lucus, Brigadier General
+	6 Silverbone Trudger
+	6 Marbhwood Phoenix
+	6 Emboldened Reserves
+	6 Fuschia Tetrapod
+	6 Far Reach Marksman
+	6 Devoted Legion
+	6 Manifold Blade
+	6 Gondwel's Vision
+	6 Fractures in the Belt
+	6 Stranded Pathfinder
+	6 Pack Tender
+	6 Longpillar Runners
+	6 Tenacious Twinjaw
+	6 Deepscar Experiment
+	6 Agile Surveyor
+	6 Bane of Ben Dorcha
+	6 Insensate Dunedrifter
+	6 Evolving Experiment
+	6 Illicit Synthesis
+	6 One Small Step
+	2 Fion, Starborn Imperator
+	2 Ceann Aernoch
+	2 Mithren, Star Afire
+	2 Skybreak Assault
+	2 Goldfield Aegis
+	2 Lost to Eternity
+	6 Over Ben Alkan
+	2 Reulfire Animist
+	2 Glyphbound Retributionist
+	2 Hetha, Starshaper
+	2 Into the Nexus
+	2 Anomalous Archive
+	2 Devote
+	2 Fleeting Memories
+	2 Sandshaker Deathless
+	2 Visage of Isbail
+	2 Moira, the Risen Beyond
+	2 Fabric of Being
+	2 Tormented Archmage
+	2 Arcane Tutor
+	2 Into the Dark and Infinite
+	2 Caldera Scalder
+	2 Avatars of Order
+	2 Quasar Paragon
+	2 Study the Nova
+	2 Bloodkissed Auspex
+	2 Interlinked Extractor
+	2 Prophetic Wish
+	2 Skitterblossom
+	2 Scarwood Sentinel
+	2 Restless Carapace
+	2 Flee the Sandserpent
+	2 Silaine's Retaliation
+	2 A-17, Experiment Awry
+	2 Ulbest Procession
+	1 Auldyears Reliquary
+	1 Audlom, Seer of Legions
+	1 Fate Rewritten
+	1 Gondwel, Seer of Skies
+	1 Isbail, Inexorable
+	1 Maelweth, Seer of Anguish
+	1 Starclan Omniblade
+	1 Agnon, Seer of Flame
+	1 Beyond Imagining
+	1 Silaine, Seer of Bloom
+	6 Boltbright Infiltrator
+	6 Glow Seeker
+	6 End of Sanity
+	6 Pinnacle Aspect
+	6 Ulbest Keeper
+	6 Imperious Magistrate
+	6 Crystal Ripper
+	6 Rise from Rot
+	6 Warbred Legionnaire
+	6 Unnatural Encounter
+	2 Zeria, Syzygy Fanatic
+	2 Goraidh, Shaped Arcanum
+	2 Murill, Brushed by Madness
+	2 Beastback Pillagers
+	2 Tarthan, Curio Collector
+	2 Twingod Glorious
+	2 Seeker of Forgotten Love
+	2 Bone Chandelier
+	2 Ceann Albus
+	2 Splendor of Creation
+	12 Abandoned Drifter
+	12 Reparation Module
+	12 Hangar Refurbisher
+	12 Isbail's Handblade
+	12 Deepscar Relic
+	6 Ancient Tetherstone
+	6 Deep Shale Totem
+	6 Standard-Issue Augmentation
+	6 Cacophonous Iteration
+	6 Canopy Lander
+	6 Distant Peaks
+	6 Starkissed Parapet
+	6 Fallen Orbiter
+	6 Rusted Aperture
+	6 Cliffside Commune
+	2 Seachrome Coast
+	2 Darkslick Shores
+	2 Blackcleave Cliffs
+	2 Copperline Gorge
+	2 Razorverge Thicket
+	2 Concealed Courtyard
+	2 Spirebluff Canal
+	2 Blooming Marsh
+	1 Etra, Farsky Paragon
+	1 Subspace Bubble
+	1 Exultance, Stellar Dreadnought
+	1 Etra's Elevator
+	1 Eimhir, Arcanum Locus
+	12 Evolving Wilds
+	6 Dramatic Impact
+	6 Aernoch's Triumph
+	6 Onward and Upward
+	6 Caitrin, Gleaming Beacon
+	6 Pluck
+	6 Freight Sabotage
+	6 Enduring the Searise
+	6 Thoughtless Culling
+	6 Probe the Nucleus
+	6 Clandestine Engineering
+	6 Hijack
+	6 Outpost Hangar
+	6 Flee the Arcology
+	6 Raze the Scar
+	6 Soil Sample
+	6 Chart the Blossoms
+	6 Speaker of Eimhir
+	6 Divine Incursion
+	6 Bone Macerator
+	6 Territorial Coarseclaw
+	6 Photovolt Technicians
+	6 High Ambassador
+	6 Tachyonic Shuttle
+	6 Uncovered Amalgam
+	6 Mass Deployment
+	6 Ionosphere Test Site
+	6 Rockbroken Citadel
+	6 Flatrock Fen
+	6 Deep Belt Outpost
+	6 Parachute Pools
+	2 Inspiring Vantage
+	2 Botanical Sanctum
+[wildcard(1)]
+	6 Sandcliff Falcon
+	6 Ghostwyve Ascetic
+	6 Frontier Commando
+	6 Seek New Horizons
+	6 Ben Alkan Tracker
+	6 East Post Sentry
+	6 Airshaper Recluse
+	6 Gritforged Outcast
+	6 Mithren's Eulogist
+	6 Exosphere Drifter
+	6 Warm Cavalcade
+	6 Edict of the Clans
+	6 Become the Cycle
+	6 Gravity Well
+	6 Through the Aperture
+	6 Nexus Trailblazer
+	6 Bubbling Medusa
+	6 Disciple of Sand and Rime
+	6 Exoticum Fanatics
+	6 Chrome Rootwalla
+	6 Onyx Scoutplane
+	6 Hetha's Emissary
+	6 Colossus School
+	6 Harvester's Jetpack
+	6 Reproach
+	6 Scrive the Auldyears
+	6 Paratrooper Storm
+	6 Reprogram
+	6 Ad Astra Per Aspera
+	6 Suck Into Space
+	6 Intrepid Jumper
+	6 Darkstar Voyager
+	6 Hangar Security
+	6 Elegiac Drifter
+	6 Isbail's Acolyte
+	6 Outpost Medium
+	6 Elite Strike Operative
+	6 Dunebreach Wurm
+	6 Startrawler Colony
+	6 Blood Soliloquy
+	6 Pry
+	6 Consult the Omens
+	6 Lost to Stars
+	6 Deadly Dispute
+	6 Reverse Misfortune
+	6 Vein Cracker
+	6 First Responder
+	6 Armament Dealer
+	6 Pyretic Assailant
+	6 Shale Excavator
+	6 Ben Lasair Dauntless
+	6 Digger Technician
+	6 Stalkleg Colony
+	6 Hexclaw Ravager
+	6 Distant Thunder
+	6 Incendiary Rifle
+	6 Form of Auld Beasts
+	6 Into Bloody Mist
+	6 The Starclan Arrives
+	6 Inside Job
+	6 Duskbloom Nurturer
+	6 Pulverizer Artillery
+	6 Gemcap Cartographer
+	6 Traversal Vehicle
+	6 Ben Dorcha Cuirassier
+	6 Ulbest Packleader
+	6 Territorial Quilldog
+	6 Arcane Guide
+	6 Mawbloom Grove
+	6 Triumphant Ulbest
+	6 Scarwood Growth
+	6 Thunderous Clash
+	6 Steel Into Dust
+	6 Botanical Survey
+	6 Silaine's Echo
+	15 Starjoy Excursion
+	15 Dune Skimmer
+	15 Perimeter Stalwart
+	15 Vengeful Swordsculptor
+	15 Willforger Technician
+	15 Wyvekeeper Chaplain
+	15 Eradication Force
+	15 Slatecoat Company
+	15 Herald of the Untold
+	15 Confine to Myth
+	7 Casus Belli
+	15 Quicksilver Recon
+	15 Auldscar Lookout
+	15 Studied Shredder
+	15 Relic Inquisitor
+	15 Tetherstone Keeper
+	15 Shimmering Glider
+	15 Scar Lagoon Ravager
+	15 Divine Compulsion
+	15 Nanomesh Gauntlet
+	15 Adaptive Facsimile
+	15 Over Alien Hills
+	15 Basalt Peacekeeper
+	15 Reulguided Isolate
+	15 Strike Commander
+	15 Reliquary Drifter
+	15 Priest of Twinning Fate
+	15 Grim Portent
+	15 Thoughtwinder
+	15 Cull the Legion
+	15 Startrawler Extermination
+	15 Screaming Silence
+	15 Decrypt
+	15 Impact Scavengers
+	15 Lucus, Brigadier General
+	15 Silverbone Trudger
+	15 Marbhwood Phoenix
+	15 Emboldened Reserves
+	15 Fuschia Tetrapod
+	15 Far Reach Marksman
+	15 Devoted Legion
+	15 Manifold Blade
+	15 Gondwel's Vision
+	15 Fractures in the Belt
+	15 Stranded Pathfinder
+	15 Pack Tender
+	15 Longpillar Runners
+	15 Tenacious Twinjaw
+	15 Deepscar Experiment
+	15 Agile Surveyor
+	15 Bane of Ben Dorcha
+	15 Insensate Dunedrifter
+	15 Evolving Experiment
+	15 Illicit Synthesis
+	15 One Small Step
+	7 Fion, Starborn Imperator
+	7 Ceann Aernoch
+	7 Mithren, Star Afire
+	7 Skybreak Assault
+	7 Goldfield Aegis
+	7 Lost to Eternity
+	15 Over Ben Alkan
+	7 Reulfire Animist
+	7 Glyphbound Retributionist
+	7 Hetha, Starshaper
+	7 Into the Nexus
+	7 Anomalous Archive
+	7 Devote
+	7 Fleeting Memories
+	7 Sandshaker Deathless
+	7 Visage of Isbail
+	7 Moira, the Risen Beyond
+	7 Fabric of Being
+	7 Tormented Archmage
+	7 Arcane Tutor
+	7 Into the Dark and Infinite
+	7 Caldera Scalder
+	7 Avatars of Order
+	7 Quasar Paragon
+	7 Study the Nova
+	7 Bloodkissed Auspex
+	7 Interlinked Extractor
+	7 Prophetic Wish
+	7 Skitterblossom
+	7 Scarwood Sentinel
+	7 Restless Carapace
+	7 Flee the Sandserpent
+	7 Silaine's Retaliation
+	7 A-17, Experiment Awry
+	7 Ulbest Procession
+	4 Auldyears Reliquary
+	4 Audlom, Seer of Legions
+	4 Fate Rewritten
+	4 Gondwel, Seer of Skies
+	4 Isbail, Inexorable
+	4 Maelweth, Seer of Anguish
+	4 Starclan Omniblade
+	4 Agnon, Seer of Flame
+	4 Beyond Imagining
+	4 Silaine, Seer of Bloom
+	15 Boltbright Infiltrator
+	15 Glow Seeker
+	15 End of Sanity
+	15 Pinnacle Aspect
+	15 Ulbest Keeper
+	15 Imperious Magistrate
+	15 Crystal Ripper
+	15 Rise from Rot
+	15 Warbred Legionnaire
+	15 Unnatural Encounter
+	7 Zeria, Syzygy Fanatic
+	7 Goraidh, Shaped Arcanum
+	7 Murill, Brushed by Madness
+	7 Beastback Pillagers
+	7 Tarthan, Curio Collector
+	7 Twingod Glorious
+	7 Seeker of Forgotten Love
+	7 Bone Chandelier
+	7 Ceann Albus
+	7 Splendor of Creation
+	6 Abandoned Drifter
+	6 Reparation Module
+	6 Hangar Refurbisher
+	6 Isbail's Handblade
+	6 Deepscar Relic
+	15 Ancient Tetherstone
+	15 Deep Shale Totem
+	15 Standard-Issue Augmentation
+	15 Cacophonous Iteration
+	15 Canopy Lander
+	15 Distant Peaks
+	15 Starkissed Parapet
+	15 Fallen Orbiter
+	15 Rusted Aperture
+	15 Cliffside Commune
+	7 Seachrome Coast
+	7 Darkslick Shores
+	7 Blackcleave Cliffs
+	7 Copperline Gorge
+	7 Razorverge Thicket
+	7 Concealed Courtyard
+	7 Spirebluff Canal
+	7 Blooming Marsh
+	4 Etra, Farsky Paragon
+	4 Subspace Bubble
+	4 Exultance, Stellar Dreadnought
+	4 Etra's Elevator
+	4 Eimhir, Arcanum Locus
+	6 Evolving Wilds
+	15 Dramatic Impact
+	15 Aernoch's Triumph
+	15 Onward and Upward
+	15 Caitrin, Gleaming Beacon
+	15 Pluck
+	15 Freight Sabotage
+	15 Enduring the Searise
+	15 Thoughtless Culling
+	15 Probe the Nucleus
+	15 Clandestine Engineering
+	15 Hijack
+	15 Outpost Hangar
+	15 Flee the Arcology
+	15 Raze the Scar
+	15 Soil Sample
+	15 Chart the Blossoms
+	15 Speaker of Eimhir
+	15 Divine Incursion
+	15 Bone Macerator
+	15 Territorial Coarseclaw
+	15 Photovolt Technicians
+	15 High Ambassador
+	15 Tachyonic Shuttle
+	15 Uncovered Amalgam
+	15 Mass Deployment
+	15 Ionosphere Test Site
+	15 Rockbroken Citadel
+	15 Flatrock Fen
+	15 Deep Belt Outpost
+	15 Parachute Pools
+	7 Inspiring Vantage
+	7 Botanical Sanctum

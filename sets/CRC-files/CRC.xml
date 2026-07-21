@@ -1,0 +1,4557 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>CRC</name>
+			<longname>Circith: Stars Shall Fall</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-07-20</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Sandcliff Falcon</name>
+			<text>Flying
+Battalion — Whenever this creature and at least two other creatures attack, this creature gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/0.png" num="29">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ghostwyve Ascetic</name>
+			<text>Lifelink
+Whenever this creature attacks, you may tap an untapped creature you control or pay {2}{W}. When you do, tap target creature.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/1.png" num="18">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frontier Commando</name>
+			<text>Flash
+{1}, Sacrifice this creature: Destroy target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/2.png" num="17">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seek New Horizons</name>
+			<text>Create two 1/1 red Scout creature tokens. If you control a non-Scout token, you gain 2 life.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/3.png" num="30">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ben Alkan Tracker</name>
+			<text>Flying
+{4}{W}: Creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/4.png" num="6">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>East Post Sentry</name>
+			<text>During your turn, this creature has first strike.
+Battalion — Whenever this creature and at least two other creatures attack, target creature gets +1/+0 and gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/5.png" num="12">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Airshaper Recluse</name>
+			<text>When this creature enters, exile the top card of your library face down into your augury. (You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/6.png" num="2">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gritforged Outcast</name>
+			<text>Vigilance
+When this creature enters, create a 1/1 colorless Drone artifact creature token with flying.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/7.png" num="21">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mithren&apos;s Eulogist</name>
+			<text>At the beginning of your end step, if a creature you control died this turn, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/8.png" num="25">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Exosphere Drifter</name>
+			<text>Flying
+When this creature enters, create an Effigy token. (It&apos;s an artifact with &quot;{2}: This becomes a 3/2 copy of target creature you control. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/9.png" num="15">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Warm Cavalcade</name>
+			<text>This spell costs {1} less to cast for each creature you control.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/10.png" num="36">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Edict of the Clans</name>
+			<text>This spell costs {2} less to cast if it targets a tapped creature.
+Edict of the Clans deals damage equal to the number of creatures you control to target creature.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/11.png" num="13">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Become the Cycle</name>
+			<text>Target creature gets +2/+0 and gains lifelink until end of turn. When it dies this turn, create an Effigy token. (It&apos;s an artifact with &quot;{2}: This becomes a 3/2 copy of target creature you control. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/12.png" num="5">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gravity Well</name>
+			<text>When this artifact enters, exile target artifact or creature an opponent controls until this artifact leaves the battlefield.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/13.png" num="20">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Through the Aperture</name>
+			<text>Return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/14.png" num="34">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nexus Trailblazer</name>
+			<text>When this creature enters, surveil 1.
+Whenever an artifact you control enters, this creature gets +1/+0 until end of turn and can&apos;t be blocked this turn. This ability triggers only once each turn.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/15.png" num="61">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bubbling Medusa</name>
+			<text>{T}: Add {U}. You can&apos;t spend this mana to cast creature spells or activate abilities of creatures.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/16.png" num="43">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Jellyfish</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Disciple of Sand and Rime</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When this creature enters, create an Effigy token. (It&apos;s an artifact with &quot;{2}: This becomes a 3/2 copy of target creature you control. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/17.png" num="47">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Exoticum Fanatics</name>
+			<text>Vigilance
+Concord — This creature gets +2/+1 as long as there are four or more card types among permanents you control.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/18.png" num="50">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chrome Rootwalla</name>
+			<text>Whenever this creature attacks, you may pay {1}{U}. If you do, draw a card, then discard a card.
+{1}{U}, {T}: Draw a card, then discard a card.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/19.png" num="44">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Onyx Scoutplane</name>
+			<text>Flying
+Whenever this creature deals combat damage to a player or battle, exile the top card of your library face down into your augury. (You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/20.png" num="62">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Drone</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hetha&apos;s Emissary</name>
+			<text>Concord — When this creature enters, return up to one target creature to its owner&apos;s hand if that creature&apos;s mana value is 3 or less or if there are four or more card types among permanents you control.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/21.png" num="58">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Colossus School</name>
+			<text>Flying
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/22.png" num="45">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Whale</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Harvester&apos;s Jetpack</name>
+			<text>Flash
+When this Equipment enters, attach it to target creature you control. That creature gains hexproof until end of turn.
+Equipped creature gets +1/+0 and has flying.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/23.png" num="56">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reproach</name>
+			<text>Counter target spell unless its controller pays {2}.
+You may pay {1}. If you do, create an Effigy token. (It&apos;s an artifact with &quot;{2}: This becomes a 3/2 copy of target creature you control. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/24.png" num="68">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scrive the Auldyears</name>
+			<text>Look at the top two cards of your library. Put one of them into your hand and exile the other face down into your augury. (You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/25.png" num="72">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Paratrooper Storm</name>
+			<text>Until end of turn, target artifact or creature becomes a 4/4 artifact creature with flying and &quot;Whenever this creature deals combat damage to a player, draw a card.&quot;</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/26.png" num="64">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reprogram</name>
+			<text>Enchant artifact or creature
+Enchanted creature is a 1/1 colorless Drone artifact creature with flying. It loses all other types and abilities.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/27.png" num="69">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ad Astra Per Aspera</name>
+			<text>Draw three cards.
+Concord — Discard a card unless there are four or more card types among permanents you control.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/28.png" num="39">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Suck Into Space</name>
+			<text>Target creature&apos;s owner puts it on their choice of the top or bottom of their library.
+Exile the top card of your library face down into your augury. (You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/29.png" num="75">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Intrepid Jumper</name>
+			<text>When this creature dies, create a 1/1 red Scout creature token.
+Eclipse 4 — {4}{B} (Cast this from your graveyard as a 4/4 for its eclipse cost. It enters with a finality counter.)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/30.png" num="93">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Darkstar Voyager</name>
+			<text>Flying
+This creature can&apos;t block.
+Whenever you cast a noncreature spell, each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/31.png" num="83">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hangar Security</name>
+			<text>Menace
+Eclipse 6 — {5}{B}{B} (Cast this from your graveyard as a 6/6 for its eclipse cost. It enters with a finality counter.)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/32.png" num="91">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elegiac Drifter</name>
+			<text>Deathtouch
+Whenever this creature attacks, if you&apos;ve discarded a card this turn, this creature gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/33.png" num="87">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Isbail&apos;s Acolyte</name>
+			<text>Lifelink
+{B}, Sacrifice another creature or artifact: Create a tapped Treasure token.
+{2}{B}, Sacrifice another creature or artifact: Draw a card.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/34.png" num="95">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Outpost Medium</name>
+			<text>When this creature enters, mill three cards, then you may exile a creature card from your graveyard into your augury. (As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/35.png" num="99">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elite Strike Operative</name>
+			<text>Flash
+As an additional cost to cast this spell, you may discard a card.
+When this creature enters, destroy target creature if that creature was dealt damage this turn or if you discarded a card as you cast this spell.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/36.png" num="88">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dunebreach Wurm</name>
+			<text>Whenever this creature enters or attacks, you may exile a card from your graveyard. When you do, target creature gets +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/37.png" num="86">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Startrawler Colony</name>
+			<text>Flying
+Ward—Pay 3 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/38.png" num="108">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Jellyfish</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blood Soliloquy</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature or discard a card.
+Destroy target creature.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/39.png" num="79">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pry</name>
+			<text>This spell costs {1} less to cast if a card was put into your graveyard from anywhere this turn.
+Target opponent reveals their hand. You choose an artifact or creature card from it. That player discards that card.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/40.png" num="102">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Consult the Omens</name>
+			<text>Exile the top two cards of your library face down into your augury. (You may look at them. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)
+You draw two cards and lose 2 life.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/41.png" num="81">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lost to Stars</name>
+			<text>Destroy target creature.
+Exile the top card of your library face down into your augury. (You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/42.png" num="96">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Deadly Dispute</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+Draw two cards and create a Treasure token.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/43.png" num="84">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reverse Misfortune</name>
+			<text>Until end of turn, target creature gets +2/+0 and gains &quot;When this creature dies, create a tapped token that&apos;s a copy of it.&quot;</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/44.png" num="105">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vein Cracker</name>
+			<text>Haste
+When this creature dies, exile the top card of your library face down into your augury. (You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/45.png" num="152">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>First Responder</name>
+			<text>Menace
+Battalion — Whenever this creature attacks with two or more other creatures, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/46.png" num="126">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Armament Dealer</name>
+			<text>{T}: Target creature gains haste until end of turn. If it has power 4 or greater, it also gains menace until end of turn.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/47.png" num="116">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pyretic Assailant</name>
+			<text>Trample
+When this creature enters, create a tapped Treasure token.
+{1}{R}: This creature gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/48.png" num="144">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shale Excavator</name>
+			<text>When this creature enters, create a 2/2 colorless Robot artifact creature token.
+Eclipse 2 — {4}{R} (Cast this from your graveyard as a 2/2 for its eclipse cost. It enters with a finality counter.)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/49.png" num="146">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ben Lasair Dauntless</name>
+			<text>Whenever you discard a card during your turn, this creature gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/50.png" num="118">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Digger Technician</name>
+			<text>When this creature enters, exile the top card of your library. If you control an artifact, exile the top two cards of your library instead. Until the end of your next turn, you may play a card exiled this way.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/51.png" num="122">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stalkleg Colony</name>
+			<text>Trample
+Battalion — Whenever this creature attacks with two or more other creatures, up to one target creature can&apos;t block this creature this turn.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/52.png" num="148">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hexclaw Ravager</name>
+			<text>Reach
+When this creature enters, choose one —
+• This creature deals 3 damage to any target.
+• Destroy target artifact.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/53.png" num="132">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crab</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Distant Thunder</name>
+			<text>Distant Thunder deals 2 damage to any target.
+Exile the top card of your library face down into your augury. (You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/54.png" num="123">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Incendiary Rifle</name>
+			<text>Flash
+When this Equipment enters, attach it to target creature you control. That creature gains first strike until end of turn.
+Equipped creature gets +2/+0.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/55.png" num="135">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Form of Auld Beasts</name>
+			<text>Target creature you control gains trample until end of turn. It gets +1/+0 until end of turn if you&apos;ve discarded a card this turn.
+Draw a card.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/56.png" num="128">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Into Bloody Mist</name>
+			<text>Into Bloody Mist deals 4 damage to any nonplayer target. If that permanent would be put into a graveyard this turn, exile it instead.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/57.png" num="138">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Starclan Arrives</name>
+			<text>Choose one —
+• Discard up to two cards, then draw that many cards plus one.
+• Creatures you control get +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/58.png" num="149">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inside Job</name>
+			<text>Inside Job deals 5 damage to target creature. If excess damage was dealt this way, create an Effigy token. (It&apos;s an artifact with &quot;{2}: This becomes a 3/2 copy of target creature you control. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/59.png" num="136">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Duskbloom Nurturer</name>
+			<text>When this creature enters, mill two cards.
+{T}: Add {G}.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/60.png" num="162">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pulverizer Artillery</name>
+			<text>Deathtouch
+Concord — Whenever this creature attacks, if there are four or more card types among permanents you control, put a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/61.png" num="172">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gemcap Cartographer</name>
+			<text>When this creature dies, create a Treasure token.
+Eclipse 3 — {3}{G} (Cast this from your graveyard as a 3/3 for its eclipse cost. It enters with a finality counter.)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/62.png" num="165">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Traversal Vehicle</name>
+			<text>When this creature enters, mill three cards. You may put a land card from among them into your hand.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/63.png" num="187">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Robot Camel</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ben Dorcha Cuirassier</name>
+			<text>Vigilance, reach
+Eclipse 6 — {5}{G}{G} (Cast this from your graveyard as a 6/6 for its eclipse cost. It enters with a finality counter.)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/64.png" num="157">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ulbest Packleader</name>
+			<text>Trample
+Trample over battles (This creature can deal excess combat damage to the defender of the battle it&apos;s attacking.)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/65.png" num="189">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Territorial Quilldog</name>
+			<text>Vigilance
+Whenever this creature attacks with another creature with power 4 or greater, it gets +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/66.png" num="185">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arcane Guide</name>
+			<text>When this creature enters, create a 3/3 green Elk creature token with vigilance, then put a +1/+1 counter on target creature you control if you control a non-Elk token.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/67.png" num="155">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mawbloom Grove</name>
+			<text>This creature can&apos;t be blocked by creatures with power 2 or less.
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/68.png" num="169">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Triumphant Ulbest</name>
+			<text>Trample
+Concord — When this creature enters, you gain 2 life. If there are four or more card types among permanents you control, you gain 5 life instead.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/69.png" num="188">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scarwood Growth</name>
+			<text>Target creature gets +1/+3 and gains reach and hexproof until end of turn.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/70.png" num="175">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Thunderous Clash</name>
+			<text>Target creature you control deals damage equal to its power to target creature you don&apos;t control. If that creature dealt 4 or more damage this way, surveil 2.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/71.png" num="186">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Steel Into Dust</name>
+			<text>Choose one —
+• Destroy target artifact, enchantment, or battle.
+• Target creature you control fights target creature you don&apos;t control.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/72.png" num="182">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Botanical Survey</name>
+			<text>Create a tapped Everywhere token. (It&apos;s a land with every basic land type.)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/73.png" num="159">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Silaine&apos;s Echo</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+1.
+Concord — Enchanted creature has trample as long as there are four or more card types among permanents you control.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/74.png" num="178">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Starjoy Excursion</name>
+			<text>Create a 1/1 red Scout creature token.
+Whenever you create a non-Scout token, you may exile this card from your graveyard into your augury. (As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/75.png" num="33">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dune Skimmer</name>
+			<text>This creature can&apos;t be blocked by creatures with power 3 or greater.
+{2}{W}: Create an Effigy token. (It&apos;s an artifact with &quot;{2}: This becomes a 3/2 copy of target creature you control. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/76.png" num="11">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Perimeter Stalwart</name>
+			<text>{1}, Sacrifice this creature: Another target creature you control gains indestructible until end of turn.
+{2}{W}{W}, Exile this card from your graveyard: Create a 4/4 white Angel creature token with flying. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/77.png" num="28">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vengeful Swordsculptor</name>
+			<text>First strike
+Battalion — Whenever this creature attacks with two or more other creatures, it gains double strike until end of turn.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/78.png" num="35">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Willforger Technician</name>
+			<text>Lifelink
+When this creature enters, create a 2/1 blue Reflection creature token.
+Whenever you create a non-Reflection token, put a +1/+1 counter on this creature or on target Reflection you control.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/79.png" num="37">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wyvekeeper Chaplain</name>
+			<text>When this creature enters, exile up to three creature cards with total mana value 3 or less from your graveyard.
+Whenever this creature attacks, you may put a card exiled with it into your augury. (As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/80.png" num="38">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eradication Force</name>
+			<text>When this creature enters, create an Effigy token. (It&apos;s an artifact with &quot;{2}: This becomes a 3/2 copy of target creature you control. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.&quot;)
+This creature gets +1/+0 for each other creature you control.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/81.png" num="14">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slatecoat Company</name>
+			<text>Vigilance
+Whenever this creature enters or attacks, create a 1/1 red Scout creature token.
+Battalion — Whenever this creature attacks with two or more other creatures, attacking creatures get +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/82.png" num="32">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Herald of the Untold</name>
+			<text>When this creature enters, choose one —
+• Search your library for a creature card with mana value 2 or less, put it onto the battlefield, then shuffle.
+• Create two 1/1 white Spirit creature tokens with flying.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/83.png" num="22">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Confine to Myth</name>
+			<text>Destroy target creature, artifact, or battle. Its controller creates an Effigy token. (It&apos;s an artifact with &quot;{2}: This becomes a 3/2 copy of target creature you control. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/84.png" num="9">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Casus Belli</name>
+			<text>When a player casts their second spell each turn, sacrifice this enchantment. If you do, each of that player&apos;s opponents draws two cards.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/85.png" num="7">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Quicksilver Recon</name>
+			<text>Flash
+Flying
+{3}{U}, Sacrifice this creature: Create a 0/0 colorless Construct artifact creature token with &quot;This creature gets +1/+1 for each artifact you control.&quot; Activate only as a sorcery unless this creature entered this turn.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/86.png" num="66">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Auldscar Lookout</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When this creature enters, look at the top six cards of your library. Reveal up to one instant or sorcery card from among them, exile it into your augury, then shuffle. (As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/87.png" num="42">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Studied Shredder</name>
+			<text>Whenever this creature deals combat damage to a player or battle, if it isn&apos;t a token, create an Effigy token. (It&apos;s an artifact with &quot;{2}: This becomes a 3/2 copy of target creature you control. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/88.png" num="74">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Relic Inquisitor</name>
+			<text>Vigilance
+Whenever this creature attacks, surveil 1.
+Concord — At the beginning of your end step, if there are four or more card types among permanents you control, create a 1/1 blue Bird creature token with flying.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/89.png" num="67">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tetherstone Keeper</name>
+			<text>When this creature enters, tap up to one target creature and put a stun counter on it.
+Artifacts and creatures you control have &quot;{2}: This becomes a copy of target tapped creature an opponent controls. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.&quot;</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/90.png" num="76">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shimmering Glider</name>
+			<text>Flying
+When this creature enters, you may draw a card for each artifact you control. If you drew one or more cards this way, discard two cards.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/91.png" num="73">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Drone</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scar Lagoon Ravager</name>
+			<text>Flash
+This spell costs {1} less to cast for each instant and sorcery card in your graveyard.
+When this creature enters, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/92.png" num="71">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Divine Compulsion</name>
+			<text>Counter target artifact or creature spell. Its controller may surveil 2.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/93.png" num="48">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nanomesh Gauntlet</name>
+			<text>Equipped creature gets +1/+0.
+Whenever equipped creature deals combat damage to a player or battle, draw a card.
+Equip {2}</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/94.png" num="60">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Adaptive Facsimile</name>
+			<text>Whenever you cast your second spell each turn, surveil 1 and put a +1/+1 counter on this artifact.
+{2}: This becomes a 3/2 copy of target creature you control. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/95.png" num="40">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Effigy</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Over Alien Hills</name>
+			<text>(As this enters, choose an opponent to protect it. Whenever you attack, create a 1/1 red Scout creature token tapped and attacking this. Sacrifice that token at end of combat.)
+When this Expedition enters or is defeated, draw two cards, then discard a card.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/96.png" num="63">CRC</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Expedition</type>
+				<maintype>Battle</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Basalt Peacekeeper</name>
+			<text>When this creature enters, each opponent discards a card. Each opponent who can&apos;t loses 4 life.
+Eclipse 4 — {4}{B} (You may cast this from your graveyard as a 4/4 for its eclipse cost. It enters with a finality counter.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/97.png" num="78">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reulguided Isolate</name>
+			<text>Whenever this creature deals combat damage to a player or battle, you lose that much life unless you discarded a card this turn.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/98.png" num="104">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Strike Commander</name>
+			<text>Menace
+Whenever this creature attacks, you may sacrifice another artifact or creature. If you do, draw a card.
+{3}{B}: Put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/99.png" num="110">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reliquary Drifter</name>
+			<text>As long as you&apos;ve cast two or more spells this turn, this creature has deathtouch and lifelink.
+Eclipse 3 — {2}{B}, Pay 3 life. (You may cast this from your graveyard as a 3/3 for its eclipse cost. It enters with a finality counter.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/100.png" num="103">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Priest of Twinning Fate</name>
+			<text>When this creature enters, exile the top card of your library and up to one target creature card from your graveyard into your augury. (As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/101.png" num="100">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grim Portent</name>
+			<text>Flying
+Whenever another creature you control dies, each opponent loses 1 life and you gain 1 life.
+When this creature dies, create a 0/1 black Cleric creature token with &quot;Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.&quot;</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/102.png" num="90">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thoughtwinder</name>
+			<text>At the beginning of your end step, you may exile a nonland card from you graveyard. Then if a card left your graveyard this turn, you draw a card and lose 1 life.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/103.png" num="112">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cull the Legion</name>
+			<text>Choose one or both —
+• Remove up to five counters from target permanent.
+• All creatures get -2/-2 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/104.png" num="82">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Startrawler Extermination</name>
+			<text>(As this enters, choose an opponent to protect it. Whenever you attack, create a 1/1 red Scout creature token tapped and attacking this. Sacrifice that token at end of combat.)
+When this Expedition enters or is defeated, each opponent sacrifices a creature.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/105.png" num="109">CRC</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Expedition</type>
+				<maintype>Battle</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Screaming Silence</name>
+			<text>Until end of turn, abilities don&apos;t trigger.
+Destroy target creature.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/106.png" num="107">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Decrypt</name>
+			<text>Look at target opponent&apos;s hand and choose a nonland card from it. That player discards that card, then exiles the top card of their library face down into their augury. (They may look at it. As a sorcery, they may pay {1} and discard a card to put a card from their augury into their hand.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/107.png" num="85">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Impact Scavengers</name>
+			<text>First strike
+Battalion — Whenever this creature attacks with two or more other creatures, it gets +2/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/108.png" num="134">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lucus, Brigadier General</name>
+			<text>During your turn, Lucus has first strike.
+Whenever a nontoken creature you control enters, create a 1/1 red Scout creature token. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/109.png" num="139">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Silverbone Trudger</name>
+			<text>Ward—Pay X life, where X is the number of artifacts you control.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/110.png" num="147">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Marbhwood Phoenix</name>
+			<text>Flying
+When this creature enters, if it was cast, it deals damage equal to its power to any target.
+Eclipse X — {X}{X}{R} (Cast this from your graveyard as an X/X for its eclipse cost. It enters with a finality counter.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/111.png" num="141">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Emboldened Reserves</name>
+			<text>As an additional cost to cast this spell, you may pay {2}{R} and discard a card. If you do, copy it. (The copy becomes a token.)
+Menace</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/112.png" num="124">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fuschia Tetrapod</name>
+			<text>When this creature enters, exile target instant or sorcery card from your graveyard into your augury. (As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)
+Whenever you discard a card, create a 1/1 red Scout creature token. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/113.png" num="130">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Far Reach Marksman</name>
+			<text>Reach
+Whenever an artifact you control enters, exile the top card of your library. You may play it this turn. This ability triggers only once each turn.
+As long as you control three or more artifacts, this creature gets +2/+0.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/114.png" num="125">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Devoted Legion</name>
+			<text>Trample, haste
+Battalion — Whenever this creature attacks with two or more other creatures, you may discard up to two cards, then draw that many cards.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/115.png" num="121">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Manifold Blade</name>
+			<text>When this Equipment enters, conjure a duplicate of it into your augury. (As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)
+Equipped creature gets +1/+0 and has double strike.
+Equip {3}</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/116.png" num="140">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gondwel&apos;s Vision</name>
+			<text>Gondwel&apos;s Vision deals 2 damage to each creature.
+Exile the top card of your library face down into your augury. (You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/117.png" num="131">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fractures in the Belt</name>
+			<text>(As this enters, choose an opponent to protect it. Whenever you attack, create a 1/1 red Scout creature token tapped and attacking this. Sacrifice that token at end of combat.)
+When this Expedition enters or is defeated, it deals 2 damage divided as you choose among one or two targets.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/118.png" num="129">CRC</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Expedition</type>
+				<maintype>Battle</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stranded Pathfinder</name>
+			<text>When this creature enters, search your library for up to two basic land cards, exile them into your augury, then shuffle. (As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)
+{4}{G}{G}: This creature (indefinitely) becomes a 0/0 Treefolk with trample and &quot;This creature gets +1/+1 for each land you control.&quot;</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/119.png" num="183">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pack Tender</name>
+			<text>Whenever you create one or more tokens, put a +1/+1 counter on this creature. This ability triggers only once each turn.
+At the beginning of combat on your turn, you may move a counter from this creature onto target creature token you conrol.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/120.png" num="171">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Longpillar Runners</name>
+			<text>Concord — Whenever this creature attacks, if there are four or more card types among permanents you control, draw a card.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/121.png" num="168">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tenacious Twinjaw</name>
+			<text>When this creature enters, put a +1/+1 counter on target creature. Then if you control a creature with power 4 or greater, draw a card.
+Creatures you control with +1/+1 counters on them have trample.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/122.png" num="184">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deepscar Experiment</name>
+			<text>When this creature enters, return up to one target permanent card from your graveyard to your hand.
+Eclipse 8 — {6}{G}{G} (Cast this from your graveyard as an 8/8 for its eclipse cost. It enters with a finality counter.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/123.png" num="161">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Agile Surveyor</name>
+			<text>Reach
+When this creature enters, it deals 2 damage to target creature an opponent controls with flying.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/124.png" num="154">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bane of Ben Dorcha</name>
+			<text>Reach
+Whenever this creature attacks, create a 1/2 green Spider creature token with reach. If you control a non-Spider token, create two of those tokens instead. You may have those tokens enter tapped and attacking.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/125.png" num="156">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Insensate Dunedrifter</name>
+			<text>This spell costs {1} less to cast for each card type among permanents you control.
+Trample, vigilance</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/126.png" num="167">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Evolving Experiment</name>
+			<text>This creature enters with X +1/+1 counters on it.
+When this creature enters, choose one —
+• Put a trample counter on it.
+• Double the number of +1/+1 counters on it.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/127.png" num="163">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze Hydra</type>
+				<maintype>Creature</maintype>
+				<manacost>XG</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Illicit Synthesis</name>
+			<text>Enchant creature you control
+When this Aura enters, enchanted creature fights up to one target creature an opponent controls. (Each deals damage equal to its power to the other.)
+Enchanted creature gets +X/+X, where X is its base power.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/128.png" num="166">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>One Small Step</name>
+			<text>(As this enters, choose an opponent to protect it. Whenever you attack, create a 1/1 red Scout creature token tapped and attacking this. Sacrifice that token at end of combat.)
+When this Expedition enters or is defeated, reveal the top five cards of your library. Put a creature card from among them into your hand and the rest on the bottom of your library in a random order.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/129.png" num="170">CRC</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Expedition</type>
+				<maintype>Battle</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fion, Starborn Imperator</name>
+			<text>Flying
+Whenever Fion or another creature you control deals combat damage to a player or battle, you gain that much life.
+Whenever you attack, if you have at least 5 life more than your starting life total, put a +1/+1 counter on Fion and draw a card.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/130.png" num="16">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Angel Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ceann Aernoch</name>
+			<text>Vigilance
+Whenever Aernoch attacks, draw a card if you control more creatures than each opponent. If you don&apos;t, create a 1/1 red Scout creature token.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/131.png" num="8">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cirin Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mithren, Star Afire</name>
+			<text>Creature spells you cast cost {1} less to cast.
+Whenever Mithren or another creature you control dies, return up to one target creature card with lesser mana value from your graveyard to your hand. (A token copy of a creature has that creature&apos;s mana value.)</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/132.png" num="24">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skybreak Assault</name>
+			<text>(As this enters, choose an opponent to protect it. Whenever you attack, create a 1/1 red Scout creature token tapped and attacking this. Sacrifice that token at end of combat.)
+When this Expedition enters or is defeated, put a +1/+1 counter on each creature you control.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/133.png" num="31">CRC</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Expedition</type>
+				<maintype>Battle</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Goldfield Aegis</name>
+			<text>Flying
+Battalion — Whenever this creature attacks with two or more other creatures, each other attacking creature gains hexproof until your next turn.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/134.png" num="19">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lost to Eternity</name>
+			<text>Exile all creatures.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/135.png" num="23">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Over Ben Alkan</name>
+			<text>(As this enters, choose an opponent to protect it. Whenever you attack, create a 1/1 red Scout creature token tapped and attacking this. Sacrifice that token at end of combat.)
+When this Expedition enters or is defeated, put a +1/+1 counter on each of up to two target creatures you control.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/136.png" num="27">CRC</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Expedition</type>
+				<maintype>Battle</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4</pt>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reulfire Animist</name>
+			<text>Prowess
+At the beginning of your upkeep, up to one target noncreature, nonland permanent becomes a 1/1 Illusion creature in addition to its other types until end of turn. It gains prowess until end of turn.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/137.png" num="70">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glyphbound Retributionist</name>
+			<text>Flash
+When this creature enters, up to one target nonland permanent&apos;s owner exiles it into their augury. (As a sorcery, they may pay {1} and discard a card to put a card from their augury into their hand.)</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/138.png" num="54">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hetha, Starshaper</name>
+			<text>When this creature enters, for each nonland permanent type, each player chooses a permanent they control of that type. Return all other nonland permanents not chosen this way to their owner&apos;s hands.
+Concord — As long as there are four or more card types among permanents you control, you may cast spells as though they had flash.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/139.png" num="57">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Into the Nexus</name>
+			<text>(As this enters, choose an opponent to protect it. Whenever you attack, create a 1/1 red Scout creature token tapped and attacking this. Sacrifice that token at end of combat.)
+When this Expedition enters or is defeated, when you next cast an instant or sorcery spell this turn, copy it. You may choose new targets for the copy.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/140.png" num="59">CRC</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Expedition</type>
+				<maintype>Battle</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Anomalous Archive</name>
+			<text>At the beginning of your upkeep, put a glyph counter on this artifact, then you may cast a spell with mana value equal to the number of glyph counters on this artifact from your hand without paying its mana cost.
+{2}: This becomes a 3/2 copy of target creature you control. Sacrifice it at end of combat. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/141.png" num="41">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Effigy</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Devote</name>
+			<text>Enchant creature
+You control enchanted creature.
+Enchanted creature can&apos;t block or attack players.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/142.png" num="46">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fleeting Memories</name>
+			<text>Whenever you cast a noncreature spell, target player mills two cards.
+Spells you cast cost {1} less to cast if they target a player or permanent controlled by a player who has fewer cards in their library than half the minimum deck size.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/143.png" num="52">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sandshaker Deathless</name>
+			<text>This creature has menace as long as you have one or fewer cards in hand.
+When this creature dies, you may exile it from your graveyard into your augury. (As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/144.png" num="106">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Visage of Isbail</name>
+			<text>At the beginning of your end step, look at the top five cards of your library. You may reveal a creature card with mana value X or less from among them, where X is the number of creatures that died under your control this turn. Put it onto the battlefield and the rest on the bottom of your library in a random order.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/145.png" num="114">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Moira, the Risen Beyond</name>
+			<text>As long as Moira is on the battlefield, she has all activated abilities of creature cards in your graveyard.
+Eclipse 4 — Sacrifice three creatures. (You may cast this from your graveyard as a 4/4 for its eclipse cost. It enters with a finality counter.)</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/146.png" num="98">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fabric of Being</name>
+			<text>{B}, Pay 2 life: Draw a card. Activate only if you have no cards in hand.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/147.png" num="89">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tormented Archmage</name>
+			<text>Flying
+Whenever you cast a noncreature spell, you may discard a card. If you do, copy that spell. You may choose new targets for the copy.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/148.png" num="113">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Angel Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arcane Tutor</name>
+			<text>Search your library for a card, exile it face down into your augury, then shuffle. You lose 3 life. (You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/149.png" num="77">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Into the Dark and Infinite</name>
+			<text>(As this enters, choose an opponent to protect it. Whenever you attack, create a 1/1 red Scout creature token tapped and attacking this. Sacrifice that token at end of combat.)
+When this Expedition enters or is defeated, each opponent sacrifices a creature. Each player who can&apos;t discards a card. Each player who can&apos;t loses 7 life.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/150.png" num="92">CRC</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Expedition</type>
+				<maintype>Battle</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>6</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Caldera Scalder</name>
+			<text>Menace
+Whenever this creature deals combat damage to a player, that player can&apos;t gain life until your next turn.
+{2}{R}: Create an Effigy token. (It&apos;s an artifact with &quot;{2}: This becomes a 3/2 copy of target creature you control. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.&quot;)</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/151.png" num="120">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Avatars of Order</name>
+			<text>First strike
+Whenever a player casts a spell with a noncreature type or plays a nonbasic land, this creature deals 1 damage to them.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/152.png" num="117">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Quasar Paragon</name>
+			<text>Flying, haste
+Once each turn, when another creature you control enters, you may discard your hand. If you do, draw cards equal to its power.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/153.png" num="145">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Study the Nova</name>
+			<text>(As this enters, choose an opponent to protect it. Whenever you attack, create a 1/1 red Scout creature token tapped and attacking this. Sacrifice that token at end of combat.)
+When this Expedition enters or is defeated, add {R}{R}{R}{R}{R}. Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/154.png" num="151">CRC</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Expedition</type>
+				<maintype>Battle</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bloodkissed Auspex</name>
+			<text>At the beginning of your upkeep, exile the top card of your library face down into your augury. (You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)
+Whenever you discard a card during your turn, this creature gains double strike until end of turn.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/155.png" num="119">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Interlinked Extractor</name>
+			<text>Whenever a creature you control attacks, put a charge counter on this artifact. It deals 1 damage to target player.
+Remove X charge counters from this artifact: The next time a source of your choice would deal damage to an opponent or permanent an opponent controls this turn, it deals that much damage plus X instead.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/156.png" num="137">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Prophetic Wish</name>
+			<text>Exile a card you own from outside the game into your augury. (As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/157.png" num="143">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Skitterblossom</name>
+			<text>Haste
+Creatures you control with power 3 or greater can&apos;t be blocked by creatures with power 2 or less.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/158.png" num="180">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scarwood Sentinel</name>
+			<text>When this creature enters, surveil 2.
+Concord — This creature can&apos;t attack or block unless there are four or more card types among permanents you control.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/159.png" num="176">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Restless Carapace</name>
+			<text>You may have creatures you control with counters on them assign their combat damage as though they weren&apos;t blocked.
+Eclipse 6 — {4}{G}{G} (Cast this from your graveyard as a 6/6 for its eclipse cost. It enters with a finality counter.)</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/160.png" num="174">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flee the Sandserpent</name>
+			<text>(As this enters, choose an opponent to protect it. Whenever you attack, create a 1/1 red Scout creature token tapped and attacking this. Sacrifice that token at end of combat.)
+When this Expedition enters or is defeated, you may put a permanent card from your hand onto the battlefield.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/161.png" num="164">CRC</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Expedition</type>
+				<maintype>Battle</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Silaine&apos;s Retaliation</name>
+			<text>Choose one —
+• Create a 5/5 green Wurm creature token.
+• Destroy all artifacts.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/162.png" num="179">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>A-17, Experiment Awry</name>
+			<text>Trample
+When A-17 enters, create Squish, a legendary 1/1 green Ooze creature token with trample.
+A-17 and other Oozes you control get +1/+1 for each non-Ooze token you control.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/163.png" num="153">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ulbest Procession</name>
+			<text>Whenever you attack, put a +1/+1 counter on target attacking creature.
+Whenever a creature you control deals 4 or more combat damage to a player, draw a card. This ability triggers only once each turn.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/164.png" num="190">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Auldyears Reliquary</name>
+			<text>When this artifact enters, put three soul counters on it and create a 1/1 white Spirit creature token with flying.
+Whenever a creature you control dies, remove a soul counter from this artifact. Then if it has no soul counters on it, exile it and create two 2/2 colorless Robot artifact creature tokens.</text>
+			<set rarity="mythic" picurl="https://kattalist.github.io/sets/CRC-files/img/165.png" num="4">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Audlom, Seer of Legions</name>
+			<text>First strike
+When Audlom enters, conjure three cards named Serra Angel into your augury. (As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)
+Other creatures you control get +1/+1.</text>
+			<set rarity="mythic" picurl="https://kattalist.github.io/sets/CRC-files/img/166.png" num="3">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cirin Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fate Rewritten</name>
+			<text>Exile the top seven cards of your library face down into your augury. (You may look at them. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)
+Each player shuffles their hand and graveyard into their library, then draw seven cards.
+Exile Fate Rewritten.</text>
+			<set rarity="mythic" picurl="https://kattalist.github.io/sets/CRC-files/img/167.png" num="51">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gondwel, Seer of Skies</name>
+			<text>Vigilance
+When Gondwel enters, conjure three cards named Brainstorm into your augury. (As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)
+Whenever you cast your third spell each turn, draw two cards.</text>
+			<set rarity="mythic" picurl="https://kattalist.github.io/sets/CRC-files/img/168.png" num="55">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cirin Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Isbail, Inexorable</name>
+			<text>Menace
+Whenever Isbail enters or attacks, sacrifice any number of other creatures you control. Return up to that many non-God creature cards from your graveyard to the battlefield.</text>
+			<set rarity="mythic" picurl="https://kattalist.github.io/sets/CRC-files/img/169.png" num="94">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Maelweth, Seer of Anguish</name>
+			<text>Flying
+When Maelweth enters, conjure three cards named Animate Dead into your augury. (As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)
+At the beginning of your upkeep, mill three cards.</text>
+			<set rarity="mythic" picurl="https://kattalist.github.io/sets/CRC-files/img/170.png" num="97">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cirin Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Starclan Omniblade</name>
+			<text>Trample
+Battalion — Whenever this creature attacks with two or more other creatures, double its power until end of turn. Do the same if it&apos;s attacking with four or more and eight or more other creatures.</text>
+			<set rarity="mythic" picurl="https://kattalist.github.io/sets/CRC-files/img/171.png" num="150">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Agnon, Seer of Flame</name>
+			<text>Menace
+When Agnon enters, conjure three cards named Faithless Looting into your augury. (As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)
+At the beginning of your end step, you may discard your hand. If you do, draw two cards.</text>
+			<set rarity="mythic" picurl="https://kattalist.github.io/sets/CRC-files/img/172.png" num="115">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cirin Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beyond Imagining</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Reveal the top seven cards of your library. Put any number of nonland permanent cards with total mana value X or less from among them onto the battlefield and the rest on the bottom of your library in a random order.</text>
+			<set rarity="mythic" picurl="https://kattalist.github.io/sets/CRC-files/img/173.png" num="158">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XGG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>X</loyalty>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Silaine, Seer of Bloom</name>
+			<text>Trample
+When Silaine enters, conjure three cards named Explore into your augury. (As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)
+You may play lands from your graveyard.</text>
+			<set rarity="mythic" picurl="https://kattalist.github.io/sets/CRC-files/img/174.png" num="177">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cirin Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Boltbright Infiltrator</name>
+			<text>Flying
+When this creature enters, create an Effigy token. (It&apos;s an artifact with &quot;{2}: This becomes a 3/2 copy of target creature you control. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.&quot;)
+Once each turn, you may pay {0} to activate an ability of an artifact token you control.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/175.png" num="192">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glow Seeker</name>
+			<text>Prowess, lifelink
+Whenever you cast your second spell each turn, exile the top card of your library face down into your augury. (You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/176.png" num="202">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>End of Sanity</name>
+			<text>Menace
+As long as you&apos;ve discarded a card this turn, creatures you control have haste.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/177.png" num="200">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pinnacle Aspect</name>
+			<text>Trample
+This creature and other creatures you control with power 4 or greater can&apos;t be blocked by more than one creature.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/178.png" num="209">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ulbest Keeper</name>
+			<text>Vigilance
+{4}, {T}: Draw a card. This ability costs {1} less to activate for each different name among tokens you control.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/179.png" num="219">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Imperious Magistrate</name>
+			<text>Lifelink
+Whenever another creature you control dies, each opponent loses 1 life and you gain 1 life. If this is the second time this ability has resolved this turn, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/180.png" num="205">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crystal Ripper</name>
+			<text>Whenever an artifact you control enters, this creature gets +2/+0 and gains your choice of haste or trample until end of turn.
+Whenever this creature attacks, surveil 1.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/181.png" num="197">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rise from Rot</name>
+			<text>Mill three cards. You may return a permanent card with mana value X or less from your graveyard to the battlefield tapped.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/182.png" num="210">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XBG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Warbred Legionnaire</name>
+			<text>Haste
+When this creature enters, exile the top two cards of your library.
+Battalion — Whenever this creature attacks with two or more other creatures, you may play a card exiled with it this turn.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/183.png" num="222">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unnatural Encounter</name>
+			<text>When this enchantment enters, draw a card.
+Concord — At the beginning of combat on your turn, if there are four or more card types among permanents you control, this enchantment becomes a 3/3 enchantment creature until end of turn.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/184.png" num="221">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Zeria, Syzygy Fanatic</name>
+			<text>When Zeria enters, create an Effigy token. (It&apos;s an artifact with &quot;{2}: This becomes a 3/2 copy of target creature you control. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.&quot;)
+Whenever a creature you control becomes the target of a spell or ability you control, you may have it become a 4/4 until end of turn.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/185.png" num="223">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Robot Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Goraidh, Shaped Arcanum</name>
+			<text>Menace
+Whenever Goraidh attacks, look at the top card of your library. You may put it into your graveyard. If you&apos;ve cast a spell this turn, you may put it into your hand. If you&apos;ve cast two or more spells this turn, you may cast it by paying life equal to its mana value rather than paying its mana cost.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/186.png" num="203">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Murill, Brushed by Madness</name>
+			<text>Whenever another nontoken creature dies, exile the top card of your library face down into your augury. (You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)
+{2}{R}, Discard your hand: Put all cards from your augury into your hand.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/187.png" num="207">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cirin Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beastback Pillagers</name>
+			<text>Trample
+Whenever this creature deals combat damage to a player, create a Treasure token. At the beginning of your next end step, sacrifice that token.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/188.png" num="191">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tarthan, Curio Collector</name>
+			<text>If you would create one or more creature tokens, you may instead choose one of the following creature tokens that hasn&apos;t been chosen this turn, then create that many of those tokens.
+• 1/1 white Spirit with flying.
+• 1/2 green Spider with reach.
+• 2/2 colorless Robot artifact.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/189.png" num="216">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Twingod Glorious</name>
+			<text>Flash
+Flying, lifelink
+When this creature enters, whenever a creature you control dies this turn, each opponent sacrifices a creature.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/190.png" num="218">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>1WWBB</manacost>
+				<cmc>5</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seeker of Forgotten Love</name>
+			<text>Artifacts you control are Clues, Food, Treasures, and Effigies in addition to their other types. (They have all abilities of each of those tokens.)
+Whenever you sacrifice an artifact, put a +1/+1 counter on this creature.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/191.png" num="211">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bone Chandelier</name>
+			<text>{1}{B}{G}, {T}, Sacrifice a creature: Search your library and/or graveyard for a creature card with mana value equal to 1 plus the sacrificed creature&apos;s mana value and put it onto the battlefield. If you searched your library this way, shuffle.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/192.png" num="193">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ceann Albus</name>
+			<text>Haste
+Battalion — Whenever this creature attacks with two or more other creatures, if this is the first combat phase of the turn, untap all creatures you control. After this phase, there&apos;s an additional combat phase.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/193.png" num="196">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cirin Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4RW</manacost>
+				<cmc>6</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Splendor of Creation</name>
+			<text>The first creature spell you cast each turn has storm. (When you cast it, copy it for each spell cast before it this turn. Copies become tokens.)</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/194.png" num="213">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Abandoned Drifter</name>
+			<text>When this creature enters, search your library for a basic land card, exile it into your augury, then shuffle. (As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/195.png" num="224">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reparation Module</name>
+			<text>Vigilance, reach
+{2}, {T}: Put target card from a graveyard on the bottom of its owner&apos;s library.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/196.png" num="234">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hangar Refurbisher</name>
+			<text>Whenever this creature attacks, you may discard a card. If you do, draw a card or put a card from your augury into your hand.
+{1}: This creature gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/197.png" num="232">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Isbail&apos;s Handblade</name>
+			<text>Equipped creature gets +2/+0.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+{7}, {T}, Sacrifice this artifact: Destroy target nonland permanent.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/198.png" num="233">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Deepscar Relic</name>
+			<text>When this artifact enters or leaves the battlefield, surveil 1.
+{2}: This becomes a 3/2 copy of target creature you control. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/199.png" num="229">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Effigy</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ancient Tetherstone</name>
+			<text>{T}: Add {C}.
+{T}: Add one mana of any color. You can&apos;t spend this mana to cast spells from your hand.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/200.png" num="225">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Deep Shale Totem</name>
+			<text>Cards can&apos;t leave graveyards.
+{2}: This becomes a 3/2 copy of target creature you control. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/201.png" num="228">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Effigy</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Standard-Issue Augmentation</name>
+			<text>When this Equipment enters, create a 1/1 red Scout creature token, then attach this Equipment to it.
+Battalion — Whenever equipped creature attacks, it gets +2/+2 until end of turn. If it&apos;s attacking with two or more other creatures, put two +1/+1 counters on it instead.
+Equip {2}</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/202.png" num="235">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cacophonous Iteration</name>
+			<text>This creature enters with a +1/+1 counter on it for each card named Cacophonous Iteration you own in exile or in your graveyard.
+Eclipse 3 — {6} (Cast this from your graveyard as a 3/3 for its eclipse cost. It enters with a finality counter.)
+A deck can have any number of cards named Cacophonous Iteration.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/203.png" num="226">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Canopy Lander</name>
+			<text>Flying
+Whenever this Vehicle enters or attacks, create a tapped Everywhere token. (It&apos;s a land with every basic land type.)
+Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/204.png" num="227">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Distant Peaks</name>
+			<text>{T}: Add {W} or {U}.
+{W}{U}, {T}: Exile the top card of your library face down into your augury. (You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/205.png" num="244">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Starkissed Parapet</name>
+			<text>{T}: Add {U} or {B}.
+{U}{B}, {T}: Exile the top card of your library face down into your augury. (You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/206.png" num="256">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fallen Orbiter</name>
+			<text>{T}: Add {B} or {R}.
+{B}{R}, {T}: Exile the top card of your library face down into your augury. (You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/207.png" num="246">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Rusted Aperture</name>
+			<text>{T}: Add {R} or {G}.
+{R}{G}, {T}: Exile the top card of your library face down into your augury. (You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/208.png" num="253">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cliffside Commune</name>
+			<text>{T}: Add {G} or {W}.
+{G}{W}, {T}: Exile the top card of your library face down into your augury. (You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/209.png" num="239">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Seachrome Coast</name>
+			<text>This land enters tapped unless you control two or fewer other lands.
+{T}: Add {W} or {U}.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/210.png" num="254">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Darkslick Shores</name>
+			<text>This land enters tapped unless you control two or fewer other lands.
+{T}: Add {U} or {B}.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/211.png" num="242">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Blackcleave Cliffs</name>
+			<text>This land enters tapped unless you control two or fewer other lands.
+{T}: Add {B} or {R}.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/212.png" num="236">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Copperline Gorge</name>
+			<text>This land enters tapped unless you control two or fewer other lands.
+{T}: Add {R} or {G}.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/213.png" num="241">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Razorverge Thicket</name>
+			<text>This land enters tapped unless you control two or fewer other lands.
+{T}: Add {G} or {W}.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/214.png" num="251">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Concealed Courtyard</name>
+			<text>This land enters tapped unless you control two or fewer other lands.
+{T}: Add {W} or {B}.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/215.png" num="240">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Spirebluff Canal</name>
+			<text>This land enters tapped unless you control two or fewer other lands.
+{T}: Add {U} or {R}.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/216.png" num="255">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Blooming Marsh</name>
+			<text>This land enters tapped unless you control two or fewer other lands.
+{T}: Add {B} or {G}.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/217.png" num="237">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Etra, Farsky Paragon</name>
+			<text>Tap an untapped artifact you control: Put a loyalty counter on Etra. Activate only as a sorcery.
+[0]: Until end of turn, Etra becomes a Soldier creature with power and toughness equal to the number of loyalty counters on her and indestructible. Prevent all damage that would be dealt to her this turn.
+[-2]: You may discard a card. If you do, draw two cards and create two tapped Treasure tokens.</text>
+			<set rarity="mythic" picurl="https://kattalist.github.io/sets/CRC-files/img/218.png" num="201">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Etra</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Subspace Bubble</name>
+			<text>Take an extra turn after this one.
+Your life total becomes 1.</text>
+			<set rarity="mythic" picurl="https://kattalist.github.io/sets/CRC-files/img/219.png" num="214">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Exultance, Stellar Dreadnought</name>
+			<text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flying
+Whenever Exultance attacks, it deals 4 damage to target creature an opponent controls.
+Crew 4</text>
+			<set rarity="mythic" picurl="https://kattalist.github.io/sets/CRC-files/img/220.png" num="231">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Etra&apos;s Elevator</name>
+			<text>At the beginning of your end step, create an X/X colorless Robot artifact creature token, where X is the number of consecutive mana values among permanents you control starting from 1.</text>
+			<set rarity="mythic" picurl="https://kattalist.github.io/sets/CRC-files/img/221.png" num="230">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Eimhir, Arcanum Locus</name>
+			<text>Permanent spells you control can&apos;t be countered.
+Concord — Whenever you tap a permanent for mana, add an additional one mana of any color if there are four or more card types among permanents you control.</text>
+			<set rarity="mythic" picurl="https://kattalist.github.io/sets/CRC-files/img/222.png" num="199">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Evolving Wilds</name>
+			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/223.png" num="245">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/224.png" num="257">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/225.png" num="258">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/226.png" num="260">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/227.png" num="259">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/CRC-files/img/228.png" num="261">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dramatic Impact</name>
+			<text>Destroy target artifact, enchantment, or creature with power 4 or greater.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/229.png" num="10">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Aernoch&apos;s Triumph</name>
+			<text>Choose two from among flying, first strike, hexproof, and indestructible, then put a +1/+1 counter on target creature you control. It gains the chosen abilities until end of turn.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/230.png" num="1">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Onward and Upward</name>
+			<text>(As this enters, choose an opponent to protect it. Whenever you attack, create a 1/1 red Scout creature token tapped and attacking this. Sacrifice that token at end of combat.)
+When this Expedition enters or is defeated, create three 1/1 colorless Drone artifact creature tokens with flying.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/231.png" num="26">CRC</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Expedition</type>
+				<maintype>Battle</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Caitrin, Gleaming Beacon</name>
+			<text>Caitrin can&apos;t be blocked by creatures with greater power.
+Whenever one or more creatures you control deal combat damage to a player, you may cast a spell with mana value less than or equal to that number of creatures from your hand without paying its mana cost.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/232.png" num="195">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pluck</name>
+			<text>Counter up to one target spell.
+Exile the top card of your library face down into your augury. (You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/233.png" num="65">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Freight Sabotage</name>
+			<text>Concord — When you cast this spell, if there are four or more card types among permanents you control, you may pay {1}{U}. If you do, copy this spell.
+Return target nonland permanent to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/234.png" num="53">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Enduring the Searise</name>
+			<text>(As this enters, choose an opponent to protect it. Whenever you attack, create a 1/1 red Scout creature token tapped and attacking this. Sacrifice that token at end of combat.)
+When this Expedition enters or is defeated, return up to two target creatures to their owner&apos;s hands.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/235.png" num="49">CRC</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Expedition</type>
+				<maintype>Battle</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>6</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Thoughtless Culling</name>
+			<text>Target creature gets -2/-2 until end of turn. If that creature was a token, its controller loses 2 life.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/236.png" num="111">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Probe the Nucleus</name>
+			<text>(As this enters, choose an opponent to protect it. Whenever you attack, create a 1/1 red Scout creature token tapped and attacking this. Sacrifice that token at end of combat.)
+When this Expedition enters or is defeated, return target creature card from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/237.png" num="101">CRC</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Expedition</type>
+				<maintype>Battle</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Clandestine Engineering</name>
+			<text>Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+Create a tapped Treasure token.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/238.png" num="80">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hijack</name>
+			<text>Choose one —
+• Discard your hand, then draw three cards.
+• Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/239.png" num="133">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Outpost Hangar</name>
+			<text>Attacking creatures you control get +1/+0.
+{3}{R}, {T}, Discard a card: Create a 2/2 colorless Robot artifact creature token. It gains haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/240.png" num="142">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Flee the Arcology</name>
+			<text>(As this enters, choose an opponent to protect it. Whenever you attack, create a 1/1 red Scout creature token tapped and attacking this. Sacrifice that token at end of combat.)
+When this Expedition enters or is defeated, destroy up to one target artifact or land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/241.png" num="127">CRC</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Expedition</type>
+				<maintype>Battle</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Raze the Scar</name>
+			<text>Creatures you control get +2/+2 and gain trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/242.png" num="173">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Soil Sample</name>
+			<text>Search your library for up to three basic land cards. Put two of them onto the battlefield tapped and exile the other one into your augury. (As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/243.png" num="181">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Chart the Blossoms</name>
+			<text>(As this enters, choose an opponent to protect it. Whenever you attack, create a 1/1 red Scout creature token tapped and attacking this. Sacrifice that token at end of combat.)
+When this Expedition enters or is defeated, return up to two target permanent cards from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/244.png" num="160">CRC</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Expedition</type>
+				<maintype>Battle</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Speaker of Eimhir</name>
+			<text>Vigilance
+When this creature enters, look at the top five cards of your library. You may reveal two permanent cards of different types from among them and put them into your hand. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/245.png" num="212">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cirin Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Divine Incursion</name>
+			<text>Draw two cards, then discard a card unless you pay 3 life.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/246.png" num="198">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bone Macerator</name>
+			<text>When this creature enters, you may discard a card and pay {R}. When you do, this creature deals 2 damage to any target.
+Whenever you discard a card, exile the top card of your library. You may play it this turn. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/247.png" num="194">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Territorial Coarseclaw</name>
+			<text>{T}: Add one mana of any color. When you spend this mana to cast a creature spell, that spell can&apos;t be countered.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/248.png" num="217">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Photovolt Technicians</name>
+			<text>If you would create one or more non-Scout tokens, instead create those tokens plus a 1/1 red Scout creature token.
+Creature tokens you control have vigilance.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/249.png" num="208">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>High Ambassador</name>
+			<text>Sacrifice a creature: Surveil 1.
+This creature gets +1/+1 as long as a creature card was put into your graveyard from anywhere this turn.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/250.png" num="204">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tachyonic Shuttle</name>
+			<text>Flying
+As long as you control two or more other artifacts, this Vehicle is an artifact creature.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/251.png" num="215">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Uncovered Amalgam</name>
+			<text>Whenever a creature you control enters, if it entered from a graveyard or was cast from a graveyard, create a 2/2 black Zombie creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
+Eclipse 5 — {4}{B}{G} (Cast this from your graveyard as a 5/5 for its eclipse cost. It enters with a finality counter.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/252.png" num="220">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mass Deployment</name>
+			<text>Create two 1/1 red Scout creature tokens.
+Creatures you control get +1/+0 and gain haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/253.png" num="206">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ionosphere Test Site</name>
+			<text>{T}: Add {W} or {B}.
+{W}{B}, {T}: Exile the top card of your library face down into your augury. (You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/254.png" num="249">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Rockbroken Citadel</name>
+			<text>{T}: Add {U} or {R}.
+{U}{R}, {T}: Exile the top card of your library face down into your augury. (You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/255.png" num="252">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Flatrock Fen</name>
+			<text>{T}: Add {B} or {G}.
+{B}{G}, {T}: Exile the top card of your library face down into your augury. (You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/256.png" num="247">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Deep Belt Outpost</name>
+			<text>{T}: Add {R} or {W}.
+{R}{W}, {T}: Exile the top card of your library face down into your augury. (You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/257.png" num="243">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Parachute Pools</name>
+			<text>{T}: Add {G} or {U}.
+{G}{U}, {T}: Exile the top card of your library face down into your augury. (You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)</text>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/CRC-files/img/258.png" num="250">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Inspiring Vantage</name>
+			<text>This land enters tapped unless you control two or fewer other lands.
+{T}: Add {R} or {W}.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/259.png" num="248">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Botanical Sanctum</name>
+			<text>This land enters tapped unless you control two or fewer other lands.
+{T}: Add {G} or {U}.</text>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/CRC-files/img/260.png" num="238">CRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

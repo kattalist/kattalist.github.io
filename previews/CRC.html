@@ -1,0 +1,887 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="../sets/CRC-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
+	<title>CRC visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('../resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.close-btn {
+			background: url('../img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('../img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+			border-radius: 3.733% / 2.677%;
+		}
+		.flip-btn {
+			background: url('../img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('../img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/CRC-files/logo.png" />
+	<img class="preload-hidden" src="../sets/ALS-files/icon.png" />
+		<img class="preload-hidden" src="../sets/CRC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/SGP-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="../previews/CRC"><img src="../sets/CRC-files/icon.png">Circith: Stars Shall Fall</a>
+	
+		<a class="set-bar inactive" href="../previews/ALS"><img src="../sets/ALS-files/icon.png">Alsketh: Into the Rimeveil</a>
+	
+		<a class="set-bar inactive" href="../previews/SGP"><img src="../sets/SGP-files/icon.png">Stirrings in Goldport</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="../sets/CRC-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="sets\CRC-files\img\166.png" id="CRC_166" data-flag="@X" onclick="openSidebar('CRC_166',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\167.png" id="CRC_167" data-flag="@X" onclick="openSidebar('CRC_167',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\169.png" id="CRC_169" data-flag="@X" onclick="openSidebar('CRC_169',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\172.png" id="CRC_172" data-flag="@X" onclick="openSidebar('CRC_172',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\173.png" id="CRC_173" data-flag="@X" onclick="openSidebar('CRC_173',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\165.png" id="CRC_165" data-flag="@X" onclick="openSidebar('CRC_165',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\168.png" id="CRC_168" data-flag="@X" onclick="openSidebar('CRC_168',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\170.png" id="CRC_170" data-flag="@X" onclick="openSidebar('CRC_170',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\171.png" id="CRC_171" data-flag="@X" onclick="openSidebar('CRC_171',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\174.png" id="CRC_174" data-flag="@X" onclick="openSidebar('CRC_174',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\85.png" id="CRC_85" data-flag="@X" onclick="openSidebar('CRC_85',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\141.png" id="CRC_141" data-flag="@X" onclick="openSidebar('CRC_141',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\149.png" id="CRC_149" data-flag="@X" onclick="openSidebar('CRC_149',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\152.png" id="CRC_152" data-flag="@X" onclick="openSidebar('CRC_152',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\163.png" id="CRC_163" data-flag="@X" onclick="openSidebar('CRC_163',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\131.png" id="CRC_131" data-flag="@X" onclick="openSidebar('CRC_131',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\142.png" id="CRC_142" data-flag="@X" onclick="openSidebar('CRC_142',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\147.png" id="CRC_147" data-flag="@X" onclick="openSidebar('CRC_147',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\155.png" id="CRC_155" data-flag="@X" onclick="openSidebar('CRC_155',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\161.png" id="CRC_161" data-flag="@X" onclick="openSidebar('CRC_161',true)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\130.png" id="CRC_130" data-flag="@X" onclick="openSidebar('CRC_130',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\143.png" id="CRC_143" data-flag="@X" onclick="openSidebar('CRC_143',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\150.png" id="CRC_150" data-flag="@X" onclick="openSidebar('CRC_150',true)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\151.png" id="CRC_151" data-flag="@X" onclick="openSidebar('CRC_151',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\160.png" id="CRC_160" data-flag="@X" onclick="openSidebar('CRC_160',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\134.png" id="CRC_134" data-flag="@X" onclick="openSidebar('CRC_134',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\138.png" id="CRC_138" data-flag="@X" onclick="openSidebar('CRC_138',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\146.png" id="CRC_146" data-flag="@X" onclick="openSidebar('CRC_146',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\156.png" id="CRC_156" data-flag="@X" onclick="openSidebar('CRC_156',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\159.png" id="CRC_159" data-flag="@X" onclick="openSidebar('CRC_159',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\135.png" id="CRC_135" data-flag="@X" onclick="openSidebar('CRC_135',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\139.png" id="CRC_139" data-flag="@X" onclick="openSidebar('CRC_139',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\144.png" id="CRC_144" data-flag="@X" onclick="openSidebar('CRC_144',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\157.png" id="CRC_157" data-flag="@X" onclick="openSidebar('CRC_157',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\162.png" id="CRC_162" data-flag="@X" onclick="openSidebar('CRC_162',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\132.png" id="CRC_132" data-flag="@X" onclick="openSidebar('CRC_132',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\140.png" id="CRC_140" data-flag="@X" onclick="openSidebar('CRC_140',true)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\148.png" id="CRC_148" data-flag="@X" onclick="openSidebar('CRC_148',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\153.png" id="CRC_153" data-flag="@X" onclick="openSidebar('CRC_153',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\158.png" id="CRC_158" data-flag="@X" onclick="openSidebar('CRC_158',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\133.png" id="CRC_133" data-flag="@X" onclick="openSidebar('CRC_133',true)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\137.png" id="CRC_137" data-flag="@X" onclick="openSidebar('CRC_137',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\145.png" id="CRC_145" data-flag="@X" onclick="openSidebar('CRC_145',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\154.png" id="CRC_154" data-flag="@X" onclick="openSidebar('CRC_154',true)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\164.png" id="CRC_164" data-flag="@X" onclick="openSidebar('CRC_164',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\230.png" id="CRC_230" data-flag="@X" onclick="openSidebar('CRC_230',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\95.png" id="CRC_95" data-flag="@X" onclick="openSidebar('CRC_95',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\97.png" id="CRC_97" data-flag="@X" onclick="openSidebar('CRC_97',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\115.png" id="CRC_115" data-flag="@X" onclick="openSidebar('CRC_115',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\124.png" id="CRC_124" data-flag="@X" onclick="openSidebar('CRC_124',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\84.png" id="CRC_84" data-flag="@X" onclick="openSidebar('CRC_84',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\87.png" id="CRC_87" data-flag="@X" onclick="openSidebar('CRC_87',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\238.png" id="CRC_238" data-flag="@X" onclick="openSidebar('CRC_238',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\112.png" id="CRC_112" data-flag="@X" onclick="openSidebar('CRC_112',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\125.png" id="CRC_125" data-flag="@X" onclick="openSidebar('CRC_125',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\229.png" id="CRC_229" data-flag="@X" onclick="openSidebar('CRC_229',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\93.png" id="CRC_93" data-flag="@X" onclick="openSidebar('CRC_93',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\104.png" id="CRC_104" data-flag="@X" onclick="openSidebar('CRC_104',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\114.png" id="CRC_114" data-flag="@X" onclick="openSidebar('CRC_114',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\244.png" id="CRC_244" data-flag="@X" onclick="openSidebar('CRC_244',true)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\76.png" id="CRC_76" data-flag="@X" onclick="openSidebar('CRC_76',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\235.png" id="CRC_235" data-flag="@X" onclick="openSidebar('CRC_235',true)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\107.png" id="CRC_107" data-flag="@X" onclick="openSidebar('CRC_107',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\241.png" id="CRC_241" data-flag="@X" onclick="openSidebar('CRC_241',true)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\123.png" id="CRC_123" data-flag="@X" onclick="openSidebar('CRC_123',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\81.png" id="CRC_81" data-flag="@X" onclick="openSidebar('CRC_81',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\234.png" id="CRC_234" data-flag="@X" onclick="openSidebar('CRC_234',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\102.png" id="CRC_102" data-flag="@X" onclick="openSidebar('CRC_102',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\118.png" id="CRC_118" data-flag="@X" onclick="openSidebar('CRC_118',true)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\127.png" id="CRC_127" data-flag="@X" onclick="openSidebar('CRC_127',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\83.png" id="CRC_83" data-flag="@X" onclick="openSidebar('CRC_83',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\94.png" id="CRC_94" data-flag="@X" onclick="openSidebar('CRC_94',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\101.png" id="CRC_101" data-flag="@X" onclick="openSidebar('CRC_101',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\113.png" id="CRC_113" data-flag="@X" onclick="openSidebar('CRC_113',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\128.png" id="CRC_128" data-flag="@X" onclick="openSidebar('CRC_128',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\231.png" id="CRC_231" data-flag="@X" onclick="openSidebar('CRC_231',true)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\96.png" id="CRC_96" data-flag="@X" onclick="openSidebar('CRC_96',true)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\237.png" id="CRC_237" data-flag="@X" onclick="openSidebar('CRC_237',true)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\117.png" id="CRC_117" data-flag="@X" onclick="openSidebar('CRC_117',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\126.png" id="CRC_126" data-flag="@X" onclick="openSidebar('CRC_126',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\136.png" id="CRC_136" data-flag="@X" onclick="openSidebar('CRC_136',true)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\233.png" id="CRC_233" data-flag="@X" onclick="openSidebar('CRC_233',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\100.png" id="CRC_100" data-flag="@X" onclick="openSidebar('CRC_100',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\239.png" id="CRC_239" data-flag="@X" onclick="openSidebar('CRC_239',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\121.png" id="CRC_121" data-flag="@X" onclick="openSidebar('CRC_121',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\77.png" id="CRC_77" data-flag="@X" onclick="openSidebar('CRC_77',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\86.png" id="CRC_86" data-flag="@X" onclick="openSidebar('CRC_86',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\98.png" id="CRC_98" data-flag="@X" onclick="openSidebar('CRC_98',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\108.png" id="CRC_108" data-flag="@X" onclick="openSidebar('CRC_108',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\129.png" id="CRC_129" data-flag="@X" onclick="openSidebar('CRC_129',true)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\82.png" id="CRC_82" data-flag="@X" onclick="openSidebar('CRC_82',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\89.png" id="CRC_89" data-flag="@X" onclick="openSidebar('CRC_89',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\106.png" id="CRC_106" data-flag="@X" onclick="openSidebar('CRC_106',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\109.png" id="CRC_109" data-flag="@X" onclick="openSidebar('CRC_109',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\120.png" id="CRC_120" data-flag="@X" onclick="openSidebar('CRC_120',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\75.png" id="CRC_75" data-flag="@X" onclick="openSidebar('CRC_75',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\92.png" id="CRC_92" data-flag="@X" onclick="openSidebar('CRC_92',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\105.png" id="CRC_105" data-flag="@X" onclick="openSidebar('CRC_105',true)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\116.png" id="CRC_116" data-flag="@X" onclick="openSidebar('CRC_116',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\242.png" id="CRC_242" data-flag="@X" onclick="openSidebar('CRC_242',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\78.png" id="CRC_78" data-flag="@X" onclick="openSidebar('CRC_78',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\91.png" id="CRC_91" data-flag="@X" onclick="openSidebar('CRC_91',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\99.png" id="CRC_99" data-flag="@X" onclick="openSidebar('CRC_99',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\111.png" id="CRC_111" data-flag="@X" onclick="openSidebar('CRC_111',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\243.png" id="CRC_243" data-flag="@X" onclick="openSidebar('CRC_243',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\79.png" id="CRC_79" data-flag="@X" onclick="openSidebar('CRC_79',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\88.png" id="CRC_88" data-flag="@X" onclick="openSidebar('CRC_88',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\236.png" id="CRC_236" data-flag="@X" onclick="openSidebar('CRC_236',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\240.png" id="CRC_240" data-flag="@X" onclick="openSidebar('CRC_240',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\119.png" id="CRC_119" data-flag="@X" onclick="openSidebar('CRC_119',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\80.png" id="CRC_80" data-flag="@X" onclick="openSidebar('CRC_80',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\90.png" id="CRC_90" data-flag="@X" onclick="openSidebar('CRC_90',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\103.png" id="CRC_103" data-flag="@X" onclick="openSidebar('CRC_103',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\110.png" id="CRC_110" data-flag="@X" onclick="openSidebar('CRC_110',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\122.png" id="CRC_122" data-flag="@X" onclick="openSidebar('CRC_122',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\6.png" id="CRC_6" data-flag="@X" onclick="openSidebar('CRC_6',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\28.png" id="CRC_28" data-flag="@X" onclick="openSidebar('CRC_28',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\39.png" id="CRC_39" data-flag="@X" onclick="openSidebar('CRC_39',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\47.png" id="CRC_47" data-flag="@X" onclick="openSidebar('CRC_47',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\67.png" id="CRC_67" data-flag="@X" onclick="openSidebar('CRC_67',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\12.png" id="CRC_12" data-flag="@X" onclick="openSidebar('CRC_12',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\16.png" id="CRC_16" data-flag="@X" onclick="openSidebar('CRC_16',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\41.png" id="CRC_41" data-flag="@X" onclick="openSidebar('CRC_41',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\50.png" id="CRC_50" data-flag="@X" onclick="openSidebar('CRC_50',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\64.png" id="CRC_64" data-flag="@X" onclick="openSidebar('CRC_64',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\4.png" id="CRC_4" data-flag="@X" onclick="openSidebar('CRC_4',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\19.png" id="CRC_19" data-flag="@X" onclick="openSidebar('CRC_19',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\31.png" id="CRC_31" data-flag="@X" onclick="openSidebar('CRC_31',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\51.png" id="CRC_51" data-flag="@X" onclick="openSidebar('CRC_51',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\73.png" id="CRC_73" data-flag="@X" onclick="openSidebar('CRC_73',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\5.png" id="CRC_5" data-flag="@X" onclick="openSidebar('CRC_5',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\22.png" id="CRC_22" data-flag="@X" onclick="openSidebar('CRC_22',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\43.png" id="CRC_43" data-flag="@X" onclick="openSidebar('CRC_43',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\54.png" id="CRC_54" data-flag="@X" onclick="openSidebar('CRC_54',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\60.png" id="CRC_60" data-flag="@X" onclick="openSidebar('CRC_60',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\11.png" id="CRC_11" data-flag="@X" onclick="openSidebar('CRC_11',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\17.png" id="CRC_17" data-flag="@X" onclick="openSidebar('CRC_17',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\37.png" id="CRC_37" data-flag="@X" onclick="openSidebar('CRC_37',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\46.png" id="CRC_46" data-flag="@X" onclick="openSidebar('CRC_46',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\62.png" id="CRC_62" data-flag="@X" onclick="openSidebar('CRC_62',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\9.png" id="CRC_9" data-flag="@X" onclick="openSidebar('CRC_9',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\18.png" id="CRC_18" data-flag="@X" onclick="openSidebar('CRC_18',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\33.png" id="CRC_33" data-flag="@X" onclick="openSidebar('CRC_33',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\56.png" id="CRC_56" data-flag="@X" onclick="openSidebar('CRC_56',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\68.png" id="CRC_68" data-flag="@X" onclick="openSidebar('CRC_68',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\2.png" id="CRC_2" data-flag="@X" onclick="openSidebar('CRC_2',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\23.png" id="CRC_23" data-flag="@X" onclick="openSidebar('CRC_23',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\36.png" id="CRC_36" data-flag="@X" onclick="openSidebar('CRC_36',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\53.png" id="CRC_53" data-flag="@X" onclick="openSidebar('CRC_53',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\61.png" id="CRC_61" data-flag="@X" onclick="openSidebar('CRC_61',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\1.png" id="CRC_1" data-flag="@X" onclick="openSidebar('CRC_1',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\21.png" id="CRC_21" data-flag="@X" onclick="openSidebar('CRC_21',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\32.png" id="CRC_32" data-flag="@X" onclick="openSidebar('CRC_32',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\55.png" id="CRC_55" data-flag="@X" onclick="openSidebar('CRC_55',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\70.png" id="CRC_70" data-flag="@X" onclick="openSidebar('CRC_70',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\13.png" id="CRC_13" data-flag="@X" onclick="openSidebar('CRC_13',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\15.png" id="CRC_15" data-flag="@X" onclick="openSidebar('CRC_15',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\30.png" id="CRC_30" data-flag="@X" onclick="openSidebar('CRC_30',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\59.png" id="CRC_59" data-flag="@X" onclick="openSidebar('CRC_59',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\74.png" id="CRC_74" data-flag="@X" onclick="openSidebar('CRC_74',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\7.png" id="CRC_7" data-flag="@X" onclick="openSidebar('CRC_7',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\20.png" id="CRC_20" data-flag="@X" onclick="openSidebar('CRC_20',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\34.png" id="CRC_34" data-flag="@X" onclick="openSidebar('CRC_34',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\57.png" id="CRC_57" data-flag="@X" onclick="openSidebar('CRC_57',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\72.png" id="CRC_72" data-flag="@X" onclick="openSidebar('CRC_72',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\8.png" id="CRC_8" data-flag="@X" onclick="openSidebar('CRC_8',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\26.png" id="CRC_26" data-flag="@X" onclick="openSidebar('CRC_26',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\42.png" id="CRC_42" data-flag="@X" onclick="openSidebar('CRC_42',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\48.png" id="CRC_48" data-flag="@X" onclick="openSidebar('CRC_48',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\66.png" id="CRC_66" data-flag="@X" onclick="openSidebar('CRC_66',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\0.png" id="CRC_0" data-flag="@X" onclick="openSidebar('CRC_0',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\24.png" id="CRC_24" data-flag="@X" onclick="openSidebar('CRC_24',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\35.png" id="CRC_35" data-flag="@X" onclick="openSidebar('CRC_35',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\49.png" id="CRC_49" data-flag="@X" onclick="openSidebar('CRC_49',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\71.png" id="CRC_71" data-flag="@X" onclick="openSidebar('CRC_71',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\3.png" id="CRC_3" data-flag="@X" onclick="openSidebar('CRC_3',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\27.png" id="CRC_27" data-flag="@X" onclick="openSidebar('CRC_27',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\40.png" id="CRC_40" data-flag="@X" onclick="openSidebar('CRC_40',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\52.png" id="CRC_52" data-flag="@X" onclick="openSidebar('CRC_52',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\63.png" id="CRC_63" data-flag="@X" onclick="openSidebar('CRC_63',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\14.png" id="CRC_14" data-flag="@X" onclick="openSidebar('CRC_14',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\25.png" id="CRC_25" data-flag="@X" onclick="openSidebar('CRC_25',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\44.png" id="CRC_44" data-flag="@X" onclick="openSidebar('CRC_44',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\58.png" id="CRC_58" data-flag="@X" onclick="openSidebar('CRC_58',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\69.png" id="CRC_69" data-flag="@X" onclick="openSidebar('CRC_69',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\10.png" id="CRC_10" data-flag="@X" onclick="openSidebar('CRC_10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\29.png" id="CRC_29" data-flag="@X" onclick="openSidebar('CRC_29',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\38.png" id="CRC_38" data-flag="@X" onclick="openSidebar('CRC_38',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\45.png" id="CRC_45" data-flag="@X" onclick="openSidebar('CRC_45',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\65.png" id="CRC_65" data-flag="@X" onclick="openSidebar('CRC_65',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\185.png" id="CRC_185" data-flag="@X" onclick="openSidebar('CRC_185',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\219.png" id="CRC_219" data-flag="@X" onclick="openSidebar('CRC_219',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\187.png" id="CRC_187" data-flag="@X" onclick="openSidebar('CRC_187',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\188.png" id="CRC_188" data-flag="@X" onclick="openSidebar('CRC_188',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\189.png" id="CRC_189" data-flag="@X" onclick="openSidebar('CRC_189',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\175.png" id="CRC_175" data-flag="@X" onclick="openSidebar('CRC_175',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\186.png" id="CRC_186" data-flag="@X" onclick="openSidebar('CRC_186',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\247.png" id="CRC_247" data-flag="@X" onclick="openSidebar('CRC_247',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\178.png" id="CRC_178" data-flag="@X" onclick="openSidebar('CRC_178',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\249.png" id="CRC_249" data-flag="@X" onclick="openSidebar('CRC_249',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\232.png" id="CRC_232" data-flag="@X" onclick="openSidebar('CRC_232',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\246.png" id="CRC_246" data-flag="@X" onclick="openSidebar('CRC_246',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\177.png" id="CRC_177" data-flag="@X" onclick="openSidebar('CRC_177',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\248.png" id="CRC_248" data-flag="@X" onclick="openSidebar('CRC_248',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\179.png" id="CRC_179" data-flag="@X" onclick="openSidebar('CRC_179',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CRC_e" data-flag="@E" onclick="openSidebar('CRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\176.png" id="CRC_176" data-flag="@X" onclick="openSidebar('CRC_176',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CRC_e" data-flag="@E" onclick="openSidebar('CRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CRC_e" data-flag="@E" onclick="openSidebar('CRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CRC_e" data-flag="@E" onclick="openSidebar('CRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\190.png" id="CRC_190" data-flag="@X" onclick="openSidebar('CRC_190',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\218.png" id="CRC_218" data-flag="@X" onclick="openSidebar('CRC_218',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\192.png" id="CRC_192" data-flag="@X" onclick="openSidebar('CRC_192',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\193.png" id="CRC_193" data-flag="@X" onclick="openSidebar('CRC_193',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\222.png" id="CRC_222" data-flag="@X" onclick="openSidebar('CRC_222',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\250.png" id="CRC_250" data-flag="@X" onclick="openSidebar('CRC_250',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\191.png" id="CRC_191" data-flag="@X" onclick="openSidebar('CRC_191',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\182.png" id="CRC_182" data-flag="@X" onclick="openSidebar('CRC_182',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\253.png" id="CRC_253" data-flag="@X" onclick="openSidebar('CRC_253',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\194.png" id="CRC_194" data-flag="@X" onclick="openSidebar('CRC_194',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\180.png" id="CRC_180" data-flag="@X" onclick="openSidebar('CRC_180',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\181.png" id="CRC_181" data-flag="@X" onclick="openSidebar('CRC_181',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\252.png" id="CRC_252" data-flag="@X" onclick="openSidebar('CRC_252',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\183.png" id="CRC_183" data-flag="@X" onclick="openSidebar('CRC_183',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\245.png" id="CRC_245" data-flag="@X" onclick="openSidebar('CRC_245',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CRC_e" data-flag="@E" onclick="openSidebar('CRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\251.png" id="CRC_251" data-flag="@X" onclick="openSidebar('CRC_251',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CRC_e" data-flag="@E" onclick="openSidebar('CRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CRC_e" data-flag="@E" onclick="openSidebar('CRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\184.png" id="CRC_184" data-flag="@X" onclick="openSidebar('CRC_184',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\221.png" id="CRC_221" data-flag="@X" onclick="openSidebar('CRC_221',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\220.png" id="CRC_220" data-flag="@X" onclick="openSidebar('CRC_220',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\200.png" id="CRC_200" data-flag="@X" onclick="openSidebar('CRC_200',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\203.png" id="CRC_203" data-flag="@X" onclick="openSidebar('CRC_203',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\204.png" id="CRC_204" data-flag="@X" onclick="openSidebar('CRC_204',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\201.png" id="CRC_201" data-flag="@X" onclick="openSidebar('CRC_201',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\202.png" id="CRC_202" data-flag="@X" onclick="openSidebar('CRC_202',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\195.png" id="CRC_195" data-flag="@X" onclick="openSidebar('CRC_195',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\199.png" id="CRC_199" data-flag="@X" onclick="openSidebar('CRC_199',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\197.png" id="CRC_197" data-flag="@X" onclick="openSidebar('CRC_197',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\198.png" id="CRC_198" data-flag="@X" onclick="openSidebar('CRC_198',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\196.png" id="CRC_196" data-flag="@X" onclick="openSidebar('CRC_196',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CRC_e" data-flag="@E" onclick="openSidebar('CRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CRC_e" data-flag="@E" onclick="openSidebar('CRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CRC_e" data-flag="@E" onclick="openSidebar('CRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\210.png" id="CRC_210" data-flag="@X" onclick="openSidebar('CRC_210',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\211.png" id="CRC_211" data-flag="@X" onclick="openSidebar('CRC_211',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\212.png" id="CRC_212" data-flag="@X" onclick="openSidebar('CRC_212',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\213.png" id="CRC_213" data-flag="@X" onclick="openSidebar('CRC_213',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\214.png" id="CRC_214" data-flag="@X" onclick="openSidebar('CRC_214',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\205.png" id="CRC_205" data-flag="@X" onclick="openSidebar('CRC_205',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\206.png" id="CRC_206" data-flag="@X" onclick="openSidebar('CRC_206',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\207.png" id="CRC_207" data-flag="@X" onclick="openSidebar('CRC_207',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\208.png" id="CRC_208" data-flag="@X" onclick="openSidebar('CRC_208',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\209.png" id="CRC_209" data-flag="@X" onclick="openSidebar('CRC_209',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\215.png" id="CRC_215" data-flag="@X" onclick="openSidebar('CRC_215',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\216.png" id="CRC_216" data-flag="@X" onclick="openSidebar('CRC_216',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\217.png" id="CRC_217" data-flag="@X" onclick="openSidebar('CRC_217',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\259.png" id="CRC_259" data-flag="@X" onclick="openSidebar('CRC_259',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\260.png" id="CRC_260" data-flag="@X" onclick="openSidebar('CRC_260',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\254.png" id="CRC_254" data-flag="@X" onclick="openSidebar('CRC_254',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\255.png" id="CRC_255" data-flag="@X" onclick="openSidebar('CRC_255',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\256.png" id="CRC_256" data-flag="@X" onclick="openSidebar('CRC_256',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\257.png" id="CRC_257" data-flag="@X" onclick="openSidebar('CRC_257',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\258.png" id="CRC_258" data-flag="@X" onclick="openSidebar('CRC_258',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\223.png" id="CRC_223" data-flag="@X" onclick="openSidebar('CRC_223',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CRC_e" data-flag="@E" onclick="openSidebar('CRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CRC_e" data-flag="@E" onclick="openSidebar('CRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CRC_e" data-flag="@E" onclick="openSidebar('CRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CRC_e" data-flag="@E" onclick="openSidebar('CRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\224.png" id="CRC_224" data-flag="@X" onclick="openSidebar('CRC_224',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\225.png" id="CRC_225" data-flag="@X" onclick="openSidebar('CRC_225',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\226.png" id="CRC_226" data-flag="@X" onclick="openSidebar('CRC_226',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\227.png" id="CRC_227" data-flag="@X" onclick="openSidebar('CRC_227',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CRC-files\img\228.png" id="CRC_228" data-flag="@X" onclick="openSidebar('CRC_228',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CRC_er" data-flag="@E" onclick="openSidebar('CRC_er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch(rootPath + '/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch(rootPath + '/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = rootPath + '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url.pathname + url.search;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url.pathname + url.search;
+			}
+	</script>
+</body>
+</html>
