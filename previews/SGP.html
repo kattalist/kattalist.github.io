@@ -186,6 +186,8 @@
 	<img class="preload-hidden" src="../sets/ALS-files/icon.png" />
 		<img class="preload-hidden" src="../sets/CRC-files/icon.png" />
 		<img class="preload-hidden" src="../sets/SGP-files/icon.png" />
+		<img class="preload-hidden" id="bg" src="../sets/SGP-files/bg.png" />
+
 		<div class="header">
 		<div class="search-grid">
 			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
@@ -739,7 +741,7 @@
 		}
 		while (images_loaded.includes(false));
 
-		
+		document.body.style.backgroundImage = 'url(' + document.getElementById("bg").src + ')';
 		loadImages();
 	});
 
