@@ -1,4 +1,85 @@
-﻿VERSION 77 CHANGELOG
+﻿VERSION 78 CHANGELOG
+====================
+
+Discordant Maw added.
+Nowhere added.
+
+World Whisperer removed.
+In Strength Entwined_Promo removed.
+Gene Recombinators_Promo removed.
+Ooze_Promo removed.
+Rend_Promo removed.
+Grand Awakening_Promo removed.
+Bear Witness_Promo removed.
+Esme, Lost to Avarice removed.
+
+Mire Pathforger
+type: Creature — Eldrazi Horror => Creature — Eldrazi
+
+Mastbreaker
+
+Unwelcome Tenant
+type: Creature — Eldrazi Horror => Creature — Eldrazi
+
+Soultaker Idol
+type: Creature — Eldrazi Horror => Creature — Eldrazi
+
+Startouched Arborist
+type: Creature — Elemental Druid => Creature — Human Druid
+
+Chorus of the Severed
+type: Creature — Eldrazi Horror => Creature — Eldrazi
+
+Old Ones Envoy
+rules_text: This spell costs {1} less to cast for each of up to three colorless nonland permanents you control. => Eldrazi spells you cast cost {1} less to cast.
+
+Incursive Voidmaw
+type: Creature — Eldrazi Horror => Creature — Eldrazi
+
+Black Site Enhancer
+
+Ravaged Eviscerator
+type: Creature — Eldrazi Horror => Creature — Eldrazi
+
+Stylla, Opulent Paragon
+rules_text: When Stylla enters, create a Treasure token.
+When Stylla dies, you draw a card and lose 1 life.
+Whenever an ability of a creature you control with power 2 or less triggers, you may counter it. If you do, choose one that hasn't been chosen this turn —
+• Create a Treasure token.
+• You draw a card and lose 1 life. => When Stylla enters, create a Treasure token.
+When Stylla dies, you draw a card and lose 1 life.
+Whenever an ability of another creature you control with power 2 or less triggers, you may counter it. If you do, choose one that hasn't been chosen this turn —
+• Create a Treasure token.
+• You draw a card and lose 1 life.
+
+Adaptive Lieutenant
+
+Void Empyrean
+type: Creature — Eldrazi Horror => Creature — Eldrazi
+
+Savage Broodmother
+type: Creature — Eldrazi Horror => Creature — Eldrazi
+
+Occupation
+
+Ashen Ravager
+type: Creature — Beast Horror => Creature — Wolf
+
+Three-Eye Observer
+type: Creature — Horror Shaman => Creature — Eldrazi
+
+Thoughtscraper
+type: Creature — Eldrazi Horror => Creature — Eldrazi
+
+Supreme Desecrator
+
+Leonard, Experiment Zero
+type: Legendary Creature — Horror => Legendary Creature — Ooze Horror
+
+Eldrazi
+
+
+VERSION 77 CHANGELOG
 ====================
 
 Subsume Reality added.
