@@ -25,9 +25,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Eldrazi",
-			"collector_number": "53",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/53_Mire Pathforger.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/52_Mire Pathforger.png"
 			}
 		},
 		{
@@ -45,9 +45,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "58",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/58_Rockpile Brutes.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/57_Rockpile Brutes.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Noble",
-			"collector_number": "54",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/54_Mournful Matriarch.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/53_Mournful Matriarch.png"
 			}
 		},
 		{
@@ -225,9 +225,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{U}",
 			"type": "Creature — Kraken",
-			"collector_number": "90",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/90_Mastbreaker.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/91_Mastbreaker.png"
 			}
 		},
 		{
@@ -1085,9 +1085,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Artifact Creature — Construct Noble",
-			"collector_number": "50",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/50_Highforged Overseer.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/49_Highforged Overseer.png"
 			}
 		},
 		{
@@ -1105,9 +1105,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "56",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/56_North District Prior.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/55_North District Prior.png"
 			}
 		},
 		{
@@ -1131,13 +1131,13 @@
 			}
 		},
 		{
-			"name": "Frontline Cavalier",
+			"name": "Rousing Cavalier",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "47",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/47_Frontline Cavalier.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/58_Rousing Cavalier.png"
 			}
 		},
 		{
@@ -1155,9 +1155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{W}",
 			"type": "Creature — Human Noble",
-			"collector_number": "51",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/51_Industry Kingpins.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/50_Industry Kingpins.png"
 			}
 		},
 		{
@@ -1165,9 +1165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Sorcery",
-			"collector_number": "55",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/55_Never Seen Again.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/54_Never Seen Again.png"
 			}
 		},
 		{
@@ -1215,19 +1215,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "86",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/86_Inspired Retrofitter.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/87_Inspired Retrofitter.png"
 			}
 		},
 		{
-			"name": "Port Inspector",
+			"name": "Harbor Inspector",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Detective",
-			"collector_number": "92",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/92_Port Inspector.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/85_Harbor Inspector.png"
 			}
 		},
 		{
@@ -1265,9 +1265,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "85",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/85_In the Nick of Time.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/86_In the Nick of Time.png"
 			}
 		},
 		{
@@ -1285,9 +1285,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "91",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/91_Piecing it Together.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/92_Piecing it Together.png"
 			}
 		},
 		{
@@ -1905,9 +1905,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "49",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/49_High Sergeant Liano.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/48_High Sergeant Liano.png"
 			}
 		},
 		{
@@ -1915,9 +1915,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{W}{W}",
 			"type": "Creature — Eldrazi",
-			"collector_number": "48",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/48_Grand Triarch.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/47_Grand Triarch.png"
 			}
 		},
 		{
@@ -1935,9 +1935,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "57",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/57_Otherworldly Gyre.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/56_Otherworldly Gyre.png"
 			}
 		},
 		{
@@ -2024,7 +2024,7 @@
 			"name": "Strike Suppressor",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
-			"type": "Creature — Human Advisor",
+			"type": "Artifact Creature — Construct Advisor",
 			"collector_number": "132",
 			"image_uris": {
 				"en": "https://kattalist.github.io/sets/SGP-files/img/132_Strike Suppressor.png"
@@ -2275,9 +2275,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Angel Warlock",
-			"collector_number": "88",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/88_Lostlands Auspex.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/89_Lostlands Auspex.png"
 			}
 		},
 		{
@@ -2405,9 +2405,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "87",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/87_Lightwire Swarm.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/88_Lightwire Swarm.png"
 			}
 		},
 		{
@@ -2425,9 +2425,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Equipment Vehicle",
-			"collector_number": "52",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/52_Jetfoot Greaves.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/51_Jetfoot Greaves.png"
 			}
 		},
 		{
@@ -2935,9 +2935,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Eldrazi Shapeshifter",
-			"collector_number": "89",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://kattalist.github.io/sets/SGP-files/img/89_Malignant Manaphage.png"
+				"en": "https://kattalist.github.io/sets/SGP-files/img/90_Malignant Manaphage.png"
 			}
 		},
 		{
@@ -3125,7 +3125,7 @@
 	4 Highforged Overseer
 	4 Aspiring Artisan
 	4 North District Prior
-	4 Frontline Cavalier
+	4 Rousing Cavalier
 	4 Warpwire Chassis
 	4 Industry Kingpins
 	4 Never Seen Again
@@ -3134,7 +3134,7 @@
 	4 Null Emissary
 	4 Watchman of the Deep
 	4 Inspired Retrofitter
-	4 Port Inspector
+	4 Harbor Inspector
 	4 Ego Devourer
 	4 Adaptive Lieutenant
 	4 Void Empyrean
@@ -3487,7 +3487,7 @@
 	6 North District Prior
 	12 Cabaret Seductress
 	2 Stylla, Opulent Paragon
-	6 Frontline Cavalier
+	6 Rousing Cavalier
 	6 Warpwire Chassis
 	6 Industry Kingpins
 	6 Never Seen Again
@@ -3496,7 +3496,7 @@
 	6 Null Emissary
 	6 Watchman of the Deep
 	6 Inspired Retrofitter
-	6 Port Inspector
+	6 Harbor Inspector
 	6 Ego Devourer
 	6 Adaptive Lieutenant
 	6 Void Empyrean
@@ -3759,7 +3759,7 @@
 	15 North District Prior
 	6 Cabaret Seductress
 	7 Stylla, Opulent Paragon
-	15 Frontline Cavalier
+	15 Rousing Cavalier
 	15 Warpwire Chassis
 	15 Industry Kingpins
 	15 Never Seen Again
@@ -3768,7 +3768,7 @@
 	15 Null Emissary
 	15 Watchman of the Deep
 	15 Inspired Retrofitter
-	15 Port Inspector
+	15 Harbor Inspector
 	15 Ego Devourer
 	15 Adaptive Lieutenant
 	15 Void Empyrean

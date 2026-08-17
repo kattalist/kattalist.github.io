@@ -5,7 +5,7 @@
 			<name>SGP</name>
 			<longname>Stirrings in Goldport</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-16</releasedate>
+			<releasedate>2026-08-17</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -50,7 +50,7 @@ Coalition — Whenever this creature attacks with one or more tokens, put a +1/+
 			<text>Devoid (This card has no color.)
 When you cast this spell, if {C} was spent to cast it, you gain 2 life.
 Vigilance</text>
-			<set rarity="common" picurl="https://kattalist.github.io/sets/SGP-files/img/53_Mire Pathforger.png" num="53">SGP</set>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/SGP-files/img/52_Mire Pathforger.png" num="52">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -83,7 +83,7 @@ Vigilance</text>
 		<card>
 			<name>Rockpile Brutes</name>
 			<text>Whenever you cast an artifact spell, this creature gains first strike until end of turn.</text>
-			<set rarity="common" picurl="https://kattalist.github.io/sets/SGP-files/img/58_Rockpile Brutes.png" num="58">SGP</set>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/SGP-files/img/57_Rockpile Brutes.png" num="57">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -118,7 +118,7 @@ Vigilance</text>
 		<card>
 			<name>Mournful Matriarch</name>
 			<text>Whenever another creature you control with power 2 or less enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://kattalist.github.io/sets/SGP-files/img/54_Mournful Matriarch.png" num="54">SGP</set>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/SGP-files/img/53_Mournful Matriarch.png" num="53">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -390,7 +390,7 @@ When this creature enters, investigate. (Create a Clue token. It&apos;s an artif
 		<card>
 			<name>Mastbreaker</name>
 			<text>This creature can&apos;t be blocked as long as the void called you this turn. (During your turn, the void calls you when a card enters your graveyard from your hand or library.)</text>
-			<set rarity="common" picurl="https://kattalist.github.io/sets/SGP-files/img/90_Mastbreaker.png" num="90">SGP</set>
+			<set rarity="common" picurl="https://kattalist.github.io/sets/SGP-files/img/91_Mastbreaker.png" num="91">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1322,7 +1322,7 @@ Whenever you fragment a creature, put a +1/+1 counter on this creature.</text>
 		</card>
 		<card>
 			<name>Old Ones Envoy</name>
-			<text>Eldrazi spells you cast cost {1} less to cast.</text>
+			<text>This spell costs {1} less to cast for each of up to three colorless nonland permanents you control.</text>
 			<set rarity="common" picurl="https://kattalist.github.io/sets/SGP-files/img/23_Old Ones Envoy.png" num="23">SGP</set>
 			<prop>
 				<layout>normal</layout>
@@ -1889,7 +1889,7 @@ When this creature enters, you may search your library for a basic Plains card o
 		<card>
 			<name>Highforged Overseer</name>
 			<text>Whenever another nontoken artifact you control enters, you may pay {1}. When you do, put a +1/+1 counter on target creature you control.</text>
-			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/50_Highforged Overseer.png" num="50">SGP</set>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/49_Highforged Overseer.png" num="49">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1925,7 +1925,7 @@ When this creature enters, you may search your library for a basic Plains card o
 			<name>North District Prior</name>
 			<text>This creature enters with a +1/+1 counter on it for each other creature you control.
 {1}{W}, Tap three untapped creatures you control: Fragment this creature. Activate only as a sorcery. (Create a 1/1 token copy of it and put a splinter counter on both. Creatures with splinter counters can&apos;t be fragmented.)</text>
-			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/56_North District Prior.png" num="56">SGP</set>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/55_North District Prior.png" num="55">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1961,7 +1961,7 @@ Whenever another creature you control with power 2 or less enters, this creature
 			<name>Stylla, Opulent Paragon</name>
 			<text>When Stylla enters, create a Treasure token.
 When Stylla dies, you draw a card and lose 1 life.
-Whenever an ability of another creature you control with power 2 or less triggers, you may counter it. If you do, choose one that hasn&apos;t been chosen this turn —
+Whenever an ability of a creature you control with power 2 or less triggers, you may counter it. If you do, choose one that hasn&apos;t been chosen this turn —
 • Create a Treasure token.
 • You draw a card and lose 1 life.</text>
 			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/238_Stylla, Opulent Paragon.png" num="238">SGP</set>
@@ -1979,10 +1979,10 @@ Whenever an ability of another creature you control with power 2 or less trigger
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Frontline Cavalier</name>
+			<name>Rousing Cavalier</name>
 			<text>Vigilance
 Coalition — Whenever this creature attacks with one or more tokens, creatures you control get +1/+1 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/47_Frontline Cavalier.png" num="47">SGP</set>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/58_Rousing Cavalier.png" num="58">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2019,7 +2019,7 @@ Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
 			<text>When this creature enters, choose one —
 • Exile target creature with power 4 or greater. Put two +1/+1 counters on this creature.
 • Create two 2/2 white and black Human Bard creature tokens.</text>
-			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/51_Industry Kingpins.png" num="51">SGP</set>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/50_Industry Kingpins.png" num="50">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2036,7 +2036,7 @@ Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
 		<card>
 			<name>Never Seen Again</name>
 			<text>Exile target creature. Its controller creates a 1/1 colorless Eldrazi Scion creature token with &quot;Sacrifice this creature: Add {C}.&quot;</text>
-			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/55_Never Seen Again.png" num="55">SGP</set>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/54_Never Seen Again.png" num="54">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2127,7 +2127,7 @@ As long as the void called you this turn, this creature gets +3/+0 and can attac
 			<name>Inspired Retrofitter</name>
 			<text>Whenever this creature becomes tapped, draw a card, then discard a card.
 At the beginning of each end step, if you&apos;ve cast a noncreature spell this turn, put a +1/+1 counter on this creature and untap it.</text>
-			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/86_Inspired Retrofitter.png" num="86">SGP</set>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/87_Inspired Retrofitter.png" num="87">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2142,10 +2142,10 @@ At the beginning of each end step, if you&apos;ve cast a noncreature spell this 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Port Inspector</name>
+			<name>Harbor Inspector</name>
 			<text>When this creature enters, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)
 Whenever you sacrifice a Clue, surveil 1. (Do this before you draw.)</text>
-			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/92_Port Inspector.png" num="92">SGP</set>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/85_Harbor Inspector.png" num="85">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2219,7 +2219,7 @@ Return target creature with mana value 3 or less to its owner&apos;s hand. (Cast
 		<card>
 			<name>In the Nick of Time</name>
 			<text>Counter up to one target spell, up to one target activated ability, and up to one target triggered ability.</text>
-			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/85_In the Nick of Time.png" num="85">SGP</set>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/86_In the Nick of Time.png" num="86">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2254,7 +2254,7 @@ Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifi
 			<text>Enchant creature
 Enchanted creature gets +1/+0.
 Whenever enchanted creature deals combat damage to a player, sacrifice any number of Clues you control, then draw that many cards.</text>
-			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/91_Piecing it Together.png" num="91">SGP</set>
+			<set rarity="uncommon" picurl="https://kattalist.github.io/sets/SGP-files/img/92_Piecing it Together.png" num="92">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2976,8 +2976,7 @@ Destroy target creature.</text>
 		</card>
 		<card>
 			<name>In Eldritch Flame</name>
-			<text>Devoid (This card has no color.)
-Until end of turn, if a creature an opponent controls would die, exile it instead.
+			<text>Until end of turn, if a creature an opponent controls would die, exile it instead.
 In Eldritch Flame deals 2 damage to each creature.</text>
 			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/151_In Eldritch Flame.png" num="151">SGP</set>
 			<prop>
@@ -2987,6 +2986,7 @@ In Eldritch Flame deals 2 damage to each creature.</text>
 				<maintype>Instant</maintype>
 				<manacost>2R</manacost>
 				<cmc>3</cmc>
+				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
@@ -3331,7 +3331,7 @@ Until your next turn, spells cost {1} more to cast. (Cast this from your hand or
 			<name>High Sergeant Liano</name>
 			<text>When Liano enters, create two 1/1 white Human creature tokens.
 Coalition — Whenever Liano attacks with one or more tokens, draw a card.</text>
-			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/49_High Sergeant Liano.png" num="49">SGP</set>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/48_High Sergeant Liano.png" num="48">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3350,7 +3350,7 @@ Coalition — Whenever Liano attacks with one or more tokens, draw a card.</text
 			<text>Devoid (This card has no color.)
 You and other colorless permanents you control have hexproof.
 Whenever you cast a colorless spell, create a 4/4 colorless Eldrazi Angel creature token with flying.</text>
-			<set rarity="mythic" picurl="https://kattalist.github.io/sets/SGP-files/img/48_Grand Triarch.png" num="48">SGP</set>
+			<set rarity="mythic" picurl="https://kattalist.github.io/sets/SGP-files/img/47_Grand Triarch.png" num="47">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3386,7 +3386,7 @@ Crew 4</text>
 			<name>Otherworldly Gyre</name>
 			<text>When this enchantment enters, exile all creatures with mana value 2 or less until this enchantment leaves the battlefield.
 {X}{C}{C}: Search your library for a colorless creature card with mana value X or less, exile it, then shuffle. This enchantment becomes a copy of that card. Activate only as a sorcery. (This lasts indefinitely.)</text>
-			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/57_Otherworldly Gyre.png" num="57">SGP</set>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/56_Otherworldly Gyre.png" num="56">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3554,7 +3554,7 @@ Whenever an opponent creates one or more creature tokens, that player loses that
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Advisor</type>
+				<type>Artifact Creature — Construct Advisor</type>
 				<maintype>Creature</maintype>
 				<manacost>1BB</manacost>
 				<cmc>3</cmc>
@@ -4010,7 +4010,7 @@ Sacrifice three Clues: Search your library for a card, put it into your hand, th
 			<name>Lostlands Auspex</name>
 			<text>Flying
 If you would create one or more tokens, you may draw that many cards instead. Do this only once each turn.</text>
-			<set rarity="mythic" picurl="https://kattalist.github.io/sets/SGP-files/img/88_Lostlands Auspex.png" num="88">SGP</set>
+			<set rarity="mythic" picurl="https://kattalist.github.io/sets/SGP-files/img/89_Lostlands Auspex.png" num="89">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4222,7 +4222,7 @@ Coalition — Whenever Leonard attacks with one or more tokens, you may have all
 			<name>Lightwire Swarm</name>
 			<text>Flying
 At the beginning of your end step, if you&apos;ve drawn two or more cards this turn, create a 1/1 colorless Thopter artifact creature token with flying. If you&apos;ve drawn three or more cards this turn, create two of those tokens instead.</text>
-			<set rarity="mythic" picurl="https://kattalist.github.io/sets/SGP-files/img/87_Lightwire Swarm.png" num="87">SGP</set>
+			<set rarity="mythic" picurl="https://kattalist.github.io/sets/SGP-files/img/88_Lightwire Swarm.png" num="88">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4259,7 +4259,7 @@ At the beginning of your second main phase, if you&apos;ve spent six or more man
 			<text>This Vehicle and equipped creature get +1/+1 for each artifact you control.
 Equip {2}
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn. Creatures can&apos;t be attached to other permanents.)</text>
-			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/52_Jetfoot Greaves.png" num="52">SGP</set>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/51_Jetfoot Greaves.png" num="51">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5195,7 +5195,7 @@ Surveil 2, then draw two cards. You lose 2 life. (Cast this from your hand or a 
 Flash
 When this creature enters, if it was cast, up to one target spell becomes a copy of it, except it doesn&apos;t have the following abilities.
 Protection from Eldrazi</text>
-			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/89_Malignant Manaphage.png" num="89">SGP</set>
+			<set rarity="rare" picurl="https://kattalist.github.io/sets/SGP-files/img/90_Malignant Manaphage.png" num="90">SGP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

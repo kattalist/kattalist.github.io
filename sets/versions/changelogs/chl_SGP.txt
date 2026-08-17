@@ -1,4 +1,75 @@
-﻿VERSION 78 CHANGELOG
+﻿VERSION 80 CHANGELOG
+====================
+
+
+
+Stark Masoleum
+rules_text: This land enters tapped.
+{T}: Add {C} or {B}.
+{2}{B}, {T}, Sacrifice this land: Return target creature card with mana value 3 or less from your graveyard to the battlefield. Create a tapped colorless land token named Nowhere with “{T}: Add {C}.” => This land enters tapped.
+{T}: Add {C} or {B}.
+{2}{B}, {T}, Sacrifice this land: Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped. Create a tapped colorless land token named Nowhere with “{T}: Add {C}.”
+
+Smoldering Totems
+rules_text: This land enters tapped.
+{T}: Add {C} or {R}.
+{2}{R}, {T}, Sacrifice this land: When you next cast an instant or sorcery spell this turn, copy that spell and you may choose new targets for the copy. Create a tapped colorless land token named Nowhere with “{T}: Add {C}.” => This land enters tapped.
+{T}: Add {C} or {R}.
+{2}{R}, {T}, Sacrifice this land: When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy. Create a tapped colorless land token named Nowhere with “{T}: Add {C}.”
+
+
+VERSION 79 CHANGELOG
+====================
+
+Rousing Cavalier added.
+Harbor Inspector added.
+
+Frontline Cavalier removed.
+Port Inspector removed.
+
+Streetway Incursion
+
+Old Ones Envoy
+rules_text: Eldrazi spells you cast cost {1} less to cast. => This spell costs {1} less to cast for each of up to three colorless nonland permanents you control.
+
+Stylla, Opulent Paragon
+rules_text: When Stylla enters, create a Treasure token.
+When Stylla dies, you draw a card and lose 1 life.
+Whenever an ability of another creature you control with power 2 or less triggers, you may counter it. If you do, choose one that hasn't been chosen this turn —
+• Create a Treasure token.
+• You draw a card and lose 1 life. => When Stylla enters, create a Treasure token.
+When Stylla dies, you draw a card and lose 1 life.
+Whenever an ability of a creature you control with power 2 or less triggers, you may counter it. If you do, choose one that hasn't been chosen this turn —
+• Create a Treasure token.
+• You draw a card and lose 1 life.
+
+In Eldritch Flame
+rules_text: Devoid [i](This card has no color.)[/i]
+Until end of turn, if a creature an opponent controls would die, exile it instead.
+In Eldritch Flame deals 2 damage to each creature. => Until end of turn, if a creature an opponent controls would die, exile it instead.
+In Eldritch Flame deals 2 damage to each creature.
+
+Strike Suppressor
+type: Creature — Human Advisor => Artifact Creature — Construct Advisor
+
+Supreme Desecrator
+
+Stark Masoleum
+rules_text: This land enters tapped.
+{T}: Add {C} or {B}.
+{2}{B}, {T}, Sacrifice this land: Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped. Create a tapped colorless land token named Nowhere with “{T}: Add {C}.” => This land enters tapped.
+{T}: Add {C} or {B}.
+{2}{B}, {T}, Sacrifice this land: Return target creature card with mana value 3 or less from your graveyard to the battlefield. Create a tapped colorless land token named Nowhere with “{T}: Add {C}.”
+
+Smoldering Totems
+rules_text: This land enters tapped.
+{T}: Add {C} or {R}.
+{2}{R}, {T}, Sacrifice this land: When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy. Create a tapped colorless land token named Nowhere with “{T}: Add {C}.” => This land enters tapped.
+{T}: Add {C} or {R}.
+{2}{R}, {T}, Sacrifice this land: When you next cast an instant or sorcery spell this turn, copy that spell and you may choose new targets for the copy. Create a tapped colorless land token named Nowhere with “{T}: Add {C}.”
+
+
+VERSION 78 CHANGELOG
 ====================
 
 Discordant Maw added.
