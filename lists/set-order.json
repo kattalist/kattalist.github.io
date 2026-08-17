@@ -1,7 +1,9 @@
 ﻿{
-    "": [
-        "ALS",
-        "CRC",
+    "Revolution Format": [
         "SGP"
+    ],
+    "Other Sets": [
+        "ALS",
+        "CRC"
     ]
 }
