@@ -1,7 +1,11 @@
 ﻿{
-    "": [
-        "ALS",
-        "CRC",
+    "Revolution Format": [
         "SGP"
+    ],
+    "Secret Santa": [
+        "CRC"
+    ],
+    "Other Sets": [
+        "ALS"
     ]
 }
