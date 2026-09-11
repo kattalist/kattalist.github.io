@@ -1,0 +1,44 @@
+## Children of the Eye
+### A *Stirrings in Goldport* Story
+
+The sky was a deep, velvety blue, backlit by the neon of Goldport’s entertainment district. Bedroom windows high above the bustle were starlike pinpricks of light, peering onto glistening cars, shimmering dresses, and the revolving tune of big bands leaking onto the street. It was five hours past nightfall, and still Esme swore half the city was awake.
+The Drake was her stop of choice tonight, as it often was. It was a nice shade of green, storied and comforting like a basil sprig aged on the windowsill. Tobacco and liquor waltzed in the air, while idle chat harmonized with tonight’s soloist. From her booth by the front window, she kept tabs on it all. But she never took her eyes too far off the sky.
+Stella walked back from the bar, a drink in each hand. She rested hers on the table before dipping into an exaggerated bow. “For you, ma chérie.”
+Esme giggled. “The service here really has improved.”
+“I had Ellmer do up your usual.”
+“Exactly what I wanted.” Stella’s lips were bright, explosive scarlet against hers, and the world stilled for just a moment.
+She sat opposite Esme in the booth, taking a big sip from her tumbler. “You’ll never guess what Ellmer told me.”
+“About someone?”
+“About Izek.” Stella nudged her head toward him, halfway to blackout and slumping over the bar counter.
+“He looks like shit,” Esme whispered.
+Stella nodded. “He’s been here every night this week. Then he goes and pisses away more money at the casino, then comes back to mope about how miserable everything is. Ellmer wants him to stop, but management says he’s a grown man and can do whatever he wants, as long as it isn’t hurting anybody.”
+“I mean, it’s hurting him.”
+“That doesn’t count for them. You know how it is. He’s paying for everything, and he’s not shooing customers away, so the owner doesn’t give a fuck. It’s still awful, though. He’s been here rambling about how the world is ending or something like that.”
+“One of those types, huh?” Back to the moon. Still as stalwart as always.
+“Like that guy we saw near your place last week. I mean, Izek doesn’t have the robes or the scars like that guy did, but the same message.” Stella idly stirred her drink. “Sorry, we shouldn’t talk about this. I know it freaks you out.”
+“No, it’s okay. It’s just…” Her eyes drifted back to the sky as she trailed off. 1200 Rockwell Boulevard, room 207, when the red star adorns the moon. 
+“You believe it?”
+“Not really. I mean, how could you, right? I just don’t like to think about it.”
+“Sure.” The two fell into silence for some moments. Across the far tables of the bar, a pair embraced, two sparks pulled by chance into radiant pink light. The soloist’s lusty alto carried above the pianist, resonating in the glass and the artwork and the beating amalgamated heart of the evening’s clientele. Friends laughed uproariously, celebrating as though it was the last time they would see each other. Esme turned to the sky. A single point of scarlet atop the brilliant, pearly moon.
+“I’ll be back.”
+“What do you mean?” Stella pouted.
+“The family thing, remember? Don’t wait up. I’ll see you back at home.”
+“Right, right. Say hello to your mom for me.”
+“I will.” One more kiss. This time her lips were mauve: deep and rich, yet dulled to a vestige. Esme could only pray to ever feel them again.
+
+----
+
+Esme parted the door to the hotel room. She was the last one to arrive; the others had arranged into the candlelit circle and drawn the blinds. The dresser and bed had been pushed aside, with eleven others seated before her on the floor. There was one candle remaining for her, which she grabbed and lit from her neighbour as she lowered into place. The flame was scalding orange, and yet it carried the weight of ice in her hands.
+The room fell deathly silent. Esme had never bothered to learn the names of the Brethren. They were all children of the Eye alike, and only Kavalesk could meaningfully distinguish them. There was thus no point in conversation, lest it interrupt their shared communion. No one led them to do so, and yet all bowed, coaxing prophecy from the weave.
+*Children all, I hear ye*. Kavalesk’s essence enveloped them. Though intangible, they whispered into Esme’s ear, a coarse rasp bolstered by booming bass a thousand octaves deep. *I welcome my children to worship, in this most dire of times. Our cause is imminent. The moon stirs in the night, and with it our gods shall return.* 
+*The night previous, I embarked in communion and received their word, that their angels are to arrive, to purge heresy and the unbelieving, and to shepherd a new eon of divine existence upon Calloran’s good people. They have promised you salvation, and a role in the upper echelon of the world to follow.* With that, Esme felt the praise of her siblings radiate up the weave, strengthening the essence of Kavalesk. 
+*With this good news, we shall begin our liturgy. Today, I shall invite another courageous soul to glimpse the Eye.* She felt murmurs now. The Eye was the ideal, the demiurge, the stem from which all blossomed. To gaze upon it was to become divine, as Kavalesk had hundreds of years ago. Their choosing another was, in a sense, the choosing of a disciple to lead the Brethren alongside them. *The choice I have made is evident. As gratitude for her longstanding devotion to the truth, and because I understand that her faith is unwavering and pure, I shall invite Daughter Esme into deep introspection.* 
+Esme’s heart froze. She felt the applause and encouragement on the weave, but was too stunned to react in any way except to submit. Thirty minutes ago, she had shared in the splendours of the nightlife, and now she was entering communion with the divine.
+*Welcome, Daughter Esme.* Kavalesk’s voice was closer, more real. Beneath her eyelids she saw them floating above an inky, swirling sea. Their horned adornment curved out into emanating wisps, and their skin was ashen and devoid of blemish. *From this moment, I speak only to thee. Thou has been chosen not by I, but by the grace of our gods above. It was communicated by the Triune Divinity that thou would be ideally suited as a conduit. For this, you must first attune to that which lies beyond our world.* Emotion was swirling, but Esme could not speak. *Open yourself to the Eye.*
+Above Kavalesk, in this barren abyss, there was a single wavering point, like the locus of a ripple across a lake. It ebbed in intensity as a tide, and as it strengthened, Esme found the image clarifying more and more. As the sea began to waver almost imperceptibly in colour, moments of crimson broke free from the current of blues and blacks and coalesced into that defining point. The red star, mirrored in her mind.
+*Ask thyself: what dost thou see? What lies beyond the limits of our perception? Should you peel back farther, envision your life as a wheel spinning anticlockwise, back to the beginning and to before that… What remains?*
+Other visions now took hold. Her first kiss with Stella. Graduation. Her 14th birthday. Her father, bicycling her and her young sister around. Fading memories, with faces and names she could no longer place. Family members buried below the city. Everything converging into darkness.
+And then, light. Visions anew, severed from her path throughout the world. The construction of Goldport’s incredible buildings. The ignition of the first steelsoul. Explorers from a time long ago, carried by boat from the far west to break ground on a city to outshine the sun. Devastation, wreckage that covered the entire coast.
+Esme gazed now upon three barren resistors, two men and a woman, standing atop a mountain of ash gazing upon the sky. Within it, three titans of transcendent stature. Each was the size of the cosmos in its entirety, with fractal bodies that mutated and expanded forever. She drifted above them, but the gaze of the triarchy followed. Their glance was cast not upon the three mortals below, but at her.
+She tried to relent, to unbind herself from the grasp of the Eye, to leave this room and head back to the bar and get shitfaced and forget everything that happened. It went nowhere. She tried to open her eyes. As though sewn shut, they refused to open. She drew closer to them, leaving the rubble and desolation behind as her spirit soared into an infinite sky. She screamed into empty space, the wind of her ascent suffocating her. With every second, the vision became brighter and brighter, until there was no distinction between what her mind and her eyes could see. Her hand brushed the ethereal flesh of the central being, and watched in terror as her skin folded in on itself, into a shale-coloured facsimile of what it used to be. There was nothing else, not anymore. Just her, the gods, and a billion scarlet stars against an unfeeling onyx sky. 
+*You have done well, Sister Esme. May the world forever revere what you have become.* 
