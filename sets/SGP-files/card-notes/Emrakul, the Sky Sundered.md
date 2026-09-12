@@ -69,4 +69,4 @@ The Hall of Dominion resisted. Marble pillars, wrought in the ancient style, bor
 
 *Remember my wife Conora. She was beautiful as the night sky, shining with all the splendour of a billion stars. She was the smartest, kindest, gentlest woman I ever knew. She was the good in all of us, crafted by angels, sculpted by the rising sun. She deserved none of this. None of us did.*\
 
-*Remember m*\
+*Remember m*
