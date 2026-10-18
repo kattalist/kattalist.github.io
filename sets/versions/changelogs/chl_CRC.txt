@@ -1,4 +1,307 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Ceann Aernoch
+
+Mithren, Star Afire
+
+Skybreak Assault
+
+Goldfield Aegis
+
+Lost to Eternity
+
+Over Ben Alkan
+
+Reulfire Animist
+
+Glyphbound Retributionist
+
+Hetha, Starshaper
+
+Into the Nexus
+
+Anomalous Archive
+
+Devote
+
+Fleeting Memories
+
+Sandshaker Deathless
+
+Visage of Isbail
+
+Moira, the Risen Beyond
+
+Fabric of Being
+
+Tormented Archmage
+
+Arcane Tutor
+
+Into the Dark and Infinite
+
+Caldera Scalder
+
+Avatars of Order
+
+Quasar Paragon
+
+Study the Nova
+
+Bloodkissed Auspex
+
+Interlinked Extractor
+
+Prophetic Wish
+
+Skitterblossom
+
+Scarwood Sentinel
+
+Restless Carapace
+
+Flee the Sandserpent
+
+Silaine's Retaliation
+
+A-17, Experiment Awry
+
+Ulbest Procession
+
+Auldyears Reliquary
+
+Audlom, Seer of Legions
+
+Fate Rewritten
+rules_text: Exile the top seven cards of your library face down into your augury. [i](You may look at them. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)[/i]
+Each player shuffles their hand and graveyard into their library, then draw seven cards.
+Exile Fate Rewritten. => Exile the top seven cards of your library face down into your augury. [i](You may look at them. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)[/i]
+Each player shuffles their hand and graveyard into their library, then draws seven cards.
+Exile Fate Rewritten.
+
+Gondwel, Seer of Skies
+
+Maelweth, Seer of Anguish
+
+Starclan Omniblade
+
+Agnon, Seer of Flame
+
+Beyond Imagining
+
+Boltbright Infiltrator
+
+Glow Seeker
+
+End of Sanity
+
+Pinnacle Aspect
+
+Ulbest Keeper
+
+Imperious Magistrate
+
+Crystal Ripper
+
+Rise from Rot
+
+Warbred Legionnaire
+
+Unnatural Encounter
+
+Beastback Pillagers
+
+Tarthan, Curio Collector
+
+Twingod Glorious
+
+Seeker of Forgotten Love
+
+Bone Chandelier
+
+Ceann Albus
+
+Splendor of Creation
+
+Abandoned Drifter
+
+Reparation Module
+
+Hangar Refurbisher
+
+Isbail's Handblade
+
+Deepscar Relic
+
+Ancient Tetherstone
+
+Deep Shale Totem
+
+Standard-Issue Augmentation
+
+Cacophonous Iteration
+
+Canopy Lander
+
+Distant Peaks
+rules_text: {T}: Add {W} or {U}.
+{W}{U}, {T}: Exile the top card of your library face down into your augury. [i](You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)[/i] => This land enters tapped.
+{T}: Add {W} or {U}.
+{W}{U}, {T}: Exile the top card of your library face down into your augury. [i](You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)[/i]
+
+Starkissed Parapet
+rules_text: {T}: Add {U} or {B}.
+{U}{B}, {T}: Exile the top card of your library face down into your augury. [i](You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)[/i] => This land enters tapped.
+{T}: Add {U} or {B}.
+{U}{B}, {T}: Exile the top card of your library face down into your augury. [i](You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)[/i]
+
+Fallen Orbiter
+rules_text: {T}: Add {B} or {R}.
+{B}{R}, {T}: Exile the top card of your library face down into your augury. [i](You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)[/i] => This land enters tapped.
+{T}: Add {B} or {R}.
+{B}{R}, {T}: Exile the top card of your library face down into your augury. [i](You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)[/i]
+
+Rusted Aperture
+rules_text: {T}: Add {R} or {G}.
+{R}{G}, {T}: Exile the top card of your library face down into your augury. [i](You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)[/i] => This land enters tapped.
+{T}: Add {R} or {G}.
+{R}{G}, {T}: Exile the top card of your library face down into your augury. [i](You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)[/i]
+
+Cliffside Commune
+rules_text: {T}: Add {G} or {W}.
+{G}{W}, {T}: Exile the top card of your library face down into your augury. [i](You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)[/i] => This land enters tapped.
+{T}: Add {G} or {W}.
+{G}{W}, {T}: Exile the top card of your library face down into your augury. [i](You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)[/i]
+
+Seachrome Coast
+
+Darkslick Shores
+
+Blackcleave Cliffs
+
+Copperline Gorge
+
+Razorverge Thicket
+
+Concealed Courtyard
+
+Spirebluff Canal
+
+Blooming Marsh
+
+Subspace Bubble
+
+Exultance, Stellar Dreadnought
+
+Etra's Elevator
+
+Evolving Wilds
+
+Dramatic Impact
+
+Aernoch's Triumph
+
+Onward and Upward
+
+Pluck
+
+Freight Sabotage
+
+Enduring the Searise
+
+Thoughtless Culling
+
+Probe the Nucleus
+
+Clandestine Engineering
+
+Hijack
+
+Outpost Hangar
+
+Flee the Arcology
+
+Raze the Scar
+
+Soil Sample
+
+Chart the Blossoms
+
+Speaker of Eimhir
+
+Divine Incursion
+
+Bone Macerator
+
+Territorial Coarseclaw
+
+Photovolt Technicians
+
+High Ambassador
+
+Tachyonic Shuttle
+
+Uncovered Amalgam
+
+Mass Deployment
+
+Ionosphere Test Site
+rules_text: {T}: Add {W} or {B}.
+{W}{B}, {T}: Exile the top card of your library face down into your augury. [i](You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)[/i] => This land enters tapped.
+{T}: Add {W} or {B}.
+{W}{B}, {T}: Exile the top card of your library face down into your augury. [i](You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)[/i]
+
+Rockbroken Citadel
+rules_text: {T}: Add {U} or {R}.
+{U}{R}, {T}: Exile the top card of your library face down into your augury. [i](You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)[/i] => This land enters tapped.
+{T}: Add {U} or {R}.
+{U}{R}, {T}: Exile the top card of your library face down into your augury. [i](You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)[/i]
+
+Flatrock Fen
+rules_text: {T}: Add {B} or {G}.
+{B}{G}, {T}: Exile the top card of your library face down into your augury. [i](You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)[/i] => This land enters tapped.
+{T}: Add {B} or {G}.
+{B}{G}, {T}: Exile the top card of your library face down into your augury. [i](You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)[/i]
+
+Deep Belt Outpost
+rules_text: {T}: Add {R} or {W}.
+{R}{W}, {T}: Exile the top card of your library face down into your augury. [i](You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)[/i] => This land enters tapped.
+{T}: Add {R} or {W}.
+{R}{W}, {T}: Exile the top card of your library face down into your augury. [i](You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)[/i]
+
+Parachute Pools
+rules_text: {T}: Add {G} or {U}.
+{G}{U}, {T}: Exile the top card of your library face down into your augury. [i](You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)[/i] => This land enters tapped.
+{T}: Add {G} or {U}.
+{G}{U}, {T}: Exile the top card of your library face down into your augury. [i](You may look at it. As a sorcery, pay {1} and discard a card to put a card from your augury into your hand.)[/i]
+
+Inspiring Vantage
+
+Botanical Sanctum
+
+Fion, Starborn Imperator
+
+Isbail, Inexorable
+
+Silaine, Seer of Bloom
+
+Zeria, Syzygy Fanatic
+
+Goraidh, Shaped Arcanum
+
+Murill, Brushed by Madness
+
+Etra, Farsky Paragon
+
+Eimhir, Arcanum Locus
+
+Caitrin, Gleaming Beacon
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
